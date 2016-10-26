@@ -31,9 +31,13 @@ class Auth extends CI_Controller {
 			$this->load->view("header");
 			$this->load->view('navbar', $data_navbar);
 
-			$data = array(	'myleave' 		=> 'leave/my_leave',
-							'user' 			=> $this->session->userdata(),
-							'apply_leave' 	=> 'leave/apple_leave'
+			$data = array(	'myleave' 			=> 'employee/my_leave',
+							'user' 				=> $this->session->userdata(),
+							'apply_leave' 		=> 'employee/apply_leave',
+							'add_leave_type'	=> 'admin/add_leave_type',
+							'add_user'			=> 'admin/add_user',
+							'leave_report'		=> 'admin/leave_reports',
+							'user_report'		=> 'admin/user_reports'
 						 );
 			
 			$this->load->view("dashboard", $data);

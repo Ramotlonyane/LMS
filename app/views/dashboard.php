@@ -70,11 +70,19 @@
       if ($user['role'] == 'Admin') {
          ?>
             <!-- ADMINISTRATION DROPDOWN PAGES-->
-            <div id="adduser" class="tab-pane fade">ADD USER PAGE</div>
-            <div id="addleavetype" class="tab-pane fade">ADD LEAVE TYPE PAGE</div>
+            <div id="adduser" class="tab-pane fade">
+               <?php $this->load->view($add_user); ?>
+            </div>
+            <div id="addleavetype" class="tab-pane fade">
+               <?php $this->load->view($add_leave_type); ?>
+            </div>
             <!-- REPORTS DROPDOWN PAGES-->
-            <div id="typereports" class="tab-pane fade">LEAVE TYPE REPORTS PAGE</div>
-            <div id="usereports" class="tab-pane fade">USER REPORTS PAGE</div>
+            <div id="typereports" class="tab-pane fade">
+               <?php $this->load->view($leave_report); ?>
+            </div>
+            <div id="usereports" class="tab-pane fade">
+               <?php $this->load->view($user_report); ?>
+            </div>
          <?
       }
    ?>
