@@ -1,0 +1,45 @@
+.main {
+	padding-top: 70px;
+}
+
+.login-wrapper {
+    margin-top: 100px;
+}
+#box  {  
+    width:100%;  
+    max-width:500px;  
+    border:1px solid #ccc;  
+    border-radius:5px;  
+    margin:0 auto;  
+    padding:0 20px;  
+    box-sizing:border-box;  
+    height:250px;  
+}
+.error {
+    color: #FF0000;
+}
+div.solid {
+    border-style: solid;
+    text-align: center;
+}
+div.ridge{
+    border-style: ridge;
+    text-align: left;
+}
+div.radio{
+    
+}
+.form-group .control-label {
+   text-align: left;
+}
+
+/* 
+Change the input shadow collor on focus
+
+ input[type=text],[type=password]:focus{
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+*/
