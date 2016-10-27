@@ -6,7 +6,7 @@
           </div>
           <div class="panel-body">
              <div class="the-message"></div>
-             <form class="form-horizontal well" id="form-user" action="<?php echo base_url("index.php/auth/save");?>" METHOD="POST">
+             <form class="form-horizontal well" id="form-user" action="<?php echo base_url("index.php/Leave_application_c/leaveApplication");?>" METHOD="POST">
 
              <div class="form-group data">
                    <div class="col-md-1 col-sm-3 ridge">

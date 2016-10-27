@@ -46,7 +46,9 @@
       </ul>
    </div>
    <div class="tab-content">
-      <div id="home" class="tab-pane fade in active">Home Page</div>
+      <div id="home" class="tab-pane fade in active">
+         <?php $this->load->view($home); ?>
+      </div>
       <!--EMPLOYEE PAGES Apply Division -->
 <!-- ####################################################################################-->
       <?php 
@@ -92,9 +94,15 @@
    <?php 
       if ($user['role'] == 'Editor') {
          ?>
-            <div id="appliedleave" class="tab-pane fade">APPLIED LEAVE</div>
-            <div id="addleaverecords" class="tab-pane fade">ADD LEAVE RECORD PAGE</div>
-            <div id="leaverecordsreports" class="tab-pane fade">LEAVE RECORD REPORTS PAGE</div>
+            <div id="appliedleave" class="tab-pane fade">
+               <?php $this->load->view($applied_leave); ?>
+            </div>
+            <div id="addleaverecords" class="tab-pane fade">
+               <?php $this->load->view($add_leave_record); ?>
+            </div>
+            <div id="leaverecordsreports" class="tab-pane fade">
+               <?php $this->load->view($leave_record_reports); ?>
+            </div>
          <?
       }
    ?>

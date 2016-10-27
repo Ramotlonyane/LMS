@@ -31,13 +31,17 @@ class Auth extends CI_Controller {
 			$this->load->view("header");
 			$this->load->view('navbar', $data_navbar);
 
-			$data = array(	'myleave' 			=> 'employee/my_leave',
-							'user' 				=> $this->session->userdata(),
-							'apply_leave' 		=> 'employee/apply_leave',
-							'add_leave_type'	=> 'admin/add_leave_type',
-							'add_user'			=> 'admin/add_user',
-							'leave_report'		=> 'admin/leave_reports',
-							'user_report'		=> 'admin/user_reports'
+			$data = array(	'myleave' 				=> 'employee/my_leave',
+							'user' 					=> $this->session->userdata(),
+							'apply_leave' 			=> 'employee/apply_leave',
+							'add_leave_type'		=> 'admin/add_leave_type',
+							'add_user'				=> 'admin/add_user',
+							'leave_report'			=> 'admin/leave_reports',
+							'user_report'			=> 'admin/user_reports',
+							'applied_leave'			=> 'manager/leave_applied',
+							'add_leave_record'		=> 'manager/add_leave_records',
+							'leave_record_reports'	=> 'manager/leave_records_reports',
+							'home'					=> 'home'
 						 );
 			
 			$this->load->view("dashboard", $data);
@@ -77,73 +81,6 @@ class Auth extends CI_Controller {
 				$state = 1;
 			}
 			echo json_encode(array('state' => $state));
-	}
-
-	public function save()
-	{
-		$data = array('success' => false, 'messages' => array());
-
-		/* PERSONAL DETAILS SECTION*/
-		$this->load->library('form_validation');
-		$this->form_validation->set_rules("surname", "Surname", "trim|required");
-		$this->form_validation->set_rules("persalnum", "Persal Number", "trim|required|max_length[8]|numeric");
-		$this->form_validation->set_rules("address", "Address", "trim|required");
-		$this->form_validation->set_rules("telnum", "Tel No", "trim|required|regex_match[/^[0-9]{10}$/]'");
-		$this->form_validation->set_rules("initial", "Initial", "trim|required");
-		$this->form_validation->set_rules("department", "Department", "trim|required");
-		$this->form_validation->set_rules("component", "Component", "trim|required");
-		$this->form_validation->set_rules("casual", "Casual Worker", "trim|required");
-		$this->form_validation->set_rules("shift", "Shift Worker", "trim|required");
-
-		/* SECTION A  ANNUAL VALIDATIONS*/
-
-			if($this->input->post('optradio') == 1)
-		{
-			$this->form_validation->set_rules("anualstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("anualenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("anualnwdays", "Days", "trim|required");
-		}
-
-		/* SECTION A NORMAL VALIDATIONS*/
-
-		if($this->input->post('optradio') == 2)
-		{
-			$this->form_validation->set_rules("normalstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("normalenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("normalnwdays", "Days", "trim|required");
-		}
-		
-
-		/* SECTION B ANNUAL VALIDATIONS*/
-		if($this->input->post('optradio') == 3)
-		{
-			$this->form_validation->set_rules("annualstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("annualenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("annualnwdays", "Days", "trim|required");
-		}
-		
-
-		/* SECTION B NORMAL VALIDATIONS*/
-		if($this->input->post('optradio') == 4)
-		{
-			$this->form_validation->set_rules("normallstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("normallenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("normallnwdays", "Days", "trim|required");
-		}
-		
-
-		$this->form_validation->set_error_delimiters('<p class="text-danger">', '</p>');
-
-		if ($this->form_validation->run()) {
-			$data['success'] = true;
-		}
-		else {
-			foreach ($_POST as $key => $value) {
-				$data['messages'][$key] = form_error($key);
-			}
-		}
-
-		echo json_encode($data);
 	}
 
 	function logout()
