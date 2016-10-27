@@ -89,4 +89,20 @@ class Leave_application_c extends CI_Controller {
 
 		echo json_encode($data);
 	}
+	public function edit_leaveApplication()
+	{
+		
+	}
+	public function delete_leaveApplication()
+	{
+		
+	}
+	public function search_leaveApplication()
+	{
+		
+	}
+	public function preview_leaveApplication()
+	{
+		
+	}
 }
