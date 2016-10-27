@@ -1,4 +1,4 @@
-<div class="container main">
+<div class="container-fluid main">
    <h1>Dashboard</h1>
    <?php print_r($user); ?>
    <div class="page-header">
@@ -45,68 +45,75 @@
          ?> 
       </ul>
    </div>
-   <div class="tab-content">
-      <div id="home" class="tab-pane fade in active">
-         <?php $this->load->view($home); ?>
-      </div>
-      <!--EMPLOYEE PAGES Apply Division -->
-<!-- ####################################################################################-->
-      <?php 
-            if ($user['role'] == 'Author') {
-               ?>
-      <div id="apply" class="tab-pane fade">
-        <!-- <?=$apply_leave;?>-->
-        <?php $this->load->view($apply_leave); ?>
-      </div>
 
-      <div id="myleave" class="tab-pane fade">
-         <?php $this->load->view($myleave); ?>
-      </div>
-      <?
-    }
-?>
-      <!-- EMPLOYEE PAGES Apply Division Ends-->
-<!-- ####################################################################################-->
-       <!-- ADMIN DIVISION STARTS-->
-   <?php 
-      if ($user['role'] == 'Admin') {
-         ?>
-            <!-- ADMINISTRATION DROPDOWN PAGES-->
-            <div id="adduser" class="tab-pane fade">
-               <?php $this->load->view($add_user); ?>
+   <div class="row content">
+      <div class="col-md-4">
+         <div class="tab-content">
+            <div id="home" class="tab-pane fade in active">
+               <?php $this->load->view($home); ?>
             </div>
+            <!--EMPLOYEE PAGES Apply Division -->
+      <!-- ####################################################################################-->
+            <?php 
+                  if ($user['role'] == 'Author') {
+                     ?>
+            <div id="apply" class="tab-pane fade">
+            <!-- <?=$apply_leave;?>-->
+        <?php $this->load->view($apply_leave); ?>
+            </div>
+
+            <div id="myleave" class="tab-pane fade">
+               <?php $this->load->view($myleave); ?>
+            </div>
+            <?
+         }
+      ?>
+            <!-- EMPLOYEE PAGES Apply Division Ends-->
+      <!-- ####################################################################################-->
+            <!-- ADMIN DIVISION STARTS-->
+         <?php 
+            if ($user['role'] == 'Admin') {
+               ?>
+                  <!-- ADMINISTRATION DROPDOWN PAGES-->
+                  <div id="adduser" class="tab-pane fade">
+                     <?php $this->load->view($add_user); ?>
+                  </div>
             <div id="addleavetype" class="tab-pane fade">
-               <?php $this->load->view($add_leave_type); ?>
-            </div>
-            <!-- REPORTS DROPDOWN PAGES-->
-            <div id="typereports" class="tab-pane fade">
-               <?php $this->load->view($leave_report); ?>
-            </div>
-            <div id="usereports" class="tab-pane fade">
-               <?php $this->load->view($user_report); ?>
-            </div>
-         <?
-      }
-   ?>
+                     <?php $this->load->view($add_leave_type); ?>
+                  </div>
+                  <!-- REPORTS DROPDOWN PAGES-->
+                  <div id="typereports" class="tab-pane fade">
+                     <?php $this->load->view($leave_report); ?>
+                  </div>
+                  <div id="usereports" class="tab-pane fade">
+                     <?php $this->load->view($user_report); ?>
+                  </div>
+               <?
+            }
+         ?>
       <!-- ADMIN DIVISION ENDS-->
 <!-- ####################################################################################-->
       <!-- MANAGER PAGES STARTS-->
-   <?php 
-      if ($user['role'] == 'Editor') {
+         <?php 
+            if ($user['role'] == 'Editor') {
+               ?>
+                  <div id="appliedleave" class="tab-pane fade">
+                     <?php $this->load->view($applied_leave); ?>
+                  </div>
+                  <div id="addleaverecords" class="tab-pane fade">
+                     <?php $this->load->view($add_leave_record); ?>
+                  </div>
+                  <div id="leaverecordsreports" class="tab-pane fade">
+                     <?php $this->load->view($leave_record_reports); ?>
+                  </div>
+               <?
+            }
          ?>
-            <div id="appliedleave" class="tab-pane fade">
-               <?php $this->load->view($applied_leave); ?>
-            </div>
-            <div id="addleaverecords" class="tab-pane fade">
-               <?php $this->load->view($add_leave_record); ?>
-            </div>
-            <div id="leaverecordsreports" class="tab-pane fade">
-               <?php $this->load->view($leave_record_reports); ?>
-            </div>
-         <?
-      }
-   ?>
    <!-- MANAGER PAGES ENDS-->
 <!-- ####################################################################################-->
+         </div>
+      </div>
+      <div class="col-md-8">
+      </div>
    </div>
 </div>

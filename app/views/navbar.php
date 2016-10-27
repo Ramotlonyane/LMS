@@ -1,5 +1,5 @@
 <nav class="navbar navbar-default navbar-fixed-top">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 		        <span class="sr-only">Toggle navigation</span>
@@ -17,7 +17,7 @@
 				<li><a href="<?php echo site_url("#") ?>">Leave Records</a></li> 
 		    </ul>-->
 		    <ul class="nav navbar-nav navbar-right">		        
-				<li><p><a href="<?php echo site_url("index.php/Auth/logout") ?>">logout</a> | <?=$username?></p></li> 
+				<li><a href="<?php echo site_url("index.php/Auth/logout") ?>"><span class="glyphicon glyphicon-log-out"></span> logout| <?=$username?></a> </li> 
 		    </ul>
 	    </div>
 	</div>
