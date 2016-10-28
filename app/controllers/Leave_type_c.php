@@ -24,6 +24,10 @@ class Leave_type_c extends CI_Controller {
 		{
 			redirect('index.php/Auth');
 		}
+		/*else{$this->load->model('Leave_type_m','type');
+			$query = $this->type->all();
+			$total_rows = $this->type->count();
+			$this->load->view("admin/all_leave_type", array("query" => $query));}*/
 	}
 
 	public function add_LeaveType()

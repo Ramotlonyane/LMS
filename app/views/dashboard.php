@@ -87,7 +87,7 @@
                         <?php $this->load->view($add_leave_type); ?>
                      </div>
                      <div class="col-md-10">
-                        <?php $this->load->view($all_leave_type); ?>
+                        <?php $this->load->view($all_leave_type, array("query" => $all_leave_type_data)); ?>
                      </div>
                   </div>
                   <!-- REPORTS DROPDOWN PAGES-->

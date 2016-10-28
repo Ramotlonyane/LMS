@@ -2,7 +2,10 @@
 
 class Leave_type_m extends CI_Model {
 
-	public function insert_LeaveType($leave_data){
+	private $table = "leaveType";
+
+	public function insert_LeaveType($leave_data)
+	{
 
 		$this->db->insert('leaveType', $leave_data);
 
@@ -14,5 +17,17 @@ class Leave_type_m extends CI_Model {
 				return false;
 			}
     }
+
+    public function all($limit = 0)
+	{
+		$this->db->limit($limit);
+		$this->db->offset($this->uri->segment(3));
+		return $this->db->get($this->table);
+	}
+
+	public function count()
+	{
+		return $this->db->count_all_results($this->table);		
+	}
 
 }

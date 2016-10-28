@@ -46,6 +46,12 @@ class Auth extends CI_Controller {
 							'leave_record_reports'		=> 'manager/leave_records_reports',
 							'home'						=> 'home'
 						 );
+
+			$this->load->model('Leave_type_m','type');
+			$query = $this->type->all();
+			$total_rows = $this->type->count();
+
+			$data['all_leave_type_data'] = $query;
 			
 			$this->load->view("dashboard", $data);
 			$this->load->view("footer");
