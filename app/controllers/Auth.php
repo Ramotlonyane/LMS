@@ -31,17 +31,20 @@ class Auth extends CI_Controller {
 			$this->load->view("header");
 			$this->load->view('navbar', $data_navbar);
 
-			$data = array(	'myleave' 				=> 'employee/my_leave',
-							'user' 					=> $this->session->userdata(),
-							'apply_leave' 			=> 'employee/apply_leave',
-							'add_leave_type'		=> 'admin/add_leave_type',
-							'add_user'				=> 'admin/add_user',
-							'leave_report'			=> 'admin/leave_reports',
-							'user_report'			=> 'admin/user_reports',
-							'applied_leave'			=> 'manager/leave_applied',
-							'add_leave_record'		=> 'manager/add_leave_records',
-							'leave_record_reports'	=> 'manager/leave_records_reports',
-							'home'					=> 'home'
+			$data = array(	'myleave' 					=> 'employee/my_leave',
+							'user' 						=> $this->session->userdata(),
+							'apply_leave' 				=> 'employee/apply_leave',
+							'add_leave_type'			=> 'admin/add_leave_type',
+							'add_user'					=> 'admin/add_user',
+							'all_leave_type'			=> 'admin/all_leave_type',
+							'add_user_sidebar'			=> 'admin/add_user_sidebar',
+							'leave_report'				=> 'admin/leave_reports',
+							'user_report'				=> 'admin/user_reports',
+							'applied_leave'				=> 'manager/leave_applied',
+							'add_leave_record'			=> 'manager/add_leave_records',
+							'add_leave_record_sidebar'	=> 'manager/add_leave_record_sidebar',
+							'leave_record_reports'		=> 'manager/leave_records_reports',
+							'home'						=> 'home'
 						 );
 			
 			$this->load->view("dashboard", $data);

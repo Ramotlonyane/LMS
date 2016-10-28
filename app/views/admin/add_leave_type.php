@@ -8,12 +8,20 @@
              <div class="the-message"></div>
             <form class="form-horizontal" id="add-leavetype-form" action="<?php echo base_url("index.php/Leave_type_c/add_LeaveType");?>" METHOD="POST">
   				
-			 <div class="form-group">
-                      <label class="control-label col-md-10 col-sm-12" for="leave_name">Name:</label>
+			       <div class="form-group">
+                      <label class="control-label col-md-10 col-sm-12" for="leavename">Name of Leave:</label>
                    <div class="col-md-12 col-sm-12">
-                      <input type="text" name="leave_name" id="leave_name" class="form-control">
+                      <input type="text" name="leavename" id="leavename" class="form-control">
                    </div>
              </div>	
+
+              <div class="form-group">
+                      <label class="control-label col-md-10 col-sm-12" for="numberOfLeaves">Number of Leaves:</label>
+                   <div class="col-md-8 col-sm-12">
+                      <input type="number" name="numberOfLeaves" id="numberOfLeaves" class="form-control">
+                   </div>
+             </div> 
+
               <div class="form-group">
                       <label class="control-label col-md-12 col-sm-12" for="leave_name">Description:</label>
                    <div class="col-md-12 col-sm-12">

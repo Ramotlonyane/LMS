@@ -34,12 +34,26 @@ class Leave_type_c extends CI_Controller {
 
 			$this->load->library('form_validation');
 
-			$this->form_validation->set_rules("leave_name", "Leave Name", "trim|required");
+			$this->form_validation->set_rules("leavename", "Leave Name", "trim|required");
+			$this->form_validation->set_rules("numberOfLeaves", "Number of Leaves", "trim|required");
 
 			$this->form_validation->set_error_delimiters('<p class="text-danger">', '</p>');
 
 		if ($this->form_validation->run()) {
-			$data['success'] = true;
+			$leave_data = array('name' 				=> $this->input->post('leavename'),
+								'numberOfLeaves' 	=> $this->input->post('numberOfLeaves'),
+								'description' 		=> $this->input->post('description')
+								);
+
+			$this->load->model('Leave_type_m'); 
+			$results = $this->Leave_type_m->insert_LeaveType($leave_data);
+
+				if ($results){
+					$data['success'] = true;
+				}
+				else{
+					$data['success'] = false;
+				}
 		}
 		else {
 			foreach ($_POST as $key => $value) {
@@ -53,6 +67,11 @@ class Leave_type_c extends CI_Controller {
 		else{
 			redirect('index.php/Auth');
 		}
+		
+	}
+
+	public function get_all_LeaveType()
+	{
 		
 	}
 

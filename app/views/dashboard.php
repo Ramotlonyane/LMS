@@ -46,8 +46,6 @@
       </ul>
    </div>
 
-   <div class="row content">
-      <div class="col-md-2">
          <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
                <?php $this->load->view($home); ?>
@@ -76,10 +74,21 @@
                ?>
                   <!-- ADMINISTRATION DROPDOWN PAGES-->
                   <div id="adduser" class="tab-pane fade">
-                     <?php $this->load->view($add_user); ?>
+                     <div class="col-md-2">
+                        <?php $this->load->view($add_user); ?>
+                     </div>
+                     <div class="col-md-10">
+                        <?php $this->load->view($add_user_sidebar); ?>
+                     </div>
                   </div>
-            <div id="addleavetype" class="tab-pane fade">
-                     <?php $this->load->view($add_leave_type); ?>
+
+                  <div id="addleavetype" class="tab-pane fade">
+                     <div class="col-md-2">
+                        <?php $this->load->view($add_leave_type); ?>
+                     </div>
+                     <div class="col-md-10">
+                        <?php $this->load->view($all_leave_type); ?>
+                     </div>
                   </div>
                   <!-- REPORTS DROPDOWN PAGES-->
                   <div id="typereports" class="tab-pane fade">
@@ -101,7 +110,13 @@
                      <?php $this->load->view($applied_leave); ?>
                   </div>
                   <div id="addleaverecords" class="tab-pane fade">
-                     <?php $this->load->view($add_leave_record); ?>
+                      <div class="col-md-2">
+                        <?php $this->load->view($add_leave_record); ?>
+                     </div>
+                     <div class="col-md-10">
+                        <?php $this->load->view($add_leave_record_sidebar); ?>
+                     </div>
+                     
                   </div>
                   <div id="leaverecordsreports" class="tab-pane fade">
                      <?php $this->load->view($leave_record_reports); ?>
@@ -112,8 +127,4 @@
    <!-- MANAGER PAGES ENDS-->
 <!-- ####################################################################################-->
          </div>
-      </div>
-      <div class="col-md-10">
-      </div>
-   </div>
 </div>

@@ -69,7 +69,6 @@ CREATE TABLE IF NOT EXISTS `auth` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
 
 -- --------------------------------------------------------
-
 --
 -- Table structure for table `role`
 --
@@ -82,7 +81,29 @@ CREATE TABLE IF NOT EXISTS `role` (
 
 -- --------------------------------------------------------
 --
--- Dumping data for table `user`
+-- Table structure for table `LeaveType`
+--
+
+CREATE TABLE IF NOT EXISTS `leaveType` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(30) DEFAULT NULL,
+  `numberOfLeaves` int(100) DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+
+-- --------------------------------------------------------
+--
+-- Dumping data for table `leaveType`
+--
+INSERT INTO `leaveType` (`id`,`name`,`numberOfLeaves`,`description`) VALUES
+(1, 'Annual leave','30','This is an annual leave'),
+(2, 'Sick leave','20','This is sick leave'),
+(3, 'Family responsibility leave','10','This is family responsibility leave');
+-- --------------------------------------------------------
+--
+-- Dumping data for table `role`
 --
 
 INSERT INTO `role` (`id`,`name`) VALUES
@@ -91,7 +112,9 @@ INSERT INTO `role` (`id`,`name`) VALUES
 (3, 'Employee');
 
 -- --------------------------------------------------------
-
+--
+-- Dumping data for table `auth`
+--
 INSERT INTO `auth` (`id`, `username`, `password`,`idrole`) VALUES
 (1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997',(SELECT id from role WHERE name='Admin')),
 (2, 'manager', '1a8565a9dc72048ba03b4156be3e569f22771f23',(SELECT id from role WHERE name='Manager')),

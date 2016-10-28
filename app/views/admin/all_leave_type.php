@@ -1,0 +1,1 @@
+<h4>All Leave Type Page</h4>
