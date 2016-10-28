@@ -21779,3 +21779,49 @@ INFO - 2016-10-27 18:56:06 --> File loaded: /var/www/html/ramotlonyane_modise/LM
 INFO - 2016-10-27 18:56:06 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/footer.php
 INFO - 2016-10-27 18:56:06 --> Final output sent to browser
 DEBUG - 2016-10-27 18:56:06 --> Total execution time: 0.0191
+INFO - 2016-10-27 19:01:12 --> Config Class Initialized
+INFO - 2016-10-27 19:01:12 --> Hooks Class Initialized
+DEBUG - 2016-10-27 19:01:12 --> UTF-8 Support Enabled
+INFO - 2016-10-27 19:01:12 --> Utf8 Class Initialized
+INFO - 2016-10-27 19:01:12 --> URI Class Initialized
+DEBUG - 2016-10-27 19:01:12 --> No URI present. Default controller set.
+INFO - 2016-10-27 19:01:12 --> Router Class Initialized
+INFO - 2016-10-27 19:01:12 --> Output Class Initialized
+INFO - 2016-10-27 19:01:12 --> Security Class Initialized
+DEBUG - 2016-10-27 19:01:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-10-27 19:01:12 --> Input Class Initialized
+INFO - 2016-10-27 19:01:12 --> Language Class Initialized
+INFO - 2016-10-27 19:01:12 --> Loader Class Initialized
+INFO - 2016-10-27 19:01:12 --> Helper loaded: url_helper
+INFO - 2016-10-27 19:01:12 --> Helper loaded: form_helper
+INFO - 2016-10-27 19:01:12 --> Database Driver Class Initialized
+INFO - 2016-10-27 19:01:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-10-27 19:01:12 --> Controller Class Initialized
+INFO - 2016-10-27 19:01:12 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/header.php
+INFO - 2016-10-27 19:01:12 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/auth.php
+INFO - 2016-10-27 19:01:12 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/footer.php
+INFO - 2016-10-27 19:01:12 --> Final output sent to browser
+DEBUG - 2016-10-27 19:01:12 --> Total execution time: 0.0169
+INFO - 2016-10-27 19:01:20 --> Config Class Initialized
+INFO - 2016-10-27 19:01:20 --> Hooks Class Initialized
+DEBUG - 2016-10-27 19:01:20 --> UTF-8 Support Enabled
+INFO - 2016-10-27 19:01:20 --> Utf8 Class Initialized
+INFO - 2016-10-27 19:01:20 --> URI Class Initialized
+DEBUG - 2016-10-27 19:01:20 --> No URI present. Default controller set.
+INFO - 2016-10-27 19:01:20 --> Router Class Initialized
+INFO - 2016-10-27 19:01:20 --> Output Class Initialized
+INFO - 2016-10-27 19:01:20 --> Security Class Initialized
+DEBUG - 2016-10-27 19:01:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-10-27 19:01:20 --> Input Class Initialized
+INFO - 2016-10-27 19:01:20 --> Language Class Initialized
+INFO - 2016-10-27 19:01:20 --> Loader Class Initialized
+INFO - 2016-10-27 19:01:20 --> Helper loaded: url_helper
+INFO - 2016-10-27 19:01:20 --> Helper loaded: form_helper
+INFO - 2016-10-27 19:01:20 --> Database Driver Class Initialized
+INFO - 2016-10-27 19:01:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-10-27 19:01:20 --> Controller Class Initialized
+INFO - 2016-10-27 19:01:20 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/header.php
+INFO - 2016-10-27 19:01:20 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/auth.php
+INFO - 2016-10-27 19:01:20 --> File loaded: /var/www/html/ramotlonyane_modise/LMS/app/views/footer.php
+INFO - 2016-10-27 19:01:20 --> Final output sent to browser
+DEBUG - 2016-10-27 19:01:20 --> Total execution time: 0.0173

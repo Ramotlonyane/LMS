@@ -5,7 +5,7 @@
       <ul id="nav" class="nav nav-pills">
          <li class="active"><a data-toggle="tab" href="#home">HOME</a></li>
          <?php 
-            if ($user['role'] == 'Admin') {
+            if ($user['idrole'] == '1') {
                ?>
                <li class="dropdown">
                   <a class="dropdown-toggle" data-toggle="dropdown" href="#">ADMINISTRATION <span class="caret"></span></a>
@@ -24,7 +24,7 @@
                </li>
                <?
             }
-            elseif($user['role'] == 'Editor'){
+            elseif($user['idrole'] == '2'){
                ?>  
                <li class="dropdown">
                   <a class="dropdown-toggle" data-toggle="dropdown" href="#">LEAVE RECORDS <span class="caret"></span></a>
@@ -47,7 +47,7 @@
    </div>
 
    <div class="row content">
-      <div class="col-md-4">
+      <div class="col-md-2">
          <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
                <?php $this->load->view($home); ?>
@@ -55,7 +55,7 @@
             <!--EMPLOYEE PAGES Apply Division -->
       <!-- ####################################################################################-->
             <?php 
-                  if ($user['role'] == 'Author') {
+                  if ($user['idrole'] == '3') {
                      ?>
             <div id="apply" class="tab-pane fade">
             <!-- <?=$apply_leave;?>-->
@@ -72,7 +72,7 @@
       <!-- ####################################################################################-->
             <!-- ADMIN DIVISION STARTS-->
          <?php 
-            if ($user['role'] == 'Admin') {
+            if ($user['idrole'] == '1') {
                ?>
                   <!-- ADMINISTRATION DROPDOWN PAGES-->
                   <div id="adduser" class="tab-pane fade">
@@ -95,7 +95,7 @@
 <!-- ####################################################################################-->
       <!-- MANAGER PAGES STARTS-->
          <?php 
-            if ($user['role'] == 'Editor') {
+            if ($user['idrole'] == '2') {
                ?>
                   <div id="appliedleave" class="tab-pane fade">
                      <?php $this->load->view($applied_leave); ?>
@@ -113,7 +113,7 @@
 <!-- ####################################################################################-->
          </div>
       </div>
-      <div class="col-md-8">
+      <div class="col-md-10">
       </div>
    </div>
 </div>

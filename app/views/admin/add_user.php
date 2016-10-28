@@ -9,29 +9,29 @@
             <form class="form-horizontal" id="form-add-user" action="<?php echo base_url("index.php/Employee_c/add_Employee");?>" METHOD="POST">
 
              <div class="form-group data">
-                      <label class="control-label col-md-2 col-sm-2" for="surname">Surname:</label>
-                   <div class="col-md-8 col-sm-3 input-container">
+                      <label class="control-label col-md-12 col-sm-12" for="surname">Surname:</label>
+                   <div class="col-md-12 col-sm-12 input-container">
                       <input type="text" name="surname" id="surname" class="form-control">
                    </div>
              </div>
              
              <div class="form-group data">
-                   <label class="control-label col-md-2 col-sm-2" for="initial">Initials:</label>
-                <div class="col-md-4 col-sm-3 input-container">
+                   <label class="control-label col-md-12 col-sm-12" for="initial">Initials:</label>
+                <div class="col-md-12 col-sm-12 input-container">
                    <input type="text" name="initial" id="initial" class="form-control">
                 </div>
              </div>
 
              <div class="form-group data">
-                   <label class="control-label col-md-2 col-sm-2" for="persalnum">Persal:</label>
-                <div class="col-md-6 col-sm-3 input-container">
+                   <label class="control-label col-md-12 col-sm-12" for="persalnum">Persal:</label>
+                <div class="col-md-12 col-sm-12 input-container">
                    <input type="text" name="persalnum" id="persalnum" class="form-control">                    
                 </div> 
              </div>
 
              <div class="form-group data">
-                   <label class="control-label col-md-3 col-sm-3" for="shift">Shift Worker:</label>
-                <div class="col-md-8 col-sm-3 input-container radio">
+                   <label class="control-label col-md-12 col-sm-12" for="shift">Shift Worker:</label>
+                <div class="col-md-12 col-sm-12 input-container radio">
                    <label><input class="shift-radio-yes" type="radio" name="shift">Yes</label>
                    <label><input class="shift-radio-no" type="radio" name="shift">No</label>
                    <div id="radioshift"></div> 
@@ -39,15 +39,15 @@
              </div>
 
              <div class="form-group data">
-                  <label class="control-label col-md-2 col-sm-2" for="address">Address:</label>
-                <div class="col-md-8 col-sm-3 input-container">
+                  <label class="control-label col-md-12 col-sm-12" for="address">Address:</label>
+                <div class="col-md-12 col-sm-12 input-container">
                    <textarea type="text" name="address" id="address" class="form-control"></textarea>
                 </div> 
              </div>
 
              <div class="form-group data">
-                  <label class="control-label col-md-3 col-sm-3" for="casual">Casual Worker:</label>
-                <div class="col-md-8 col-sm-3 input-container radio">
+                  <label class="control-label col-md-12 col-sm-12" for="casual">Casual Worker:</label>
+                <div class="col-md-12 col-sm-12 input-container radio">
                    <label><input class="casual-radio-yes" type="radio" name="casual">Yes</label>
                    <label><input class="casual-radio-no" type="radio" name="casual">No</label>
                    <div id="radiocasual"></div> 
@@ -55,15 +55,15 @@
              </div>
 
              <div class="form-group data">
-                   <label class="control-label col-md-2 col-sm-2" for="telnum">Tel. No:</label>
-                <div class="col-md-6 col-sm-3 input-container">
+                   <label class="control-label col-md-12 col-sm-12" for="telnum">Tel. No:</label>
+                <div class="col-md-12 col-sm-12 input-container">
                    <input type="text" name="telnum" id="telnum" class="form-control">
                 </div>   
              </div>
 
               <div class="form-group data">
-                   <label class="control-label col-md-2 col-sm-2" for="department">Department:</label>
-                <div class="col-md-4 input-container">
+                   <label class="control-label col-md-12 col-sm-12" for="department">Department:</label>
+                <div class="col-md-12 col-sm-12 input-container">
                     <select id="department" class="form-control" data-style="btn-primary" name="department">
                       <option value="" data-hidden="true" class="department">Select Department</option>
                       <option value="Treasury" name="department">Treasury</option>
@@ -72,8 +72,8 @@
              </div>
 
              <div class="form-group data">
-                   <label class="control-label col-md-2 col-sm-2" for="Component">Component:</label>
-                 <div class="col-md-4 input-container">
+                   <label class="control-label col-md-12 col-sm-12" for="Component">Component:</label>
+                 <div class="col-md-12 col-sm-12 input-container">
                     <select id="component" class="form-control" data-style="btn-primary" name="component">
                       <option value="" data-hidden="true" class="component">Select Component</option>
                       <option value="IT" name="component">IT</option>

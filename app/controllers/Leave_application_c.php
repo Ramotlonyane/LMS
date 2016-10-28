@@ -20,7 +20,9 @@ class Leave_application_c extends CI_Controller {
 	 */
 	public function index()
 	{
-		
+		if($this->session->userdata('logged_in') == FALSE){
+			redirect('index.php/Auth');
+		}
 	}
 
 	public function leaveApplication()

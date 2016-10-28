@@ -74,7 +74,7 @@ class Auth extends CI_Controller {
 
 				$session_data = array(
 									'username' 	=> $username, 
-									'role' 	    => $result->role, 
+									'idrole' 	=> $result->idrole, 
 				 					'logged_in' => TRUE);
 
 				$this->session->set_userdata($session_data);
