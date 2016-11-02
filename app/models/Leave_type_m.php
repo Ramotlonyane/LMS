@@ -50,11 +50,17 @@ class Leave_type_m extends CI_Model {
 
 		extract($data);
 		$this->db->select('*');
-		$this->db->like('name', $nameOfLeave, 'both');
-		$this->db->where('numberOfLeaves', $leaveNumber);
+		if(!empty($nameOfLeave)){
+			$this->db->like('name', $nameOfLeave, 'both');
+		}
+		if(!empty($leaveNumber)){
+			$this->db->where('numberOfLeaves', $leaveNumber);
+		}
+		return $this->db->get($this->table);
+		
 		//$query = $this->db->query("SELECT * FROM leaveType WHERE name LIKE '%$nameOfLeave%'");
 		//var_dump($query);die();
-		return $this->db->get($this->table);
+		
 		
 	}
 
