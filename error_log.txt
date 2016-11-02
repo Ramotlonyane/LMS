@@ -86,3 +86,38 @@
 [02-Nov-2016 15:57:47 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 163
 [02-Nov-2016 15:58:31 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 163
 [02-Nov-2016 15:58:49 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 163
+[02-Nov-2016 17:14:09 Europe/Paris] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 161
+[02-Nov-2016 17:15:42 Europe/Paris] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 164
+[02-Nov-2016 17:20:00 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:20:01 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:20:04 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:20:11 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:20:12 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:21:35 Europe/Paris] PHP Fatal error:  Call to undefined method stdClass::result() in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:21:35 Europe/Paris] PHP Fatal error:  Call to undefined method stdClass::result() in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:33:40 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:33:40 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:33:41 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:33:41 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:33:41 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:33:41 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:38:58 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:38:59 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:39:42 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 56
+[02-Nov-2016 17:42:34 Europe/Paris] PHP Parse error:  syntax error, unexpected '$nameOfLeave' (T_VARIABLE) in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 55
+[02-Nov-2016 17:43:31 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:43:32 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:44:00 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:44:01 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:45:07 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:45:07 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:48:15 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:48:15 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 33
+[02-Nov-2016 17:53:34 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 17:53:34 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 17:53:35 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 17:53:36 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 18:00:27 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 18:00:28 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 18:00:28 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
+[02-Nov-2016 18:04:16 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 58

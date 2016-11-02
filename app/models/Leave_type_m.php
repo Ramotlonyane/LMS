@@ -49,7 +49,13 @@ class Leave_type_m extends CI_Model {
 	public function find_LeaveType($data){
 
 		extract($data);
-		$sql = "SELECT * FROM leaveType WHERE name LIKE '%".$nameOfLeave."%'";
+		$this->db->select('*');
+		$this->db->like('name', $nameOfLeave, 'both');
+		$this->db->where('numberOfLeaves', $leaveNumber);
+		//$query = $this->db->query("SELECT * FROM leaveType WHERE name LIKE '%$nameOfLeave%'");
+		//var_dump($query);die();
+		return $this->db->get($this->table);
+		
 	}
 
 }

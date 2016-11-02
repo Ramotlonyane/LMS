@@ -170,7 +170,14 @@
            }  
            else  
            {  
-                $(".all_leave_type_container").html('');              
+                    var options = {  
+                                    distance: '40',  
+                                    direction:'left',  
+                                    times:'3'  
+                               }  
+                  $(".search-box").effect("shake", options, 800);  
+                  $('#search_leave').val("search");  
+                  $('#errorsearch').html("<span class='text-danger'>Search Fields are Blank....!!</span>");             
            }  
       });    
 

@@ -1,8 +1,9 @@
 <div class="row">
 	<div class="container-fluid">
 		<div class="panel panel-primary">
-			<div class="panel-body">
+			<div class="panel-body search-box">
 				<form class="form-inline">
+				<div id="errorsearch"></div>
 					<div class="form-group">
 						<label for="email">Name:</label>
       					<input type="text" class="form-control" name="leavename" id="nameOfLeave" placeholder="Search by Name">
@@ -11,7 +12,7 @@
       					<label for="pwd">Number Of Leave:</label>
       					<input type="number" class="form-control" id="leaveNumber" placeholder="Search by Number">
     				</div>
-    				<button type="button" id="search_leave" class="btn btn-default search_leave">Search</button>
+    				<button type="button" id="search_leave" value="search" class="btn btn-default search_leave">Search</button>
 				</form>
 			</div>
 		</div>

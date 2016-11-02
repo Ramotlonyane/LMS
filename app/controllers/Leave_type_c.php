@@ -157,13 +157,9 @@ class Leave_type_c extends CI_Controller {
 
 			$this->load->model('Leave_type_m');
 
-			$this->Leave_type_m->find_LeaveType($data);
-
-			$query = $this->Leave_type_m->all();
-
-			$data['query'] = $query;
+			$data['query'] = $this->Leave_type_m->find_LeaveType($data);
 			$this->load->view("admin/all_leave_type", $data);
-
+			  
 
 			}else{echo "Fields are empty!!!";}
 
