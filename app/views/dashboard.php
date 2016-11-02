@@ -86,7 +86,7 @@
                      <div class="col-md-2">
                         <?php $this->load->view($add_leave_type); ?>
                      </div>
-                     <div class="col-md-10">
+                     <div class="col-md-10 all_leave_type_container">
                         <?php $this->load->view($all_leave_type, array("query" => $all_leave_type_data)); ?>
                      </div>
                   </div>
@@ -128,3 +128,83 @@
 <!-- ####################################################################################-->
          </div>
 </div>
+
+<script type="text/javascript">
+   $(document).ready(function(){
+
+//**************************************** Delete Leave Type****************************************************//
+         $(document).on('click', '.btn_delete', function(){  
+           var id=$(this).data("id3");
+           if(confirm("Are you sure you want to delete this?"))  
+           {  
+                $.ajax({  
+                     url:"index.php/Leave_type_c/delete_LeaveType/"+id,
+                     method:"POST",  
+                     data:{id:id},  
+                     dataType:"text",  
+                     success:function(data){  
+                        $(".all_leave_type_container").html(data);
+                     }  
+                });  
+           }  
+      }); 
+
+//************************************ Search Leave Type********************************************************//
+
+            $(document).on('click', '.search_leave', function(){  
+           var nameOfLeave = $('#nameOfLeave').val();
+           var leaveNumber = $('#leaveNumber').val();
+
+           if(leaveNumber != '' || nameOfLeave != '')  
+           {  
+                $.ajax({  
+                     url:"index.php/Leave_type_c/search_LeaveType/",  
+                     method:"post",  
+                     data:{nameOfLeave:nameOfLeave, leaveNumber:leaveNumber},  
+                     dataType:"text",  
+                     success:function(data)  
+                     {  
+                          $(".all_leave_type_container").html(data);  
+                     }  
+                });  
+           }  
+           else  
+           {  
+                $(".all_leave_type_container").html('');              
+           }  
+      });    
+
+//********************************** Edit Leave Type**********************************************************//
+            $(document).on('click', '.btn_edit', function(){ 
+
+            var name = $(this).closest("tr").find('#name').text();
+            var numberOfLeaves = $(this).closest("tr").find('#numberOfLeaves').text();
+            var description = $(this).closest("tr").find('#description').text();
+            var id=$(this).data("id2");
+
+            if(confirm("Are you sure you want to edit this?"))  
+           {  
+                $.ajax({  
+                     url:"index.php/Leave_type_c/edit_LeaveType/"+id,
+                     method:"POST",  
+                     data:{id:id, name:name, numberOfLeaves:numberOfLeaves, description:description},  
+                     dataType:"text",  
+                     success:function(data){  
+
+                        $(".all_leave_type_container").html(data);
+
+                        $('.the-edit-message').append('<div class="alert alert-success">' +
+                        '<span class="glyphicon glyphicon-ok"></span>' +
+                        ' Edited Successfully' +
+                        '</div>');
+
+                        setTimeout(function(){
+                           $('.alert-success').hide();
+                        }, 3000);
+                     }  
+                });  
+           }  
+      });
+//********************************************************************************************//
+ });
+</script>

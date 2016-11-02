@@ -43,32 +43,39 @@ class Leave_type_c extends CI_Controller {
 
 			$this->form_validation->set_error_delimiters('<p class="text-danger">', '</p>');
 
-		if ($this->form_validation->run()) {
-			$leave_data = array('name' 				=> $this->input->post('leavename'),
-								'numberOfLeaves' 	=> $this->input->post('numberOfLeaves'),
-								'description' 		=> $this->input->post('description')
-								);
+			if ($this->form_validation->run()) {
+				$leave_data = array('name' 				=> $this->input->post('leavename'),
+									'numberOfLeaves' 	=> $this->input->post('numberOfLeaves'),
+									'description' 		=> $this->input->post('description')
+									);
 
-			$this->load->model('Leave_type_m'); 
-			$results = $this->Leave_type_m->insert_LeaveType($leave_data);
+				$this->load->model('Leave_type_m'); 
+				$results = $this->Leave_type_m->insert_LeaveType($leave_data);
 
-				if ($results){
-					$data['success'] = true;
+					if ($results){
+						$data['success'] = true;
+					}
+					else{
+						$data['success'] = false;
+					}
+			}
+			else {
+				foreach ($_POST as $key => $value) {
+					$data['messages'][$key] = form_error($key);
 				}
-				else{
-					$data['success'] = false;
-				}
+			}
+
+			if (array_key_exists("success", $data) && $data['success'] === true) {
+				$query = $this->Leave_type_m->all();
+
+				$data_leave['query'] = $query;
+
+				$data['html'] = $this->load->view("admin/all_leave_type", $data_leave, true);
+			}
+			
+			echo json_encode($data);
 		}
 		else {
-			foreach ($_POST as $key => $value) {
-				$data['messages'][$key] = form_error($key);
-			}
-		}
-
-		echo json_encode($data);
-		
-		}
-		else{
 			redirect('index.php/Auth');
 		}
 		
@@ -79,19 +86,91 @@ class Leave_type_c extends CI_Controller {
 		
 	}
 
-	public function delete_LeaveType()
+	public function delete_LeaveType($id)
 	{
+		if($this->session->userdata('logged_in') == TRUE){
+			
 		
+			$this->load->model('Leave_type_m');
+			$this->Leave_type_m->remove_LeaveType($id);
+
+			$query = $this->Leave_type_m->all();
+
+			$data['query'] = $query;
+			$this->load->view("admin/all_leave_type", $data);
+
+		}else {
+			redirect('index.php/Auth');
+		}
 	}
 
-	public function edit_LeaveType()
+	public function edit_LeaveType($id)
 	{
-		
+		if($this->session->userdata('logged_in') == TRUE){
+
+			if(!empty($_POST['name']) && !empty($_POST['numberOfLeaves'])){
+
+			$leavename 			= $this->input->post('name');
+			$numberOfLeaves 	= $this->input->post('numberOfLeaves');
+			$description	 	= $this->input->post('description');
+
+			$data = array('leavename'        => $leavename, 
+	                      'numberOfLeaves'   => $numberOfLeaves,
+	                      'description' 	 => $description,
+	                      'id'				 => $id,	
+	                      );
+
+
+				$this->load->model('Leave_type_m');
+
+				if($this->Leave_type_m->update_LeaveType($data))
+			    	{
+			        	$query = $this->Leave_type_m->all();
+
+						$data['query'] = $query;
+						$this->load->view("admin/all_leave_type", $data);
+			    	}
+			    	else{
+			        	echo "Leave not edited";
+			    	}
+
+
+			}else{echo "Name and Number of leaves fileds can not be empty";}
+
+		}else {
+			redirect('index.php/Auth');
+		}
 	}
 
 	public function search_LeaveType()
 	{
-		
+		if($this->session->userdata('logged_in') == TRUE){
+
+			if(!empty($_POST['nameOfLeave']) || !empty($_POST['leaveNumber'])){
+
+			$nameOfLeave 	= $this->input->post('nameOfLeave');
+			$leaveNumber 	= $this->input->post('leaveNumber');
+
+			$data = array('nameOfLeave'   => $nameOfLeave, 
+	                      'leaveNumber'   => $leaveNumber,	
+	                      );
+
+			$this->load->model('Leave_type_m');
+
+			$this->Leave_type_m->find_LeaveType($data);
+
+			$query = $this->Leave_type_m->all();
+
+			$data['query'] = $query;
+			$this->load->view("admin/all_leave_type", $data);
+
+
+			}else{echo "Fields are empty!!!";}
+
+
+		}else {
+			redirect('index.php/Auth');
+		}
 	}
 	public function preview_LeaveType()
 	{

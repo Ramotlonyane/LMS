@@ -76,3 +76,13 @@
 [28-Oct-2016 17:45:02 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 13
 [28-Oct-2016 17:46:30 Europe/Paris] PHP Parse error:  syntax error, unexpected ',' in /var/www/html/ramotlonyane_modise/LMS/app/views/dashboard.php on line 90
 [28-Oct-2016 17:47:18 Europe/Paris] PHP Parse error:  syntax error, unexpected ';' in /var/www/html/ramotlonyane_modise/LMS/app/views/dashboard.php on line 90
+[02-Nov-2016 11:01:26 Europe/Paris] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 21
+[02-Nov-2016 11:01:29 Europe/Paris] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 21
+[02-Nov-2016 11:01:31 Europe/Paris] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 21
+[02-Nov-2016 11:01:39 Europe/Paris] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 21
+[02-Nov-2016 11:02:12 Europe/Paris] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 21
+[02-Nov-2016 11:15:57 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 13
+[02-Nov-2016 11:16:09 Europe/Paris] PHP Fatal error:  Call to a member function result() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/views/admin/all_leave_type.php on line 13
+[02-Nov-2016 15:57:47 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 163
+[02-Nov-2016 15:58:31 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 163
+[02-Nov-2016 15:58:49 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Leave_type_c.php on line 163
