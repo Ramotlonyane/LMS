@@ -92,6 +92,155 @@ CREATE TABLE IF NOT EXISTS `leaveType` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
 
+-- --------------------------------------------------------
+--
+-- Table structure for table `Department`
+--
+
+CREATE TABLE IF NOT EXISTS `Department` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `Component`
+--
+
+CREATE TABLE IF NOT EXISTS `Component` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `ShiftWorker`
+--
+
+CREATE TABLE IF NOT EXISTS `ShiftWorker` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `CasualWorker`
+--
+
+CREATE TABLE IF NOT EXISTS `CasualWorker` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `LeaveStatus`
+--
+
+CREATE TABLE IF NOT EXISTS `LeaveStatus` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `Employee`
+--
+
+CREATE TABLE IF NOT EXISTS `Employee` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `surname` varchar(30) DEFAULT NULL,
+  `initial` varchar(30) DEFAULT NULL,
+  `persalNum` int(50) DEFAULT NULL,
+  `telephone` int(20) DEFAULT NULL,
+  `idAuth` int(11) DEFAULT NULL,
+  `idShiftWorker` int(11) DEFAULT NULL,
+  `idCasualWorker` int(11) DEFAULT NULL,
+  `idDepartment` int(11) DEFAULT NULL,
+  `idComponent` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  foreign key (idAuth) references auth (id),
+  foreign key (idShiftWorker) references ShiftWorker (id),
+  foreign key (idCasualWorker) references CasualWorker (id),
+  foreign key (idDepartment) references Department (id),
+  foreign key (idComponent) references Component (id)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `ApplicationData`
+--
+
+CREATE TABLE IF NOT EXISTS `ApplicationData` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(50) DEFAULT NULL,
+  `startDate` timestamp DEFAULT NULL,
+  `endData` timestamp DEFAULT NULL,
+  `applicationDate` timestamp DEFAULT NULL,
+  `numberOfDays` int(100) DEFAULT NULL,
+  `leavePurpose` varchar(100) DEFAULT NULL,
+  `applicationNumber` int(11) DEFAULT NULL,
+  `idLeaveType` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  foreign key (idLeaveType) references leaveType (id)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `LeaveRecord`
+--
+
+CREATE TABLE IF NOT EXISTS `LeaveRecord` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `idEmployee` int(11) DEFAULT NULL,
+  `idLeaveType` int(11) DEFAULT NULL,
+  `numberOfLeaves` int(100) DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  foreign key (idLeaveType) references leaveType (id),
+  foreign key (idEmployee) references Employee (id)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `AppliedLeave`
+--
+
+CREATE TABLE IF NOT EXISTS `AppliedLeave` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `idEmployee` int(11) DEFAULT NULL,
+  `idLeaveType` int(11) DEFAULT NULL,
+  `idApplicationData` int(11) DEFAULT NULL,
+  `idLeaveStatus` int(11) DEFAULT NULL,
+  `numberOfDays` int(100) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  foreign key (idLeaveType) references leaveType (id),
+  foreign key (idEmployee) references Employee (id),
+  foreign key (idApplicationData) references ApplicationData (id),
+  foreign key (idLeaveStatus) references LeaveStatus (id)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
+--
+-- Table structure for table `AvailableLeaveDetails`
+--
+
+CREATE TABLE IF NOT EXISTS `AvailableLeaveDetails` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `idLeaveType` int(11) DEFAULT NULL,
+  `usedLeave` int(100) DEFAULT NULL,
+  `remainingLeave` int(100) DEFAULT NULL,
+  `applicationNumber` int(100) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  foreign key (idLeaveType) references leaveType (id)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
 
 -- --------------------------------------------------------
 --
