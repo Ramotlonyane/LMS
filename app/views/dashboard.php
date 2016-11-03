@@ -22,7 +22,7 @@
                      <li><a data-toggle="tab" href="#usereports">USER REPORTS</a></li>
                   </ul>
                </li>
-               <?
+               <?php
             }
             elseif($user['idrole'] == '2'){
                ?>  
@@ -34,13 +34,13 @@
                   </ul>
                </li>  
                <li><a data-toggle="tab" href="#appliedleave">APPLIED LEAVE</a></li>   
-               <?
+               <?php
             }
             else{
                 ?> 
                <li><a data-toggle="tab" href="#apply">APPLY LEAVE</a></li>
                <li><a data-toggle="tab" href="#myleave">MY LEAVE</a></li>
-               <?
+               <?php
             }
          ?> 
       </ul>
@@ -63,7 +63,7 @@
             <div id="myleave" class="tab-pane fade">
                <?php $this->load->view($myleave); ?>
             </div>
-            <?
+            <?php
          }
       ?>
             <!-- EMPLOYEE PAGES Apply Division Ends-->
@@ -97,7 +97,7 @@
                   <div id="usereports" class="tab-pane fade">
                      <?php $this->load->view($user_report); ?>
                   </div>
-               <?
+               <?php
             }
          ?>
       <!-- ADMIN DIVISION ENDS-->
