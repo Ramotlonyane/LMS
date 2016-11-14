@@ -121,3 +121,12 @@
 [02-Nov-2016 18:00:28 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
 [02-Nov-2016 18:00:28 Europe/Paris] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 57
 [02-Nov-2016 18:04:16 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/ramotlonyane_modise/LMS/app/models/Leave_type_m.php on line 58
+[08-Nov-2016 15:07:26 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:07:31 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:07:42 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:07:44 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:11:27 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:11:31 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:11:34 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:12:21 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[08-Nov-2016 15:12:32 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30

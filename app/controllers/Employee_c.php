@@ -27,7 +27,7 @@ class Employee_c extends CI_Controller {
 
 	public function add_Employee()
 	{
-		if($this->session->userdata('logged_in') == TRUE){
+		if($this->session->userdata('logged_in') == TRUE  && $this->session->userdata('idrole') == '1' ){
 
 		$data = array('success' => false, 'messages' => array());
 

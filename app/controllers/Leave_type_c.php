@@ -32,7 +32,7 @@ class Leave_type_c extends CI_Controller {
 
 	public function add_LeaveType()
 	{
-		if($this->session->userdata('logged_in') == TRUE)
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1')
 		{
 			$data = array('success' => false, 'messages' => array());
 
