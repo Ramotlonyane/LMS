@@ -19,21 +19,34 @@ class Auth extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+
+	function __construct(){
+		parent:: __construct();
+		$this->load->model('Leave_type_m');
+		$this->load->model('Employee_m');
+		$this->load->model('Leave_application_m');
+		$this->load->model('Leave_record_m');
+	}
 	public function index()
 	{
 		if($this->session->userdata('logged_in') == TRUE)
 		{
-			//$data['user'] = $this->session->userdata();
-			//$data['apply_leave'] = $this->load->view("leave/apple_leave", null, true);
-
 			$data_navbar["username"] = $this->session->userdata('username');
 
 			$this->load->view("header");
 			$this->load->view('navbar', $data_navbar);
 
+			//Search by User Role
+			$userRole						= $this->session->userdata('idrole');
+			$subordinate 					= $userRole + 1;
+			$sub_subordinate 				= $userRole + 2;
+			//Search by User ID
+			$userID 						= $this->session->userdata('id');
+
 			$data = array(	'myleave' 					=> 'employee/my_leave',
 							'user' 						=> $this->session->userdata(),
 							'apply_leave' 				=> 'employee/apply_leave',
+							'apply_leave_sidebar' 		=> 'employee/apply_leave_sidebar',
 							'add_leave_type'			=> 'admin/add_leave_type',
 							'add_user'					=> 'admin/add_user',
 							'all_leave_type'			=> 'admin/all_leave_type',
@@ -47,11 +60,44 @@ class Auth extends CI_Controller {
 							'home'						=> 'home'
 						 );
 
-			$this->load->model('Leave_type_m','type');
-			$query = $this->type->all();
-			$total_rows = $this->type->count();
+			$queryEmployee 					= $this->Employee_m->all_Employee();
+			$total_rows 					= $this->Employee_m->count_Employee();
 
-			$data['all_leave_type_data'] = $query;
+			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($subordinate,$sub_subordinate);
+			$total_rows 					= $this->Leave_record_m->count_leave_records();
+
+			$queryAppliedLeaveStatus		= $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate);
+			$queryApplicationData			= $this->Leave_application_m->all_leave_application($userID);
+			$total_rows 					= $this->Leave_application_m->count_Leave_application();
+
+			$queryLeaveType 				= $this->Leave_type_m->all();
+			$total_rows 					= $this->Leave_type_m->count();
+
+			$data['all_employee_data'] 				= $queryEmployee;
+			$data['all_applied_status']				= $queryAppliedLeaveStatus;
+			$data['all_leave_records_data'] 		= $queryLeaveRecord;
+			$data['all_leave_type_data'] 			= $queryLeaveType;
+			$data['all_leave_application_data']		= $queryApplicationData;
+
+			$department_result 						= $this->Employee_m->get_Department();
+			$data['department'] 					= $department_result['all_department'];
+		
+		
+			$employee_result 		= $this->Leave_record_m->get_Employee($subordinate,$sub_subordinate);
+			$data['employee'] 		= $employee_result['all_employee'];
+
+
+			$leave_type_result 				= $this->Leave_application_m->get_Leavetype();
+			$data['leavetype'] 				= $leave_type_result['all_leavetype'];
+
+			$role_result 					= $this->Employee_m->get_Role();
+			$data['role'] 					= $role_result['all_role'];
+
+			$component_result 				= $this->Employee_m->get_Component();
+			$data['component'] 				= $component_result['all_component'];
+
+			$leave_status_result 			= $this->Leave_application_m->get_leave_status();
+			$data['leavestatus'] 			= $leave_status_result['all_leave_status'];
 			
 			$this->load->view("dashboard", $data);
 			$this->load->view("footer");
@@ -83,7 +129,8 @@ class Auth extends CI_Controller {
 
 				$session_data = array(
 									'username' 	=> $username, 
-									'idrole' 	=> $result->idrole, 
+									'idrole' 	=> $result->idRole,
+									'id'		=> $result->id,
 				 					'logged_in' => TRUE);
 
 				$this->session->set_userdata($session_data);

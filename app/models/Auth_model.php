@@ -8,7 +8,7 @@ class Auth_model extends CI_Model {
 
 	public function validate($username, $password){
 
-		$query = $this->db->get_where('auth', array('username' => $username, 'password' => sha1($password)));
+		$query = $this->db->get_where('Employee', array('username' => $username, 'password' => sha1($password)));
     	return $query->row();
     }
 

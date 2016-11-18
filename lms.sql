@@ -52,6 +52,15 @@ INSERT INTO bar (description, foo_id) VALUES
 ( 'testing',     (SELECT id from foo WHERE type='blue') ),
 ( 'another row', (SELECT id from foo WHERE type='red' ) );
 
+-- --------------------------------------------------------
+
+alter table employee add address varchar(100)
+alter table employee add bDeleted tinyint(1)
+alter table employee drop COLUMN idAuth
+alter table employee drop foreign key
+alter table employee ADD foreign key (idRole) references role(id)
+ALTER TABLE `blog` CHANGE COLUMN `read-more` `read_more` VARCHAR(100) NOT NULL;
+ALTER TABLE leaveStatus MODIFY COLUMN statusName VARCHAR(100) NOT NULL DEFAULT 'Pending';
 
 -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -75,9 +84,21 @@ CREATE TABLE IF NOT EXISTS `auth` (
 
 CREATE TABLE IF NOT EXISTS `role` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` enum('Admin','Manager','Employee') DEFAULT NULL,
+  `name` enum('Admin','MEC','CEO','Chief Executive Manager','Senior Executive Manager','Senior Executive Manager','Senior Manager','Manager','Assistant Manager','Employee') DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+
+INSERT INTO `role` (`id`,`name`) VALUES
+(1, 'Admin'),
+(2, 'MEC'),
+(3, 'CEO'),
+(4, 'Chief Executive Manager'),
+(5, 'Senior Executive Manager'),
+(6, 'Senior Manager'),
+(7, 'Manager'),
+(8, 'Assistant Manager'),
+(9, 'Employee');
 
 -- --------------------------------------------------------
 --
@@ -145,9 +166,16 @@ CREATE TABLE IF NOT EXISTS `CasualWorker` (
 
 CREATE TABLE IF NOT EXISTS `LeaveStatus` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) DEFAULT NULL,
+  `statusName` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+INSERT INTO `LeaveStatus` (`id`,`statusName`) VALUES
+(1, 'Pending'),
+(2, 'Approved'),
+(3, 'Declined'),
+(4, 'Cancelled'),
+(5, 'Sent for Correction');
 
 -- --------------------------------------------------------
 --
@@ -157,8 +185,8 @@ CREATE TABLE IF NOT EXISTS `LeaveStatus` (
 CREATE TABLE IF NOT EXISTS `Employee` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `surname` varchar(30) DEFAULT NULL,
-  `initial` varchar(30) DEFAULT NULL,
-  `persalNum` int(50) DEFAULT NULL,
+  `initial` varchar(10) DEFAULT NULL,
+  `persalNum` int(20) DEFAULT NULL,
   `telephone` int(20) DEFAULT NULL,
   `idAuth` int(11) DEFAULT NULL,
   `idShiftWorker` int(11) DEFAULT NULL,
@@ -181,9 +209,9 @@ CREATE TABLE IF NOT EXISTS `Employee` (
 CREATE TABLE IF NOT EXISTS `ApplicationData` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(50) DEFAULT NULL,
-  `startDate` timestamp DEFAULT NULL,
-  `endData` timestamp DEFAULT NULL,
-  `applicationDate` timestamp DEFAULT NULL,
+  `startDate` TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `endData` DATETIME DEFAULT NULL,
+  `applicationDate` TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `numberOfDays` int(100) DEFAULT NULL,
   `leavePurpose` varchar(100) DEFAULT NULL,
   `applicationNumber` int(11) DEFAULT NULL,
@@ -250,6 +278,15 @@ INSERT INTO `leaveType` (`id`,`name`,`numberOfLeaves`,`description`) VALUES
 (1, 'Annual leave','30','This is an annual leave'),
 (2, 'Sick leave','20','This is sick leave'),
 (3, 'Family responsibility leave','10','This is family responsibility leave');
+
+-- --------------------------------------------------------
+--
+-- Dumping data for table `Employee`
+--
+INSERT INTO `Employee` (`id`,`surname`,`initial`,`persalNum`,`telephone`,`idAuth`,`idShiftWorker`,`idCasualWorker`,`idDepartment`,`idComponent`) 
+VALUES
+(1, 'Modise','RG','83792376','0784865367',(SELECT id from auth WHERE username='83792376'),(SELECT id from ShiftWorker WHERE name='No'),(SELECT id from CasualWorker WHERE name='Yes'),(SELECT id from Department WHERE name='Treasury'),(SELECT id from Component WHERE name='IT'));
+
 -- --------------------------------------------------------
 --
 -- Dumping data for table `role`
@@ -257,8 +294,51 @@ INSERT INTO `leaveType` (`id`,`name`,`numberOfLeaves`,`description`) VALUES
 
 INSERT INTO `role` (`id`,`name`) VALUES
 (1, 'Admin'),
-(2, 'Manager'),
-(3, 'Employee');
+(2, 'MEC'),
+(3, 'CEO'),
+(4, 'Chief Executive Manager'),
+(5, 'Senior Executive Manager'),
+(6, 'Senior Manager'),
+(7, 'Manager'),
+(8, 'Assistant Manager'),
+(9, 'Employee');
+
+-- --------------------------------------------------------
+--
+-- Dumping data for table `ShiftWorker`
+--
+
+INSERT INTO `ShiftWorker` (`id`,`name`) VALUES
+(1, 'Yes'),
+(2, 'No');
+
+-- --------------------------------------------------------
+--
+-- Dumping data for table `CasualWorker`
+--
+
+INSERT INTO `CasualWorker` (`id`,`name`) VALUES
+(1, 'Yes'),
+(2, 'No');
+
+-- --------------------------------------------------------
+--
+-- Dumping data for table `Department`
+--
+
+INSERT INTO `Department` (`id`,`name`,`description`) VALUES
+(1,'Treasury' ,'Department of Treasury'),
+(2,'Health' ,'Department of Health');
+
+-- --------------------------------------------------------
+--
+-- Dumping data for table `Component`
+--
+
+INSERT INTO `Component` (`id`,`name`,`description`) VALUES
+(1, 'HRM','Human Resource Management'),
+(2, 'HRM','Human Resource Management'),
+(3, 'IT','Information Technology');
 
 -- --------------------------------------------------------
 --

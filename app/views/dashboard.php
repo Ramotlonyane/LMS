@@ -24,7 +24,7 @@
                </li>
                <?php
             }
-            elseif($user['idrole'] == '2'){
+            elseif($user['idrole'] == '2' || $user['idrole'] == '2' || $user['idrole'] == '3' || $user['idrole'] == '4' || $user['idrole'] == '5' || $user['idrole'] == '6' || $user['idrole'] == '7' || $user['idrole'] == '8'){
                ?>  
                <li class="dropdown">
                   <a class="dropdown-toggle" data-toggle="dropdown" href="#">LEAVE RECORDS <span class="caret"></span></a>
@@ -33,7 +33,9 @@
                      <li><a data-toggle="tab" href="#leaverecordsreports">LEAVE RECORD REPORTS</a></li>
                   </ul>
                </li>  
-               <li><a data-toggle="tab" href="#appliedleave">APPLIED LEAVE</a></li>   
+               <li><a data-toggle="tab" href="#appliedleave">APPROVE LEAVE</a></li>
+               <li><a data-toggle="tab" href="#apply">APPLY LEAVE</a></li>
+               <li><a data-toggle="tab" href="#myleave">MY LEAVE</a></li>  
                <?php
             }
             else{
@@ -53,11 +55,15 @@
             <!--EMPLOYEE PAGES Apply Division -->
       <!-- ####################################################################################-->
             <?php 
-                  if ($user['idrole'] == '3') {
+                  if ($user['idrole'] == '9' || $user['idrole'] == '2' || $user['idrole'] == '3' || $user['idrole'] == '4' || $user['idrole'] == '5' || $user['idrole'] == '6' || $user['idrole'] == '7' || $user['idrole'] == '8') {
                      ?>
             <div id="apply" class="tab-pane fade">
-            <!-- <?=$apply_leave;?>-->
-        <?php $this->load->view($apply_leave); ?>
+              <div class="col-md-3">
+                <?php $this->load->view($apply_leave); ?>
+              </div>
+              <div class="col-md-9 all_leave_application_data">
+                <?php $this->load->view($apply_leave_sidebar, array('query' => $all_leave_application_data)); ?>
+              </div>
             </div>
 
             <div id="myleave" class="tab-pane fade">
@@ -74,19 +80,19 @@
                ?>
                   <!-- ADMINISTRATION DROPDOWN PAGES-->
                   <div id="adduser" class="tab-pane fade">
-                     <div class="col-md-2">
+                     <div class="col-md-3">
                         <?php $this->load->view($add_user); ?>
                      </div>
-                     <div class="col-md-10">
-                        <?php $this->load->view($add_user_sidebar); ?>
+                     <div class="col-md-9 all_employee_container">
+                        <?php $this->load->view($add_user_sidebar, array("query" => $all_employee_data)); ?>
                      </div>
                   </div>
 
                   <div id="addleavetype" class="tab-pane fade">
-                     <div class="col-md-2">
+                     <div class="col-md-3">
                         <?php $this->load->view($add_leave_type); ?>
                      </div>
-                     <div class="col-md-10 all_leave_type_container">
+                     <div class="col-md-9 all_leave_type_container">
                         <?php $this->load->view($all_leave_type, array("query" => $all_leave_type_data)); ?>
                      </div>
                   </div>
@@ -104,24 +110,24 @@
 <!-- ####################################################################################-->
       <!-- MANAGER PAGES STARTS-->
          <?php 
-            if ($user['idrole'] == '2') {
+            if ($user['idrole'] == '2' || $user['idrole'] == '3' || $user['idrole'] == '4' || $user['idrole'] == '5' || $user['idrole'] == '6' || $user['idrole'] == '7' || $user['idrole'] == '8') {
                ?>
-                  <div id="appliedleave" class="tab-pane fade">
-                     <?php $this->load->view($applied_leave); ?>
+                  <div id="appliedleave" class="tab-pane fade applied_leave_status">
+                     <?php $this->load->view($applied_leave, array("query" => $all_applied_status)); ?>
                   </div>
                   <div id="addleaverecords" class="tab-pane fade">
-                      <div class="col-md-2">
+                      <div class="col-md-3">
                         <?php $this->load->view($add_leave_record); ?>
                      </div>
-                     <div class="col-md-10">
-                        <?php $this->load->view($add_leave_record_sidebar); ?>
+                     <div class="col-md-9 all_leave_record_container">
+                        <?php $this->load->view($add_leave_record_sidebar, array('query' => $all_leave_records_data)); ?>
                      </div>
                      
                   </div>
                   <div id="leaverecordsreports" class="tab-pane fade">
                      <?php $this->load->view($leave_record_reports); ?>
                   </div>
-               <?
+               <?php
             }
          ?>
    <!-- MANAGER PAGES ENDS-->
@@ -133,25 +139,49 @@
    $(document).ready(function(){
 
 //**************************************** Delete Leave Type****************************************************//
-         $(document).on('click', '.btn_delete', function(){  
-           var id=$(this).data("id3");
-           if(confirm("Are you sure you want to delete this?"))  
+            $('.btn_leavestats').on('click', function () {
+    event.stopPropagation();
+        event.preventDefault();
+
+            var idrecord = $(this).data("idrecord");
+            var idstatus = $(this).closest("tr").find("#leavestatus").val();
+
+            if(idstatus)  
            {  
-                $.ajax({  
-                     url:"index.php/Leave_type_c/delete_LeaveType/"+id,
-                     method:"POST",  
-                     data:{id:id},  
-                     dataType:"text",  
-                     success:function(data){  
-                        $(".all_leave_type_container").html(data);
-                     }  
-                });  
-           }  
-      }); 
+                 if(confirm("Are you sure you want to change this leave status?"))
+                 {
+                    $.ajax({  
+                       url:"index.php/Leave_application_c/all_user_leave_status/"+idrecord,
+                       method:"POST",  
+                       data:{idrecord:idrecord, idstatus:idstatus },  
+                       dataType:"text",  
+                       success:function(data){  
+
+                          $(".applied_leave_status").html(data);
+                          location.reload();
+
+                          $('.the-leave-status').append('<div class="alert alert-success">' +
+                          '<span class="glyphicon glyphicon-ok"></span>' +
+                          ' Leave Status Changed Successfully' +
+                          '</div>');
+
+                          setTimeout(function(){
+                             $('.alert-success').hide();
+                          }, 3000);
+                       }  
+                    });
+                 }       
+                  
+           }else{
+            alert("Please select Leave Status!!!");
+           } 
+     });
 
 //************************************ Search Leave Type********************************************************//
 
-            $(document).on('click', '.search_leave', function(){  
+            $(document).on('click', '.search_leave', function(){
+            event.stopPropagation();
+        event.preventDefault();  
            var nameOfLeave = $('#nameOfLeave').val();
            var leaveNumber = $('#leaveNumber').val();
 
@@ -183,6 +213,8 @@
 
 //********************************** Edit Leave Type**********************************************************//
             $(document).on('click', '.btn_edit', function(){ 
+              event.stopPropagation();
+              event.preventDefault();
 
             var name = $(this).closest("tr").find('#name').text();
             var numberOfLeaves = $(this).closest("tr").find('#numberOfLeaves').text();
@@ -212,6 +244,171 @@
                 });  
            }  
       });
+//********************************** Add Leave Record**********************************************************//
+
+    $('#add-leaverecords-form').submit(function(e) {
+      event.stopPropagation();
+        event.preventDefault();
+      var addRecord = $(this);
+
+      // perform ajax
+      $.ajax({
+         url: addRecord.attr('action'),
+         type: 'post',
+         data: addRecord.serialize(),
+         dataType: 'json',
+         success: function(response) {
+            if (response.success == true) {
+               // if success we would show message
+               // and also remove the error class
+               $('.the-message-record').append('<div class="alert alert-success">' +
+                  '<span class="glyphicon glyphicon-ok"></span>' +
+                  ' Leave Records Has Been Added Successfully' +
+                  '</div>');
+               $('.form-group .input-container').removeClass('has-error')
+                               .removeClass('has-success');
+               $('.text-danger').remove();
+
+               // reset the form
+               addRecord[0].reset();
+
+               // close the message after seconds
+               $('.alert-success').delay(500).show(10, function() {
+                  $(this).delay(3000).hide(10, function() {
+                     $(this).remove();
+                  });
+               })
+
+               $(".all_leave_record_container").html(response.html);
+               //location.reload();
+            }
+            else {
+               $.each(response.messages, function(key, value) {
+                  var element = $('#' + key);
+                  
+                  element.closest('div.form-group')
+                  .removeClass('has-error')
+                  .addClass(value.length > 0 ? 'has-error' : 'has-success')
+                  .find('.text-danger')
+                  .remove();
+                  
+                  element.after(value);
+               });
+            }
+         }
+      });
+   });
+
 //********************************************************************************************//
+
+
+//********************************************************************************************//
+          $('#form-apply-leave').submit(function(e) {
+        event.stopPropagation();
+        event.preventDefault();
+      var me = $(this);
+
+      // perform ajax
+      $.ajax({
+         url: me.attr('action'),
+         type: 'post',
+         data: me.serialize(),
+         dataType: 'json',
+         success: function(response) {
+            if (response.success == true) {
+               // if success we would show message
+               // and also remove the error class
+               $('.apply-leave-message').append('<div class="alert alert-success">' +
+                  '<span class="glyphicon glyphicon-ok"></span>' +
+                  ' Your Leave Has Been Submitted Successfully' +
+                  '</div>');
+               $('.form-group .input-leave').removeClass('has-error')
+                               .removeClass('has-success');
+               $('.text-danger').remove();
+
+               // reset the form
+               me[0].reset();
+
+               // close the message after seconds
+               $('.alert-success').delay(500).show(10, function() {
+                  $(this).delay(3000).hide(10, function() {
+                     $(this).remove();
+                  });
+               })
+
+               $(".all_leave_application_data").html(response.html);
+            }
+            else {
+               $.each(response.messages, function(key, value) {
+                  var element = $('#' + key);
+                  
+                  element.closest('div.form-group .input-leave')
+                  .removeClass('has-error')
+                  .addClass(value.length > 0 ? 'has-error' : 'has-success')
+                  .find('.text-danger')
+                  .remove();
+                  
+                  element.after(value);
+               });
+            }
+         }
+      });
+   });
+//********************************************************************************************//
+  
+       $('#add-leavetype-form').submit(function(e) {
+      e.preventDefault();
+
+      var me = $(this);
+
+      // perform ajax
+      $.ajax({
+         url: me.attr('action'),
+         type: 'post',
+         data: me.serialize(),
+         dataType: 'json',
+         success: function(response) {
+            if (response.success == true) {
+               // if success we would show message
+               // and also remove the error class
+               $('.the-message').append('<div class="alert alert-success">' +
+                  '<span class="glyphicon glyphicon-ok"></span>' +
+                  ' Leave Type Has Been Added Successfully' +
+                  '</div>');
+               $('.form-group .input-container').removeClass('has-error')
+                               .removeClass('has-success');
+               $('.text-danger').remove();
+
+               // reset the form
+               me[0].reset();
+
+               // close the message after seconds
+               $('.alert-success').delay(500).show(10, function() {
+                  $(this).delay(3000).hide(10, function() {
+                     $(this).remove();
+                  });
+               })
+
+               $(".all_leave_type_container").html(response.html);
+            }
+            else {
+               $.each(response.messages, function(key, value) {
+                  var element = $('#' + key);
+                  
+                  element.closest('div.form-group')
+                  .removeClass('has-error')
+                  .addClass(value.length > 0 ? 'has-error' : 'has-success')
+                  .find('.text-danger')
+                  .remove();
+                  
+                  element.after(value);
+               });
+            }
+         }
+      });
+   });
+
+//********************************************************************************************//
+
  });
 </script>

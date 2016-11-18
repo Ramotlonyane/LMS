@@ -5,131 +5,64 @@
              APPLY LEAVE FORM
           </div>
           <div class="panel-body panel-primary">
-             <div class="register-message"></div>
-              <form class="form-horizontal well" id="form-apply-leave" action="<?php echo base_url("index.php/Leave_application_c/leaveApplication");?>" METHOD="POST">
-        
-                         <!-- LEAVE APPLICATION FORM SECTION A -->
-             <div class="form-group">
-                <div class="col-md-12 col-sm-12 solid">
-                   <p style="margin: 0;">SECTION A: For Periods covering full day</p>
-                </div>
-             </div>
+             <div class="apply-leave-message"></div>
+              <form class="form-horizontal" id="form-apply-leave" action="<?php echo base_url("index.php/Leave_application_c/leaveApplication");?>" METHOD="POST">
 
              <div class="form-group">
-                <div class="col-md-4 col-sm-4 ridge">
-                   <p style="margin: 0;">Type of Leave Taken as Working Days</p>
-                </div>
-                <div class="col-md-2 col-sm-4 ridge">
-                   <p style="margin: 0; text-align: center;">Start Date</p>
-                </div>
-                <div class="col-md-2 col-sm-4 ridge">
-                   <p style="margin: 0; text-align: center;">End Date</p>
-                </div>
-                <div class="col-md-4 col-sm-4 ridge">
-                   <p style="margin: 0; text-align: center;">Number of Working Days</p>
+                  <label class="control-label col-md-12 col-sm-12" for="leavetype">Leave Type:</label>
+                 <div class="col-md-12 col-sm-12 input-leave">
+                    <select id="leavetyppe" class="form-control" data-style="btn-primary" name="leavetyppe">
+                      <option value="" data-hidden="true" class="leavetyppe">Select Leave Type</option>
+                      <?php
+                        foreach ($leavetype as $leavet) {
+                          ?>
+                          <option value="<?php echo $leavet->id ?>" name="leavetyppe"><?php echo $leavet->typeName ?></option>
+                          <?php
+                        }
+                      ?>
+                      
+                   </select>
+                 </div>
+             </div>
+
+             <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="initial">Start Date:</label>
+                <div class="col-md-12 col-sm-12 input-leave">
+                   <input type="datetime-local" name="anualstartdate" id="anualstartdate" class="form-control anual-leave-input" value="<?=date('Y-m-d');?>T00:00">
                 </div>
              </div>
 
-             <div class="form-group section-a section-annual">
-                <div class="col-md-2 ridge">
-                   <p style="margin: 0;">Annual Leave</p>
-                </div>
-                <div class="col-md-2 radio">
-                   <label><input class="anual-leave-radio" value="1" type="radio" name="optradio" checked></label>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="anualstartdate" id="anualstartdate" class="form-control anual-leave-input">
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="anualenddate" id="anualenddate" class="form-control anual-leave-input">
-                </div>
-                 <div class="col-md-4 col-sm-4 input-container">
-                   <input type="number" name="anualnwdays" id="anualnwdays" class="form-control anual-leave-input">
+             <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="initial">End Date:</label>
+                <div class="col-md-12 col-sm-12 input-leave">
+                   <input type="datetime-local" name="anualenddate" id="anualenddate" class="form-control anual-leave-input" value="<?=date('Y-m-d');?>T23:59">
                 </div>
              </div>
 
-             <div class="form-group section-a section-normal">
-                <div class="col-md-2 ridge">
-                   <p style="margin: 0;">Normal Sick Leave</p>
-                </div>
-                 <div class="col-md-2 radio">
-                   <label><input class="normal-leave-radio" value="2" type="radio" name="optradio"></label>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="normalstartdate" id="normalstartdate" class="form-control" disabled>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="normalenddate" id="normalenddate" class="form-control" disabled>
-                </div>
-                 <div class="col-md-4 col-sm-4 input-container">
-                   <input type="number" name="normalnwdays" id="normalnwdays" class="form-control" disabled>
+             <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="initial">Number of Days:</label>
+                <div class="col-md-12 col-sm-12 input-leave">
+                   <input type="number" min="0" name="anualnwdays" id="anualnwdays" class="form-control anual-leave-input">
                 </div>
              </div>
 
-             <!-- LEAVE APPLICATION FORM SECTION A ENDS -->
-<!--####################################################################################################################-->
-             <!-- LEAVE APPLICATION FORM SECTION B -->
-             <div class="form-group">
-                <div class="col-md-12 col-sm-12 solid">
-                   <p style="margin: 0;">SECTION B: For Periods covering parts of a day or fractions</p>
-                </div>
+             <div class="form-group data">
+                  <label class="control-label col-md-12 col-sm-12" for="leavepurpose">Leave Purpose:</label>
+                <div class="col-md-12 col-sm-12 input-leave">
+                   <textarea type="text" name="leavepurpose" id="leavepurpose" class="form-control"></textarea>
+                </div> 
              </div>
 
               <div class="form-group">
-                <div class="col-md-4 col-sm-4 ridge">
-                   <p style="margin: 0;">Type of Leave Taken as Working Days</p>
-                </div>
-                <div class="col-md-2 col-sm-4 ridge">
-                   <p style="margin: 0; text-align: center;">Start Date</p>
-                </div>
-                <div class="col-md-2 col-sm-4 ridge">
-                   <p style="margin: 0; text-align: center;">End Date</p>
-                </div>
-                <div class="col-md-4 col-sm-4 ridge">
-                   <p style="margin: 0; text-align: center;">Number of Working Days</p>
+                <div class="col-md-12 col-sm-12">
+                   <button id="apply_leave" type="submitleave" name="submitleave" class="btn btn-primary">Apply Leave</button>
                 </div>
              </div>
-
-             <div class="form-group section-b section-annual">
-                <div class="col-md-2 ridge">
-                   <p style="margin: 0;">Annual Leave</p>
-                </div>
-                 <div class="col-md-2 radio">
-                   <label><input class="annual-leave-radio" value="3" type="radio" name="optradio"></label>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="annualstartdate" id="annualstartdate" class="form-control" disabled>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="annualenddate" id="annualenddate" class="form-control" disabled>
-                </div>
-                 <div class="col-md-4 col-sm-4 input-container">
-                   <input type="number" name="annualnwdays" id="annualnwdays" class="form-control" disabled>
-                </div>
-             </div>
-
-             <div class="form-group section-b section-normal">
-                <div class="col-md-2 ridge">
-                   <p style="margin: 0;">Normal Sick Leave</p>
-                </div>
-                 <div class="col-md-2 radio">
-                   <label><input class="normall-leave-radio" value="4" type="radio" name="optradio"></label>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="normallstartdate" id="normallstartdate" class="form-control" disabled>
-                </div>
-                <div class="col-md-2 col-sm-4 input-container">
-                   <input type="date" name="normallenddate" id="normallenddate" class="form-control" disabled>
-                </div>
-                 <div class="col-md-4 col-sm-4 input-container">
-                   <input type="number" name="normallnwdays" id="normallnwdays" class="form-control" disabled>
-                </div>
-             </div>
-             <!-- LEAVE APPLICATION FORM SECTION B ENDS -->
 
              </form>
-             <div class="register-message"></div>
+             <div class="apply-leave-message"></div>
           </div>
        </div>
     </div>
  </div>
+ 

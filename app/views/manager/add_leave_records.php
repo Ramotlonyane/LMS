@@ -10,29 +10,42 @@
   			
 
   			 <div class="form-group">
-                      <label class="control-label col-md-10 col-sm-12" for="nameOfUser">Select Name of User:</label>
+              <label class="control-label col-md-10 col-sm-12" for="nameOfUser">Select Name of User:</label>
                    <div class="col-md-12 col-sm-12">
                     <select id="nameOfUser" class="form-control" data-style="btn-primary" name="nameOfUser">
-                      <option value="" data-hidden="true" class="nameOfUser">Select User</option>
-                      <option value="Treasury" name="nameOfUser">Gabriel</option>
-                   	</select>
+                      <option value="" data-hidden="true" class="nameOfUser">Select Name of User:</option>
+                      <?php
+                        foreach ($employee as $employ) {
+                          ?>
+                          <option value="<?php echo $employ->id ?>" name="nameOfUser"><?php echo $employ->surname ?></option>
+                          <?php
+                        }
+                      ?>   
+                   </select>
                    </div>
              </div>	
+
 
 			 <div class="form-group">
                       <label class="control-label col-md-10 col-sm-12" for="typeOfLeave">Select Type of Leave</label>
                    <div class="col-md-12 col-sm-12">
                     <select id="typeOfLeave" class="form-control" data-style="btn-primary" name="typeOfLeave">
-                      <option value="" data-hidden="true" class="typeOfLeave">Select Type of Leave</option>
-                      <option value="Treasury" name="typeOfLeave">Annual Leave</option>
-                   	</select>
+                      <option value="" data-hidden="true" class="typeOfLeave">Select Leave Type</option>
+                      <?php
+                        foreach ($leavetype as $leavet) {
+                          ?>
+                          <option value="<?php echo $leavet->id ?>" name="typeOfLeave"><?php echo $leavet->typeName ?></option>
+                          <?php
+                        }
+                      ?> 
+                   </select>
                    </div>
              </div>	
 			
 			<div class="form-group">
                       <label class="control-label col-md-12 col-sm-12" for="numberOfDays">Number of Days/Leave</label>
                    <div class="col-md-12 col-sm-12">
-                      <input type="number" name="numberOfDays" id="numberOfDays" class="form-control"> 
+                      <input type="number" min="0" name="numberOfDays" id="numberOfDays" class="form-control"> 
                    </div>
              </div>	
 
@@ -50,62 +63,8 @@
              </div>
 
              </form>
-             <div class="the-message"></div>
+             <div class="the-message-record"></div>
           </div>
        </div>
     </div>
  </div>
-
-  <script type="text/javascript">
- 	
- 	 $('#add-leaverecords-form').submit(function(e) {
-      e.preventDefault();
-
-      var me = $(this);
-
-      // perform ajax
-      $.ajax({
-         url: me.attr('action'),
-         type: 'post',
-         data: me.serialize(),
-         dataType: 'json',
-         success: function(response) {
-            if (response.success == true) {
-               // if success we would show message
-               // and also remove the error class
-               $('.the-message').append('<div class="alert alert-success">' +
-                  '<span class="glyphicon glyphicon-ok"></span>' +
-                  ' Leave Records Has Been Added Successfully' +
-                  '</div>');
-               $('.form-group .input-container').removeClass('has-error')
-                               .removeClass('has-success');
-               $('.text-danger').remove();
-
-               // reset the form
-               me[0].reset();
-
-               // close the message after seconds
-               $('.alert-success').delay(500).show(10, function() {
-                  $(this).delay(3000).hide(10, function() {
-                     $(this).remove();
-                  });
-               })
-            }
-            else {
-               $.each(response.messages, function(key, value) {
-                  var element = $('#' + key);
-                  
-                  element.closest('div.form-group')
-                  .removeClass('has-error')
-                  .addClass(value.length > 0 ? 'has-error' : 'has-success')
-                  .find('.text-danger')
-                  .remove();
-                  
-                  element.after(value);
-               });
-            }
-         }
-      });
-   });
-
- </script>

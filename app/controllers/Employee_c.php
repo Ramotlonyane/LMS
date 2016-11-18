@@ -18,16 +18,22 @@ class Employee_c extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+
+	function __construct(){
+		parent:: __construct();
+		$this->load->model('Employee_m');
+	}
 	public function index()
 	{
 		if($this->session->userdata('logged_in') == FALSE){
 			redirect('index.php/Auth');
 		}
+
 	}
 
 	public function add_Employee()
 	{
-		if($this->session->userdata('logged_in') == TRUE  && $this->session->userdata('idrole') == '1' ){
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
 
 		$data = array('success' => false, 'messages' => array());
 
@@ -43,47 +49,40 @@ class Employee_c extends CI_Controller {
 		$this->form_validation->set_rules("casual", "Casual Worker", "trim|required");
 		$this->form_validation->set_rules("shift", "Shift Worker", "trim|required");
 
-		/* SECTION A  ANNUAL VALIDATIONS*/
-
-			if($this->input->post('optradio') == 1)
-		{
-			$this->form_validation->set_rules("anualstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("anualenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("anualnwdays", "Days", "trim|required");
-		}
-
-		/* SECTION A NORMAL VALIDATIONS*/
-
-		if($this->input->post('optradio') == 2)
-		{
-			$this->form_validation->set_rules("normalstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("normalenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("normalnwdays", "Days", "trim|required");
-		}
-		
-
-		/* SECTION B ANNUAL VALIDATIONS*/
-		if($this->input->post('optradio') == 3)
-		{
-			$this->form_validation->set_rules("annualstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("annualenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("annualnwdays", "Days", "trim|required");
-		}
-		
-
-		/* SECTION B NORMAL VALIDATIONS*/
-		if($this->input->post('optradio') == 4)
-		{
-			$this->form_validation->set_rules("normallstartdate", "Start Date", "trim|required");
-			$this->form_validation->set_rules("normallenddate", "End Date", "trim|required");
-			$this->form_validation->set_rules("normallnwdays", "Days", "trim|required");
-		}
-		
+		$this->form_validation->set_rules("username", "User Name", "trim|required");
+		$this->form_validation->set_rules("password", "Password", "trim|required");
+		$this->form_validation->set_rules("confirmPassword", "Confirm Password", "trim|required|matches[password]");
+		$this->form_validation->set_rules("role", "Role", "trim|required");
 
 		$this->form_validation->set_error_delimiters('<p class="text-danger">', '</p>');
 
 		if ($this->form_validation->run()) {
-			$data['success'] = true;
+
+				//$password = hash("sha256",$this->input->post('password'));
+				$password = sha1($this->input->post('password'));
+
+				$employee_data = array(	'surname' 			=> $this->input->post('surname'),
+										'initial' 			=> $this->input->post('initial'),
+										'telephone' 		=> $this->input->post('telnum'),
+										'address' 			=> $this->input->post('address'),
+										'idDepartment' 		=> $this->input->post('department'),
+										'idComponent' 		=> $this->input->post('component'),
+										'idCasualWorker' 	=> $this->input->post('casual'),
+										'idShiftWorker' 	=> $this->input->post('shift'),
+										'persalNum' 		=> $this->input->post('persalnum'),
+										'idRole' 			=> $this->input->post('role'),
+										'username' 			=> $this->input->post('username'),
+										'password' 			=> $password,
+										);
+
+				$results = $this->Employee_m->insert_Employee($employee_data);
+
+					if ($results){
+						$data['success'] = true;
+					}
+					else{
+						$data['success'] = false;
+					}
 		}
 		else {
 			foreach ($_POST as $key => $value) {
@@ -91,8 +90,21 @@ class Employee_c extends CI_Controller {
 			}
 		}
 
+		if (array_key_exists("success", $data) && $data['success'] === true) {
+
+				$query = $this->Employee_m->all_Employee();
+
+				$data_employee['query'] = $query;
+
+				$data['html'] = $this->load->view("admin/add_user_sidebar", $data_employee, true);
+			}
+
 		echo json_encode($data);
+
+		}else {
+			redirect('index.php/Auth');
 		}
+
 	}
 	public function delete_Employee()
 	{

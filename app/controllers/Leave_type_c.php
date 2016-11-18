@@ -18,6 +18,10 @@ class Leave_type_c extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+	function __construct(){
+		parent:: __construct();
+		$this->load->model('Leave_type_m');
+	}
 	public function index()
 	{
 		if($this->session->userdata('logged_in') == FALSE)
@@ -44,12 +48,13 @@ class Leave_type_c extends CI_Controller {
 			$this->form_validation->set_error_delimiters('<p class="text-danger">', '</p>');
 
 			if ($this->form_validation->run()) {
-				$leave_data = array('name' 				=> $this->input->post('leavename'),
+				$leave_data = array('typeName' 			=> $this->input->post('leavename'),
 									'numberOfLeaves' 	=> $this->input->post('numberOfLeaves'),
-									'description' 		=> $this->input->post('description')
+									'description' 		=> $this->input->post('description'),
+									'bDeleted'			=> 0,
 									);
 
-				$this->load->model('Leave_type_m'); 
+				
 				$results = $this->Leave_type_m->insert_LeaveType($leave_data);
 
 					if ($results){
@@ -88,10 +93,8 @@ class Leave_type_c extends CI_Controller {
 
 	public function delete_LeaveType($id)
 	{
-		if($this->session->userdata('logged_in') == TRUE){
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
 			
-		
-			$this->load->model('Leave_type_m');
 			$this->Leave_type_m->remove_LeaveType($id);
 
 			$query = $this->Leave_type_m->all();
@@ -106,7 +109,7 @@ class Leave_type_c extends CI_Controller {
 
 	public function edit_LeaveType($id)
 	{
-		if($this->session->userdata('logged_in') == TRUE){
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
 
 			if(!empty($_POST['name']) && !empty($_POST['numberOfLeaves'])){
 
@@ -119,9 +122,6 @@ class Leave_type_c extends CI_Controller {
 	                      'description' 	 => $description,
 	                      'id'				 => $id,	
 	                      );
-
-
-				$this->load->model('Leave_type_m');
 
 				if($this->Leave_type_m->update_LeaveType($data))
 			    	{
@@ -144,7 +144,7 @@ class Leave_type_c extends CI_Controller {
 
 	public function search_LeaveType()
 	{
-		if($this->session->userdata('logged_in') == TRUE){
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
 
 			if(!empty($_POST['nameOfLeave']) || !empty($_POST['leaveNumber'])){
 
@@ -154,8 +154,6 @@ class Leave_type_c extends CI_Controller {
 			$data = array('nameOfLeave'   => $nameOfLeave, 
 	                      'leaveNumber'   => $leaveNumber,	
 	                      );
-
-			$this->load->model('Leave_type_m');
 
 			$data['query'] = $this->Leave_type_m->find_LeaveType($data);
 			$this->load->view("admin/all_leave_type", $data);

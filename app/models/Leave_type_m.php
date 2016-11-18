@@ -22,6 +22,7 @@ class Leave_type_m extends CI_Model {
 	{
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
+		$this->db->where('bDeleted', 0);
 		return $this->db->get($this->table);
 	}
 
@@ -33,13 +34,14 @@ class Leave_type_m extends CI_Model {
 	public function remove_LeaveType($id)
 	{
 		$this->db->where('id', $id);
-        $this->db->delete('leaveType');
+		$this->db->update('leaveType',array('bDeleted'=>1));
+        //$this->db->delete('leaveType');
 	}
 	public function update_LeaveType($data)
 	{
 		 extract($data);
          $this->db->where('id', $id);
-         $this->db->update('leaveType', array('name'				=> $leavename, 
+         $this->db->update('leaveType', array('typeName'			=> $leavename, 
                                               'numberOfLeaves'		=> $numberOfLeaves,
                                               'description'			=> $description,
                                            	 ));
@@ -51,10 +53,12 @@ class Leave_type_m extends CI_Model {
 		extract($data);
 		$this->db->select('*');
 		if(!empty($nameOfLeave)){
-			$this->db->like('name', $nameOfLeave, 'both');
+			$this->db->like('typeName', $nameOfLeave, 'both');
+			$this->db->where('bDeleted', 0);
 		}
 		if(!empty($leaveNumber)){
-			$this->db->where('numberOfLeaves', $leaveNumber);
+			$this->db->where(array('numberOfLeaves' => $leaveNumber, 'bDeleted'=>0));
+			//$this->db->where('numberOfLeaves', $leaveNumber);
 		}
 		return $this->db->get($this->table);
 		

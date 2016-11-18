@@ -30,10 +30,48 @@
              </div>
 
              <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="username">Username:</label>
+                <div class="col-md-12 col-sm-12 input-container">
+                   <input type="text" name="username" id="username" class="form-control">                    
+                </div> 
+             </div>
+
+              <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="password">Password:</label>
+                <div class="col-md-12 col-sm-12 input-container">
+                   <input type="password" name="password" id="password" class="form-control">                    
+                </div> 
+             </div>
+
+               <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="confirmPassword">Confirm Password:</label>
+                <div class="col-md-12 col-sm-12 input-container">
+                   <input type="password" name="confirmPassword" id="confirmPassword" class="form-control">                    
+                </div> 
+             </div>
+
+             <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="role">Role:</label>
+                <div class="col-md-12 col-sm-12 input-container">
+                    <select id="role" class="form-control" data-style="btn-primary" name="role">
+                      <option value="" data-hidden="true" class="role">Select Role</option>
+                      <?php
+                        foreach ($role as $rolle) {
+                          ?>
+                          <option value="<?php echo $rolle->id ?>" name="role"><?php echo $rolle->name ?></option>
+                          <?php
+                        }
+                      ?>
+                      
+                   </select>
+                 </div> 
+             </div>
+
+             <div class="form-group data">
                    <label class="control-label col-md-12 col-sm-12" for="shift">Shift Worker:</label>
                 <div class="col-md-12 col-sm-12 input-container radio">
-                   <label><input class="shift-radio-yes" type="radio" name="shift">Yes</label>
-                   <label><input class="shift-radio-no" type="radio" name="shift">No</label>
+                   <label><input class="shift-radio-yes" type="radio" name="shift" value="1">Yes</label>
+                   <label><input class="shift-radio-no" type="radio" name="shift" value="2">No</label>
                    <div id="radioshift"></div> 
                 </div>
              </div>
@@ -48,8 +86,8 @@
              <div class="form-group data">
                   <label class="control-label col-md-12 col-sm-12" for="casual">Casual Worker:</label>
                 <div class="col-md-12 col-sm-12 input-container radio">
-                   <label><input class="casual-radio-yes" type="radio" name="casual">Yes</label>
-                   <label><input class="casual-radio-no" type="radio" name="casual">No</label>
+                   <label><input class="casual-radio-yes" type="radio" name="casual" value="1">Yes</label>
+                   <label><input class="casual-radio-no" type="radio" name="casual" value="2">No</label>
                    <div id="radiocasual"></div> 
                 </div>
              </div>
@@ -66,7 +104,14 @@
                 <div class="col-md-12 col-sm-12 input-container">
                     <select id="department" class="form-control" data-style="btn-primary" name="department">
                       <option value="" data-hidden="true" class="department">Select Department</option>
-                      <option value="Treasury" name="department">Treasury</option>
+                      <?php
+                        foreach ($department as $depart) {
+                          ?>
+                          <option value="<?php echo $depart->id ?>" name="department"><?php echo $depart->name ?></option>
+                          <?php
+                        }
+                      ?>
+                      
                    </select>
                  </div> 
              </div>
@@ -76,7 +121,13 @@
                  <div class="col-md-12 col-sm-12 input-container">
                     <select id="component" class="form-control" data-style="btn-primary" name="component">
                       <option value="" data-hidden="true" class="component">Select Component</option>
-                      <option value="IT" name="component">IT</option>
+                      <?php
+                        foreach ($component as $comp) {
+                          ?>
+                          <option value="<?php echo $comp->id ?>" name="department"><?php echo $comp->componentName ?></option>
+                          <?php
+                        }
+                      ?>
                    </select>
                  </div>
              </div>
@@ -128,6 +179,8 @@
                      $(this).remove();
                   });
                })
+
+               $(".all_employee_container").html(response.html);
             }
             else {
                $.each(response.messages, function(key, value) {

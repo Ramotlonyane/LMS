@@ -18,7 +18,7 @@
               <div class="form-group">
                       <label class="control-label col-md-10 col-sm-12" for="numberOfLeaves">Number of Leaves:</label>
                    <div class="col-md-8 col-sm-12">
-                      <input type="number" name="numberOfLeaves" id="numberOfLeaves" class="form-control">
+                      <input type="number" min="0" name="numberOfLeaves" id="numberOfLeaves" class="form-control">
                    </div>
              </div> 
 
@@ -41,59 +41,3 @@
        </div>
     </div>
  </div>
-
- <script type="text/javascript">
- 	
- 	 $('#add-leavetype-form').submit(function(e) {
-      e.preventDefault();
-
-      var me = $(this);
-
-      // perform ajax
-      $.ajax({
-         url: me.attr('action'),
-         type: 'post',
-         data: me.serialize(),
-         dataType: 'json',
-         success: function(response) {
-            if (response.success == true) {
-               // if success we would show message
-               // and also remove the error class
-               $('.the-message').append('<div class="alert alert-success">' +
-                  '<span class="glyphicon glyphicon-ok"></span>' +
-                  ' Leave Type Has Been Added Successfully' +
-                  '</div>');
-               $('.form-group .input-container').removeClass('has-error')
-                               .removeClass('has-success');
-               $('.text-danger').remove();
-
-               // reset the form
-               me[0].reset();
-
-               // close the message after seconds
-               $('.alert-success').delay(500).show(10, function() {
-                  $(this).delay(3000).hide(10, function() {
-                     $(this).remove();
-                  });
-               })
-
-               $(".all_leave_type_container").html(response.html);
-            }
-            else {
-               $.each(response.messages, function(key, value) {
-                  var element = $('#' + key);
-                  
-                  element.closest('div.form-group')
-                  .removeClass('has-error')
-                  .addClass(value.length > 0 ? 'has-error' : 'has-success')
-                  .find('.text-danger')
-                  .remove();
-                  
-                  element.after(value);
-               });
-            }
-         }
-      });
-   });
-
- </script>

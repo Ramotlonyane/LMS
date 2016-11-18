@@ -34,7 +34,7 @@
         <?php foreach ($query->result() as $row): ?>
 			<tr>
 				<td><?php echo $offset++ ?></td>
-				<td id="name" contenteditable><?php echo $row->name; ?></td>
+				<td id="name" contenteditable><?php echo $row->typeName; ?></td>
 				<td id="numberOfLeaves" contenteditable><?php echo $row->numberOfLeaves; ?></td>    					
 				<td id="description" contenteditable><?php echo $row->description; ?></td>
 				<td width="5%" style="text-align: center;"><button type="button" class="btn btn-xs btn btn-info">Preview</button></td>
@@ -53,3 +53,24 @@
 		<li><a href="">3</a></li>
 	</ul> -->
 </nav>
+
+<script type="text/javascript">
+	 $(document).ready(function(){
+
+	 	 $(document).on('click', '.btn_delete', function(){  
+           var id=$(this).data("id3");
+           if(confirm("Are you sure you want to delete this?"))  
+	           {  
+	                $.ajax({  
+	                     url:"index.php/Leave_type_c/delete_LeaveType/"+id,
+	                     method:"POST",  
+	                     data:{id:id},  
+	                     dataType:"text",  
+	                     success:function(data){  
+	                        $(".all_leave_type_container").html(data);
+	                     }  
+	                });  
+	           }  
+	      }); 
+	 });
+</script>

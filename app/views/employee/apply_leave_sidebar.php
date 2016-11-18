@@ -1,11 +1,12 @@
+
 <table class="table table-stiped table-bordered">
 	<thead>
 		<tr>
 			<th width="5%">No</th>
-			<th width="5%">Surname</th>
-			<th width="15%">Initials</th>
-			<th width="5%">Persal Number</th>    					
-			<th width="15%">Telephone</th>
+			<th width="5%">Start Date</th>
+			<th width="15%">End Date</th>
+			<th width="5%">Application Date</th>    					
+			<th width="15%">Number Of Days</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -13,10 +14,10 @@
         <?php foreach ($query->result() as $row): ?>
 			<tr>
 				<td><?php echo $offset++ ?></td>
-				<td><?php echo $row->surname; ?></td>
-				<td><?php echo $row->initial; ?></td>
-				<td><?php echo $row->persalNum; ?></td>   					
-				<td><?php echo $row->telephone; ?></td>
+				<td><?php echo $row->startDate; ?></td>
+				<td><?php echo $row->endDate; ?></td>
+				<td><?php echo $row->applicationDate; ?></td>   					
+				<td><?php echo $row->numberOfDays; ?></td>
 			</tr>
 		<?php endforeach; ?>
 	</tbody>
