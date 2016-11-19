@@ -120,7 +120,7 @@
                         <?php $this->load->view($add_leave_record); ?>
                      </div>
                      <div class="col-md-9 all_leave_record_container">
-                        <?php $this->load->view($add_leave_record_sidebar, array('query' => $all_leave_records_data)); ?>
+                        <?php $this->load->view($add_leave_record_sidebar, array('query' => $all_leave_records_data,'pagination_links' => $pagination_data)); ?>
                      </div>
                      
                   </div>

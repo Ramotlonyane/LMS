@@ -19,13 +19,15 @@ class Auth extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
-
+	private $limit = 10;
 	function __construct(){
 		parent:: __construct();
 		$this->load->model('Leave_type_m');
 		$this->load->model('Employee_m');
 		$this->load->model('Leave_application_m');
 		$this->load->model('Leave_record_m');
+		$this->load->library('pagination');
+		$this->load->helper('app');
 	}
 	public function index()
 	{
@@ -63,16 +65,26 @@ class Auth extends CI_Controller {
 			$queryEmployee 					= $this->Employee_m->all_Employee();
 			$total_rows 					= $this->Employee_m->count_Employee();
 
-			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($subordinate,$sub_subordinate);
-			$total_rows 					= $this->Leave_record_m->count_leave_records();
+			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($subordinate,$sub_subordinate,$this->limit);
+			$total_rows_records 			= $this->Leave_record_m->count_leave_records();
 
 			$queryAppliedLeaveStatus		= $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate);
 			$queryApplicationData			= $this->Leave_application_m->all_leave_application($userID);
 			$total_rows 					= $this->Leave_application_m->count_Leave_application();
 
 			$queryLeaveType 				= $this->Leave_type_m->all();
-			$total_rows 					= $this->Leave_type_m->count();
+			$total_rows_leaveType 			= $this->Leave_type_m->count();
 
+			/*$config['base_url'] 			= 'http://localhost:8081/LMS/index.php';
+			$config['total_rows'] 			= $total_rows_records;
+			$config['per_page'] 			= $this->limit;
+			$config['uri_segment'] 			= 3;
+			$this->pagination->initialize($config);
+			$page_links 					= $this->pagination->create_links();*/
+
+			$pagination_links = pagination($total_rows_records, $this->limit);
+
+			$data['pagination_data']				= $pagination_links;
 			$data['all_employee_data'] 				= $queryEmployee;
 			$data['all_applied_status']				= $queryAppliedLeaveStatus;
 			$data['all_leave_records_data'] 		= $queryLeaveRecord;

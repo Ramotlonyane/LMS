@@ -17,20 +17,25 @@ class Leave_record_m extends CI_Model {
 			}
 	}
 
-	public function all_leave_record($subordinate,$sub_subordinate)
+	public function all_leave_record($subordinate,$sub_subordinate,$limit = 0)
 	{
 		$this->db->select('em.surname, lt.typeName, lv.numberOfLeaves, lv.description');
 		$this->db->from('leaveRecord lv');
-		/*if(!empty($subordinate)){
+		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
+		$this->db->join('employee as em','em.id = lv.idEmployee', 'left');
+		$this->db->join('leaveType as lt','lt.id = lv.idLeaveType','left');
+		$this->db->limit($limit);
+		$this->db->offset($this->uri->segment(3));
+		return $this->db->get();
+		/*$this->db->limit($limit);
+		$this->db->offset($this->uri->segment(3));
+
+		if(!empty($subordinate)){
 			$this->db->where('em.idRole', $subordinate);
 		}
 		if(!empty($sub_subordinate)){
 			$this->db->where('em.idRole', $sub_subordinate);
 		}*/
-		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
-		$this->db->join('employee as em','em.id = lv.idEmployee', 'left');
-		$this->db->join('leaveType as lt','lt.id = lv.idLeaveType','left');
-		return $this->db->get();
 	}
 
 	public function count_leave_records()

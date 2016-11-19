@@ -12402,3 +12402,199 @@ INFO - 2016-11-18 23:16:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.p
 INFO - 2016-11-18 23:16:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
 INFO - 2016-11-18 23:16:13 --> Final output sent to browser
 DEBUG - 2016-11-18 23:16:13 --> Total execution time: 0.7267
+INFO - 2016-11-18 23:24:40 --> Config Class Initialized
+INFO - 2016-11-18 23:24:40 --> Hooks Class Initialized
+DEBUG - 2016-11-18 23:24:41 --> UTF-8 Support Enabled
+INFO - 2016-11-18 23:24:41 --> Utf8 Class Initialized
+INFO - 2016-11-18 23:24:41 --> URI Class Initialized
+DEBUG - 2016-11-18 23:24:41 --> No URI present. Default controller set.
+INFO - 2016-11-18 23:24:41 --> Router Class Initialized
+INFO - 2016-11-18 23:24:41 --> Output Class Initialized
+INFO - 2016-11-18 23:24:41 --> Security Class Initialized
+DEBUG - 2016-11-18 23:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-18 23:24:41 --> Input Class Initialized
+INFO - 2016-11-18 23:24:41 --> Language Class Initialized
+INFO - 2016-11-18 23:24:41 --> Loader Class Initialized
+INFO - 2016-11-18 23:24:41 --> Helper loaded: url_helper
+INFO - 2016-11-18 23:24:42 --> Helper loaded: form_helper
+INFO - 2016-11-18 23:24:42 --> Database Driver Class Initialized
+INFO - 2016-11-18 23:24:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-18 23:24:42 --> Controller Class Initialized
+INFO - 2016-11-18 23:24:42 --> Model Class Initialized
+INFO - 2016-11-18 23:24:42 --> Model Class Initialized
+INFO - 2016-11-18 23:24:42 --> Model Class Initialized
+INFO - 2016-11-18 23:24:42 --> Model Class Initialized
+INFO - 2016-11-18 23:24:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-18 23:24:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-18 23:24:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-18 23:24:43 --> Final output sent to browser
+DEBUG - 2016-11-18 23:24:43 --> Total execution time: 2.2855
+INFO - 2016-11-18 23:26:22 --> Config Class Initialized
+INFO - 2016-11-18 23:26:22 --> Hooks Class Initialized
+DEBUG - 2016-11-18 23:26:22 --> UTF-8 Support Enabled
+INFO - 2016-11-18 23:26:22 --> Utf8 Class Initialized
+INFO - 2016-11-18 23:26:22 --> URI Class Initialized
+INFO - 2016-11-18 23:26:22 --> Router Class Initialized
+INFO - 2016-11-18 23:26:22 --> Output Class Initialized
+INFO - 2016-11-18 23:26:22 --> Security Class Initialized
+DEBUG - 2016-11-18 23:26:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-18 23:26:22 --> Input Class Initialized
+INFO - 2016-11-18 23:26:22 --> Language Class Initialized
+INFO - 2016-11-18 23:26:22 --> Loader Class Initialized
+INFO - 2016-11-18 23:26:22 --> Helper loaded: url_helper
+INFO - 2016-11-18 23:26:22 --> Helper loaded: form_helper
+INFO - 2016-11-18 23:26:22 --> Database Driver Class Initialized
+INFO - 2016-11-18 23:26:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-18 23:26:23 --> Controller Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+DEBUG - 2016-11-18 23:26:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Final output sent to browser
+DEBUG - 2016-11-18 23:26:23 --> Total execution time: 0.9465
+INFO - 2016-11-18 23:26:23 --> Config Class Initialized
+INFO - 2016-11-18 23:26:23 --> Hooks Class Initialized
+DEBUG - 2016-11-18 23:26:23 --> UTF-8 Support Enabled
+INFO - 2016-11-18 23:26:23 --> Utf8 Class Initialized
+INFO - 2016-11-18 23:26:23 --> URI Class Initialized
+DEBUG - 2016-11-18 23:26:23 --> No URI present. Default controller set.
+INFO - 2016-11-18 23:26:23 --> Router Class Initialized
+INFO - 2016-11-18 23:26:23 --> Output Class Initialized
+INFO - 2016-11-18 23:26:23 --> Security Class Initialized
+DEBUG - 2016-11-18 23:26:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-18 23:26:23 --> Input Class Initialized
+INFO - 2016-11-18 23:26:23 --> Language Class Initialized
+INFO - 2016-11-18 23:26:23 --> Loader Class Initialized
+INFO - 2016-11-18 23:26:23 --> Helper loaded: url_helper
+INFO - 2016-11-18 23:26:23 --> Helper loaded: form_helper
+INFO - 2016-11-18 23:26:23 --> Database Driver Class Initialized
+INFO - 2016-11-18 23:26:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-18 23:26:23 --> Controller Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:23 --> Model Class Initialized
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-18 23:26:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-18 23:26:24 --> Final output sent to browser
+DEBUG - 2016-11-18 23:26:24 --> Total execution time: 1.0438
+INFO - 2016-11-18 23:31:43 --> Config Class Initialized
+INFO - 2016-11-18 23:31:43 --> Hooks Class Initialized
+DEBUG - 2016-11-18 23:31:43 --> UTF-8 Support Enabled
+INFO - 2016-11-18 23:31:43 --> Utf8 Class Initialized
+INFO - 2016-11-18 23:31:43 --> URI Class Initialized
+DEBUG - 2016-11-18 23:31:44 --> No URI present. Default controller set.
+INFO - 2016-11-18 23:31:44 --> Router Class Initialized
+INFO - 2016-11-18 23:31:44 --> Output Class Initialized
+INFO - 2016-11-18 23:31:44 --> Security Class Initialized
+DEBUG - 2016-11-18 23:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-18 23:31:44 --> Input Class Initialized
+INFO - 2016-11-18 23:31:44 --> Language Class Initialized
+INFO - 2016-11-18 23:31:44 --> Loader Class Initialized
+INFO - 2016-11-18 23:31:44 --> Helper loaded: url_helper
+INFO - 2016-11-18 23:31:44 --> Helper loaded: form_helper
+INFO - 2016-11-18 23:31:44 --> Database Driver Class Initialized
+INFO - 2016-11-18 23:31:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-18 23:31:44 --> Controller Class Initialized
+INFO - 2016-11-18 23:31:44 --> Model Class Initialized
+INFO - 2016-11-18 23:31:44 --> Model Class Initialized
+INFO - 2016-11-18 23:31:44 --> Model Class Initialized
+INFO - 2016-11-18 23:31:44 --> Model Class Initialized
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-18 23:31:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-18 23:31:44 --> Final output sent to browser
+DEBUG - 2016-11-18 23:31:44 --> Total execution time: 0.9802
+INFO - 2016-11-18 23:40:20 --> Config Class Initialized
+INFO - 2016-11-18 23:40:21 --> Hooks Class Initialized
+DEBUG - 2016-11-18 23:40:21 --> UTF-8 Support Enabled
+INFO - 2016-11-18 23:40:21 --> Utf8 Class Initialized
+INFO - 2016-11-18 23:40:21 --> URI Class Initialized
+DEBUG - 2016-11-18 23:40:21 --> No URI present. Default controller set.
+INFO - 2016-11-18 23:40:21 --> Router Class Initialized
+INFO - 2016-11-18 23:40:21 --> Output Class Initialized
+INFO - 2016-11-18 23:40:21 --> Security Class Initialized
+DEBUG - 2016-11-18 23:40:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-18 23:40:21 --> Input Class Initialized
+INFO - 2016-11-18 23:40:21 --> Language Class Initialized
+INFO - 2016-11-18 23:40:21 --> Loader Class Initialized
+INFO - 2016-11-18 23:40:21 --> Helper loaded: url_helper
+INFO - 2016-11-18 23:40:21 --> Helper loaded: form_helper
+INFO - 2016-11-18 23:40:21 --> Database Driver Class Initialized
+INFO - 2016-11-18 23:40:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-18 23:40:21 --> Controller Class Initialized
+INFO - 2016-11-18 23:40:21 --> Model Class Initialized
+INFO - 2016-11-18 23:40:21 --> Model Class Initialized
+INFO - 2016-11-18 23:40:21 --> Model Class Initialized
+INFO - 2016-11-18 23:40:21 --> Model Class Initialized
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-18 23:40:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-18 23:40:21 --> Final output sent to browser
+DEBUG - 2016-11-18 23:40:21 --> Total execution time: 0.9087
+INFO - 2016-11-18 23:54:26 --> Config Class Initialized
+INFO - 2016-11-18 23:54:26 --> Hooks Class Initialized
+DEBUG - 2016-11-18 23:54:26 --> UTF-8 Support Enabled
+INFO - 2016-11-18 23:54:26 --> Utf8 Class Initialized
+INFO - 2016-11-18 23:54:26 --> URI Class Initialized
+DEBUG - 2016-11-18 23:54:26 --> No URI present. Default controller set.
+INFO - 2016-11-18 23:54:26 --> Router Class Initialized
+INFO - 2016-11-18 23:54:26 --> Output Class Initialized
+INFO - 2016-11-18 23:54:26 --> Security Class Initialized
+DEBUG - 2016-11-18 23:54:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-18 23:54:26 --> Input Class Initialized
+INFO - 2016-11-18 23:54:26 --> Language Class Initialized
+INFO - 2016-11-18 23:54:26 --> Loader Class Initialized
+INFO - 2016-11-18 23:54:26 --> Helper loaded: url_helper
+INFO - 2016-11-18 23:54:26 --> Helper loaded: form_helper
+INFO - 2016-11-18 23:54:26 --> Database Driver Class Initialized
+INFO - 2016-11-18 23:54:26 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-18 23:54:26 --> Controller Class Initialized
+INFO - 2016-11-18 23:54:26 --> Model Class Initialized
+INFO - 2016-11-18 23:54:26 --> Model Class Initialized
+INFO - 2016-11-18 23:54:26 --> Model Class Initialized
+INFO - 2016-11-18 23:54:26 --> Model Class Initialized
+INFO - 2016-11-18 23:54:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-18 23:54:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+INFO - 2016-11-18 23:54:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-18 23:54:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-18 23:54:27 --> Final output sent to browser
+DEBUG - 2016-11-18 23:54:27 --> Total execution time: 0.9484
