@@ -55,7 +55,8 @@ INSERT INTO bar (description, foo_id) VALUES
 -- --------------------------------------------------------
 
 alter table employee add address varchar(100)
-alter table employee add bDeleted tinyint(1)
+alter table employee add bDeleted tinyint(1) DEFAULT 0
+ALTER TABLE `employee` CHANGE `bDeleted` `bDeleted` TINYINT(1) NULL DEFAULT '0'; 
 alter table employee drop COLUMN idAuth
 alter table employee drop foreign key
 alter table employee ADD foreign key (idRole) references role(id)

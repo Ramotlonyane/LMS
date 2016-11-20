@@ -130,3 +130,71 @@
 [08-Nov-2016 15:11:34 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
 [08-Nov-2016 15:12:21 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
 [08-Nov-2016 15:12:32 Europe/Paris] PHP Fatal error:  Call to a member function has_role() on a non-object in /var/www/html/ramotlonyane_modise/LMS/app/controllers/Employee_c.php on line 30
+[19-Nov-2016 17:50:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 108
+[19-Nov-2016 18:08:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 116
+[19-Nov-2016 18:08:44 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:08:58 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:12:33 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:14:33 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:28:05 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:28:12 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:39:22 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:43:13 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:43:33 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:46:52 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:48:34 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:49:09 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:49:14 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:51:59 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:53:50 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 18:54:52 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:15 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:21 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:26 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:28 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:30 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:32 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:35 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 20:40:37 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 21:01:56 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 21:02:00 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[19-Nov-2016 21:15:37 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 103
+[19-Nov-2016 21:15:51 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 103
+[19-Nov-2016 21:21:45 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:48 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:48 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:48 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:48 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:48 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:49 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:49 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:52 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:52 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:53 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:53 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:53 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:53 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:53 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:53 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:54 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:21:54 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:22:45 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:22:47 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:22:47 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:22:47 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:22:47 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 170
+[19-Nov-2016 21:24:42 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 106
+[19-Nov-2016 21:30:47 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php on line 15
+[19-Nov-2016 21:30:53 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php on line 15
+[19-Nov-2016 21:43:22 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php on line 15
+[19-Nov-2016 23:04:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in C:\xampp\htdocs\LMS\app\controllers\Auth.php on line 90
+[19-Nov-2016 23:29:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',', expecting ')' in C:\xampp\htdocs\LMS\app\views\dashboard.php on line 65
+[20-Nov-2016 01:38:12 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\LMS\app\helpers\app_helper.php on line 52
+[20-Nov-2016 01:39:34 Europe/Berlin] PHP Fatal error:  Call to a member function initialize() on null in C:\xampp\htdocs\LMS\app\helpers\app_helper.php on line 53
+[20-Nov-2016 01:41:05 Europe/Berlin] PHP Fatal error:  Call to a member function initialize() on null in C:\xampp\htdocs\LMS\app\helpers\app_helper.php on line 60
+[20-Nov-2016 01:41:07 Europe/Berlin] PHP Fatal error:  Call to a member function initialize() on null in C:\xampp\htdocs\LMS\app\helpers\app_helper.php on line 60
+[20-Nov-2016 01:42:12 Europe/Berlin] PHP Fatal error:  Call to a member function initialize() on null in C:\xampp\htdocs\LMS\app\helpers\app_helper.php on line 60
+[20-Nov-2016 01:44:26 Europe/Berlin] PHP Fatal error:  Call to a member function initialize() on null in C:\xampp\htdocs\LMS\app\helpers\app_helper.php on line 60
+[20-Nov-2016 01:57:35 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[20-Nov-2016 14:26:50 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[20-Nov-2016 15:15:37 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113

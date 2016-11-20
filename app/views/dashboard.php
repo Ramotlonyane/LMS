@@ -35,13 +35,13 @@
                </li>  
                <li><a data-toggle="tab" href="#appliedleave">APPROVE LEAVE</a></li>
                <li><a data-toggle="tab" href="#apply">APPLY LEAVE</a></li>
-               <li><a data-toggle="tab" href="#myleave">MY LEAVE</a></li>  
+               <li><a data-toggle="tab" href="#myleave">MY LEAVE STATUS</a></li>  
                <?php
             }
             else{
                 ?> 
                <li><a data-toggle="tab" href="#apply">APPLY LEAVE</a></li>
-               <li><a data-toggle="tab" href="#myleave">MY LEAVE</a></li>
+               <li><a data-toggle="tab" href="#myleave">MY LEAVE STATUS</a></li>
                <?php
             }
          ?> 
@@ -61,13 +61,13 @@
               <div class="col-md-3">
                 <?php $this->load->view($apply_leave); ?>
               </div>
-              <div class="col-md-9 all_leave_application_data">
-                <?php $this->load->view($apply_leave_sidebar, array('query' => $all_leave_application_data)); ?>
+              <div class="col-md-9 all_leave_application_data resultTable">
+                <?php $this->load->view($apply_leave_sidebar, array('query' => $all_leave_application_data, 'pagination_links' => $pagination_data_leaveapplied)); ?>
               </div>
             </div>
 
-            <div id="myleave" class="tab-pane fade">
-               <?php $this->load->view($myleave); ?>
+            <div id="myleave" class="tab-pane fade resultTable">
+               <?php $this->load->view($myleave, array('query' => $all_applied_Mystatus,'pagination_links' => $pagination_data_Mystatus)); ?>
             </div>
             <?php
          }
@@ -92,8 +92,8 @@
                      <div class="col-md-3">
                         <?php $this->load->view($add_leave_type); ?>
                      </div>
-                     <div class="col-md-9 all_leave_type_container">
-                        <?php $this->load->view($all_leave_type, array("query" => $all_leave_type_data)); ?>
+                     <div class="col-md-9 all_leave_type_container resultTable">
+                        <?php $this->load->view($all_leave_type, array("query" => $all_leave_type_data,'pagination_links' => $pagination_data_leaves)); ?>
                      </div>
                   </div>
                   <!-- REPORTS DROPDOWN PAGES-->
@@ -112,15 +112,15 @@
          <?php 
             if ($user['idrole'] == '2' || $user['idrole'] == '3' || $user['idrole'] == '4' || $user['idrole'] == '5' || $user['idrole'] == '6' || $user['idrole'] == '7' || $user['idrole'] == '8') {
                ?>
-                  <div id="appliedleave" class="tab-pane fade applied_leave_status">
-                     <?php $this->load->view($applied_leave, array("query" => $all_applied_status)); ?>
+                  <div id="appliedleave" class="tab-pane fade applied_leave_status resultTable">
+                     <?php $this->load->view($applied_leave, array("query" => $all_applied_status, 'pagination_links' => $pagination_data_status)); ?>
                   </div>
                   <div id="addleaverecords" class="tab-pane fade">
                       <div class="col-md-3">
                         <?php $this->load->view($add_leave_record); ?>
                      </div>
-                     <div class="col-md-9 all_leave_record_container">
-                        <?php $this->load->view($add_leave_record_sidebar, array('query' => $all_leave_records_data,'pagination_links' => $pagination_data)); ?>
+                     <div class="col-md-9 all_leave_record_container resultTable">
+                        <?php $this->load->view($add_leave_record_sidebar, array('query' => $all_leave_records_data,'pagination_links' => $pagination_data_records)); ?>
                      </div>
                      
                   </div>

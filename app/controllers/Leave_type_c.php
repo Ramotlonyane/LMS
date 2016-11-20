@@ -18,9 +18,11 @@ class Leave_type_c extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+	private $limit = 10;
 	function __construct(){
 		parent:: __construct();
 		$this->load->model('Leave_type_m');
+		$this->load->library('form_validation');
 	}
 	public function index()
 	{
@@ -39,8 +41,6 @@ class Leave_type_c extends CI_Controller {
 		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1')
 		{
 			$data = array('success' => false, 'messages' => array());
-
-			$this->load->library('form_validation');
 
 			$this->form_validation->set_rules("leavename", "Leave Name", "trim|required");
 			$this->form_validation->set_rules("numberOfLeaves", "Number of Leaves", "trim|required");
@@ -71,8 +71,12 @@ class Leave_type_c extends CI_Controller {
 			}
 
 			if (array_key_exists("success", $data) && $data['success'] === true) {
-				$query = $this->Leave_type_m->all();
 
+				$query 						= $this->Leave_type_m->all($this->limit);
+				$total_rows_leaveType 		= $this->Leave_type_m->count();
+				$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
+
+				$data['pagination_links']	= $pagination_links_records;
 				$data_leave['query'] = $query;
 
 				$data['html'] = $this->load->view("admin/all_leave_type", $data_leave, true);
@@ -97,9 +101,12 @@ class Leave_type_c extends CI_Controller {
 			
 			$this->Leave_type_m->remove_LeaveType($id);
 
-			$query = $this->Leave_type_m->all();
+			$query 						= $this->Leave_type_m->all($this->limit);
+			$total_rows_leaveType 		= $this->Leave_type_m->count();
+			$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
 
-			$data['query'] = $query;
+			$data['pagination_links']	= $pagination_links_records;
+			$data['query'] 				= $query;
 			$this->load->view("admin/all_leave_type", $data);
 
 		}else {
@@ -125,8 +132,11 @@ class Leave_type_c extends CI_Controller {
 
 				if($this->Leave_type_m->update_LeaveType($data))
 			    	{
-			        	$query = $this->Leave_type_m->all();
+			        	$query 						= $this->Leave_type_m->all($this->limit);
+						$total_rows_leaveType 		= $this->Leave_type_m->count();
+						$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
 
+						$data['pagination_links']	= $pagination_links_records;
 						$data['query'] = $query;
 						$this->load->view("admin/all_leave_type", $data);
 			    	}
@@ -154,6 +164,11 @@ class Leave_type_c extends CI_Controller {
 			$data = array('nameOfLeave'   => $nameOfLeave, 
 	                      'leaveNumber'   => $leaveNumber,	
 	                      );
+			$query 						= $this->Leave_type_m->all($this->limit);
+			$total_rows_leaveType 		= $this->Leave_type_m->count();
+			$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
+
+			$data['pagination_links']	= $pagination_links_records;
 
 			$data['query'] = $this->Leave_type_m->find_LeaveType($data);
 			$this->load->view("admin/all_leave_type", $data);

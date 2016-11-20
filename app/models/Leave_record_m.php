@@ -17,30 +17,32 @@ class Leave_record_m extends CI_Model {
 			}
 	}
 
+	public function remove_LeaveRecord($id){
+		$this->db->where('id', $id);
+		$this->db->update('leaveRecord',array('bDeleted'=>1));
+	}
+
 	public function all_leave_record($subordinate,$sub_subordinate,$limit = 0)
 	{
-		$this->db->select('em.surname, lt.typeName, lv.numberOfLeaves, lv.description');
+		$this->db->select('em.surname, lt.typeName, lv.numberOfLeaves, lv.description, lv.id');
 		$this->db->from('leaveRecord lv');
 		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
+		$this->db->where('lv.bDeleted', 0);
 		$this->db->join('employee as em','em.id = lv.idEmployee', 'left');
 		$this->db->join('leaveType as lt','lt.id = lv.idLeaveType','left');
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
 		return $this->db->get();
-		/*$this->db->limit($limit);
-		$this->db->offset($this->uri->segment(3));
-
-		if(!empty($subordinate)){
-			$this->db->where('em.idRole', $subordinate);
-		}
-		if(!empty($sub_subordinate)){
-			$this->db->where('em.idRole', $sub_subordinate);
-		}*/
 	}
 
-	public function count_leave_records()
+	public function count_leave_records($subordinate,$sub_subordinate)
 	{
-		return $this->db->count_all_results($this->table);		
+		$this->db->select('lv.*');
+		$this->db->from('leaveRecord lv');
+		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
+		$this->db->where('lv.bDeleted', 0);
+		$this->db->join('employee as em','em.id = lv.idEmployee', 'left');
+		return $this->db->count_all_results();		
 	}
 	public function get_Employee($subordinate,$sub_subordinate){
 		
@@ -53,6 +55,17 @@ class Leave_record_m extends CI_Model {
 	}
 
 }
+
+
+
+
+
+
+	/*$this->db->select('r.id, r2.id AS subordinate, r3.id AS sub_subordinate')
+					 ->from("role r")
+					 ->join("role r2", "r2.id = r.idSubordinate", "left")
+					 ->join("role r3", "r3.id = r2.idSubordinate", "left")
+					 ->where("r.id", $userRole);*/
 
 	/*public function get_Employee($subordinate){
 		

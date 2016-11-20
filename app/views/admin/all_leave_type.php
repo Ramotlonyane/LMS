@@ -46,7 +46,7 @@
 </table>
 
 <nav class='text-center'>
-    <?php /*echo $pagination_links;*/ ?>
+    <?php echo $pagination_links; ?>
 	<!-- <ul class="pagination">
 		<li><a href="">1</a></li>
 		<li><a href="">2</a></li>
@@ -57,7 +57,7 @@
 <script type="text/javascript">
 	 $(document).ready(function(){
 
-	 	 $(document).on('click', '.btn_delete', function(){  
+	 	 $('.btn_delete').on('click', function () {  
            var id=$(this).data("id3");
            if(confirm("Are you sure you want to delete this?"))  
 	           {  
@@ -69,7 +69,9 @@
 	                     success:function(data){  
 	                        $(".all_leave_type_container").html(data);
 	                     }  
-	                });  
+	                });
+	            event.stopPropagation();
+        		event.preventDefault();  
 	           }  
 	      }); 
 	 });

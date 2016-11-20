@@ -1,4 +1,3 @@
-
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -27,6 +26,7 @@ class Auth extends CI_Controller {
 		$this->load->model('Leave_application_m');
 		$this->load->model('Leave_record_m');
 		$this->load->library('pagination');
+		$this->load->library('ajax_pagination');
 		$this->load->helper('app');
 	}
 	public function index()
@@ -66,26 +66,35 @@ class Auth extends CI_Controller {
 			$total_rows 					= $this->Employee_m->count_Employee();
 
 			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($subordinate,$sub_subordinate,$this->limit);
-			$total_rows_records 			= $this->Leave_record_m->count_leave_records();
+			$total_rows_records 			= $this->Leave_record_m->count_leave_records($subordinate,$sub_subordinate);
 
-			$queryAppliedLeaveStatus		= $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate);
-			$queryApplicationData			= $this->Leave_application_m->all_leave_application($userID);
-			$total_rows 					= $this->Leave_application_m->count_Leave_application();
+			$queryAppliedLeaveStatus		= $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate,$this->limit);
+			$total_rows_leavestatus 		= $this->Leave_application_m->count_Leave_status($subordinate,$sub_subordinate);
 
-			$queryLeaveType 				= $this->Leave_type_m->all();
+			$queryMyappliedLeaveStatus		= $this->Leave_application_m->all_Myapplied_leave_status($userID,$this->limit);
+			$total_rows_Myleavestatus 		= $this->Leave_application_m->count_Myleave_status($userID);
+
+			$queryApplicationData			= $this->Leave_application_m->all_leave_application($userID,$this->limit);
+			$total_rows_leaveapplied 		= $this->Leave_application_m->count_Leave_application($userID);
+
+			$queryLeaveType 				= $this->Leave_type_m->all($this->limit);
 			$total_rows_leaveType 			= $this->Leave_type_m->count();
+			
+			$pagination_links_leavetype 		= ajax_pagination($total_rows_leaveType, $this->limit);
+			$pagination_links_Mystatus 			= ajax_pagination($total_rows_Myleavestatus, $this->limit);
+			$pagination_links_status 			= ajax_pagination($total_rows_leavestatus, $this->limit);
+			$pagination_links_records 			= ajax_pagination($total_rows_records, $this->limit);
+			$pagination_links_leaveapplied 		= ajax_pagination($total_rows_leaveapplied, $this->limit);
 
-			/*$config['base_url'] 			= 'http://localhost:8081/LMS/index.php';
-			$config['total_rows'] 			= $total_rows_records;
-			$config['per_page'] 			= $this->limit;
-			$config['uri_segment'] 			= 3;
-			$this->pagination->initialize($config);
-			$page_links 					= $this->pagination->create_links();*/
+			$data['pagination_data_leaveapplied']	= $pagination_links_leaveapplied;
+			$data['pagination_data_leaves']			= $pagination_links_leavetype;
+			$data['pagination_data_records']		= $pagination_links_records;
+			$data['pagination_data_status']			= $pagination_links_status;
+			$data['pagination_data_Mystatus']		= $pagination_links_Mystatus;
 
-			$pagination_links = pagination($total_rows_records, $this->limit);
 
-			$data['pagination_data']				= $pagination_links;
 			$data['all_employee_data'] 				= $queryEmployee;
+			$data['all_applied_Mystatus']			= $queryMyappliedLeaveStatus;
 			$data['all_applied_status']				= $queryAppliedLeaveStatus;
 			$data['all_leave_records_data'] 		= $queryLeaveRecord;
 			$data['all_leave_type_data'] 			= $queryLeaveType;
@@ -118,6 +127,20 @@ class Auth extends CI_Controller {
 			$this->login();
 		}
 	}
+
+	function ajaxPaginationData()
+    {
+
+        $page = $this->input->post('page');
+        if(!$page){
+            $offset = 0;
+        }else {
+            $offset = $page;
+        }
+        $total_rows_leaveType 		= $this->Leave_type_m->count();
+        $pagination_links_leaves 	= ajax_pagination($total_rows_leaveType, $this->limit);
+
+    }
 
 	function login()
 	{

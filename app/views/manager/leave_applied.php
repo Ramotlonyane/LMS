@@ -40,7 +40,7 @@
 </table>
 
 <nav class='text-center'>
-    <?php /*echo $pagination_links;*/ ?>
+    <?php echo $pagination_links; ?>
 	<!-- <ul class="pagination">
 		<li><a href="">1</a></li>
 		<li><a href="">2</a></li>

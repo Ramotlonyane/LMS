@@ -4130,3 +4130,10451 @@ INFO - 2016-11-19 02:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.p
 INFO - 2016-11-19 02:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
 INFO - 2016-11-19 02:41:28 --> Final output sent to browser
 DEBUG - 2016-11-19 02:41:28 --> Total execution time: 0.4459
+INFO - 2016-11-19 16:53:10 --> Config Class Initialized
+INFO - 2016-11-19 16:53:10 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:53:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:53:11 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:53:11 --> URI Class Initialized
+DEBUG - 2016-11-19 16:53:11 --> No URI present. Default controller set.
+INFO - 2016-11-19 16:53:11 --> Router Class Initialized
+INFO - 2016-11-19 16:53:11 --> Output Class Initialized
+INFO - 2016-11-19 16:53:11 --> Security Class Initialized
+DEBUG - 2016-11-19 16:53:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:53:11 --> Input Class Initialized
+INFO - 2016-11-19 16:53:11 --> Language Class Initialized
+INFO - 2016-11-19 16:53:12 --> Loader Class Initialized
+INFO - 2016-11-19 16:53:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:53:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:53:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:53:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:53:12 --> Controller Class Initialized
+INFO - 2016-11-19 16:53:12 --> Model Class Initialized
+INFO - 2016-11-19 16:53:12 --> Model Class Initialized
+INFO - 2016-11-19 16:53:12 --> Model Class Initialized
+INFO - 2016-11-19 16:53:13 --> Model Class Initialized
+INFO - 2016-11-19 16:53:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 16:53:13 --> Pagination Class Initialized
+INFO - 2016-11-19 16:53:13 --> Helper loaded: app_helper
+INFO - 2016-11-19 16:53:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 16:53:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 16:53:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 16:53:13 --> Final output sent to browser
+DEBUG - 2016-11-19 16:53:13 --> Total execution time: 2.9688
+INFO - 2016-11-19 16:53:27 --> Config Class Initialized
+INFO - 2016-11-19 16:53:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:53:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:53:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:53:27 --> URI Class Initialized
+INFO - 2016-11-19 16:53:28 --> Router Class Initialized
+INFO - 2016-11-19 16:53:28 --> Output Class Initialized
+INFO - 2016-11-19 16:53:28 --> Security Class Initialized
+DEBUG - 2016-11-19 16:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:53:28 --> Input Class Initialized
+INFO - 2016-11-19 16:53:28 --> Language Class Initialized
+INFO - 2016-11-19 16:53:28 --> Loader Class Initialized
+INFO - 2016-11-19 16:53:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:53:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:53:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:53:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:53:28 --> Controller Class Initialized
+INFO - 2016-11-19 16:53:28 --> Model Class Initialized
+INFO - 2016-11-19 16:53:28 --> Model Class Initialized
+INFO - 2016-11-19 16:53:28 --> Model Class Initialized
+INFO - 2016-11-19 16:53:28 --> Model Class Initialized
+INFO - 2016-11-19 16:53:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 16:53:29 --> Pagination Class Initialized
+INFO - 2016-11-19 16:53:29 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 16:53:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 16:53:29 --> Model Class Initialized
+INFO - 2016-11-19 16:53:29 --> Final output sent to browser
+DEBUG - 2016-11-19 16:53:29 --> Total execution time: 1.5779
+INFO - 2016-11-19 16:53:29 --> Config Class Initialized
+INFO - 2016-11-19 16:53:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:53:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:53:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:53:29 --> URI Class Initialized
+DEBUG - 2016-11-19 16:53:29 --> No URI present. Default controller set.
+INFO - 2016-11-19 16:53:29 --> Router Class Initialized
+INFO - 2016-11-19 16:53:29 --> Output Class Initialized
+INFO - 2016-11-19 16:53:29 --> Security Class Initialized
+DEBUG - 2016-11-19 16:53:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:53:29 --> Input Class Initialized
+INFO - 2016-11-19 16:53:29 --> Language Class Initialized
+INFO - 2016-11-19 16:53:29 --> Loader Class Initialized
+INFO - 2016-11-19 16:53:29 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:53:29 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:53:29 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:53:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:53:29 --> Controller Class Initialized
+INFO - 2016-11-19 16:53:29 --> Model Class Initialized
+INFO - 2016-11-19 16:53:29 --> Model Class Initialized
+INFO - 2016-11-19 16:53:29 --> Model Class Initialized
+INFO - 2016-11-19 16:53:29 --> Model Class Initialized
+INFO - 2016-11-19 16:53:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 16:53:29 --> Pagination Class Initialized
+INFO - 2016-11-19 16:53:29 --> Helper loaded: app_helper
+INFO - 2016-11-19 16:53:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 16:53:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 16:53:30 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 16:53:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 16:53:30 --> Final output sent to browser
+DEBUG - 2016-11-19 16:53:30 --> Total execution time: 1.2801
+INFO - 2016-11-19 16:56:22 --> Config Class Initialized
+INFO - 2016-11-19 16:56:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:56:22 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:56:22 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:56:22 --> URI Class Initialized
+DEBUG - 2016-11-19 16:56:22 --> No URI present. Default controller set.
+INFO - 2016-11-19 16:56:22 --> Router Class Initialized
+INFO - 2016-11-19 16:56:22 --> Output Class Initialized
+INFO - 2016-11-19 16:56:22 --> Security Class Initialized
+DEBUG - 2016-11-19 16:56:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:56:22 --> Input Class Initialized
+INFO - 2016-11-19 16:56:22 --> Language Class Initialized
+INFO - 2016-11-19 16:56:22 --> Loader Class Initialized
+INFO - 2016-11-19 16:56:22 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:56:22 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:56:22 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:56:22 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:56:22 --> Controller Class Initialized
+INFO - 2016-11-19 16:56:22 --> Model Class Initialized
+INFO - 2016-11-19 16:56:22 --> Model Class Initialized
+INFO - 2016-11-19 16:56:22 --> Model Class Initialized
+INFO - 2016-11-19 16:56:22 --> Model Class Initialized
+INFO - 2016-11-19 16:56:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 16:56:22 --> Pagination Class Initialized
+INFO - 2016-11-19 16:56:22 --> Helper loaded: app_helper
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 16:56:22 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 16:56:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 16:56:22 --> Final output sent to browser
+DEBUG - 2016-11-19 16:56:23 --> Total execution time: 0.5891
+INFO - 2016-11-19 16:56:40 --> Config Class Initialized
+INFO - 2016-11-19 16:56:40 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:56:40 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:56:40 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:56:40 --> URI Class Initialized
+DEBUG - 2016-11-19 16:56:40 --> No URI present. Default controller set.
+INFO - 2016-11-19 16:56:40 --> Router Class Initialized
+INFO - 2016-11-19 16:56:40 --> Output Class Initialized
+INFO - 2016-11-19 16:56:40 --> Security Class Initialized
+DEBUG - 2016-11-19 16:56:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:56:40 --> Input Class Initialized
+INFO - 2016-11-19 16:56:40 --> Language Class Initialized
+INFO - 2016-11-19 16:56:40 --> Loader Class Initialized
+INFO - 2016-11-19 16:56:40 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:56:40 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:56:40 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:56:40 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:56:40 --> Controller Class Initialized
+INFO - 2016-11-19 16:56:40 --> Model Class Initialized
+INFO - 2016-11-19 16:56:40 --> Model Class Initialized
+INFO - 2016-11-19 16:56:40 --> Model Class Initialized
+INFO - 2016-11-19 16:56:40 --> Model Class Initialized
+INFO - 2016-11-19 16:56:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 16:56:40 --> Pagination Class Initialized
+INFO - 2016-11-19 16:56:40 --> Helper loaded: app_helper
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 16:56:40 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 16:56:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 16:56:40 --> Final output sent to browser
+DEBUG - 2016-11-19 16:56:40 --> Total execution time: 0.5829
+INFO - 2016-11-19 16:57:11 --> Config Class Initialized
+INFO - 2016-11-19 16:57:11 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:57:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:57:11 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:57:11 --> URI Class Initialized
+INFO - 2016-11-19 16:57:11 --> Router Class Initialized
+INFO - 2016-11-19 16:57:11 --> Output Class Initialized
+INFO - 2016-11-19 16:57:11 --> Security Class Initialized
+DEBUG - 2016-11-19 16:57:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:57:11 --> Input Class Initialized
+INFO - 2016-11-19 16:57:11 --> Language Class Initialized
+INFO - 2016-11-19 16:57:11 --> Loader Class Initialized
+INFO - 2016-11-19 16:57:11 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:57:11 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:57:11 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:57:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:57:11 --> Controller Class Initialized
+INFO - 2016-11-19 16:57:11 --> Model Class Initialized
+INFO - 2016-11-19 16:57:11 --> Form Validation Class Initialized
+INFO - 2016-11-19 16:57:11 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 16:57:11 --> Final output sent to browser
+DEBUG - 2016-11-19 16:57:11 --> Total execution time: 0.4147
+INFO - 2016-11-19 16:57:42 --> Config Class Initialized
+INFO - 2016-11-19 16:57:42 --> Hooks Class Initialized
+DEBUG - 2016-11-19 16:57:42 --> UTF-8 Support Enabled
+INFO - 2016-11-19 16:57:42 --> Utf8 Class Initialized
+INFO - 2016-11-19 16:57:42 --> URI Class Initialized
+DEBUG - 2016-11-19 16:57:42 --> No URI present. Default controller set.
+INFO - 2016-11-19 16:57:42 --> Router Class Initialized
+INFO - 2016-11-19 16:57:42 --> Output Class Initialized
+INFO - 2016-11-19 16:57:42 --> Security Class Initialized
+DEBUG - 2016-11-19 16:57:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 16:57:42 --> Input Class Initialized
+INFO - 2016-11-19 16:57:43 --> Language Class Initialized
+INFO - 2016-11-19 16:57:43 --> Loader Class Initialized
+INFO - 2016-11-19 16:57:43 --> Helper loaded: url_helper
+INFO - 2016-11-19 16:57:43 --> Helper loaded: form_helper
+INFO - 2016-11-19 16:57:43 --> Database Driver Class Initialized
+INFO - 2016-11-19 16:57:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 16:57:43 --> Controller Class Initialized
+INFO - 2016-11-19 16:57:43 --> Model Class Initialized
+INFO - 2016-11-19 16:57:43 --> Model Class Initialized
+INFO - 2016-11-19 16:57:43 --> Model Class Initialized
+INFO - 2016-11-19 16:57:43 --> Model Class Initialized
+INFO - 2016-11-19 16:57:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 16:57:43 --> Pagination Class Initialized
+INFO - 2016-11-19 16:57:43 --> Helper loaded: app_helper
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 16:57:43 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 16:57:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 16:57:43 --> Final output sent to browser
+DEBUG - 2016-11-19 16:57:43 --> Total execution time: 1.2327
+INFO - 2016-11-19 17:00:02 --> Config Class Initialized
+INFO - 2016-11-19 17:00:03 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:00:03 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:00:03 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:00:03 --> URI Class Initialized
+INFO - 2016-11-19 17:00:03 --> Router Class Initialized
+INFO - 2016-11-19 17:00:03 --> Output Class Initialized
+INFO - 2016-11-19 17:00:03 --> Security Class Initialized
+DEBUG - 2016-11-19 17:00:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:00:03 --> Input Class Initialized
+INFO - 2016-11-19 17:00:03 --> Language Class Initialized
+INFO - 2016-11-19 17:00:03 --> Loader Class Initialized
+INFO - 2016-11-19 17:00:03 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:00:03 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:00:03 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:00:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:00:03 --> Controller Class Initialized
+INFO - 2016-11-19 17:00:03 --> Model Class Initialized
+INFO - 2016-11-19 17:00:03 --> Model Class Initialized
+INFO - 2016-11-19 17:00:03 --> Model Class Initialized
+INFO - 2016-11-19 17:00:04 --> Model Class Initialized
+INFO - 2016-11-19 17:00:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:00:04 --> Pagination Class Initialized
+INFO - 2016-11-19 17:00:04 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 17:00:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 17:00:04 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+ERROR - 2016-11-19 17:00:05 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+INFO - 2016-11-19 17:00:05 --> Config Class Initialized
+INFO - 2016-11-19 17:00:05 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:00:05 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:00:05 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:00:05 --> URI Class Initialized
+DEBUG - 2016-11-19 17:00:05 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:00:05 --> Router Class Initialized
+INFO - 2016-11-19 17:00:05 --> Output Class Initialized
+INFO - 2016-11-19 17:00:05 --> Security Class Initialized
+DEBUG - 2016-11-19 17:00:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:00:05 --> Input Class Initialized
+INFO - 2016-11-19 17:00:05 --> Language Class Initialized
+INFO - 2016-11-19 17:00:05 --> Loader Class Initialized
+INFO - 2016-11-19 17:00:05 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:00:05 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:00:05 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:00:05 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:00:05 --> Controller Class Initialized
+INFO - 2016-11-19 17:00:05 --> Model Class Initialized
+INFO - 2016-11-19 17:00:05 --> Model Class Initialized
+INFO - 2016-11-19 17:00:05 --> Model Class Initialized
+INFO - 2016-11-19 17:00:05 --> Model Class Initialized
+INFO - 2016-11-19 17:00:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:00:06 --> Pagination Class Initialized
+INFO - 2016-11-19 17:00:06 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:00:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:00:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 17:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:00:07 --> Final output sent to browser
+DEBUG - 2016-11-19 17:00:07 --> Total execution time: 1.6164
+INFO - 2016-11-19 17:17:24 --> Config Class Initialized
+INFO - 2016-11-19 17:17:24 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:17:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:17:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:17:25 --> URI Class Initialized
+INFO - 2016-11-19 17:17:25 --> Router Class Initialized
+INFO - 2016-11-19 17:17:25 --> Output Class Initialized
+INFO - 2016-11-19 17:17:25 --> Security Class Initialized
+DEBUG - 2016-11-19 17:17:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:17:25 --> Input Class Initialized
+INFO - 2016-11-19 17:17:25 --> Language Class Initialized
+INFO - 2016-11-19 17:17:26 --> Loader Class Initialized
+INFO - 2016-11-19 17:17:26 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:17:26 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:17:26 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:17:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:17:27 --> Controller Class Initialized
+INFO - 2016-11-19 17:17:27 --> Model Class Initialized
+INFO - 2016-11-19 17:17:27 --> Model Class Initialized
+INFO - 2016-11-19 17:17:27 --> Model Class Initialized
+INFO - 2016-11-19 17:17:27 --> Model Class Initialized
+INFO - 2016-11-19 17:17:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:17:27 --> Pagination Class Initialized
+INFO - 2016-11-19 17:17:27 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 17:17:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:17:27 --> Model Class Initialized
+INFO - 2016-11-19 17:17:27 --> Final output sent to browser
+DEBUG - 2016-11-19 17:17:27 --> Total execution time: 3.4588
+INFO - 2016-11-19 17:17:27 --> Config Class Initialized
+INFO - 2016-11-19 17:17:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:17:28 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:17:28 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:17:28 --> URI Class Initialized
+DEBUG - 2016-11-19 17:17:28 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:17:28 --> Router Class Initialized
+INFO - 2016-11-19 17:17:28 --> Output Class Initialized
+INFO - 2016-11-19 17:17:28 --> Security Class Initialized
+DEBUG - 2016-11-19 17:17:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:17:28 --> Input Class Initialized
+INFO - 2016-11-19 17:17:28 --> Language Class Initialized
+INFO - 2016-11-19 17:17:28 --> Loader Class Initialized
+INFO - 2016-11-19 17:17:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:17:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:17:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:17:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:17:28 --> Controller Class Initialized
+INFO - 2016-11-19 17:17:28 --> Model Class Initialized
+INFO - 2016-11-19 17:17:28 --> Model Class Initialized
+INFO - 2016-11-19 17:17:28 --> Model Class Initialized
+INFO - 2016-11-19 17:17:28 --> Model Class Initialized
+INFO - 2016-11-19 17:17:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:17:28 --> Pagination Class Initialized
+INFO - 2016-11-19 17:17:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:17:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:17:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:17:29 --> Final output sent to browser
+DEBUG - 2016-11-19 17:17:29 --> Total execution time: 1.6237
+INFO - 2016-11-19 17:21:48 --> Config Class Initialized
+INFO - 2016-11-19 17:21:48 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:21:48 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:21:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:21:49 --> URI Class Initialized
+DEBUG - 2016-11-19 17:21:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:21:49 --> Router Class Initialized
+INFO - 2016-11-19 17:21:49 --> Output Class Initialized
+INFO - 2016-11-19 17:21:49 --> Security Class Initialized
+DEBUG - 2016-11-19 17:21:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:21:49 --> Input Class Initialized
+INFO - 2016-11-19 17:21:49 --> Language Class Initialized
+INFO - 2016-11-19 17:21:49 --> Loader Class Initialized
+INFO - 2016-11-19 17:21:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:21:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:21:49 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:21:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:21:49 --> Controller Class Initialized
+INFO - 2016-11-19 17:21:49 --> Model Class Initialized
+INFO - 2016-11-19 17:21:49 --> Model Class Initialized
+INFO - 2016-11-19 17:21:49 --> Model Class Initialized
+INFO - 2016-11-19 17:21:49 --> Model Class Initialized
+INFO - 2016-11-19 17:21:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:21:49 --> Pagination Class Initialized
+INFO - 2016-11-19 17:21:49 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:21:49 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:21:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:21:49 --> Final output sent to browser
+DEBUG - 2016-11-19 17:21:49 --> Total execution time: 0.5763
+INFO - 2016-11-19 17:22:16 --> Config Class Initialized
+INFO - 2016-11-19 17:22:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:22:16 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:22:16 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:22:16 --> URI Class Initialized
+DEBUG - 2016-11-19 17:22:16 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:22:16 --> Router Class Initialized
+INFO - 2016-11-19 17:22:16 --> Output Class Initialized
+INFO - 2016-11-19 17:22:16 --> Security Class Initialized
+DEBUG - 2016-11-19 17:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:22:16 --> Input Class Initialized
+INFO - 2016-11-19 17:22:16 --> Language Class Initialized
+INFO - 2016-11-19 17:22:16 --> Loader Class Initialized
+INFO - 2016-11-19 17:22:16 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:22:16 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:22:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:22:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:22:16 --> Controller Class Initialized
+INFO - 2016-11-19 17:22:16 --> Model Class Initialized
+INFO - 2016-11-19 17:22:16 --> Model Class Initialized
+INFO - 2016-11-19 17:22:16 --> Model Class Initialized
+INFO - 2016-11-19 17:22:16 --> Model Class Initialized
+INFO - 2016-11-19 17:22:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:22:16 --> Pagination Class Initialized
+INFO - 2016-11-19 17:22:16 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:22:16 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:22:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:22:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:22:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:22:17 --> Final output sent to browser
+DEBUG - 2016-11-19 17:22:17 --> Total execution time: 0.6140
+INFO - 2016-11-19 17:25:21 --> Config Class Initialized
+INFO - 2016-11-19 17:25:21 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:25:21 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:25:21 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:25:21 --> URI Class Initialized
+DEBUG - 2016-11-19 17:25:21 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:25:21 --> Router Class Initialized
+INFO - 2016-11-19 17:25:21 --> Output Class Initialized
+INFO - 2016-11-19 17:25:21 --> Security Class Initialized
+DEBUG - 2016-11-19 17:25:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:25:21 --> Input Class Initialized
+INFO - 2016-11-19 17:25:21 --> Language Class Initialized
+INFO - 2016-11-19 17:25:21 --> Loader Class Initialized
+INFO - 2016-11-19 17:25:21 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:25:21 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:25:21 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:25:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:25:21 --> Controller Class Initialized
+INFO - 2016-11-19 17:25:21 --> Model Class Initialized
+INFO - 2016-11-19 17:25:21 --> Model Class Initialized
+INFO - 2016-11-19 17:25:21 --> Model Class Initialized
+INFO - 2016-11-19 17:25:21 --> Model Class Initialized
+INFO - 2016-11-19 17:25:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:25:21 --> Pagination Class Initialized
+INFO - 2016-11-19 17:25:21 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:25:21 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:25:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:25:22 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+INFO - 2016-11-19 17:25:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:25:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:25:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:25:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:25:22 --> Final output sent to browser
+DEBUG - 2016-11-19 17:25:22 --> Total execution time: 1.2415
+INFO - 2016-11-19 17:27:52 --> Config Class Initialized
+INFO - 2016-11-19 17:27:52 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:27:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:27:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:27:52 --> URI Class Initialized
+DEBUG - 2016-11-19 17:27:52 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:27:52 --> Router Class Initialized
+INFO - 2016-11-19 17:27:52 --> Output Class Initialized
+INFO - 2016-11-19 17:27:52 --> Security Class Initialized
+DEBUG - 2016-11-19 17:27:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:27:52 --> Input Class Initialized
+INFO - 2016-11-19 17:27:52 --> Language Class Initialized
+INFO - 2016-11-19 17:27:52 --> Loader Class Initialized
+INFO - 2016-11-19 17:27:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:27:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:27:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:27:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:27:52 --> Controller Class Initialized
+INFO - 2016-11-19 17:27:52 --> Model Class Initialized
+INFO - 2016-11-19 17:27:52 --> Model Class Initialized
+INFO - 2016-11-19 17:27:52 --> Model Class Initialized
+INFO - 2016-11-19 17:27:52 --> Model Class Initialized
+INFO - 2016-11-19 17:27:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:27:52 --> Pagination Class Initialized
+INFO - 2016-11-19 17:27:52 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:27:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:27:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:27:52 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:27:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 23
+ERROR - 2016-11-19 17:27:53 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 24
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:27:53 --> Final output sent to browser
+DEBUG - 2016-11-19 17:27:53 --> Total execution time: 0.9031
+INFO - 2016-11-19 17:28:32 --> Config Class Initialized
+INFO - 2016-11-19 17:28:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:28:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:28:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:28:33 --> URI Class Initialized
+DEBUG - 2016-11-19 17:28:33 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:28:33 --> Router Class Initialized
+INFO - 2016-11-19 17:28:33 --> Output Class Initialized
+INFO - 2016-11-19 17:28:33 --> Security Class Initialized
+DEBUG - 2016-11-19 17:28:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:28:33 --> Input Class Initialized
+INFO - 2016-11-19 17:28:33 --> Language Class Initialized
+INFO - 2016-11-19 17:28:33 --> Loader Class Initialized
+INFO - 2016-11-19 17:28:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:28:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:28:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:28:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:28:33 --> Controller Class Initialized
+INFO - 2016-11-19 17:28:33 --> Model Class Initialized
+INFO - 2016-11-19 17:28:33 --> Model Class Initialized
+INFO - 2016-11-19 17:28:33 --> Model Class Initialized
+INFO - 2016-11-19 17:28:33 --> Model Class Initialized
+INFO - 2016-11-19 17:28:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:28:33 --> Pagination Class Initialized
+INFO - 2016-11-19 17:28:33 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:28:33 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:28:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:28:33 --> Final output sent to browser
+DEBUG - 2016-11-19 17:28:33 --> Total execution time: 0.5916
+INFO - 2016-11-19 17:28:58 --> Config Class Initialized
+INFO - 2016-11-19 17:28:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:28:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:28:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:28:58 --> URI Class Initialized
+DEBUG - 2016-11-19 17:28:58 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:28:58 --> Router Class Initialized
+INFO - 2016-11-19 17:28:58 --> Output Class Initialized
+INFO - 2016-11-19 17:28:58 --> Security Class Initialized
+DEBUG - 2016-11-19 17:28:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:28:58 --> Input Class Initialized
+INFO - 2016-11-19 17:28:58 --> Language Class Initialized
+INFO - 2016-11-19 17:28:58 --> Loader Class Initialized
+INFO - 2016-11-19 17:28:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:28:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:28:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:28:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:28:58 --> Controller Class Initialized
+INFO - 2016-11-19 17:28:58 --> Model Class Initialized
+INFO - 2016-11-19 17:28:58 --> Model Class Initialized
+INFO - 2016-11-19 17:28:58 --> Model Class Initialized
+INFO - 2016-11-19 17:28:58 --> Model Class Initialized
+INFO - 2016-11-19 17:28:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:28:58 --> Pagination Class Initialized
+INFO - 2016-11-19 17:28:58 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:28:58 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:28:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:28:58 --> Final output sent to browser
+DEBUG - 2016-11-19 17:28:58 --> Total execution time: 0.6153
+INFO - 2016-11-19 17:36:25 --> Config Class Initialized
+INFO - 2016-11-19 17:36:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:36:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:36:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:36:25 --> URI Class Initialized
+DEBUG - 2016-11-19 17:36:25 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:36:25 --> Router Class Initialized
+INFO - 2016-11-19 17:36:25 --> Output Class Initialized
+INFO - 2016-11-19 17:36:25 --> Security Class Initialized
+DEBUG - 2016-11-19 17:36:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:36:25 --> Input Class Initialized
+INFO - 2016-11-19 17:36:25 --> Language Class Initialized
+INFO - 2016-11-19 17:36:25 --> Loader Class Initialized
+INFO - 2016-11-19 17:36:25 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:36:25 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:36:25 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:36:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:36:25 --> Controller Class Initialized
+INFO - 2016-11-19 17:36:25 --> Model Class Initialized
+INFO - 2016-11-19 17:36:25 --> Model Class Initialized
+INFO - 2016-11-19 17:36:25 --> Model Class Initialized
+INFO - 2016-11-19 17:36:25 --> Model Class Initialized
+INFO - 2016-11-19 17:36:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:36:25 --> Pagination Class Initialized
+INFO - 2016-11-19 17:36:25 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:36:25 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:36:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:36:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:36:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:36:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:36:26 --> Final output sent to browser
+DEBUG - 2016-11-19 17:36:26 --> Total execution time: 0.5841
+INFO - 2016-11-19 17:36:54 --> Config Class Initialized
+INFO - 2016-11-19 17:36:54 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:36:54 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:36:54 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:36:54 --> URI Class Initialized
+DEBUG - 2016-11-19 17:36:54 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:36:55 --> Router Class Initialized
+INFO - 2016-11-19 17:36:55 --> Output Class Initialized
+INFO - 2016-11-19 17:36:55 --> Security Class Initialized
+DEBUG - 2016-11-19 17:36:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:36:55 --> Input Class Initialized
+INFO - 2016-11-19 17:36:55 --> Language Class Initialized
+INFO - 2016-11-19 17:36:55 --> Loader Class Initialized
+INFO - 2016-11-19 17:36:55 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:36:55 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:36:55 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:36:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:36:55 --> Controller Class Initialized
+INFO - 2016-11-19 17:36:55 --> Model Class Initialized
+INFO - 2016-11-19 17:36:55 --> Model Class Initialized
+INFO - 2016-11-19 17:36:55 --> Model Class Initialized
+INFO - 2016-11-19 17:36:55 --> Model Class Initialized
+INFO - 2016-11-19 17:36:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:36:55 --> Pagination Class Initialized
+INFO - 2016-11-19 17:36:55 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:36:55 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:36:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:36:55 --> Final output sent to browser
+DEBUG - 2016-11-19 17:36:55 --> Total execution time: 0.6362
+INFO - 2016-11-19 17:42:17 --> Config Class Initialized
+INFO - 2016-11-19 17:42:17 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:42:17 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:42:17 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:42:17 --> URI Class Initialized
+DEBUG - 2016-11-19 17:42:17 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:42:17 --> Router Class Initialized
+INFO - 2016-11-19 17:42:17 --> Output Class Initialized
+INFO - 2016-11-19 17:42:17 --> Security Class Initialized
+DEBUG - 2016-11-19 17:42:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:42:17 --> Input Class Initialized
+INFO - 2016-11-19 17:42:17 --> Language Class Initialized
+INFO - 2016-11-19 17:42:18 --> Loader Class Initialized
+INFO - 2016-11-19 17:42:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:42:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:42:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:42:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:42:18 --> Controller Class Initialized
+INFO - 2016-11-19 17:42:18 --> Model Class Initialized
+INFO - 2016-11-19 17:42:18 --> Model Class Initialized
+INFO - 2016-11-19 17:42:18 --> Model Class Initialized
+INFO - 2016-11-19 17:42:18 --> Model Class Initialized
+INFO - 2016-11-19 17:42:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:42:18 --> Pagination Class Initialized
+INFO - 2016-11-19 17:42:18 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:42:18 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:42:18 --> Final output sent to browser
+DEBUG - 2016-11-19 17:42:18 --> Total execution time: 0.6216
+INFO - 2016-11-19 17:46:32 --> Config Class Initialized
+INFO - 2016-11-19 17:46:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:46:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:46:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:46:32 --> URI Class Initialized
+DEBUG - 2016-11-19 17:46:32 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:46:32 --> Router Class Initialized
+INFO - 2016-11-19 17:46:32 --> Output Class Initialized
+INFO - 2016-11-19 17:46:32 --> Security Class Initialized
+DEBUG - 2016-11-19 17:46:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:46:32 --> Input Class Initialized
+INFO - 2016-11-19 17:46:32 --> Language Class Initialized
+INFO - 2016-11-19 17:46:32 --> Loader Class Initialized
+INFO - 2016-11-19 17:46:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:46:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:46:32 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:46:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:46:32 --> Controller Class Initialized
+INFO - 2016-11-19 17:46:32 --> Model Class Initialized
+INFO - 2016-11-19 17:46:32 --> Model Class Initialized
+INFO - 2016-11-19 17:46:32 --> Model Class Initialized
+INFO - 2016-11-19 17:46:32 --> Model Class Initialized
+INFO - 2016-11-19 17:46:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:46:32 --> Pagination Class Initialized
+INFO - 2016-11-19 17:46:32 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:46:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:46:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:46:33 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:46:33 --> Final output sent to browser
+DEBUG - 2016-11-19 17:46:33 --> Total execution time: 0.6159
+INFO - 2016-11-19 17:47:58 --> Config Class Initialized
+INFO - 2016-11-19 17:47:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:47:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:47:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:47:58 --> URI Class Initialized
+DEBUG - 2016-11-19 17:47:58 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:47:58 --> Router Class Initialized
+INFO - 2016-11-19 17:47:58 --> Output Class Initialized
+INFO - 2016-11-19 17:47:58 --> Security Class Initialized
+DEBUG - 2016-11-19 17:47:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:47:58 --> Input Class Initialized
+INFO - 2016-11-19 17:47:58 --> Language Class Initialized
+INFO - 2016-11-19 17:47:58 --> Loader Class Initialized
+INFO - 2016-11-19 17:47:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:47:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:47:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:47:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:47:58 --> Controller Class Initialized
+INFO - 2016-11-19 17:47:58 --> Model Class Initialized
+INFO - 2016-11-19 17:47:58 --> Model Class Initialized
+INFO - 2016-11-19 17:47:58 --> Model Class Initialized
+INFO - 2016-11-19 17:47:58 --> Model Class Initialized
+INFO - 2016-11-19 17:47:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:47:58 --> Pagination Class Initialized
+INFO - 2016-11-19 17:47:58 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:47:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:47:59 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:47:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:47:59 --> Final output sent to browser
+DEBUG - 2016-11-19 17:47:59 --> Total execution time: 0.8025
+INFO - 2016-11-19 17:50:28 --> Config Class Initialized
+INFO - 2016-11-19 17:50:28 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:50:28 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:50:28 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:50:28 --> URI Class Initialized
+DEBUG - 2016-11-19 17:50:28 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:50:28 --> Router Class Initialized
+INFO - 2016-11-19 17:50:28 --> Output Class Initialized
+INFO - 2016-11-19 17:50:28 --> Security Class Initialized
+DEBUG - 2016-11-19 17:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:50:28 --> Input Class Initialized
+INFO - 2016-11-19 17:50:28 --> Language Class Initialized
+INFO - 2016-11-19 17:50:28 --> Loader Class Initialized
+INFO - 2016-11-19 17:50:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:50:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:50:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:50:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:50:28 --> Controller Class Initialized
+INFO - 2016-11-19 17:50:28 --> Model Class Initialized
+INFO - 2016-11-19 17:50:28 --> Model Class Initialized
+INFO - 2016-11-19 17:50:28 --> Model Class Initialized
+INFO - 2016-11-19 17:50:28 --> Model Class Initialized
+INFO - 2016-11-19 17:50:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:50:28 --> Pagination Class Initialized
+INFO - 2016-11-19 17:50:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:50:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:50:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:50:28 --> Final output sent to browser
+DEBUG - 2016-11-19 17:50:28 --> Total execution time: 0.6005
+INFO - 2016-11-19 17:50:37 --> Config Class Initialized
+INFO - 2016-11-19 17:50:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:50:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:50:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:50:37 --> URI Class Initialized
+INFO - 2016-11-19 17:50:37 --> Router Class Initialized
+INFO - 2016-11-19 17:50:37 --> Output Class Initialized
+INFO - 2016-11-19 17:50:37 --> Security Class Initialized
+DEBUG - 2016-11-19 17:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:50:37 --> Input Class Initialized
+INFO - 2016-11-19 17:50:37 --> Language Class Initialized
+ERROR - 2016-11-19 17:50:37 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 108
+INFO - 2016-11-19 17:51:16 --> Config Class Initialized
+INFO - 2016-11-19 17:51:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:51:17 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:51:17 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:51:17 --> URI Class Initialized
+DEBUG - 2016-11-19 17:51:17 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:51:17 --> Router Class Initialized
+INFO - 2016-11-19 17:51:17 --> Output Class Initialized
+INFO - 2016-11-19 17:51:17 --> Security Class Initialized
+DEBUG - 2016-11-19 17:51:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:51:17 --> Input Class Initialized
+INFO - 2016-11-19 17:51:17 --> Language Class Initialized
+INFO - 2016-11-19 17:51:17 --> Loader Class Initialized
+INFO - 2016-11-19 17:51:17 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:51:17 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:51:17 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:51:17 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:51:17 --> Controller Class Initialized
+INFO - 2016-11-19 17:51:17 --> Model Class Initialized
+INFO - 2016-11-19 17:51:17 --> Model Class Initialized
+INFO - 2016-11-19 17:51:17 --> Model Class Initialized
+INFO - 2016-11-19 17:51:17 --> Model Class Initialized
+INFO - 2016-11-19 17:51:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:51:17 --> Pagination Class Initialized
+INFO - 2016-11-19 17:51:17 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:51:17 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:51:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:51:17 --> Final output sent to browser
+DEBUG - 2016-11-19 17:51:17 --> Total execution time: 0.5998
+INFO - 2016-11-19 17:51:27 --> Config Class Initialized
+INFO - 2016-11-19 17:51:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:51:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:51:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:51:27 --> URI Class Initialized
+INFO - 2016-11-19 17:51:27 --> Router Class Initialized
+INFO - 2016-11-19 17:51:27 --> Output Class Initialized
+INFO - 2016-11-19 17:51:27 --> Security Class Initialized
+DEBUG - 2016-11-19 17:51:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:51:27 --> Input Class Initialized
+INFO - 2016-11-19 17:51:27 --> Language Class Initialized
+INFO - 2016-11-19 17:51:27 --> Loader Class Initialized
+INFO - 2016-11-19 17:51:27 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:51:27 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:51:27 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:51:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:51:27 --> Controller Class Initialized
+INFO - 2016-11-19 17:51:27 --> Model Class Initialized
+ERROR - 2016-11-19 17:51:27 --> Severity: Notice --> Undefined variable: subordinate C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 106
+ERROR - 2016-11-19 17:51:27 --> Severity: Notice --> Undefined variable: sub_subordinate C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 106
+ERROR - 2016-11-19 17:51:27 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 31
+INFO - 2016-11-19 17:51:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:51:27 --> Final output sent to browser
+DEBUG - 2016-11-19 17:51:27 --> Total execution time: 0.5635
+INFO - 2016-11-19 17:53:04 --> Config Class Initialized
+INFO - 2016-11-19 17:53:04 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:53:04 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:53:04 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:53:04 --> URI Class Initialized
+DEBUG - 2016-11-19 17:53:04 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:53:04 --> Router Class Initialized
+INFO - 2016-11-19 17:53:04 --> Output Class Initialized
+INFO - 2016-11-19 17:53:04 --> Security Class Initialized
+DEBUG - 2016-11-19 17:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:53:04 --> Input Class Initialized
+INFO - 2016-11-19 17:53:04 --> Language Class Initialized
+INFO - 2016-11-19 17:53:04 --> Loader Class Initialized
+INFO - 2016-11-19 17:53:04 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:53:04 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:53:04 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:53:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:53:04 --> Controller Class Initialized
+INFO - 2016-11-19 17:53:04 --> Model Class Initialized
+INFO - 2016-11-19 17:53:04 --> Model Class Initialized
+INFO - 2016-11-19 17:53:04 --> Model Class Initialized
+INFO - 2016-11-19 17:53:04 --> Model Class Initialized
+INFO - 2016-11-19 17:53:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:53:04 --> Pagination Class Initialized
+INFO - 2016-11-19 17:53:04 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:53:04 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:53:04 --> Final output sent to browser
+DEBUG - 2016-11-19 17:53:05 --> Total execution time: 0.6246
+INFO - 2016-11-19 17:53:10 --> Config Class Initialized
+INFO - 2016-11-19 17:53:10 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:53:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:53:11 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:53:11 --> URI Class Initialized
+INFO - 2016-11-19 17:53:11 --> Router Class Initialized
+INFO - 2016-11-19 17:53:11 --> Output Class Initialized
+INFO - 2016-11-19 17:53:11 --> Security Class Initialized
+DEBUG - 2016-11-19 17:53:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:53:11 --> Input Class Initialized
+INFO - 2016-11-19 17:53:11 --> Language Class Initialized
+INFO - 2016-11-19 17:53:11 --> Loader Class Initialized
+INFO - 2016-11-19 17:53:11 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:53:11 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:53:11 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:53:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:53:11 --> Controller Class Initialized
+INFO - 2016-11-19 17:53:11 --> Model Class Initialized
+ERROR - 2016-11-19 17:53:11 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 31
+INFO - 2016-11-19 17:53:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:53:11 --> Final output sent to browser
+DEBUG - 2016-11-19 17:53:11 --> Total execution time: 0.5550
+INFO - 2016-11-19 17:53:18 --> Config Class Initialized
+INFO - 2016-11-19 17:53:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:53:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:53:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:53:18 --> URI Class Initialized
+DEBUG - 2016-11-19 17:53:18 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:53:18 --> Router Class Initialized
+INFO - 2016-11-19 17:53:18 --> Output Class Initialized
+INFO - 2016-11-19 17:53:18 --> Security Class Initialized
+DEBUG - 2016-11-19 17:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:53:18 --> Input Class Initialized
+INFO - 2016-11-19 17:53:18 --> Language Class Initialized
+INFO - 2016-11-19 17:53:19 --> Loader Class Initialized
+INFO - 2016-11-19 17:53:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:53:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:53:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:53:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:53:19 --> Controller Class Initialized
+INFO - 2016-11-19 17:53:19 --> Model Class Initialized
+INFO - 2016-11-19 17:53:19 --> Model Class Initialized
+INFO - 2016-11-19 17:53:19 --> Model Class Initialized
+INFO - 2016-11-19 17:53:19 --> Model Class Initialized
+INFO - 2016-11-19 17:53:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:53:19 --> Pagination Class Initialized
+INFO - 2016-11-19 17:53:19 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:53:19 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:53:19 --> Final output sent to browser
+DEBUG - 2016-11-19 17:53:19 --> Total execution time: 0.6429
+INFO - 2016-11-19 17:55:00 --> Config Class Initialized
+INFO - 2016-11-19 17:55:00 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:55:00 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:55:00 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:55:00 --> URI Class Initialized
+DEBUG - 2016-11-19 17:55:00 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:55:00 --> Router Class Initialized
+INFO - 2016-11-19 17:55:00 --> Output Class Initialized
+INFO - 2016-11-19 17:55:00 --> Security Class Initialized
+DEBUG - 2016-11-19 17:55:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:55:00 --> Input Class Initialized
+INFO - 2016-11-19 17:55:00 --> Language Class Initialized
+INFO - 2016-11-19 17:55:00 --> Loader Class Initialized
+INFO - 2016-11-19 17:55:00 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:55:00 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:55:00 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:55:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:55:00 --> Controller Class Initialized
+INFO - 2016-11-19 17:55:00 --> Model Class Initialized
+INFO - 2016-11-19 17:55:00 --> Model Class Initialized
+INFO - 2016-11-19 17:55:00 --> Model Class Initialized
+INFO - 2016-11-19 17:55:00 --> Model Class Initialized
+INFO - 2016-11-19 17:55:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:55:00 --> Pagination Class Initialized
+INFO - 2016-11-19 17:55:00 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:55:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:55:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+ERROR - 2016-11-19 17:55:00 --> Query error: Column 'bDeleted' in where clause is ambiguous - Invalid query: SELECT `em`.`surname`, `lt`.`typeName`, `lv`.`numberOfLeaves`, `lv`.`description`, `lv`.`id`
+FROM `leaveRecord` `lv`
+LEFT JOIN `employee` as `em` ON `em`.`id` = `lv`.`idEmployee`
+LEFT JOIN `leaveType` as `lt` ON `lt`.`id` = `lv`.`idLeaveType`
+WHERE `em`.`idRole` IN(8, 9)
+AND `bDeleted` =0
+ LIMIT 10
+INFO - 2016-11-19 17:55:00 --> Language file loaded: language/english/db_lang.php
+INFO - 2016-11-19 17:55:40 --> Config Class Initialized
+INFO - 2016-11-19 17:55:40 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:55:40 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:55:40 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:55:40 --> URI Class Initialized
+DEBUG - 2016-11-19 17:55:40 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:55:40 --> Router Class Initialized
+INFO - 2016-11-19 17:55:40 --> Output Class Initialized
+INFO - 2016-11-19 17:55:40 --> Security Class Initialized
+DEBUG - 2016-11-19 17:55:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:55:41 --> Input Class Initialized
+INFO - 2016-11-19 17:55:41 --> Language Class Initialized
+INFO - 2016-11-19 17:55:41 --> Loader Class Initialized
+INFO - 2016-11-19 17:55:41 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:55:41 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:55:41 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:55:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:55:41 --> Controller Class Initialized
+INFO - 2016-11-19 17:55:41 --> Model Class Initialized
+INFO - 2016-11-19 17:55:41 --> Model Class Initialized
+INFO - 2016-11-19 17:55:41 --> Model Class Initialized
+INFO - 2016-11-19 17:55:41 --> Model Class Initialized
+INFO - 2016-11-19 17:55:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:55:41 --> Pagination Class Initialized
+INFO - 2016-11-19 17:55:41 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:55:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:55:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+ERROR - 2016-11-19 17:55:41 --> Query error: Column 'bDeleted' in where clause is ambiguous - Invalid query: SELECT `em`.`surname`, `lt`.`typeName`, `lv`.`numberOfLeaves`, `lv`.`description`, `lv`.`id`
+FROM `leaveRecord` `lv`
+LEFT JOIN `employee` as `em` ON `em`.`id` = `lv`.`idEmployee`
+LEFT JOIN `leaveType` as `lt` ON `lt`.`id` = `lv`.`idLeaveType`
+WHERE `bDeleted` =0
+AND `em`.`idRole` IN(8, 9)
+ LIMIT 10
+INFO - 2016-11-19 17:55:41 --> Language file loaded: language/english/db_lang.php
+INFO - 2016-11-19 17:56:51 --> Config Class Initialized
+INFO - 2016-11-19 17:56:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:56:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:56:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:56:51 --> URI Class Initialized
+DEBUG - 2016-11-19 17:56:51 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:56:51 --> Router Class Initialized
+INFO - 2016-11-19 17:56:51 --> Output Class Initialized
+INFO - 2016-11-19 17:56:51 --> Security Class Initialized
+DEBUG - 2016-11-19 17:56:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:56:51 --> Input Class Initialized
+INFO - 2016-11-19 17:56:51 --> Language Class Initialized
+INFO - 2016-11-19 17:56:51 --> Loader Class Initialized
+INFO - 2016-11-19 17:56:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:56:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:56:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:56:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:56:51 --> Controller Class Initialized
+INFO - 2016-11-19 17:56:51 --> Model Class Initialized
+INFO - 2016-11-19 17:56:51 --> Model Class Initialized
+INFO - 2016-11-19 17:56:51 --> Model Class Initialized
+INFO - 2016-11-19 17:56:51 --> Model Class Initialized
+INFO - 2016-11-19 17:56:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:56:51 --> Pagination Class Initialized
+INFO - 2016-11-19 17:56:51 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:56:51 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:56:51 --> Final output sent to browser
+DEBUG - 2016-11-19 17:56:51 --> Total execution time: 0.6087
+INFO - 2016-11-19 17:56:57 --> Config Class Initialized
+INFO - 2016-11-19 17:56:57 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:56:57 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:56:57 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:56:57 --> URI Class Initialized
+DEBUG - 2016-11-19 17:56:57 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:56:57 --> Router Class Initialized
+INFO - 2016-11-19 17:56:57 --> Output Class Initialized
+INFO - 2016-11-19 17:56:57 --> Security Class Initialized
+DEBUG - 2016-11-19 17:56:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:56:57 --> Input Class Initialized
+INFO - 2016-11-19 17:56:57 --> Language Class Initialized
+INFO - 2016-11-19 17:56:57 --> Loader Class Initialized
+INFO - 2016-11-19 17:56:57 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:56:57 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:56:57 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:56:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:56:57 --> Controller Class Initialized
+INFO - 2016-11-19 17:56:57 --> Model Class Initialized
+INFO - 2016-11-19 17:56:57 --> Model Class Initialized
+INFO - 2016-11-19 17:56:57 --> Model Class Initialized
+INFO - 2016-11-19 17:56:57 --> Model Class Initialized
+INFO - 2016-11-19 17:56:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:56:57 --> Pagination Class Initialized
+INFO - 2016-11-19 17:56:57 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:56:57 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:56:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:56:57 --> Final output sent to browser
+DEBUG - 2016-11-19 17:56:57 --> Total execution time: 0.6528
+INFO - 2016-11-19 17:57:06 --> Config Class Initialized
+INFO - 2016-11-19 17:57:06 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:57:06 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:57:06 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:57:06 --> URI Class Initialized
+INFO - 2016-11-19 17:57:06 --> Router Class Initialized
+INFO - 2016-11-19 17:57:06 --> Output Class Initialized
+INFO - 2016-11-19 17:57:06 --> Security Class Initialized
+DEBUG - 2016-11-19 17:57:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:57:06 --> Input Class Initialized
+INFO - 2016-11-19 17:57:06 --> Language Class Initialized
+INFO - 2016-11-19 17:57:06 --> Loader Class Initialized
+INFO - 2016-11-19 17:57:06 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:57:06 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:57:06 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:57:06 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:57:06 --> Controller Class Initialized
+INFO - 2016-11-19 17:57:06 --> Model Class Initialized
+ERROR - 2016-11-19 17:57:07 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 31
+INFO - 2016-11-19 17:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:57:07 --> Final output sent to browser
+DEBUG - 2016-11-19 17:57:07 --> Total execution time: 0.5224
+INFO - 2016-11-19 17:57:09 --> Config Class Initialized
+INFO - 2016-11-19 17:57:09 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:57:09 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:57:09 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:57:09 --> URI Class Initialized
+DEBUG - 2016-11-19 17:57:09 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:57:09 --> Router Class Initialized
+INFO - 2016-11-19 17:57:09 --> Output Class Initialized
+INFO - 2016-11-19 17:57:09 --> Security Class Initialized
+DEBUG - 2016-11-19 17:57:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:57:09 --> Input Class Initialized
+INFO - 2016-11-19 17:57:09 --> Language Class Initialized
+INFO - 2016-11-19 17:57:09 --> Loader Class Initialized
+INFO - 2016-11-19 17:57:09 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:57:09 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:57:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:57:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:57:09 --> Controller Class Initialized
+INFO - 2016-11-19 17:57:09 --> Model Class Initialized
+INFO - 2016-11-19 17:57:09 --> Model Class Initialized
+INFO - 2016-11-19 17:57:09 --> Model Class Initialized
+INFO - 2016-11-19 17:57:09 --> Model Class Initialized
+INFO - 2016-11-19 17:57:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:57:09 --> Pagination Class Initialized
+INFO - 2016-11-19 17:57:09 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:57:09 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:57:10 --> Final output sent to browser
+DEBUG - 2016-11-19 17:57:10 --> Total execution time: 0.7032
+INFO - 2016-11-19 17:57:47 --> Config Class Initialized
+INFO - 2016-11-19 17:57:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:57:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:57:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:57:47 --> URI Class Initialized
+INFO - 2016-11-19 17:57:47 --> Router Class Initialized
+INFO - 2016-11-19 17:57:47 --> Output Class Initialized
+INFO - 2016-11-19 17:57:47 --> Security Class Initialized
+DEBUG - 2016-11-19 17:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:57:47 --> Input Class Initialized
+INFO - 2016-11-19 17:57:47 --> Language Class Initialized
+INFO - 2016-11-19 17:57:47 --> Loader Class Initialized
+INFO - 2016-11-19 17:57:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:57:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:57:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:57:47 --> Controller Class Initialized
+INFO - 2016-11-19 17:57:47 --> Model Class Initialized
+ERROR - 2016-11-19 17:57:47 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 31
+INFO - 2016-11-19 17:57:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:57:47 --> Final output sent to browser
+DEBUG - 2016-11-19 17:57:47 --> Total execution time: 0.6413
+INFO - 2016-11-19 17:57:49 --> Config Class Initialized
+INFO - 2016-11-19 17:57:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 17:57:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 17:57:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 17:57:49 --> URI Class Initialized
+DEBUG - 2016-11-19 17:57:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 17:57:49 --> Router Class Initialized
+INFO - 2016-11-19 17:57:49 --> Output Class Initialized
+INFO - 2016-11-19 17:57:49 --> Security Class Initialized
+DEBUG - 2016-11-19 17:57:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 17:57:49 --> Input Class Initialized
+INFO - 2016-11-19 17:57:49 --> Language Class Initialized
+INFO - 2016-11-19 17:57:49 --> Loader Class Initialized
+INFO - 2016-11-19 17:57:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 17:57:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 17:57:49 --> Database Driver Class Initialized
+INFO - 2016-11-19 17:57:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 17:57:49 --> Controller Class Initialized
+INFO - 2016-11-19 17:57:50 --> Model Class Initialized
+INFO - 2016-11-19 17:57:50 --> Model Class Initialized
+INFO - 2016-11-19 17:57:50 --> Model Class Initialized
+INFO - 2016-11-19 17:57:50 --> Model Class Initialized
+INFO - 2016-11-19 17:57:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 17:57:50 --> Pagination Class Initialized
+INFO - 2016-11-19 17:57:50 --> Helper loaded: app_helper
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 17:57:50 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 17:57:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 17:57:50 --> Final output sent to browser
+DEBUG - 2016-11-19 17:57:50 --> Total execution time: 0.7214
+INFO - 2016-11-19 18:08:10 --> Config Class Initialized
+INFO - 2016-11-19 18:08:10 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:08:10 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:08:10 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:08:10 --> URI Class Initialized
+DEBUG - 2016-11-19 18:08:10 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:08:10 --> Router Class Initialized
+INFO - 2016-11-19 18:08:10 --> Output Class Initialized
+INFO - 2016-11-19 18:08:10 --> Security Class Initialized
+DEBUG - 2016-11-19 18:08:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:08:10 --> Input Class Initialized
+INFO - 2016-11-19 18:08:10 --> Language Class Initialized
+INFO - 2016-11-19 18:08:10 --> Loader Class Initialized
+INFO - 2016-11-19 18:08:10 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:08:10 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:08:10 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:08:10 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:08:10 --> Controller Class Initialized
+INFO - 2016-11-19 18:08:10 --> Model Class Initialized
+INFO - 2016-11-19 18:08:10 --> Model Class Initialized
+INFO - 2016-11-19 18:08:10 --> Model Class Initialized
+INFO - 2016-11-19 18:08:10 --> Model Class Initialized
+INFO - 2016-11-19 18:08:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:08:11 --> Pagination Class Initialized
+INFO - 2016-11-19 18:08:11 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:08:11 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:08:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:08:11 --> Final output sent to browser
+DEBUG - 2016-11-19 18:08:11 --> Total execution time: 0.8456
+INFO - 2016-11-19 18:08:17 --> Config Class Initialized
+INFO - 2016-11-19 18:08:17 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:08:17 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:08:17 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:08:17 --> URI Class Initialized
+INFO - 2016-11-19 18:08:17 --> Router Class Initialized
+INFO - 2016-11-19 18:08:17 --> Output Class Initialized
+INFO - 2016-11-19 18:08:17 --> Security Class Initialized
+DEBUG - 2016-11-19 18:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:08:17 --> Input Class Initialized
+INFO - 2016-11-19 18:08:17 --> Language Class Initialized
+ERROR - 2016-11-19 18:08:17 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 116
+INFO - 2016-11-19 18:08:38 --> Config Class Initialized
+INFO - 2016-11-19 18:08:38 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:08:38 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:08:38 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:08:38 --> URI Class Initialized
+DEBUG - 2016-11-19 18:08:38 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:08:38 --> Router Class Initialized
+INFO - 2016-11-19 18:08:38 --> Output Class Initialized
+INFO - 2016-11-19 18:08:38 --> Security Class Initialized
+DEBUG - 2016-11-19 18:08:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:08:38 --> Input Class Initialized
+INFO - 2016-11-19 18:08:38 --> Language Class Initialized
+INFO - 2016-11-19 18:08:38 --> Loader Class Initialized
+INFO - 2016-11-19 18:08:38 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:08:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:08:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:08:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:08:38 --> Controller Class Initialized
+INFO - 2016-11-19 18:08:38 --> Model Class Initialized
+INFO - 2016-11-19 18:08:38 --> Model Class Initialized
+INFO - 2016-11-19 18:08:38 --> Model Class Initialized
+INFO - 2016-11-19 18:08:38 --> Model Class Initialized
+INFO - 2016-11-19 18:08:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:08:38 --> Pagination Class Initialized
+INFO - 2016-11-19 18:08:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:08:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:08:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:08:38 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:08:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:08:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:08:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:08:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:08:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:08:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:08:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:08:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:08:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:08:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:08:39 --> Final output sent to browser
+DEBUG - 2016-11-19 18:08:39 --> Total execution time: 0.6333
+INFO - 2016-11-19 18:08:44 --> Config Class Initialized
+INFO - 2016-11-19 18:08:44 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:08:44 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:08:44 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:08:44 --> URI Class Initialized
+INFO - 2016-11-19 18:08:44 --> Router Class Initialized
+INFO - 2016-11-19 18:08:44 --> Output Class Initialized
+INFO - 2016-11-19 18:08:44 --> Security Class Initialized
+DEBUG - 2016-11-19 18:08:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:08:44 --> Input Class Initialized
+INFO - 2016-11-19 18:08:44 --> Language Class Initialized
+INFO - 2016-11-19 18:08:44 --> Loader Class Initialized
+INFO - 2016-11-19 18:08:44 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:08:44 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:08:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:08:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:08:44 --> Controller Class Initialized
+INFO - 2016-11-19 18:08:44 --> Model Class Initialized
+ERROR - 2016-11-19 18:08:44 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:08:49 --> Config Class Initialized
+INFO - 2016-11-19 18:08:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:08:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:08:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:08:49 --> URI Class Initialized
+DEBUG - 2016-11-19 18:08:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:08:49 --> Router Class Initialized
+INFO - 2016-11-19 18:08:49 --> Output Class Initialized
+INFO - 2016-11-19 18:08:49 --> Security Class Initialized
+DEBUG - 2016-11-19 18:08:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:08:49 --> Input Class Initialized
+INFO - 2016-11-19 18:08:49 --> Language Class Initialized
+INFO - 2016-11-19 18:08:49 --> Loader Class Initialized
+INFO - 2016-11-19 18:08:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:08:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:08:49 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:08:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:08:49 --> Controller Class Initialized
+INFO - 2016-11-19 18:08:49 --> Model Class Initialized
+INFO - 2016-11-19 18:08:49 --> Model Class Initialized
+INFO - 2016-11-19 18:08:49 --> Model Class Initialized
+INFO - 2016-11-19 18:08:49 --> Model Class Initialized
+INFO - 2016-11-19 18:08:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:08:49 --> Pagination Class Initialized
+INFO - 2016-11-19 18:08:49 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:08:49 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:08:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:08:49 --> Final output sent to browser
+DEBUG - 2016-11-19 18:08:49 --> Total execution time: 0.6463
+INFO - 2016-11-19 18:08:58 --> Config Class Initialized
+INFO - 2016-11-19 18:08:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:08:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:08:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:08:58 --> URI Class Initialized
+INFO - 2016-11-19 18:08:58 --> Router Class Initialized
+INFO - 2016-11-19 18:08:58 --> Output Class Initialized
+INFO - 2016-11-19 18:08:58 --> Security Class Initialized
+DEBUG - 2016-11-19 18:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:08:58 --> Input Class Initialized
+INFO - 2016-11-19 18:08:58 --> Language Class Initialized
+INFO - 2016-11-19 18:08:58 --> Loader Class Initialized
+INFO - 2016-11-19 18:08:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:08:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:08:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:08:58 --> Controller Class Initialized
+INFO - 2016-11-19 18:08:58 --> Model Class Initialized
+ERROR - 2016-11-19 18:08:58 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:09:01 --> Config Class Initialized
+INFO - 2016-11-19 18:09:01 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:09:01 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:09:01 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:09:01 --> URI Class Initialized
+DEBUG - 2016-11-19 18:09:01 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:09:01 --> Router Class Initialized
+INFO - 2016-11-19 18:09:01 --> Output Class Initialized
+INFO - 2016-11-19 18:09:01 --> Security Class Initialized
+DEBUG - 2016-11-19 18:09:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:09:01 --> Input Class Initialized
+INFO - 2016-11-19 18:09:02 --> Language Class Initialized
+INFO - 2016-11-19 18:09:02 --> Loader Class Initialized
+INFO - 2016-11-19 18:09:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:09:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:09:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:09:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:09:02 --> Controller Class Initialized
+INFO - 2016-11-19 18:09:02 --> Model Class Initialized
+INFO - 2016-11-19 18:09:02 --> Model Class Initialized
+INFO - 2016-11-19 18:09:02 --> Model Class Initialized
+INFO - 2016-11-19 18:09:02 --> Model Class Initialized
+INFO - 2016-11-19 18:09:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:09:02 --> Pagination Class Initialized
+INFO - 2016-11-19 18:09:02 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:09:02 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:09:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:09:02 --> Final output sent to browser
+DEBUG - 2016-11-19 18:09:02 --> Total execution time: 0.6744
+INFO - 2016-11-19 18:12:32 --> Config Class Initialized
+INFO - 2016-11-19 18:12:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:12:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:12:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:12:32 --> URI Class Initialized
+INFO - 2016-11-19 18:12:32 --> Router Class Initialized
+INFO - 2016-11-19 18:12:32 --> Output Class Initialized
+INFO - 2016-11-19 18:12:32 --> Security Class Initialized
+DEBUG - 2016-11-19 18:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:12:32 --> Input Class Initialized
+INFO - 2016-11-19 18:12:32 --> Language Class Initialized
+INFO - 2016-11-19 18:12:32 --> Loader Class Initialized
+INFO - 2016-11-19 18:12:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:12:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:12:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:12:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:12:33 --> Controller Class Initialized
+INFO - 2016-11-19 18:12:33 --> Model Class Initialized
+ERROR - 2016-11-19 18:12:33 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:12:35 --> Config Class Initialized
+INFO - 2016-11-19 18:12:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:12:35 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:12:35 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:12:35 --> URI Class Initialized
+DEBUG - 2016-11-19 18:12:35 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:12:35 --> Router Class Initialized
+INFO - 2016-11-19 18:12:35 --> Output Class Initialized
+INFO - 2016-11-19 18:12:35 --> Security Class Initialized
+DEBUG - 2016-11-19 18:12:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:12:35 --> Input Class Initialized
+INFO - 2016-11-19 18:12:35 --> Language Class Initialized
+INFO - 2016-11-19 18:12:35 --> Loader Class Initialized
+INFO - 2016-11-19 18:12:35 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:12:35 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:12:35 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:12:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:12:35 --> Controller Class Initialized
+INFO - 2016-11-19 18:12:35 --> Model Class Initialized
+INFO - 2016-11-19 18:12:35 --> Model Class Initialized
+INFO - 2016-11-19 18:12:35 --> Model Class Initialized
+INFO - 2016-11-19 18:12:35 --> Model Class Initialized
+INFO - 2016-11-19 18:12:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:12:35 --> Pagination Class Initialized
+INFO - 2016-11-19 18:12:35 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:12:35 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:12:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:12:36 --> Final output sent to browser
+DEBUG - 2016-11-19 18:12:36 --> Total execution time: 0.7462
+INFO - 2016-11-19 18:12:58 --> Config Class Initialized
+INFO - 2016-11-19 18:12:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:12:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:12:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:12:58 --> URI Class Initialized
+DEBUG - 2016-11-19 18:12:58 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:12:58 --> Router Class Initialized
+INFO - 2016-11-19 18:12:58 --> Output Class Initialized
+INFO - 2016-11-19 18:12:58 --> Security Class Initialized
+DEBUG - 2016-11-19 18:12:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:12:58 --> Input Class Initialized
+INFO - 2016-11-19 18:12:58 --> Language Class Initialized
+INFO - 2016-11-19 18:12:58 --> Loader Class Initialized
+INFO - 2016-11-19 18:12:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:12:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:12:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:12:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:12:58 --> Controller Class Initialized
+INFO - 2016-11-19 18:12:58 --> Model Class Initialized
+INFO - 2016-11-19 18:12:58 --> Model Class Initialized
+INFO - 2016-11-19 18:12:58 --> Model Class Initialized
+INFO - 2016-11-19 18:12:58 --> Model Class Initialized
+INFO - 2016-11-19 18:12:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:12:58 --> Pagination Class Initialized
+INFO - 2016-11-19 18:12:58 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:12:58 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:12:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:12:58 --> Final output sent to browser
+DEBUG - 2016-11-19 18:12:58 --> Total execution time: 0.6319
+INFO - 2016-11-19 18:13:08 --> Config Class Initialized
+INFO - 2016-11-19 18:13:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:13:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:13:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:13:08 --> URI Class Initialized
+DEBUG - 2016-11-19 18:13:08 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:13:08 --> Router Class Initialized
+INFO - 2016-11-19 18:13:08 --> Output Class Initialized
+INFO - 2016-11-19 18:13:08 --> Security Class Initialized
+DEBUG - 2016-11-19 18:13:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:13:08 --> Input Class Initialized
+INFO - 2016-11-19 18:13:08 --> Language Class Initialized
+INFO - 2016-11-19 18:13:08 --> Loader Class Initialized
+INFO - 2016-11-19 18:13:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:13:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:13:08 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:13:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:13:08 --> Controller Class Initialized
+INFO - 2016-11-19 18:13:08 --> Model Class Initialized
+INFO - 2016-11-19 18:13:08 --> Model Class Initialized
+INFO - 2016-11-19 18:13:08 --> Model Class Initialized
+INFO - 2016-11-19 18:13:08 --> Model Class Initialized
+INFO - 2016-11-19 18:13:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:13:08 --> Pagination Class Initialized
+INFO - 2016-11-19 18:13:08 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:13:08 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:13:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:13:08 --> Final output sent to browser
+DEBUG - 2016-11-19 18:13:08 --> Total execution time: 0.6918
+INFO - 2016-11-19 18:14:33 --> Config Class Initialized
+INFO - 2016-11-19 18:14:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:14:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:14:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:14:33 --> URI Class Initialized
+INFO - 2016-11-19 18:14:33 --> Router Class Initialized
+INFO - 2016-11-19 18:14:33 --> Output Class Initialized
+INFO - 2016-11-19 18:14:33 --> Security Class Initialized
+DEBUG - 2016-11-19 18:14:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:14:33 --> Input Class Initialized
+INFO - 2016-11-19 18:14:33 --> Language Class Initialized
+INFO - 2016-11-19 18:14:33 --> Loader Class Initialized
+INFO - 2016-11-19 18:14:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:14:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:14:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:14:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:14:33 --> Controller Class Initialized
+INFO - 2016-11-19 18:14:33 --> Model Class Initialized
+ERROR - 2016-11-19 18:14:33 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:14:35 --> Config Class Initialized
+INFO - 2016-11-19 18:14:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:14:35 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:14:35 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:14:35 --> URI Class Initialized
+DEBUG - 2016-11-19 18:14:35 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:14:35 --> Router Class Initialized
+INFO - 2016-11-19 18:14:35 --> Output Class Initialized
+INFO - 2016-11-19 18:14:35 --> Security Class Initialized
+DEBUG - 2016-11-19 18:14:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:14:36 --> Input Class Initialized
+INFO - 2016-11-19 18:14:36 --> Language Class Initialized
+INFO - 2016-11-19 18:14:36 --> Loader Class Initialized
+INFO - 2016-11-19 18:14:36 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:14:36 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:14:36 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:14:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:14:36 --> Controller Class Initialized
+INFO - 2016-11-19 18:14:36 --> Model Class Initialized
+INFO - 2016-11-19 18:14:36 --> Model Class Initialized
+INFO - 2016-11-19 18:14:36 --> Model Class Initialized
+INFO - 2016-11-19 18:14:36 --> Model Class Initialized
+INFO - 2016-11-19 18:14:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:14:36 --> Pagination Class Initialized
+INFO - 2016-11-19 18:14:36 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:14:36 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:14:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:14:36 --> Final output sent to browser
+DEBUG - 2016-11-19 18:14:36 --> Total execution time: 0.6978
+INFO - 2016-11-19 18:16:27 --> Config Class Initialized
+INFO - 2016-11-19 18:16:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:16:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:16:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:16:27 --> URI Class Initialized
+DEBUG - 2016-11-19 18:16:27 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:16:28 --> Router Class Initialized
+INFO - 2016-11-19 18:16:28 --> Output Class Initialized
+INFO - 2016-11-19 18:16:28 --> Security Class Initialized
+DEBUG - 2016-11-19 18:16:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:16:28 --> Input Class Initialized
+INFO - 2016-11-19 18:16:28 --> Language Class Initialized
+INFO - 2016-11-19 18:16:28 --> Loader Class Initialized
+INFO - 2016-11-19 18:16:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:16:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:16:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:16:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:16:28 --> Controller Class Initialized
+INFO - 2016-11-19 18:16:28 --> Model Class Initialized
+INFO - 2016-11-19 18:16:28 --> Model Class Initialized
+INFO - 2016-11-19 18:16:28 --> Model Class Initialized
+INFO - 2016-11-19 18:16:28 --> Model Class Initialized
+INFO - 2016-11-19 18:16:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:16:28 --> Pagination Class Initialized
+INFO - 2016-11-19 18:16:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:16:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:16:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:16:28 --> Final output sent to browser
+DEBUG - 2016-11-19 18:16:28 --> Total execution time: 0.6317
+INFO - 2016-11-19 18:16:43 --> Config Class Initialized
+INFO - 2016-11-19 18:16:43 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:16:43 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:16:43 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:16:43 --> URI Class Initialized
+INFO - 2016-11-19 18:16:43 --> Router Class Initialized
+INFO - 2016-11-19 18:16:43 --> Output Class Initialized
+INFO - 2016-11-19 18:16:43 --> Security Class Initialized
+DEBUG - 2016-11-19 18:16:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:16:43 --> Input Class Initialized
+INFO - 2016-11-19 18:16:43 --> Language Class Initialized
+INFO - 2016-11-19 18:16:43 --> Loader Class Initialized
+INFO - 2016-11-19 18:16:44 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:16:44 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:16:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:16:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:16:44 --> Controller Class Initialized
+INFO - 2016-11-19 18:16:44 --> Model Class Initialized
+INFO - 2016-11-19 18:17:35 --> Config Class Initialized
+INFO - 2016-11-19 18:17:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:17:35 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:17:35 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:17:35 --> URI Class Initialized
+DEBUG - 2016-11-19 18:17:35 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:17:35 --> Router Class Initialized
+INFO - 2016-11-19 18:17:35 --> Output Class Initialized
+INFO - 2016-11-19 18:17:35 --> Security Class Initialized
+DEBUG - 2016-11-19 18:17:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:17:35 --> Input Class Initialized
+INFO - 2016-11-19 18:17:35 --> Language Class Initialized
+INFO - 2016-11-19 18:17:35 --> Loader Class Initialized
+INFO - 2016-11-19 18:17:35 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:17:35 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:17:35 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:17:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:17:35 --> Controller Class Initialized
+INFO - 2016-11-19 18:17:35 --> Model Class Initialized
+INFO - 2016-11-19 18:17:35 --> Model Class Initialized
+INFO - 2016-11-19 18:17:35 --> Model Class Initialized
+INFO - 2016-11-19 18:17:35 --> Model Class Initialized
+INFO - 2016-11-19 18:17:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:17:35 --> Pagination Class Initialized
+INFO - 2016-11-19 18:17:35 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:17:35 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:17:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:17:35 --> Final output sent to browser
+DEBUG - 2016-11-19 18:17:35 --> Total execution time: 0.6585
+INFO - 2016-11-19 18:27:52 --> Config Class Initialized
+INFO - 2016-11-19 18:27:52 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:27:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:27:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:27:52 --> URI Class Initialized
+DEBUG - 2016-11-19 18:27:52 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:27:52 --> Router Class Initialized
+INFO - 2016-11-19 18:27:52 --> Output Class Initialized
+INFO - 2016-11-19 18:27:52 --> Security Class Initialized
+DEBUG - 2016-11-19 18:27:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:27:52 --> Input Class Initialized
+INFO - 2016-11-19 18:27:52 --> Language Class Initialized
+INFO - 2016-11-19 18:27:52 --> Loader Class Initialized
+INFO - 2016-11-19 18:27:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:27:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:27:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:27:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:27:52 --> Controller Class Initialized
+INFO - 2016-11-19 18:27:52 --> Model Class Initialized
+INFO - 2016-11-19 18:27:52 --> Model Class Initialized
+INFO - 2016-11-19 18:27:52 --> Model Class Initialized
+INFO - 2016-11-19 18:27:52 --> Model Class Initialized
+INFO - 2016-11-19 18:27:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:27:53 --> Pagination Class Initialized
+INFO - 2016-11-19 18:27:53 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:27:53 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:27:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:27:53 --> Final output sent to browser
+DEBUG - 2016-11-19 18:27:53 --> Total execution time: 0.7046
+INFO - 2016-11-19 18:28:04 --> Config Class Initialized
+INFO - 2016-11-19 18:28:05 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:28:05 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:28:05 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:28:05 --> URI Class Initialized
+INFO - 2016-11-19 18:28:05 --> Router Class Initialized
+INFO - 2016-11-19 18:28:05 --> Output Class Initialized
+INFO - 2016-11-19 18:28:05 --> Security Class Initialized
+DEBUG - 2016-11-19 18:28:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:28:05 --> Input Class Initialized
+INFO - 2016-11-19 18:28:05 --> Language Class Initialized
+INFO - 2016-11-19 18:28:05 --> Loader Class Initialized
+INFO - 2016-11-19 18:28:05 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:28:05 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:28:05 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:28:05 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:28:05 --> Controller Class Initialized
+INFO - 2016-11-19 18:28:05 --> Model Class Initialized
+ERROR - 2016-11-19 18:28:05 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:28:11 --> Config Class Initialized
+INFO - 2016-11-19 18:28:11 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:28:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:28:11 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:28:11 --> URI Class Initialized
+INFO - 2016-11-19 18:28:11 --> Router Class Initialized
+INFO - 2016-11-19 18:28:12 --> Output Class Initialized
+INFO - 2016-11-19 18:28:12 --> Security Class Initialized
+DEBUG - 2016-11-19 18:28:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:28:12 --> Input Class Initialized
+INFO - 2016-11-19 18:28:12 --> Language Class Initialized
+INFO - 2016-11-19 18:28:12 --> Loader Class Initialized
+INFO - 2016-11-19 18:28:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:28:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:28:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:28:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:28:12 --> Controller Class Initialized
+INFO - 2016-11-19 18:28:12 --> Model Class Initialized
+ERROR - 2016-11-19 18:28:12 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:34:27 --> Config Class Initialized
+INFO - 2016-11-19 18:34:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:34:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:34:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:34:28 --> URI Class Initialized
+DEBUG - 2016-11-19 18:34:28 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:34:28 --> Router Class Initialized
+INFO - 2016-11-19 18:34:28 --> Output Class Initialized
+INFO - 2016-11-19 18:34:28 --> Security Class Initialized
+DEBUG - 2016-11-19 18:34:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:34:28 --> Input Class Initialized
+INFO - 2016-11-19 18:34:28 --> Language Class Initialized
+INFO - 2016-11-19 18:34:28 --> Loader Class Initialized
+INFO - 2016-11-19 18:34:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:34:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:34:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:34:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:34:28 --> Controller Class Initialized
+INFO - 2016-11-19 18:34:28 --> Model Class Initialized
+INFO - 2016-11-19 18:34:28 --> Model Class Initialized
+INFO - 2016-11-19 18:34:28 --> Model Class Initialized
+INFO - 2016-11-19 18:34:28 --> Model Class Initialized
+INFO - 2016-11-19 18:34:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:34:28 --> Pagination Class Initialized
+INFO - 2016-11-19 18:34:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:34:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:34:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:34:28 --> Final output sent to browser
+DEBUG - 2016-11-19 18:34:28 --> Total execution time: 1.0066
+INFO - 2016-11-19 18:34:34 --> Config Class Initialized
+INFO - 2016-11-19 18:34:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:34:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:34:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:34:34 --> URI Class Initialized
+DEBUG - 2016-11-19 18:34:34 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:34:34 --> Router Class Initialized
+INFO - 2016-11-19 18:34:34 --> Output Class Initialized
+INFO - 2016-11-19 18:34:34 --> Security Class Initialized
+DEBUG - 2016-11-19 18:34:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:34:34 --> Input Class Initialized
+INFO - 2016-11-19 18:34:34 --> Language Class Initialized
+INFO - 2016-11-19 18:34:34 --> Loader Class Initialized
+INFO - 2016-11-19 18:34:34 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:34:34 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:34:34 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:34:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:34:34 --> Controller Class Initialized
+INFO - 2016-11-19 18:34:35 --> Model Class Initialized
+INFO - 2016-11-19 18:34:35 --> Model Class Initialized
+INFO - 2016-11-19 18:34:35 --> Model Class Initialized
+INFO - 2016-11-19 18:34:35 --> Model Class Initialized
+INFO - 2016-11-19 18:34:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:34:35 --> Pagination Class Initialized
+INFO - 2016-11-19 18:34:35 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:34:35 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:34:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:34:35 --> Final output sent to browser
+DEBUG - 2016-11-19 18:34:35 --> Total execution time: 0.6849
+INFO - 2016-11-19 18:36:10 --> Config Class Initialized
+INFO - 2016-11-19 18:36:10 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:36:10 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:36:10 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:36:10 --> URI Class Initialized
+DEBUG - 2016-11-19 18:36:10 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:36:10 --> Router Class Initialized
+INFO - 2016-11-19 18:36:10 --> Output Class Initialized
+INFO - 2016-11-19 18:36:10 --> Security Class Initialized
+DEBUG - 2016-11-19 18:36:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:36:10 --> Input Class Initialized
+INFO - 2016-11-19 18:36:10 --> Language Class Initialized
+INFO - 2016-11-19 18:36:10 --> Loader Class Initialized
+INFO - 2016-11-19 18:36:10 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:36:10 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:36:10 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:36:10 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:36:10 --> Controller Class Initialized
+INFO - 2016-11-19 18:36:10 --> Model Class Initialized
+INFO - 2016-11-19 18:36:10 --> Model Class Initialized
+INFO - 2016-11-19 18:36:10 --> Model Class Initialized
+INFO - 2016-11-19 18:36:10 --> Model Class Initialized
+INFO - 2016-11-19 18:36:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:36:10 --> Pagination Class Initialized
+INFO - 2016-11-19 18:36:10 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:36:10 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:36:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:36:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:36:11 --> Final output sent to browser
+DEBUG - 2016-11-19 18:36:11 --> Total execution time: 0.6513
+INFO - 2016-11-19 18:36:37 --> Config Class Initialized
+INFO - 2016-11-19 18:36:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:36:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:36:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:36:37 --> URI Class Initialized
+DEBUG - 2016-11-19 18:36:37 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:36:37 --> Router Class Initialized
+INFO - 2016-11-19 18:36:37 --> Output Class Initialized
+INFO - 2016-11-19 18:36:37 --> Security Class Initialized
+DEBUG - 2016-11-19 18:36:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:36:37 --> Input Class Initialized
+INFO - 2016-11-19 18:36:37 --> Language Class Initialized
+INFO - 2016-11-19 18:36:37 --> Loader Class Initialized
+INFO - 2016-11-19 18:36:37 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:36:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:36:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:36:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:36:38 --> Controller Class Initialized
+INFO - 2016-11-19 18:36:38 --> Model Class Initialized
+INFO - 2016-11-19 18:36:38 --> Model Class Initialized
+INFO - 2016-11-19 18:36:38 --> Model Class Initialized
+INFO - 2016-11-19 18:36:38 --> Model Class Initialized
+INFO - 2016-11-19 18:36:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:36:38 --> Pagination Class Initialized
+INFO - 2016-11-19 18:36:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:36:38 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:36:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:36:38 --> Final output sent to browser
+DEBUG - 2016-11-19 18:36:38 --> Total execution time: 0.7101
+INFO - 2016-11-19 18:37:25 --> Config Class Initialized
+INFO - 2016-11-19 18:37:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:37:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:37:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:37:25 --> URI Class Initialized
+DEBUG - 2016-11-19 18:37:25 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:37:25 --> Router Class Initialized
+INFO - 2016-11-19 18:37:25 --> Output Class Initialized
+INFO - 2016-11-19 18:37:25 --> Security Class Initialized
+DEBUG - 2016-11-19 18:37:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:37:25 --> Input Class Initialized
+INFO - 2016-11-19 18:37:25 --> Language Class Initialized
+INFO - 2016-11-19 18:37:25 --> Loader Class Initialized
+INFO - 2016-11-19 18:37:25 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:37:25 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:37:25 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:37:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:37:25 --> Controller Class Initialized
+INFO - 2016-11-19 18:37:25 --> Model Class Initialized
+INFO - 2016-11-19 18:37:25 --> Model Class Initialized
+INFO - 2016-11-19 18:37:25 --> Model Class Initialized
+INFO - 2016-11-19 18:37:25 --> Model Class Initialized
+INFO - 2016-11-19 18:37:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:37:25 --> Pagination Class Initialized
+INFO - 2016-11-19 18:37:25 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:37:25 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:37:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:37:26 --> Final output sent to browser
+DEBUG - 2016-11-19 18:37:26 --> Total execution time: 0.7102
+INFO - 2016-11-19 18:39:13 --> Config Class Initialized
+INFO - 2016-11-19 18:39:13 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:39:13 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:39:13 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:39:13 --> URI Class Initialized
+DEBUG - 2016-11-19 18:39:13 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:39:13 --> Router Class Initialized
+INFO - 2016-11-19 18:39:13 --> Output Class Initialized
+INFO - 2016-11-19 18:39:13 --> Security Class Initialized
+DEBUG - 2016-11-19 18:39:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:39:13 --> Input Class Initialized
+INFO - 2016-11-19 18:39:13 --> Language Class Initialized
+INFO - 2016-11-19 18:39:13 --> Loader Class Initialized
+INFO - 2016-11-19 18:39:13 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:39:13 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:39:13 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:39:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:39:13 --> Controller Class Initialized
+INFO - 2016-11-19 18:39:13 --> Model Class Initialized
+INFO - 2016-11-19 18:39:13 --> Model Class Initialized
+INFO - 2016-11-19 18:39:13 --> Model Class Initialized
+INFO - 2016-11-19 18:39:13 --> Model Class Initialized
+INFO - 2016-11-19 18:39:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:39:13 --> Pagination Class Initialized
+INFO - 2016-11-19 18:39:13 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:39:13 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:39:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:39:13 --> Final output sent to browser
+DEBUG - 2016-11-19 18:39:13 --> Total execution time: 0.6856
+INFO - 2016-11-19 18:39:22 --> Config Class Initialized
+INFO - 2016-11-19 18:39:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:39:22 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:39:22 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:39:22 --> URI Class Initialized
+INFO - 2016-11-19 18:39:22 --> Router Class Initialized
+INFO - 2016-11-19 18:39:22 --> Output Class Initialized
+INFO - 2016-11-19 18:39:22 --> Security Class Initialized
+DEBUG - 2016-11-19 18:39:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:39:22 --> Input Class Initialized
+INFO - 2016-11-19 18:39:22 --> Language Class Initialized
+INFO - 2016-11-19 18:39:22 --> Loader Class Initialized
+INFO - 2016-11-19 18:39:22 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:39:22 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:39:22 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:39:22 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:39:22 --> Controller Class Initialized
+INFO - 2016-11-19 18:39:22 --> Model Class Initialized
+ERROR - 2016-11-19 18:39:22 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:39:24 --> Config Class Initialized
+INFO - 2016-11-19 18:39:24 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:39:24 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:39:24 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:39:24 --> URI Class Initialized
+DEBUG - 2016-11-19 18:39:24 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:39:24 --> Router Class Initialized
+INFO - 2016-11-19 18:39:24 --> Output Class Initialized
+INFO - 2016-11-19 18:39:24 --> Security Class Initialized
+DEBUG - 2016-11-19 18:39:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:39:24 --> Input Class Initialized
+INFO - 2016-11-19 18:39:24 --> Language Class Initialized
+INFO - 2016-11-19 18:39:24 --> Loader Class Initialized
+INFO - 2016-11-19 18:39:24 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:39:24 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:39:24 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:39:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:39:24 --> Controller Class Initialized
+INFO - 2016-11-19 18:39:24 --> Model Class Initialized
+INFO - 2016-11-19 18:39:24 --> Model Class Initialized
+INFO - 2016-11-19 18:39:24 --> Model Class Initialized
+INFO - 2016-11-19 18:39:24 --> Model Class Initialized
+INFO - 2016-11-19 18:39:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:39:24 --> Pagination Class Initialized
+INFO - 2016-11-19 18:39:24 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:39:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:39:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:39:24 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:39:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:39:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:39:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:39:25 --> Final output sent to browser
+DEBUG - 2016-11-19 18:39:25 --> Total execution time: 0.7646
+INFO - 2016-11-19 18:41:54 --> Config Class Initialized
+INFO - 2016-11-19 18:41:54 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:41:54 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:41:54 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:41:54 --> URI Class Initialized
+DEBUG - 2016-11-19 18:41:54 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:41:54 --> Router Class Initialized
+INFO - 2016-11-19 18:41:54 --> Output Class Initialized
+INFO - 2016-11-19 18:41:54 --> Security Class Initialized
+DEBUG - 2016-11-19 18:41:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:41:54 --> Input Class Initialized
+INFO - 2016-11-19 18:41:54 --> Language Class Initialized
+INFO - 2016-11-19 18:41:54 --> Loader Class Initialized
+INFO - 2016-11-19 18:41:54 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:41:54 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:41:54 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:41:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:41:54 --> Controller Class Initialized
+INFO - 2016-11-19 18:41:54 --> Model Class Initialized
+INFO - 2016-11-19 18:41:54 --> Model Class Initialized
+INFO - 2016-11-19 18:41:54 --> Model Class Initialized
+INFO - 2016-11-19 18:41:54 --> Model Class Initialized
+INFO - 2016-11-19 18:41:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:41:54 --> Pagination Class Initialized
+INFO - 2016-11-19 18:41:54 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:41:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:41:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+ERROR - 2016-11-19 18:41:54 --> Query error: Column 'bDeleted' in where clause is ambiguous - Invalid query: SELECT `em`.`surname`, `lt`.`typeName`, `lv`.`numberOfLeaves`, `lv`.`description`, `lv`.`id`
+FROM `leaveRecord` `lv`
+LEFT JOIN `employee` as `em` ON `em`.`id` = `lv`.`idEmployee`
+LEFT JOIN `leaveType` as `lt` ON `lt`.`id` = `lv`.`idLeaveType`
+WHERE `em`.`idRole` IN(8, 9)
+AND `bDeleted` =0
+ LIMIT 10
+INFO - 2016-11-19 18:41:55 --> Language file loaded: language/english/db_lang.php
+INFO - 2016-11-19 18:42:18 --> Config Class Initialized
+INFO - 2016-11-19 18:42:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:42:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:42:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:42:18 --> URI Class Initialized
+DEBUG - 2016-11-19 18:42:18 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:42:18 --> Router Class Initialized
+INFO - 2016-11-19 18:42:18 --> Output Class Initialized
+INFO - 2016-11-19 18:42:18 --> Security Class Initialized
+DEBUG - 2016-11-19 18:42:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:42:18 --> Input Class Initialized
+INFO - 2016-11-19 18:42:18 --> Language Class Initialized
+INFO - 2016-11-19 18:42:18 --> Loader Class Initialized
+INFO - 2016-11-19 18:42:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:42:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:42:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:42:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:42:18 --> Controller Class Initialized
+INFO - 2016-11-19 18:42:18 --> Model Class Initialized
+INFO - 2016-11-19 18:42:18 --> Model Class Initialized
+INFO - 2016-11-19 18:42:18 --> Model Class Initialized
+INFO - 2016-11-19 18:42:18 --> Model Class Initialized
+INFO - 2016-11-19 18:42:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:42:18 --> Pagination Class Initialized
+INFO - 2016-11-19 18:42:18 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:42:18 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:42:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:42:18 --> Final output sent to browser
+DEBUG - 2016-11-19 18:42:18 --> Total execution time: 0.6596
+INFO - 2016-11-19 18:42:34 --> Config Class Initialized
+INFO - 2016-11-19 18:42:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:42:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:42:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:42:34 --> URI Class Initialized
+DEBUG - 2016-11-19 18:42:34 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:42:34 --> Router Class Initialized
+INFO - 2016-11-19 18:42:34 --> Output Class Initialized
+INFO - 2016-11-19 18:42:34 --> Security Class Initialized
+DEBUG - 2016-11-19 18:42:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:42:34 --> Input Class Initialized
+INFO - 2016-11-19 18:42:34 --> Language Class Initialized
+INFO - 2016-11-19 18:42:34 --> Loader Class Initialized
+INFO - 2016-11-19 18:42:34 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:42:34 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:42:34 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:42:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:42:34 --> Controller Class Initialized
+INFO - 2016-11-19 18:42:34 --> Model Class Initialized
+INFO - 2016-11-19 18:42:34 --> Model Class Initialized
+INFO - 2016-11-19 18:42:34 --> Model Class Initialized
+INFO - 2016-11-19 18:42:34 --> Model Class Initialized
+INFO - 2016-11-19 18:42:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:42:34 --> Pagination Class Initialized
+INFO - 2016-11-19 18:42:34 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:42:34 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:42:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:42:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:42:35 --> Final output sent to browser
+DEBUG - 2016-11-19 18:42:35 --> Total execution time: 0.6808
+INFO - 2016-11-19 18:43:06 --> Config Class Initialized
+INFO - 2016-11-19 18:43:06 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:43:06 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:43:06 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:43:06 --> URI Class Initialized
+DEBUG - 2016-11-19 18:43:06 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:43:06 --> Router Class Initialized
+INFO - 2016-11-19 18:43:06 --> Output Class Initialized
+INFO - 2016-11-19 18:43:06 --> Security Class Initialized
+DEBUG - 2016-11-19 18:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:43:06 --> Input Class Initialized
+INFO - 2016-11-19 18:43:06 --> Language Class Initialized
+INFO - 2016-11-19 18:43:06 --> Loader Class Initialized
+INFO - 2016-11-19 18:43:06 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:43:06 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:43:06 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:43:06 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:43:06 --> Controller Class Initialized
+INFO - 2016-11-19 18:43:06 --> Model Class Initialized
+INFO - 2016-11-19 18:43:06 --> Model Class Initialized
+INFO - 2016-11-19 18:43:06 --> Model Class Initialized
+INFO - 2016-11-19 18:43:06 --> Model Class Initialized
+INFO - 2016-11-19 18:43:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:43:06 --> Pagination Class Initialized
+INFO - 2016-11-19 18:43:06 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:43:06 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:43:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:43:07 --> Final output sent to browser
+DEBUG - 2016-11-19 18:43:07 --> Total execution time: 0.7527
+INFO - 2016-11-19 18:43:12 --> Config Class Initialized
+INFO - 2016-11-19 18:43:12 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:43:12 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:43:12 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:43:12 --> URI Class Initialized
+INFO - 2016-11-19 18:43:12 --> Router Class Initialized
+INFO - 2016-11-19 18:43:12 --> Output Class Initialized
+INFO - 2016-11-19 18:43:12 --> Security Class Initialized
+DEBUG - 2016-11-19 18:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:43:12 --> Input Class Initialized
+INFO - 2016-11-19 18:43:12 --> Language Class Initialized
+INFO - 2016-11-19 18:43:12 --> Loader Class Initialized
+INFO - 2016-11-19 18:43:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:43:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:43:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:43:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:43:12 --> Controller Class Initialized
+INFO - 2016-11-19 18:43:12 --> Model Class Initialized
+ERROR - 2016-11-19 18:43:13 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:43:18 --> Config Class Initialized
+INFO - 2016-11-19 18:43:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:43:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:43:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:43:18 --> URI Class Initialized
+DEBUG - 2016-11-19 18:43:18 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:43:18 --> Router Class Initialized
+INFO - 2016-11-19 18:43:18 --> Output Class Initialized
+INFO - 2016-11-19 18:43:18 --> Security Class Initialized
+DEBUG - 2016-11-19 18:43:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:43:18 --> Input Class Initialized
+INFO - 2016-11-19 18:43:18 --> Language Class Initialized
+INFO - 2016-11-19 18:43:18 --> Loader Class Initialized
+INFO - 2016-11-19 18:43:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:43:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:43:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:43:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:43:18 --> Controller Class Initialized
+INFO - 2016-11-19 18:43:19 --> Model Class Initialized
+INFO - 2016-11-19 18:43:19 --> Model Class Initialized
+INFO - 2016-11-19 18:43:19 --> Model Class Initialized
+INFO - 2016-11-19 18:43:19 --> Model Class Initialized
+INFO - 2016-11-19 18:43:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:43:19 --> Pagination Class Initialized
+INFO - 2016-11-19 18:43:19 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:43:19 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:43:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:43:19 --> Final output sent to browser
+DEBUG - 2016-11-19 18:43:19 --> Total execution time: 1.0162
+INFO - 2016-11-19 18:43:32 --> Config Class Initialized
+INFO - 2016-11-19 18:43:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:43:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:43:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:43:33 --> URI Class Initialized
+INFO - 2016-11-19 18:43:33 --> Router Class Initialized
+INFO - 2016-11-19 18:43:33 --> Output Class Initialized
+INFO - 2016-11-19 18:43:33 --> Security Class Initialized
+DEBUG - 2016-11-19 18:43:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:43:33 --> Input Class Initialized
+INFO - 2016-11-19 18:43:33 --> Language Class Initialized
+INFO - 2016-11-19 18:43:33 --> Loader Class Initialized
+INFO - 2016-11-19 18:43:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:43:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:43:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:43:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:43:33 --> Controller Class Initialized
+INFO - 2016-11-19 18:43:33 --> Model Class Initialized
+ERROR - 2016-11-19 18:43:33 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:43:37 --> Config Class Initialized
+INFO - 2016-11-19 18:43:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:43:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:43:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:43:37 --> URI Class Initialized
+DEBUG - 2016-11-19 18:43:37 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:43:37 --> Router Class Initialized
+INFO - 2016-11-19 18:43:38 --> Output Class Initialized
+INFO - 2016-11-19 18:43:38 --> Security Class Initialized
+DEBUG - 2016-11-19 18:43:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:43:38 --> Input Class Initialized
+INFO - 2016-11-19 18:43:38 --> Language Class Initialized
+INFO - 2016-11-19 18:43:38 --> Loader Class Initialized
+INFO - 2016-11-19 18:43:38 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:43:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:43:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:43:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:43:38 --> Controller Class Initialized
+INFO - 2016-11-19 18:43:38 --> Model Class Initialized
+INFO - 2016-11-19 18:43:38 --> Model Class Initialized
+INFO - 2016-11-19 18:43:38 --> Model Class Initialized
+INFO - 2016-11-19 18:43:38 --> Model Class Initialized
+INFO - 2016-11-19 18:43:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:43:38 --> Pagination Class Initialized
+INFO - 2016-11-19 18:43:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:43:38 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:43:38 --> Final output sent to browser
+DEBUG - 2016-11-19 18:43:38 --> Total execution time: 0.7417
+INFO - 2016-11-19 18:46:38 --> Config Class Initialized
+INFO - 2016-11-19 18:46:38 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:46:38 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:46:38 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:46:38 --> URI Class Initialized
+DEBUG - 2016-11-19 18:46:38 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:46:38 --> Router Class Initialized
+INFO - 2016-11-19 18:46:38 --> Output Class Initialized
+INFO - 2016-11-19 18:46:38 --> Security Class Initialized
+DEBUG - 2016-11-19 18:46:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:46:38 --> Input Class Initialized
+INFO - 2016-11-19 18:46:38 --> Language Class Initialized
+INFO - 2016-11-19 18:46:38 --> Loader Class Initialized
+INFO - 2016-11-19 18:46:38 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:46:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:46:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:46:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:46:38 --> Controller Class Initialized
+INFO - 2016-11-19 18:46:38 --> Model Class Initialized
+INFO - 2016-11-19 18:46:38 --> Model Class Initialized
+INFO - 2016-11-19 18:46:38 --> Model Class Initialized
+INFO - 2016-11-19 18:46:38 --> Model Class Initialized
+INFO - 2016-11-19 18:46:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:46:38 --> Pagination Class Initialized
+INFO - 2016-11-19 18:46:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:46:38 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:46:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:46:38 --> Final output sent to browser
+DEBUG - 2016-11-19 18:46:38 --> Total execution time: 0.7084
+INFO - 2016-11-19 18:46:51 --> Config Class Initialized
+INFO - 2016-11-19 18:46:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:46:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:46:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:46:51 --> URI Class Initialized
+INFO - 2016-11-19 18:46:51 --> Router Class Initialized
+INFO - 2016-11-19 18:46:51 --> Output Class Initialized
+INFO - 2016-11-19 18:46:51 --> Security Class Initialized
+DEBUG - 2016-11-19 18:46:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:46:51 --> Input Class Initialized
+INFO - 2016-11-19 18:46:51 --> Language Class Initialized
+INFO - 2016-11-19 18:46:51 --> Loader Class Initialized
+INFO - 2016-11-19 18:46:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:46:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:46:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:46:51 --> Controller Class Initialized
+INFO - 2016-11-19 18:46:51 --> Model Class Initialized
+ERROR - 2016-11-19 18:46:52 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:46:58 --> Config Class Initialized
+INFO - 2016-11-19 18:46:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:46:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:46:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:46:58 --> URI Class Initialized
+DEBUG - 2016-11-19 18:46:58 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:46:58 --> Router Class Initialized
+INFO - 2016-11-19 18:46:58 --> Output Class Initialized
+INFO - 2016-11-19 18:46:58 --> Security Class Initialized
+DEBUG - 2016-11-19 18:46:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:46:58 --> Input Class Initialized
+INFO - 2016-11-19 18:46:58 --> Language Class Initialized
+INFO - 2016-11-19 18:46:58 --> Loader Class Initialized
+INFO - 2016-11-19 18:46:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:46:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:46:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:46:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:46:58 --> Controller Class Initialized
+INFO - 2016-11-19 18:46:58 --> Model Class Initialized
+INFO - 2016-11-19 18:46:58 --> Model Class Initialized
+INFO - 2016-11-19 18:46:58 --> Model Class Initialized
+INFO - 2016-11-19 18:46:58 --> Model Class Initialized
+INFO - 2016-11-19 18:46:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:46:58 --> Pagination Class Initialized
+INFO - 2016-11-19 18:46:58 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:46:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:46:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:46:58 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:46:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:46:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:46:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:46:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:46:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:46:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:46:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:46:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:46:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:46:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:46:59 --> Final output sent to browser
+DEBUG - 2016-11-19 18:46:59 --> Total execution time: 0.7202
+INFO - 2016-11-19 18:48:28 --> Config Class Initialized
+INFO - 2016-11-19 18:48:28 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:48:28 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:48:28 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:48:28 --> URI Class Initialized
+DEBUG - 2016-11-19 18:48:28 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:48:28 --> Router Class Initialized
+INFO - 2016-11-19 18:48:28 --> Output Class Initialized
+INFO - 2016-11-19 18:48:28 --> Security Class Initialized
+DEBUG - 2016-11-19 18:48:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:48:29 --> Input Class Initialized
+INFO - 2016-11-19 18:48:29 --> Language Class Initialized
+INFO - 2016-11-19 18:48:29 --> Loader Class Initialized
+INFO - 2016-11-19 18:48:29 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:48:29 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:48:29 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:48:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:48:29 --> Controller Class Initialized
+INFO - 2016-11-19 18:48:29 --> Model Class Initialized
+INFO - 2016-11-19 18:48:29 --> Model Class Initialized
+INFO - 2016-11-19 18:48:29 --> Model Class Initialized
+INFO - 2016-11-19 18:48:29 --> Model Class Initialized
+INFO - 2016-11-19 18:48:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:48:29 --> Pagination Class Initialized
+INFO - 2016-11-19 18:48:29 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:48:29 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:48:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:48:29 --> Final output sent to browser
+DEBUG - 2016-11-19 18:48:29 --> Total execution time: 0.6836
+INFO - 2016-11-19 18:48:34 --> Config Class Initialized
+INFO - 2016-11-19 18:48:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:48:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:48:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:48:34 --> URI Class Initialized
+INFO - 2016-11-19 18:48:34 --> Router Class Initialized
+INFO - 2016-11-19 18:48:34 --> Output Class Initialized
+INFO - 2016-11-19 18:48:34 --> Security Class Initialized
+DEBUG - 2016-11-19 18:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:48:34 --> Input Class Initialized
+INFO - 2016-11-19 18:48:34 --> Language Class Initialized
+INFO - 2016-11-19 18:48:34 --> Loader Class Initialized
+INFO - 2016-11-19 18:48:34 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:48:34 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:48:34 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:48:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:48:34 --> Controller Class Initialized
+INFO - 2016-11-19 18:48:34 --> Model Class Initialized
+ERROR - 2016-11-19 18:48:35 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:49:02 --> Config Class Initialized
+INFO - 2016-11-19 18:49:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:49:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:49:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:49:02 --> URI Class Initialized
+DEBUG - 2016-11-19 18:49:02 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:49:02 --> Router Class Initialized
+INFO - 2016-11-19 18:49:02 --> Output Class Initialized
+INFO - 2016-11-19 18:49:02 --> Security Class Initialized
+DEBUG - 2016-11-19 18:49:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:49:03 --> Input Class Initialized
+INFO - 2016-11-19 18:49:03 --> Language Class Initialized
+INFO - 2016-11-19 18:49:03 --> Loader Class Initialized
+INFO - 2016-11-19 18:49:03 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:49:03 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:49:03 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:49:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:49:03 --> Controller Class Initialized
+INFO - 2016-11-19 18:49:03 --> Model Class Initialized
+INFO - 2016-11-19 18:49:03 --> Model Class Initialized
+INFO - 2016-11-19 18:49:03 --> Model Class Initialized
+INFO - 2016-11-19 18:49:03 --> Model Class Initialized
+INFO - 2016-11-19 18:49:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:49:03 --> Pagination Class Initialized
+INFO - 2016-11-19 18:49:03 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:49:03 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:49:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:49:03 --> Final output sent to browser
+DEBUG - 2016-11-19 18:49:03 --> Total execution time: 0.7875
+INFO - 2016-11-19 18:49:08 --> Config Class Initialized
+INFO - 2016-11-19 18:49:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:49:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:49:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:49:08 --> URI Class Initialized
+INFO - 2016-11-19 18:49:08 --> Router Class Initialized
+INFO - 2016-11-19 18:49:08 --> Output Class Initialized
+INFO - 2016-11-19 18:49:08 --> Security Class Initialized
+DEBUG - 2016-11-19 18:49:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:49:08 --> Input Class Initialized
+INFO - 2016-11-19 18:49:08 --> Language Class Initialized
+INFO - 2016-11-19 18:49:08 --> Loader Class Initialized
+INFO - 2016-11-19 18:49:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:49:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:49:08 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:49:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:49:09 --> Controller Class Initialized
+INFO - 2016-11-19 18:49:09 --> Model Class Initialized
+ERROR - 2016-11-19 18:49:09 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:49:13 --> Config Class Initialized
+INFO - 2016-11-19 18:49:14 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:49:14 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:49:14 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:49:14 --> URI Class Initialized
+INFO - 2016-11-19 18:49:14 --> Router Class Initialized
+INFO - 2016-11-19 18:49:14 --> Output Class Initialized
+INFO - 2016-11-19 18:49:14 --> Security Class Initialized
+DEBUG - 2016-11-19 18:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:49:14 --> Input Class Initialized
+INFO - 2016-11-19 18:49:14 --> Language Class Initialized
+INFO - 2016-11-19 18:49:14 --> Loader Class Initialized
+INFO - 2016-11-19 18:49:14 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:49:14 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:49:14 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:49:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:49:14 --> Controller Class Initialized
+INFO - 2016-11-19 18:49:14 --> Model Class Initialized
+ERROR - 2016-11-19 18:49:14 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:49:21 --> Config Class Initialized
+INFO - 2016-11-19 18:49:21 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:49:21 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:49:21 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:49:21 --> URI Class Initialized
+DEBUG - 2016-11-19 18:49:21 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:49:21 --> Router Class Initialized
+INFO - 2016-11-19 18:49:21 --> Output Class Initialized
+INFO - 2016-11-19 18:49:21 --> Security Class Initialized
+DEBUG - 2016-11-19 18:49:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:49:21 --> Input Class Initialized
+INFO - 2016-11-19 18:49:21 --> Language Class Initialized
+INFO - 2016-11-19 18:49:21 --> Loader Class Initialized
+INFO - 2016-11-19 18:49:21 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:49:21 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:49:21 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:49:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:49:21 --> Controller Class Initialized
+INFO - 2016-11-19 18:49:21 --> Model Class Initialized
+INFO - 2016-11-19 18:49:21 --> Model Class Initialized
+INFO - 2016-11-19 18:49:21 --> Model Class Initialized
+INFO - 2016-11-19 18:49:21 --> Model Class Initialized
+INFO - 2016-11-19 18:49:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:49:21 --> Pagination Class Initialized
+INFO - 2016-11-19 18:49:21 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:49:22 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:49:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:49:22 --> Final output sent to browser
+DEBUG - 2016-11-19 18:49:22 --> Total execution time: 0.7186
+INFO - 2016-11-19 18:51:41 --> Config Class Initialized
+INFO - 2016-11-19 18:51:41 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:51:41 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:51:41 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:51:41 --> URI Class Initialized
+DEBUG - 2016-11-19 18:51:41 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:51:41 --> Router Class Initialized
+INFO - 2016-11-19 18:51:41 --> Output Class Initialized
+INFO - 2016-11-19 18:51:41 --> Security Class Initialized
+DEBUG - 2016-11-19 18:51:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:51:41 --> Input Class Initialized
+INFO - 2016-11-19 18:51:41 --> Language Class Initialized
+INFO - 2016-11-19 18:51:41 --> Loader Class Initialized
+INFO - 2016-11-19 18:51:41 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:51:41 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:51:41 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:51:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:51:41 --> Controller Class Initialized
+INFO - 2016-11-19 18:51:41 --> Model Class Initialized
+INFO - 2016-11-19 18:51:41 --> Model Class Initialized
+INFO - 2016-11-19 18:51:41 --> Model Class Initialized
+INFO - 2016-11-19 18:51:41 --> Model Class Initialized
+INFO - 2016-11-19 18:51:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:51:41 --> Pagination Class Initialized
+INFO - 2016-11-19 18:51:41 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:51:41 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:51:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:51:42 --> Final output sent to browser
+DEBUG - 2016-11-19 18:51:42 --> Total execution time: 0.9651
+INFO - 2016-11-19 18:51:54 --> Config Class Initialized
+INFO - 2016-11-19 18:51:54 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:51:54 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:51:54 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:51:54 --> URI Class Initialized
+DEBUG - 2016-11-19 18:51:54 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:51:54 --> Router Class Initialized
+INFO - 2016-11-19 18:51:54 --> Output Class Initialized
+INFO - 2016-11-19 18:51:54 --> Security Class Initialized
+DEBUG - 2016-11-19 18:51:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:51:54 --> Input Class Initialized
+INFO - 2016-11-19 18:51:54 --> Language Class Initialized
+INFO - 2016-11-19 18:51:54 --> Loader Class Initialized
+INFO - 2016-11-19 18:51:54 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:51:54 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:51:54 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:51:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:51:54 --> Controller Class Initialized
+INFO - 2016-11-19 18:51:54 --> Model Class Initialized
+INFO - 2016-11-19 18:51:54 --> Model Class Initialized
+INFO - 2016-11-19 18:51:54 --> Model Class Initialized
+INFO - 2016-11-19 18:51:54 --> Model Class Initialized
+INFO - 2016-11-19 18:51:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:51:54 --> Pagination Class Initialized
+INFO - 2016-11-19 18:51:54 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:51:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:51:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:51:54 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:51:55 --> Final output sent to browser
+DEBUG - 2016-11-19 18:51:55 --> Total execution time: 0.7494
+INFO - 2016-11-19 18:51:59 --> Config Class Initialized
+INFO - 2016-11-19 18:51:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:51:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:51:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:51:59 --> URI Class Initialized
+INFO - 2016-11-19 18:51:59 --> Router Class Initialized
+INFO - 2016-11-19 18:51:59 --> Output Class Initialized
+INFO - 2016-11-19 18:51:59 --> Security Class Initialized
+DEBUG - 2016-11-19 18:51:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:51:59 --> Input Class Initialized
+INFO - 2016-11-19 18:51:59 --> Language Class Initialized
+INFO - 2016-11-19 18:51:59 --> Loader Class Initialized
+INFO - 2016-11-19 18:51:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:51:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:51:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:51:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:51:59 --> Controller Class Initialized
+INFO - 2016-11-19 18:51:59 --> Model Class Initialized
+ERROR - 2016-11-19 18:51:59 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:52:02 --> Config Class Initialized
+INFO - 2016-11-19 18:52:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:52:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:52:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:52:02 --> URI Class Initialized
+DEBUG - 2016-11-19 18:52:02 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:52:02 --> Router Class Initialized
+INFO - 2016-11-19 18:52:02 --> Output Class Initialized
+INFO - 2016-11-19 18:52:02 --> Security Class Initialized
+DEBUG - 2016-11-19 18:52:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:52:02 --> Input Class Initialized
+INFO - 2016-11-19 18:52:02 --> Language Class Initialized
+INFO - 2016-11-19 18:52:02 --> Loader Class Initialized
+INFO - 2016-11-19 18:52:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:52:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:52:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:52:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:52:02 --> Controller Class Initialized
+INFO - 2016-11-19 18:52:02 --> Model Class Initialized
+INFO - 2016-11-19 18:52:02 --> Model Class Initialized
+INFO - 2016-11-19 18:52:02 --> Model Class Initialized
+INFO - 2016-11-19 18:52:02 --> Model Class Initialized
+INFO - 2016-11-19 18:52:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:52:02 --> Pagination Class Initialized
+INFO - 2016-11-19 18:52:02 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:52:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:52:03 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:52:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:52:03 --> Final output sent to browser
+DEBUG - 2016-11-19 18:52:03 --> Total execution time: 0.7711
+INFO - 2016-11-19 18:53:44 --> Config Class Initialized
+INFO - 2016-11-19 18:53:44 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:53:44 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:53:44 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:53:44 --> URI Class Initialized
+DEBUG - 2016-11-19 18:53:44 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:53:44 --> Router Class Initialized
+INFO - 2016-11-19 18:53:44 --> Output Class Initialized
+INFO - 2016-11-19 18:53:44 --> Security Class Initialized
+DEBUG - 2016-11-19 18:53:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:53:44 --> Input Class Initialized
+INFO - 2016-11-19 18:53:44 --> Language Class Initialized
+INFO - 2016-11-19 18:53:44 --> Loader Class Initialized
+INFO - 2016-11-19 18:53:44 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:53:44 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:53:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:53:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:53:44 --> Controller Class Initialized
+INFO - 2016-11-19 18:53:44 --> Model Class Initialized
+INFO - 2016-11-19 18:53:44 --> Model Class Initialized
+INFO - 2016-11-19 18:53:44 --> Model Class Initialized
+INFO - 2016-11-19 18:53:44 --> Model Class Initialized
+INFO - 2016-11-19 18:53:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:53:44 --> Pagination Class Initialized
+INFO - 2016-11-19 18:53:44 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:53:44 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:53:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:53:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:53:45 --> Final output sent to browser
+DEBUG - 2016-11-19 18:53:45 --> Total execution time: 0.7664
+INFO - 2016-11-19 18:53:49 --> Config Class Initialized
+INFO - 2016-11-19 18:53:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:53:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:53:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:53:49 --> URI Class Initialized
+INFO - 2016-11-19 18:53:49 --> Router Class Initialized
+INFO - 2016-11-19 18:53:49 --> Output Class Initialized
+INFO - 2016-11-19 18:53:49 --> Security Class Initialized
+DEBUG - 2016-11-19 18:53:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:53:49 --> Input Class Initialized
+INFO - 2016-11-19 18:53:49 --> Language Class Initialized
+INFO - 2016-11-19 18:53:49 --> Loader Class Initialized
+INFO - 2016-11-19 18:53:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:53:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:53:50 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:53:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:53:50 --> Controller Class Initialized
+INFO - 2016-11-19 18:53:50 --> Model Class Initialized
+ERROR - 2016-11-19 18:53:50 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:54:34 --> Config Class Initialized
+INFO - 2016-11-19 18:54:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:54:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:54:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:54:34 --> URI Class Initialized
+DEBUG - 2016-11-19 18:54:34 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:54:34 --> Router Class Initialized
+INFO - 2016-11-19 18:54:34 --> Output Class Initialized
+INFO - 2016-11-19 18:54:34 --> Security Class Initialized
+DEBUG - 2016-11-19 18:54:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:54:34 --> Input Class Initialized
+INFO - 2016-11-19 18:54:34 --> Language Class Initialized
+INFO - 2016-11-19 18:54:34 --> Loader Class Initialized
+INFO - 2016-11-19 18:54:34 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:54:34 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:54:34 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:54:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:54:34 --> Controller Class Initialized
+INFO - 2016-11-19 18:54:34 --> Model Class Initialized
+INFO - 2016-11-19 18:54:34 --> Model Class Initialized
+INFO - 2016-11-19 18:54:34 --> Model Class Initialized
+INFO - 2016-11-19 18:54:34 --> Model Class Initialized
+INFO - 2016-11-19 18:54:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:54:34 --> Pagination Class Initialized
+INFO - 2016-11-19 18:54:34 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:54:34 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 18:54:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 18:54:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 18:54:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 18:54:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:54:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:54:35 --> Final output sent to browser
+DEBUG - 2016-11-19 18:54:35 --> Total execution time: 0.7106
+INFO - 2016-11-19 18:54:52 --> Config Class Initialized
+INFO - 2016-11-19 18:54:52 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:54:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:54:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:54:52 --> URI Class Initialized
+INFO - 2016-11-19 18:54:52 --> Router Class Initialized
+INFO - 2016-11-19 18:54:52 --> Output Class Initialized
+INFO - 2016-11-19 18:54:52 --> Security Class Initialized
+DEBUG - 2016-11-19 18:54:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:54:52 --> Input Class Initialized
+INFO - 2016-11-19 18:54:52 --> Language Class Initialized
+INFO - 2016-11-19 18:54:52 --> Loader Class Initialized
+INFO - 2016-11-19 18:54:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:54:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:54:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:54:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:54:52 --> Controller Class Initialized
+INFO - 2016-11-19 18:54:52 --> Model Class Initialized
+ERROR - 2016-11-19 18:54:52 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 18:57:47 --> Config Class Initialized
+INFO - 2016-11-19 18:57:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:57:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:57:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:57:47 --> URI Class Initialized
+INFO - 2016-11-19 18:57:47 --> Router Class Initialized
+INFO - 2016-11-19 18:57:47 --> Output Class Initialized
+INFO - 2016-11-19 18:57:47 --> Security Class Initialized
+DEBUG - 2016-11-19 18:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:57:47 --> Input Class Initialized
+INFO - 2016-11-19 18:57:47 --> Language Class Initialized
+INFO - 2016-11-19 18:57:47 --> Loader Class Initialized
+INFO - 2016-11-19 18:57:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:57:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:57:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:57:47 --> Controller Class Initialized
+INFO - 2016-11-19 18:57:47 --> Model Class Initialized
+INFO - 2016-11-19 18:57:47 --> Model Class Initialized
+INFO - 2016-11-19 18:57:47 --> Model Class Initialized
+INFO - 2016-11-19 18:57:47 --> Model Class Initialized
+INFO - 2016-11-19 18:57:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:57:48 --> Pagination Class Initialized
+INFO - 2016-11-19 18:57:48 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 18:57:48 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 18:57:48 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+ERROR - 2016-11-19 18:57:48 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+INFO - 2016-11-19 18:57:48 --> Config Class Initialized
+INFO - 2016-11-19 18:57:48 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:57:48 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:57:48 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:57:48 --> URI Class Initialized
+DEBUG - 2016-11-19 18:57:48 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:57:48 --> Router Class Initialized
+INFO - 2016-11-19 18:57:48 --> Output Class Initialized
+INFO - 2016-11-19 18:57:48 --> Security Class Initialized
+DEBUG - 2016-11-19 18:57:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:57:48 --> Input Class Initialized
+INFO - 2016-11-19 18:57:48 --> Language Class Initialized
+INFO - 2016-11-19 18:57:48 --> Loader Class Initialized
+INFO - 2016-11-19 18:57:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:57:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:57:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:57:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:57:48 --> Controller Class Initialized
+INFO - 2016-11-19 18:57:48 --> Model Class Initialized
+INFO - 2016-11-19 18:57:48 --> Model Class Initialized
+INFO - 2016-11-19 18:57:48 --> Model Class Initialized
+INFO - 2016-11-19 18:57:48 --> Model Class Initialized
+INFO - 2016-11-19 18:57:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:57:48 --> Pagination Class Initialized
+INFO - 2016-11-19 18:57:48 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:57:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:57:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 18:57:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:57:48 --> Final output sent to browser
+DEBUG - 2016-11-19 18:57:48 --> Total execution time: 0.5680
+INFO - 2016-11-19 18:57:55 --> Config Class Initialized
+INFO - 2016-11-19 18:57:55 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:57:55 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:57:55 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:57:55 --> URI Class Initialized
+INFO - 2016-11-19 18:57:55 --> Router Class Initialized
+INFO - 2016-11-19 18:57:55 --> Output Class Initialized
+INFO - 2016-11-19 18:57:55 --> Security Class Initialized
+DEBUG - 2016-11-19 18:57:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:57:55 --> Input Class Initialized
+INFO - 2016-11-19 18:57:55 --> Language Class Initialized
+INFO - 2016-11-19 18:57:55 --> Loader Class Initialized
+INFO - 2016-11-19 18:57:55 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:57:55 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:57:55 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:57:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:57:55 --> Controller Class Initialized
+INFO - 2016-11-19 18:57:55 --> Model Class Initialized
+INFO - 2016-11-19 18:57:55 --> Model Class Initialized
+INFO - 2016-11-19 18:57:55 --> Model Class Initialized
+INFO - 2016-11-19 18:57:55 --> Model Class Initialized
+INFO - 2016-11-19 18:57:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:57:55 --> Pagination Class Initialized
+INFO - 2016-11-19 18:57:55 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 18:57:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:57:55 --> Model Class Initialized
+INFO - 2016-11-19 18:57:55 --> Final output sent to browser
+DEBUG - 2016-11-19 18:57:55 --> Total execution time: 0.5007
+INFO - 2016-11-19 18:57:55 --> Config Class Initialized
+INFO - 2016-11-19 18:57:55 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:57:55 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:57:55 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:57:55 --> URI Class Initialized
+DEBUG - 2016-11-19 18:57:55 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:57:55 --> Router Class Initialized
+INFO - 2016-11-19 18:57:55 --> Output Class Initialized
+INFO - 2016-11-19 18:57:55 --> Security Class Initialized
+DEBUG - 2016-11-19 18:57:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:57:55 --> Input Class Initialized
+INFO - 2016-11-19 18:57:55 --> Language Class Initialized
+INFO - 2016-11-19 18:57:56 --> Loader Class Initialized
+INFO - 2016-11-19 18:57:56 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:57:56 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:57:56 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:57:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:57:56 --> Controller Class Initialized
+INFO - 2016-11-19 18:57:56 --> Model Class Initialized
+INFO - 2016-11-19 18:57:56 --> Model Class Initialized
+INFO - 2016-11-19 18:57:56 --> Model Class Initialized
+INFO - 2016-11-19 18:57:56 --> Model Class Initialized
+INFO - 2016-11-19 18:57:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:57:56 --> Pagination Class Initialized
+INFO - 2016-11-19 18:57:56 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:57:56 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:57:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:57:56 --> Final output sent to browser
+DEBUG - 2016-11-19 18:57:56 --> Total execution time: 0.9772
+INFO - 2016-11-19 18:59:17 --> Config Class Initialized
+INFO - 2016-11-19 18:59:17 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:59:17 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:59:17 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:59:17 --> URI Class Initialized
+INFO - 2016-11-19 18:59:17 --> Router Class Initialized
+INFO - 2016-11-19 18:59:17 --> Output Class Initialized
+INFO - 2016-11-19 18:59:17 --> Security Class Initialized
+DEBUG - 2016-11-19 18:59:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:59:18 --> Input Class Initialized
+INFO - 2016-11-19 18:59:18 --> Language Class Initialized
+INFO - 2016-11-19 18:59:18 --> Loader Class Initialized
+INFO - 2016-11-19 18:59:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:59:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:59:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:59:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:59:18 --> Controller Class Initialized
+INFO - 2016-11-19 18:59:18 --> Model Class Initialized
+INFO - 2016-11-19 18:59:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 18:59:18 --> Final output sent to browser
+DEBUG - 2016-11-19 18:59:18 --> Total execution time: 0.4615
+INFO - 2016-11-19 18:59:25 --> Config Class Initialized
+INFO - 2016-11-19 18:59:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:59:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:59:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:59:25 --> URI Class Initialized
+DEBUG - 2016-11-19 18:59:25 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:59:25 --> Router Class Initialized
+INFO - 2016-11-19 18:59:25 --> Output Class Initialized
+INFO - 2016-11-19 18:59:25 --> Security Class Initialized
+DEBUG - 2016-11-19 18:59:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:59:25 --> Input Class Initialized
+INFO - 2016-11-19 18:59:25 --> Language Class Initialized
+INFO - 2016-11-19 18:59:25 --> Loader Class Initialized
+INFO - 2016-11-19 18:59:25 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:59:25 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:59:25 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:59:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:59:25 --> Controller Class Initialized
+INFO - 2016-11-19 18:59:25 --> Model Class Initialized
+INFO - 2016-11-19 18:59:25 --> Model Class Initialized
+INFO - 2016-11-19 18:59:25 --> Model Class Initialized
+INFO - 2016-11-19 18:59:25 --> Model Class Initialized
+INFO - 2016-11-19 18:59:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:59:25 --> Pagination Class Initialized
+INFO - 2016-11-19 18:59:25 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:59:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:59:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:59:26 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:59:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:59:26 --> Final output sent to browser
+DEBUG - 2016-11-19 18:59:26 --> Total execution time: 0.7486
+INFO - 2016-11-19 18:59:46 --> Config Class Initialized
+INFO - 2016-11-19 18:59:46 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:59:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:59:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:59:46 --> URI Class Initialized
+INFO - 2016-11-19 18:59:46 --> Router Class Initialized
+INFO - 2016-11-19 18:59:46 --> Output Class Initialized
+INFO - 2016-11-19 18:59:46 --> Security Class Initialized
+DEBUG - 2016-11-19 18:59:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:59:46 --> Input Class Initialized
+INFO - 2016-11-19 18:59:46 --> Language Class Initialized
+INFO - 2016-11-19 18:59:46 --> Loader Class Initialized
+INFO - 2016-11-19 18:59:46 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:59:46 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:59:46 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:59:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:59:47 --> Controller Class Initialized
+INFO - 2016-11-19 18:59:47 --> Model Class Initialized
+INFO - 2016-11-19 18:59:47 --> Form Validation Class Initialized
+INFO - 2016-11-19 18:59:47 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 18:59:47 --> Final output sent to browser
+DEBUG - 2016-11-19 18:59:47 --> Total execution time: 0.8165
+INFO - 2016-11-19 18:59:51 --> Config Class Initialized
+INFO - 2016-11-19 18:59:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 18:59:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 18:59:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 18:59:52 --> URI Class Initialized
+DEBUG - 2016-11-19 18:59:52 --> No URI present. Default controller set.
+INFO - 2016-11-19 18:59:52 --> Router Class Initialized
+INFO - 2016-11-19 18:59:52 --> Output Class Initialized
+INFO - 2016-11-19 18:59:52 --> Security Class Initialized
+DEBUG - 2016-11-19 18:59:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 18:59:52 --> Input Class Initialized
+INFO - 2016-11-19 18:59:52 --> Language Class Initialized
+INFO - 2016-11-19 18:59:52 --> Loader Class Initialized
+INFO - 2016-11-19 18:59:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 18:59:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 18:59:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 18:59:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 18:59:52 --> Controller Class Initialized
+INFO - 2016-11-19 18:59:52 --> Model Class Initialized
+INFO - 2016-11-19 18:59:52 --> Model Class Initialized
+INFO - 2016-11-19 18:59:52 --> Model Class Initialized
+INFO - 2016-11-19 18:59:52 --> Model Class Initialized
+INFO - 2016-11-19 18:59:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 18:59:52 --> Pagination Class Initialized
+INFO - 2016-11-19 18:59:52 --> Helper loaded: app_helper
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 18:59:52 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 18:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 18:59:52 --> Final output sent to browser
+DEBUG - 2016-11-19 18:59:52 --> Total execution time: 0.7111
+INFO - 2016-11-19 19:00:20 --> Config Class Initialized
+INFO - 2016-11-19 19:00:20 --> Hooks Class Initialized
+DEBUG - 2016-11-19 19:00:20 --> UTF-8 Support Enabled
+INFO - 2016-11-19 19:00:20 --> Utf8 Class Initialized
+INFO - 2016-11-19 19:00:20 --> URI Class Initialized
+DEBUG - 2016-11-19 19:00:20 --> No URI present. Default controller set.
+INFO - 2016-11-19 19:00:20 --> Router Class Initialized
+INFO - 2016-11-19 19:00:20 --> Output Class Initialized
+INFO - 2016-11-19 19:00:20 --> Security Class Initialized
+DEBUG - 2016-11-19 19:00:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 19:00:20 --> Input Class Initialized
+INFO - 2016-11-19 19:00:20 --> Language Class Initialized
+INFO - 2016-11-19 19:00:20 --> Loader Class Initialized
+INFO - 2016-11-19 19:00:20 --> Helper loaded: url_helper
+INFO - 2016-11-19 19:00:20 --> Helper loaded: form_helper
+INFO - 2016-11-19 19:00:20 --> Database Driver Class Initialized
+INFO - 2016-11-19 19:00:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 19:00:20 --> Controller Class Initialized
+INFO - 2016-11-19 19:00:20 --> Model Class Initialized
+INFO - 2016-11-19 19:00:20 --> Model Class Initialized
+INFO - 2016-11-19 19:00:20 --> Model Class Initialized
+INFO - 2016-11-19 19:00:20 --> Model Class Initialized
+INFO - 2016-11-19 19:00:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 19:00:20 --> Pagination Class Initialized
+INFO - 2016-11-19 19:00:20 --> Helper loaded: app_helper
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 19:00:20 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 19:00:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 19:00:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 19:00:21 --> Final output sent to browser
+DEBUG - 2016-11-19 19:00:21 --> Total execution time: 0.7473
+INFO - 2016-11-19 19:00:24 --> Config Class Initialized
+INFO - 2016-11-19 19:00:24 --> Hooks Class Initialized
+DEBUG - 2016-11-19 19:00:24 --> UTF-8 Support Enabled
+INFO - 2016-11-19 19:00:24 --> Utf8 Class Initialized
+INFO - 2016-11-19 19:00:24 --> URI Class Initialized
+INFO - 2016-11-19 19:00:24 --> Router Class Initialized
+INFO - 2016-11-19 19:00:24 --> Output Class Initialized
+INFO - 2016-11-19 19:00:24 --> Security Class Initialized
+DEBUG - 2016-11-19 19:00:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 19:00:24 --> Input Class Initialized
+INFO - 2016-11-19 19:00:24 --> Language Class Initialized
+INFO - 2016-11-19 19:00:24 --> Loader Class Initialized
+INFO - 2016-11-19 19:00:24 --> Helper loaded: url_helper
+INFO - 2016-11-19 19:00:24 --> Helper loaded: form_helper
+INFO - 2016-11-19 19:00:24 --> Database Driver Class Initialized
+INFO - 2016-11-19 19:00:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 19:00:24 --> Controller Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 19:00:25 --> Pagination Class Initialized
+INFO - 2016-11-19 19:00:25 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 19:00:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 19:00:25 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+ERROR - 2016-11-19 19:00:25 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+INFO - 2016-11-19 19:00:25 --> Config Class Initialized
+INFO - 2016-11-19 19:00:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 19:00:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 19:00:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 19:00:25 --> URI Class Initialized
+DEBUG - 2016-11-19 19:00:25 --> No URI present. Default controller set.
+INFO - 2016-11-19 19:00:25 --> Router Class Initialized
+INFO - 2016-11-19 19:00:25 --> Output Class Initialized
+INFO - 2016-11-19 19:00:25 --> Security Class Initialized
+DEBUG - 2016-11-19 19:00:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 19:00:25 --> Input Class Initialized
+INFO - 2016-11-19 19:00:25 --> Language Class Initialized
+INFO - 2016-11-19 19:00:25 --> Loader Class Initialized
+INFO - 2016-11-19 19:00:25 --> Helper loaded: url_helper
+INFO - 2016-11-19 19:00:25 --> Helper loaded: form_helper
+INFO - 2016-11-19 19:00:25 --> Database Driver Class Initialized
+INFO - 2016-11-19 19:00:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 19:00:25 --> Controller Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Model Class Initialized
+INFO - 2016-11-19 19:00:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 19:00:25 --> Pagination Class Initialized
+INFO - 2016-11-19 19:00:25 --> Helper loaded: app_helper
+INFO - 2016-11-19 19:00:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 19:00:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 19:00:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 19:00:25 --> Final output sent to browser
+DEBUG - 2016-11-19 19:00:25 --> Total execution time: 0.5142
+INFO - 2016-11-19 19:00:27 --> Config Class Initialized
+INFO - 2016-11-19 19:00:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 19:00:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 19:00:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 19:00:27 --> URI Class Initialized
+DEBUG - 2016-11-19 19:00:27 --> No URI present. Default controller set.
+INFO - 2016-11-19 19:00:28 --> Router Class Initialized
+INFO - 2016-11-19 19:00:28 --> Output Class Initialized
+INFO - 2016-11-19 19:00:28 --> Security Class Initialized
+DEBUG - 2016-11-19 19:00:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 19:00:28 --> Input Class Initialized
+INFO - 2016-11-19 19:00:28 --> Language Class Initialized
+INFO - 2016-11-19 19:00:28 --> Loader Class Initialized
+INFO - 2016-11-19 19:00:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 19:00:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 19:00:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 19:00:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 19:00:28 --> Controller Class Initialized
+INFO - 2016-11-19 19:00:28 --> Model Class Initialized
+INFO - 2016-11-19 19:00:28 --> Model Class Initialized
+INFO - 2016-11-19 19:00:28 --> Model Class Initialized
+INFO - 2016-11-19 19:00:28 --> Model Class Initialized
+INFO - 2016-11-19 19:00:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 19:00:28 --> Pagination Class Initialized
+INFO - 2016-11-19 19:00:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 19:00:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 19:00:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 19:00:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 19:00:28 --> Final output sent to browser
+DEBUG - 2016-11-19 19:00:28 --> Total execution time: 0.6267
+INFO - 2016-11-19 20:39:48 --> Config Class Initialized
+INFO - 2016-11-19 20:39:48 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:39:48 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:39:48 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:39:48 --> URI Class Initialized
+DEBUG - 2016-11-19 20:39:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:39:49 --> Router Class Initialized
+INFO - 2016-11-19 20:39:49 --> Output Class Initialized
+INFO - 2016-11-19 20:39:49 --> Security Class Initialized
+DEBUG - 2016-11-19 20:39:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:39:49 --> Input Class Initialized
+INFO - 2016-11-19 20:39:49 --> Language Class Initialized
+INFO - 2016-11-19 20:39:49 --> Loader Class Initialized
+INFO - 2016-11-19 20:39:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:39:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:39:50 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:39:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:39:50 --> Controller Class Initialized
+INFO - 2016-11-19 20:39:50 --> Model Class Initialized
+INFO - 2016-11-19 20:39:50 --> Model Class Initialized
+INFO - 2016-11-19 20:39:50 --> Model Class Initialized
+INFO - 2016-11-19 20:39:50 --> Model Class Initialized
+INFO - 2016-11-19 20:39:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:39:50 --> Pagination Class Initialized
+INFO - 2016-11-19 20:39:50 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:39:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:39:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 20:39:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:39:51 --> Final output sent to browser
+DEBUG - 2016-11-19 20:39:51 --> Total execution time: 2.9570
+INFO - 2016-11-19 20:40:01 --> Config Class Initialized
+INFO - 2016-11-19 20:40:01 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:01 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:01 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:01 --> URI Class Initialized
+INFO - 2016-11-19 20:40:01 --> Router Class Initialized
+INFO - 2016-11-19 20:40:01 --> Output Class Initialized
+INFO - 2016-11-19 20:40:01 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:01 --> Input Class Initialized
+INFO - 2016-11-19 20:40:01 --> Language Class Initialized
+INFO - 2016-11-19 20:40:01 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:01 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:01 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:01 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:01 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:01 --> Model Class Initialized
+INFO - 2016-11-19 20:40:01 --> Model Class Initialized
+INFO - 2016-11-19 20:40:01 --> Model Class Initialized
+INFO - 2016-11-19 20:40:01 --> Model Class Initialized
+INFO - 2016-11-19 20:40:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:40:01 --> Pagination Class Initialized
+INFO - 2016-11-19 20:40:01 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 20:40:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:40:01 --> Model Class Initialized
+INFO - 2016-11-19 20:40:02 --> Final output sent to browser
+DEBUG - 2016-11-19 20:40:02 --> Total execution time: 0.6636
+INFO - 2016-11-19 20:40:02 --> Config Class Initialized
+INFO - 2016-11-19 20:40:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:02 --> URI Class Initialized
+DEBUG - 2016-11-19 20:40:02 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:40:02 --> Router Class Initialized
+INFO - 2016-11-19 20:40:02 --> Output Class Initialized
+INFO - 2016-11-19 20:40:02 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:02 --> Input Class Initialized
+INFO - 2016-11-19 20:40:02 --> Language Class Initialized
+INFO - 2016-11-19 20:40:02 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:02 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:02 --> Model Class Initialized
+INFO - 2016-11-19 20:40:02 --> Model Class Initialized
+INFO - 2016-11-19 20:40:02 --> Model Class Initialized
+INFO - 2016-11-19 20:40:02 --> Model Class Initialized
+INFO - 2016-11-19 20:40:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:40:02 --> Pagination Class Initialized
+INFO - 2016-11-19 20:40:02 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:40:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:40:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:40:03 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:40:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:40:03 --> Final output sent to browser
+DEBUG - 2016-11-19 20:40:03 --> Total execution time: 1.4757
+INFO - 2016-11-19 20:40:14 --> Config Class Initialized
+INFO - 2016-11-19 20:40:14 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:14 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:14 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:14 --> URI Class Initialized
+INFO - 2016-11-19 20:40:14 --> Router Class Initialized
+INFO - 2016-11-19 20:40:14 --> Output Class Initialized
+INFO - 2016-11-19 20:40:14 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:14 --> Input Class Initialized
+INFO - 2016-11-19 20:40:14 --> Language Class Initialized
+INFO - 2016-11-19 20:40:14 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:14 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:14 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:14 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:14 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:14 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:15 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:20 --> Config Class Initialized
+INFO - 2016-11-19 20:40:20 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:20 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:20 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:21 --> URI Class Initialized
+INFO - 2016-11-19 20:40:21 --> Router Class Initialized
+INFO - 2016-11-19 20:40:21 --> Output Class Initialized
+INFO - 2016-11-19 20:40:21 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:21 --> Input Class Initialized
+INFO - 2016-11-19 20:40:21 --> Language Class Initialized
+INFO - 2016-11-19 20:40:21 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:21 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:21 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:21 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:21 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:21 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:21 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:25 --> Config Class Initialized
+INFO - 2016-11-19 20:40:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:25 --> URI Class Initialized
+INFO - 2016-11-19 20:40:25 --> Router Class Initialized
+INFO - 2016-11-19 20:40:25 --> Output Class Initialized
+INFO - 2016-11-19 20:40:25 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:25 --> Input Class Initialized
+INFO - 2016-11-19 20:40:25 --> Language Class Initialized
+INFO - 2016-11-19 20:40:25 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:25 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:25 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:25 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:26 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:26 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:26 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:27 --> Config Class Initialized
+INFO - 2016-11-19 20:40:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:27 --> URI Class Initialized
+INFO - 2016-11-19 20:40:27 --> Router Class Initialized
+INFO - 2016-11-19 20:40:27 --> Output Class Initialized
+INFO - 2016-11-19 20:40:27 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:28 --> Input Class Initialized
+INFO - 2016-11-19 20:40:28 --> Language Class Initialized
+INFO - 2016-11-19 20:40:28 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:28 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:28 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:28 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:29 --> Config Class Initialized
+INFO - 2016-11-19 20:40:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:29 --> URI Class Initialized
+INFO - 2016-11-19 20:40:29 --> Router Class Initialized
+INFO - 2016-11-19 20:40:29 --> Output Class Initialized
+INFO - 2016-11-19 20:40:29 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:30 --> Input Class Initialized
+INFO - 2016-11-19 20:40:30 --> Language Class Initialized
+INFO - 2016-11-19 20:40:30 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:30 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:30 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:30 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:30 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:30 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:30 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:32 --> Config Class Initialized
+INFO - 2016-11-19 20:40:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:32 --> URI Class Initialized
+INFO - 2016-11-19 20:40:32 --> Router Class Initialized
+INFO - 2016-11-19 20:40:32 --> Output Class Initialized
+INFO - 2016-11-19 20:40:32 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:32 --> Input Class Initialized
+INFO - 2016-11-19 20:40:32 --> Language Class Initialized
+INFO - 2016-11-19 20:40:32 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:32 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:32 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:32 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:32 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:34 --> Config Class Initialized
+INFO - 2016-11-19 20:40:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:34 --> URI Class Initialized
+INFO - 2016-11-19 20:40:34 --> Router Class Initialized
+INFO - 2016-11-19 20:40:34 --> Output Class Initialized
+INFO - 2016-11-19 20:40:34 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:34 --> Input Class Initialized
+INFO - 2016-11-19 20:40:34 --> Language Class Initialized
+INFO - 2016-11-19 20:40:35 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:35 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:35 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:35 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:35 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:35 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:35 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:37 --> Config Class Initialized
+INFO - 2016-11-19 20:40:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:37 --> URI Class Initialized
+INFO - 2016-11-19 20:40:37 --> Router Class Initialized
+INFO - 2016-11-19 20:40:37 --> Output Class Initialized
+INFO - 2016-11-19 20:40:37 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:37 --> Input Class Initialized
+INFO - 2016-11-19 20:40:37 --> Language Class Initialized
+INFO - 2016-11-19 20:40:37 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:37 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:37 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:37 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:37 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:37 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:37 --> Model Class Initialized
+ERROR - 2016-11-19 20:40:37 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 20:40:43 --> Config Class Initialized
+INFO - 2016-11-19 20:40:43 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:40:43 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:40:43 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:40:43 --> URI Class Initialized
+DEBUG - 2016-11-19 20:40:43 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:40:43 --> Router Class Initialized
+INFO - 2016-11-19 20:40:43 --> Output Class Initialized
+INFO - 2016-11-19 20:40:43 --> Security Class Initialized
+DEBUG - 2016-11-19 20:40:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:40:44 --> Input Class Initialized
+INFO - 2016-11-19 20:40:44 --> Language Class Initialized
+INFO - 2016-11-19 20:40:44 --> Loader Class Initialized
+INFO - 2016-11-19 20:40:44 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:40:44 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:40:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:40:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:40:44 --> Controller Class Initialized
+INFO - 2016-11-19 20:40:44 --> Model Class Initialized
+INFO - 2016-11-19 20:40:44 --> Model Class Initialized
+INFO - 2016-11-19 20:40:44 --> Model Class Initialized
+INFO - 2016-11-19 20:40:44 --> Model Class Initialized
+INFO - 2016-11-19 20:40:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:40:44 --> Pagination Class Initialized
+INFO - 2016-11-19 20:40:44 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:40:44 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:40:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:40:44 --> Final output sent to browser
+DEBUG - 2016-11-19 20:40:44 --> Total execution time: 1.0416
+INFO - 2016-11-19 20:41:57 --> Config Class Initialized
+INFO - 2016-11-19 20:41:57 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:41:57 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:41:57 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:41:57 --> URI Class Initialized
+DEBUG - 2016-11-19 20:41:57 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:41:57 --> Router Class Initialized
+INFO - 2016-11-19 20:41:57 --> Output Class Initialized
+INFO - 2016-11-19 20:41:57 --> Security Class Initialized
+DEBUG - 2016-11-19 20:41:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:41:57 --> Input Class Initialized
+INFO - 2016-11-19 20:41:57 --> Language Class Initialized
+INFO - 2016-11-19 20:41:57 --> Loader Class Initialized
+INFO - 2016-11-19 20:41:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:41:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:41:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:41:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:41:58 --> Controller Class Initialized
+INFO - 2016-11-19 20:41:58 --> Model Class Initialized
+INFO - 2016-11-19 20:41:58 --> Model Class Initialized
+INFO - 2016-11-19 20:41:58 --> Model Class Initialized
+INFO - 2016-11-19 20:41:58 --> Model Class Initialized
+INFO - 2016-11-19 20:41:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:41:58 --> Pagination Class Initialized
+INFO - 2016-11-19 20:41:58 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:41:58 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:41:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:41:58 --> Final output sent to browser
+DEBUG - 2016-11-19 20:41:58 --> Total execution time: 0.8559
+INFO - 2016-11-19 20:42:27 --> Config Class Initialized
+INFO - 2016-11-19 20:42:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:42:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:42:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:42:27 --> URI Class Initialized
+INFO - 2016-11-19 20:42:27 --> Router Class Initialized
+INFO - 2016-11-19 20:42:27 --> Output Class Initialized
+INFO - 2016-11-19 20:42:27 --> Security Class Initialized
+DEBUG - 2016-11-19 20:42:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:42:27 --> Input Class Initialized
+INFO - 2016-11-19 20:42:27 --> Language Class Initialized
+INFO - 2016-11-19 20:42:27 --> Loader Class Initialized
+INFO - 2016-11-19 20:42:27 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:42:27 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:42:27 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:42:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:42:27 --> Controller Class Initialized
+INFO - 2016-11-19 20:42:27 --> Model Class Initialized
+INFO - 2016-11-19 20:42:27 --> Form Validation Class Initialized
+INFO - 2016-11-19 20:42:27 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 20:42:27 --> Final output sent to browser
+DEBUG - 2016-11-19 20:42:27 --> Total execution time: 0.4462
+INFO - 2016-11-19 20:45:59 --> Config Class Initialized
+INFO - 2016-11-19 20:45:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:45:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:45:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:45:59 --> URI Class Initialized
+INFO - 2016-11-19 20:45:59 --> Router Class Initialized
+INFO - 2016-11-19 20:45:59 --> Output Class Initialized
+INFO - 2016-11-19 20:45:59 --> Security Class Initialized
+DEBUG - 2016-11-19 20:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:45:59 --> Input Class Initialized
+INFO - 2016-11-19 20:45:59 --> Language Class Initialized
+INFO - 2016-11-19 20:45:59 --> Loader Class Initialized
+INFO - 2016-11-19 20:45:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:45:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:45:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:45:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:45:59 --> Controller Class Initialized
+INFO - 2016-11-19 20:45:59 --> Model Class Initialized
+INFO - 2016-11-19 20:45:59 --> Model Class Initialized
+INFO - 2016-11-19 20:45:59 --> Model Class Initialized
+INFO - 2016-11-19 20:45:59 --> Model Class Initialized
+INFO - 2016-11-19 20:45:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:45:59 --> Pagination Class Initialized
+INFO - 2016-11-19 20:45:59 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 20:45:59 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 20:45:59 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+ERROR - 2016-11-19 20:45:59 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+INFO - 2016-11-19 20:45:59 --> Config Class Initialized
+INFO - 2016-11-19 20:45:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:45:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:45:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:45:59 --> URI Class Initialized
+DEBUG - 2016-11-19 20:45:59 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:45:59 --> Router Class Initialized
+INFO - 2016-11-19 20:45:59 --> Output Class Initialized
+INFO - 2016-11-19 20:45:59 --> Security Class Initialized
+DEBUG - 2016-11-19 20:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:45:59 --> Input Class Initialized
+INFO - 2016-11-19 20:45:59 --> Language Class Initialized
+INFO - 2016-11-19 20:45:59 --> Loader Class Initialized
+INFO - 2016-11-19 20:46:00 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:46:00 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:46:00 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:46:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:46:00 --> Controller Class Initialized
+INFO - 2016-11-19 20:46:00 --> Model Class Initialized
+INFO - 2016-11-19 20:46:00 --> Model Class Initialized
+INFO - 2016-11-19 20:46:00 --> Model Class Initialized
+INFO - 2016-11-19 20:46:00 --> Model Class Initialized
+INFO - 2016-11-19 20:46:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:46:00 --> Pagination Class Initialized
+INFO - 2016-11-19 20:46:00 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:46:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:46:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 20:46:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:46:00 --> Final output sent to browser
+DEBUG - 2016-11-19 20:46:00 --> Total execution time: 0.6095
+INFO - 2016-11-19 20:46:11 --> Config Class Initialized
+INFO - 2016-11-19 20:46:11 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:46:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:46:11 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:46:11 --> URI Class Initialized
+INFO - 2016-11-19 20:46:11 --> Router Class Initialized
+INFO - 2016-11-19 20:46:11 --> Output Class Initialized
+INFO - 2016-11-19 20:46:11 --> Security Class Initialized
+DEBUG - 2016-11-19 20:46:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:46:11 --> Input Class Initialized
+INFO - 2016-11-19 20:46:11 --> Language Class Initialized
+INFO - 2016-11-19 20:46:11 --> Loader Class Initialized
+INFO - 2016-11-19 20:46:11 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:46:11 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:46:11 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:46:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:46:11 --> Controller Class Initialized
+INFO - 2016-11-19 20:46:11 --> Model Class Initialized
+INFO - 2016-11-19 20:46:11 --> Model Class Initialized
+INFO - 2016-11-19 20:46:11 --> Model Class Initialized
+INFO - 2016-11-19 20:46:11 --> Model Class Initialized
+INFO - 2016-11-19 20:46:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:46:11 --> Pagination Class Initialized
+INFO - 2016-11-19 20:46:11 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 20:46:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:46:11 --> Model Class Initialized
+INFO - 2016-11-19 20:46:11 --> Final output sent to browser
+DEBUG - 2016-11-19 20:46:11 --> Total execution time: 0.4673
+INFO - 2016-11-19 20:46:11 --> Config Class Initialized
+INFO - 2016-11-19 20:46:12 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:46:12 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:46:12 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:46:12 --> URI Class Initialized
+DEBUG - 2016-11-19 20:46:12 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:46:12 --> Router Class Initialized
+INFO - 2016-11-19 20:46:12 --> Output Class Initialized
+INFO - 2016-11-19 20:46:12 --> Security Class Initialized
+DEBUG - 2016-11-19 20:46:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:46:12 --> Input Class Initialized
+INFO - 2016-11-19 20:46:12 --> Language Class Initialized
+INFO - 2016-11-19 20:46:12 --> Loader Class Initialized
+INFO - 2016-11-19 20:46:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:46:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:46:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:46:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:46:12 --> Controller Class Initialized
+INFO - 2016-11-19 20:46:12 --> Model Class Initialized
+INFO - 2016-11-19 20:46:12 --> Model Class Initialized
+INFO - 2016-11-19 20:46:12 --> Model Class Initialized
+INFO - 2016-11-19 20:46:12 --> Model Class Initialized
+INFO - 2016-11-19 20:46:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:46:12 --> Pagination Class Initialized
+INFO - 2016-11-19 20:46:12 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:46:12 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:46:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:46:12 --> Final output sent to browser
+DEBUG - 2016-11-19 20:46:12 --> Total execution time: 0.7603
+INFO - 2016-11-19 20:46:33 --> Config Class Initialized
+INFO - 2016-11-19 20:46:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:46:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:46:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:46:33 --> URI Class Initialized
+INFO - 2016-11-19 20:46:33 --> Router Class Initialized
+INFO - 2016-11-19 20:46:33 --> Output Class Initialized
+INFO - 2016-11-19 20:46:33 --> Security Class Initialized
+DEBUG - 2016-11-19 20:46:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:46:33 --> Input Class Initialized
+INFO - 2016-11-19 20:46:33 --> Language Class Initialized
+INFO - 2016-11-19 20:46:33 --> Loader Class Initialized
+INFO - 2016-11-19 20:46:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:46:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:46:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:46:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:46:33 --> Controller Class Initialized
+INFO - 2016-11-19 20:46:33 --> Model Class Initialized
+INFO - 2016-11-19 20:46:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:46:33 --> Final output sent to browser
+DEBUG - 2016-11-19 20:46:33 --> Total execution time: 0.4289
+INFO - 2016-11-19 20:48:26 --> Config Class Initialized
+INFO - 2016-11-19 20:48:26 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:48:26 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:48:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:48:27 --> URI Class Initialized
+DEBUG - 2016-11-19 20:48:27 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:48:27 --> Router Class Initialized
+INFO - 2016-11-19 20:48:27 --> Output Class Initialized
+INFO - 2016-11-19 20:48:27 --> Security Class Initialized
+DEBUG - 2016-11-19 20:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:48:27 --> Input Class Initialized
+INFO - 2016-11-19 20:48:27 --> Language Class Initialized
+INFO - 2016-11-19 20:48:27 --> Loader Class Initialized
+INFO - 2016-11-19 20:48:27 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:48:27 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:48:27 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:48:27 --> Controller Class Initialized
+INFO - 2016-11-19 20:48:27 --> Model Class Initialized
+INFO - 2016-11-19 20:48:27 --> Model Class Initialized
+INFO - 2016-11-19 20:48:27 --> Model Class Initialized
+INFO - 2016-11-19 20:48:27 --> Model Class Initialized
+INFO - 2016-11-19 20:48:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:48:27 --> Pagination Class Initialized
+INFO - 2016-11-19 20:48:27 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:48:27 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:48:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:48:27 --> Final output sent to browser
+DEBUG - 2016-11-19 20:48:27 --> Total execution time: 0.9159
+INFO - 2016-11-19 20:48:43 --> Config Class Initialized
+INFO - 2016-11-19 20:48:43 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:48:43 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:48:43 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:48:43 --> URI Class Initialized
+DEBUG - 2016-11-19 20:48:43 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:48:43 --> Router Class Initialized
+INFO - 2016-11-19 20:48:43 --> Output Class Initialized
+INFO - 2016-11-19 20:48:43 --> Security Class Initialized
+DEBUG - 2016-11-19 20:48:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:48:43 --> Input Class Initialized
+INFO - 2016-11-19 20:48:43 --> Language Class Initialized
+INFO - 2016-11-19 20:48:43 --> Loader Class Initialized
+INFO - 2016-11-19 20:48:43 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:48:43 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:48:43 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:48:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:48:43 --> Controller Class Initialized
+INFO - 2016-11-19 20:48:43 --> Model Class Initialized
+INFO - 2016-11-19 20:48:43 --> Model Class Initialized
+INFO - 2016-11-19 20:48:43 --> Model Class Initialized
+INFO - 2016-11-19 20:48:43 --> Model Class Initialized
+INFO - 2016-11-19 20:48:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:48:43 --> Pagination Class Initialized
+INFO - 2016-11-19 20:48:43 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:48:43 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:48:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:48:43 --> Final output sent to browser
+DEBUG - 2016-11-19 20:48:43 --> Total execution time: 0.8853
+INFO - 2016-11-19 20:48:49 --> Config Class Initialized
+INFO - 2016-11-19 20:48:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:48:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:48:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:48:49 --> URI Class Initialized
+DEBUG - 2016-11-19 20:48:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:48:49 --> Router Class Initialized
+INFO - 2016-11-19 20:48:49 --> Output Class Initialized
+INFO - 2016-11-19 20:48:49 --> Security Class Initialized
+DEBUG - 2016-11-19 20:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:48:49 --> Input Class Initialized
+INFO - 2016-11-19 20:48:49 --> Language Class Initialized
+INFO - 2016-11-19 20:48:49 --> Loader Class Initialized
+INFO - 2016-11-19 20:48:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:48:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:48:49 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:48:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:48:49 --> Controller Class Initialized
+INFO - 2016-11-19 20:48:49 --> Model Class Initialized
+INFO - 2016-11-19 20:48:49 --> Model Class Initialized
+INFO - 2016-11-19 20:48:49 --> Model Class Initialized
+INFO - 2016-11-19 20:48:49 --> Model Class Initialized
+INFO - 2016-11-19 20:48:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:48:49 --> Pagination Class Initialized
+INFO - 2016-11-19 20:48:49 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:48:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:48:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:48:49 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:48:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:48:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:48:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:48:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:48:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:48:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:48:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:48:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:48:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:48:50 --> Final output sent to browser
+DEBUG - 2016-11-19 20:48:50 --> Total execution time: 0.8913
+INFO - 2016-11-19 20:49:03 --> Config Class Initialized
+INFO - 2016-11-19 20:49:03 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:49:03 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:49:03 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:49:03 --> URI Class Initialized
+DEBUG - 2016-11-19 20:49:03 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:49:03 --> Router Class Initialized
+INFO - 2016-11-19 20:49:03 --> Output Class Initialized
+INFO - 2016-11-19 20:49:03 --> Security Class Initialized
+DEBUG - 2016-11-19 20:49:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:49:03 --> Input Class Initialized
+INFO - 2016-11-19 20:49:03 --> Language Class Initialized
+INFO - 2016-11-19 20:49:03 --> Loader Class Initialized
+INFO - 2016-11-19 20:49:03 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:49:04 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:49:04 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:49:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:49:04 --> Controller Class Initialized
+INFO - 2016-11-19 20:49:04 --> Model Class Initialized
+INFO - 2016-11-19 20:49:04 --> Model Class Initialized
+INFO - 2016-11-19 20:49:04 --> Model Class Initialized
+INFO - 2016-11-19 20:49:04 --> Model Class Initialized
+INFO - 2016-11-19 20:49:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:49:04 --> Pagination Class Initialized
+INFO - 2016-11-19 20:49:04 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:49:04 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:49:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:49:04 --> Final output sent to browser
+DEBUG - 2016-11-19 20:49:04 --> Total execution time: 0.8785
+INFO - 2016-11-19 20:49:11 --> Config Class Initialized
+INFO - 2016-11-19 20:49:11 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:49:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:49:12 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:49:12 --> URI Class Initialized
+INFO - 2016-11-19 20:49:12 --> Router Class Initialized
+INFO - 2016-11-19 20:49:12 --> Output Class Initialized
+INFO - 2016-11-19 20:49:12 --> Security Class Initialized
+DEBUG - 2016-11-19 20:49:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:49:12 --> Input Class Initialized
+INFO - 2016-11-19 20:49:12 --> Language Class Initialized
+INFO - 2016-11-19 20:49:12 --> Loader Class Initialized
+INFO - 2016-11-19 20:49:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:49:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:49:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:49:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:49:12 --> Controller Class Initialized
+INFO - 2016-11-19 20:49:12 --> Model Class Initialized
+INFO - 2016-11-19 20:49:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:49:12 --> Final output sent to browser
+DEBUG - 2016-11-19 20:49:12 --> Total execution time: 0.6277
+INFO - 2016-11-19 20:49:24 --> Config Class Initialized
+INFO - 2016-11-19 20:49:24 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:49:24 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:49:24 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:49:24 --> URI Class Initialized
+INFO - 2016-11-19 20:49:24 --> Router Class Initialized
+INFO - 2016-11-19 20:49:24 --> Output Class Initialized
+INFO - 2016-11-19 20:49:24 --> Security Class Initialized
+DEBUG - 2016-11-19 20:49:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:49:24 --> Input Class Initialized
+INFO - 2016-11-19 20:49:24 --> Language Class Initialized
+INFO - 2016-11-19 20:49:24 --> Loader Class Initialized
+INFO - 2016-11-19 20:49:24 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:49:24 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:49:24 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:49:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:49:25 --> Controller Class Initialized
+INFO - 2016-11-19 20:49:25 --> Model Class Initialized
+INFO - 2016-11-19 20:49:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:49:25 --> Final output sent to browser
+DEBUG - 2016-11-19 20:49:25 --> Total execution time: 0.5828
+INFO - 2016-11-19 20:49:33 --> Config Class Initialized
+INFO - 2016-11-19 20:49:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:49:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:49:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:49:33 --> URI Class Initialized
+DEBUG - 2016-11-19 20:49:33 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:49:33 --> Router Class Initialized
+INFO - 2016-11-19 20:49:33 --> Output Class Initialized
+INFO - 2016-11-19 20:49:33 --> Security Class Initialized
+DEBUG - 2016-11-19 20:49:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:49:33 --> Input Class Initialized
+INFO - 2016-11-19 20:49:33 --> Language Class Initialized
+INFO - 2016-11-19 20:49:33 --> Loader Class Initialized
+INFO - 2016-11-19 20:49:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:49:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:49:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:49:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:49:34 --> Controller Class Initialized
+INFO - 2016-11-19 20:49:34 --> Model Class Initialized
+INFO - 2016-11-19 20:49:34 --> Model Class Initialized
+INFO - 2016-11-19 20:49:34 --> Model Class Initialized
+INFO - 2016-11-19 20:49:34 --> Model Class Initialized
+INFO - 2016-11-19 20:49:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:49:34 --> Pagination Class Initialized
+INFO - 2016-11-19 20:49:34 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:49:34 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:49:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:49:34 --> Final output sent to browser
+DEBUG - 2016-11-19 20:49:34 --> Total execution time: 0.8508
+INFO - 2016-11-19 20:49:50 --> Config Class Initialized
+INFO - 2016-11-19 20:49:50 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:49:50 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:49:50 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:49:50 --> URI Class Initialized
+INFO - 2016-11-19 20:49:50 --> Router Class Initialized
+INFO - 2016-11-19 20:49:51 --> Output Class Initialized
+INFO - 2016-11-19 20:49:51 --> Security Class Initialized
+DEBUG - 2016-11-19 20:49:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:49:51 --> Input Class Initialized
+INFO - 2016-11-19 20:49:51 --> Language Class Initialized
+INFO - 2016-11-19 20:49:51 --> Loader Class Initialized
+INFO - 2016-11-19 20:49:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:49:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:49:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:49:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:49:51 --> Controller Class Initialized
+INFO - 2016-11-19 20:49:51 --> Model Class Initialized
+INFO - 2016-11-19 20:49:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:49:51 --> Final output sent to browser
+DEBUG - 2016-11-19 20:49:51 --> Total execution time: 0.5238
+INFO - 2016-11-19 20:50:26 --> Config Class Initialized
+INFO - 2016-11-19 20:50:26 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:50:26 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:50:26 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:50:26 --> URI Class Initialized
+DEBUG - 2016-11-19 20:50:26 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:50:26 --> Router Class Initialized
+INFO - 2016-11-19 20:50:26 --> Output Class Initialized
+INFO - 2016-11-19 20:50:26 --> Security Class Initialized
+DEBUG - 2016-11-19 20:50:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:50:26 --> Input Class Initialized
+INFO - 2016-11-19 20:50:26 --> Language Class Initialized
+INFO - 2016-11-19 20:50:26 --> Loader Class Initialized
+INFO - 2016-11-19 20:50:26 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:50:26 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:50:26 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:50:26 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:50:26 --> Controller Class Initialized
+INFO - 2016-11-19 20:50:26 --> Model Class Initialized
+INFO - 2016-11-19 20:50:27 --> Model Class Initialized
+INFO - 2016-11-19 20:50:27 --> Model Class Initialized
+INFO - 2016-11-19 20:50:27 --> Model Class Initialized
+INFO - 2016-11-19 20:50:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:50:27 --> Pagination Class Initialized
+INFO - 2016-11-19 20:50:27 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:50:27 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:50:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:50:27 --> Final output sent to browser
+DEBUG - 2016-11-19 20:50:27 --> Total execution time: 0.8700
+INFO - 2016-11-19 20:50:55 --> Config Class Initialized
+INFO - 2016-11-19 20:50:55 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:50:55 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:50:55 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:50:55 --> URI Class Initialized
+DEBUG - 2016-11-19 20:50:55 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:50:55 --> Router Class Initialized
+INFO - 2016-11-19 20:50:55 --> Output Class Initialized
+INFO - 2016-11-19 20:50:55 --> Security Class Initialized
+DEBUG - 2016-11-19 20:50:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:50:55 --> Input Class Initialized
+INFO - 2016-11-19 20:50:55 --> Language Class Initialized
+INFO - 2016-11-19 20:50:55 --> Loader Class Initialized
+INFO - 2016-11-19 20:50:55 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:50:55 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:50:55 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:50:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:50:55 --> Controller Class Initialized
+INFO - 2016-11-19 20:50:55 --> Model Class Initialized
+INFO - 2016-11-19 20:50:55 --> Model Class Initialized
+INFO - 2016-11-19 20:50:55 --> Model Class Initialized
+INFO - 2016-11-19 20:50:55 --> Model Class Initialized
+INFO - 2016-11-19 20:50:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:50:55 --> Pagination Class Initialized
+INFO - 2016-11-19 20:50:55 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:50:55 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:50:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:50:55 --> Final output sent to browser
+DEBUG - 2016-11-19 20:50:55 --> Total execution time: 0.8502
+INFO - 2016-11-19 20:51:01 --> Config Class Initialized
+INFO - 2016-11-19 20:51:01 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:51:01 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:51:01 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:51:01 --> URI Class Initialized
+INFO - 2016-11-19 20:51:01 --> Router Class Initialized
+INFO - 2016-11-19 20:51:02 --> Output Class Initialized
+INFO - 2016-11-19 20:51:02 --> Security Class Initialized
+DEBUG - 2016-11-19 20:51:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:51:02 --> Input Class Initialized
+INFO - 2016-11-19 20:51:02 --> Language Class Initialized
+INFO - 2016-11-19 20:51:02 --> Loader Class Initialized
+INFO - 2016-11-19 20:51:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:51:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:51:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:51:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:51:02 --> Controller Class Initialized
+INFO - 2016-11-19 20:51:02 --> Model Class Initialized
+INFO - 2016-11-19 20:51:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:51:02 --> Final output sent to browser
+DEBUG - 2016-11-19 20:51:02 --> Total execution time: 0.5260
+INFO - 2016-11-19 20:51:30 --> Config Class Initialized
+INFO - 2016-11-19 20:51:30 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:51:30 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:51:31 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:51:31 --> URI Class Initialized
+INFO - 2016-11-19 20:51:31 --> Router Class Initialized
+INFO - 2016-11-19 20:51:31 --> Output Class Initialized
+INFO - 2016-11-19 20:51:31 --> Security Class Initialized
+DEBUG - 2016-11-19 20:51:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:51:31 --> Input Class Initialized
+INFO - 2016-11-19 20:51:31 --> Language Class Initialized
+INFO - 2016-11-19 20:51:31 --> Loader Class Initialized
+INFO - 2016-11-19 20:51:31 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:51:31 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:51:31 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:51:31 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:51:31 --> Controller Class Initialized
+INFO - 2016-11-19 20:51:31 --> Model Class Initialized
+INFO - 2016-11-19 20:51:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:51:31 --> Final output sent to browser
+DEBUG - 2016-11-19 20:51:31 --> Total execution time: 0.5685
+INFO - 2016-11-19 20:51:35 --> Config Class Initialized
+INFO - 2016-11-19 20:51:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:51:35 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:51:35 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:51:35 --> URI Class Initialized
+INFO - 2016-11-19 20:51:35 --> Router Class Initialized
+INFO - 2016-11-19 20:51:35 --> Output Class Initialized
+INFO - 2016-11-19 20:51:35 --> Security Class Initialized
+DEBUG - 2016-11-19 20:51:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:51:35 --> Input Class Initialized
+INFO - 2016-11-19 20:51:36 --> Language Class Initialized
+INFO - 2016-11-19 20:51:36 --> Loader Class Initialized
+INFO - 2016-11-19 20:51:36 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:51:36 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:51:36 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:51:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:51:36 --> Controller Class Initialized
+INFO - 2016-11-19 20:51:36 --> Model Class Initialized
+INFO - 2016-11-19 20:51:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:51:36 --> Final output sent to browser
+DEBUG - 2016-11-19 20:51:36 --> Total execution time: 0.5587
+INFO - 2016-11-19 20:51:54 --> Config Class Initialized
+INFO - 2016-11-19 20:51:54 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:51:54 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:51:54 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:51:54 --> URI Class Initialized
+DEBUG - 2016-11-19 20:51:54 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:51:54 --> Router Class Initialized
+INFO - 2016-11-19 20:51:54 --> Output Class Initialized
+INFO - 2016-11-19 20:51:54 --> Security Class Initialized
+DEBUG - 2016-11-19 20:51:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:51:55 --> Input Class Initialized
+INFO - 2016-11-19 20:51:55 --> Language Class Initialized
+INFO - 2016-11-19 20:51:55 --> Loader Class Initialized
+INFO - 2016-11-19 20:51:55 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:51:55 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:51:55 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:51:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:51:55 --> Controller Class Initialized
+INFO - 2016-11-19 20:51:55 --> Model Class Initialized
+INFO - 2016-11-19 20:51:55 --> Model Class Initialized
+INFO - 2016-11-19 20:51:55 --> Model Class Initialized
+INFO - 2016-11-19 20:51:55 --> Model Class Initialized
+INFO - 2016-11-19 20:51:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:51:55 --> Pagination Class Initialized
+INFO - 2016-11-19 20:51:55 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:51:55 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:51:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:51:55 --> Final output sent to browser
+DEBUG - 2016-11-19 20:51:55 --> Total execution time: 0.8542
+INFO - 2016-11-19 20:52:40 --> Config Class Initialized
+INFO - 2016-11-19 20:52:40 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:52:40 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:52:40 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:52:40 --> URI Class Initialized
+DEBUG - 2016-11-19 20:52:40 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:52:40 --> Router Class Initialized
+INFO - 2016-11-19 20:52:40 --> Output Class Initialized
+INFO - 2016-11-19 20:52:40 --> Security Class Initialized
+DEBUG - 2016-11-19 20:52:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:52:40 --> Input Class Initialized
+INFO - 2016-11-19 20:52:40 --> Language Class Initialized
+INFO - 2016-11-19 20:52:41 --> Loader Class Initialized
+INFO - 2016-11-19 20:52:41 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:52:41 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:52:41 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:52:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:52:41 --> Controller Class Initialized
+INFO - 2016-11-19 20:52:41 --> Model Class Initialized
+INFO - 2016-11-19 20:52:41 --> Model Class Initialized
+INFO - 2016-11-19 20:52:41 --> Model Class Initialized
+INFO - 2016-11-19 20:52:41 --> Model Class Initialized
+INFO - 2016-11-19 20:52:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:52:41 --> Pagination Class Initialized
+INFO - 2016-11-19 20:52:41 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:52:41 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:52:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:52:41 --> Final output sent to browser
+DEBUG - 2016-11-19 20:52:41 --> Total execution time: 0.8997
+INFO - 2016-11-19 20:53:03 --> Config Class Initialized
+INFO - 2016-11-19 20:53:03 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:53:03 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:53:03 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:53:03 --> URI Class Initialized
+DEBUG - 2016-11-19 20:53:03 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:53:03 --> Router Class Initialized
+INFO - 2016-11-19 20:53:03 --> Output Class Initialized
+INFO - 2016-11-19 20:53:03 --> Security Class Initialized
+DEBUG - 2016-11-19 20:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:53:03 --> Input Class Initialized
+INFO - 2016-11-19 20:53:03 --> Language Class Initialized
+INFO - 2016-11-19 20:53:03 --> Loader Class Initialized
+INFO - 2016-11-19 20:53:03 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:53:03 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:53:03 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:53:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:53:03 --> Controller Class Initialized
+INFO - 2016-11-19 20:53:03 --> Model Class Initialized
+INFO - 2016-11-19 20:53:03 --> Model Class Initialized
+INFO - 2016-11-19 20:53:04 --> Model Class Initialized
+INFO - 2016-11-19 20:53:04 --> Model Class Initialized
+INFO - 2016-11-19 20:53:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:53:04 --> Pagination Class Initialized
+INFO - 2016-11-19 20:53:04 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:53:04 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:53:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:53:04 --> Final output sent to browser
+DEBUG - 2016-11-19 20:53:04 --> Total execution time: 0.9576
+INFO - 2016-11-19 20:53:11 --> Config Class Initialized
+INFO - 2016-11-19 20:53:12 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:53:12 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:53:12 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:53:12 --> URI Class Initialized
+INFO - 2016-11-19 20:53:12 --> Router Class Initialized
+INFO - 2016-11-19 20:53:12 --> Output Class Initialized
+INFO - 2016-11-19 20:53:12 --> Security Class Initialized
+DEBUG - 2016-11-19 20:53:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:53:12 --> Input Class Initialized
+INFO - 2016-11-19 20:53:12 --> Language Class Initialized
+INFO - 2016-11-19 20:53:12 --> Loader Class Initialized
+INFO - 2016-11-19 20:53:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:53:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:53:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:53:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:53:12 --> Controller Class Initialized
+INFO - 2016-11-19 20:53:12 --> Model Class Initialized
+INFO - 2016-11-19 20:53:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:53:12 --> Final output sent to browser
+DEBUG - 2016-11-19 20:53:12 --> Total execution time: 0.6037
+INFO - 2016-11-19 20:54:49 --> Config Class Initialized
+INFO - 2016-11-19 20:54:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:54:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:54:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:54:50 --> URI Class Initialized
+DEBUG - 2016-11-19 20:54:50 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:54:50 --> Router Class Initialized
+INFO - 2016-11-19 20:54:50 --> Output Class Initialized
+INFO - 2016-11-19 20:54:50 --> Security Class Initialized
+DEBUG - 2016-11-19 20:54:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:54:50 --> Input Class Initialized
+INFO - 2016-11-19 20:54:50 --> Language Class Initialized
+INFO - 2016-11-19 20:54:50 --> Loader Class Initialized
+INFO - 2016-11-19 20:54:50 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:54:50 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:54:50 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:54:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:54:50 --> Controller Class Initialized
+INFO - 2016-11-19 20:54:50 --> Model Class Initialized
+INFO - 2016-11-19 20:54:50 --> Model Class Initialized
+INFO - 2016-11-19 20:54:50 --> Model Class Initialized
+INFO - 2016-11-19 20:54:50 --> Model Class Initialized
+INFO - 2016-11-19 20:54:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:54:50 --> Pagination Class Initialized
+INFO - 2016-11-19 20:54:50 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:54:50 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:54:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:54:50 --> Final output sent to browser
+DEBUG - 2016-11-19 20:54:50 --> Total execution time: 0.8615
+INFO - 2016-11-19 20:54:56 --> Config Class Initialized
+INFO - 2016-11-19 20:54:56 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:54:56 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:54:56 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:54:56 --> URI Class Initialized
+INFO - 2016-11-19 20:54:56 --> Router Class Initialized
+INFO - 2016-11-19 20:54:56 --> Output Class Initialized
+INFO - 2016-11-19 20:54:56 --> Security Class Initialized
+DEBUG - 2016-11-19 20:54:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:54:56 --> Input Class Initialized
+INFO - 2016-11-19 20:54:56 --> Language Class Initialized
+INFO - 2016-11-19 20:54:56 --> Loader Class Initialized
+INFO - 2016-11-19 20:54:56 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:54:56 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:54:56 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:54:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:54:56 --> Controller Class Initialized
+INFO - 2016-11-19 20:54:56 --> Model Class Initialized
+INFO - 2016-11-19 20:54:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:54:56 --> Final output sent to browser
+DEBUG - 2016-11-19 20:54:56 --> Total execution time: 0.5507
+INFO - 2016-11-19 20:55:09 --> Config Class Initialized
+INFO - 2016-11-19 20:55:09 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:55:09 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:55:09 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:55:09 --> URI Class Initialized
+INFO - 2016-11-19 20:55:09 --> Router Class Initialized
+INFO - 2016-11-19 20:55:09 --> Output Class Initialized
+INFO - 2016-11-19 20:55:09 --> Security Class Initialized
+DEBUG - 2016-11-19 20:55:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:55:09 --> Input Class Initialized
+INFO - 2016-11-19 20:55:09 --> Language Class Initialized
+INFO - 2016-11-19 20:55:09 --> Loader Class Initialized
+INFO - 2016-11-19 20:55:09 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:55:09 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:55:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:55:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:55:09 --> Controller Class Initialized
+INFO - 2016-11-19 20:55:09 --> Model Class Initialized
+INFO - 2016-11-19 20:55:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:55:09 --> Final output sent to browser
+DEBUG - 2016-11-19 20:55:09 --> Total execution time: 0.5499
+INFO - 2016-11-19 20:55:26 --> Config Class Initialized
+INFO - 2016-11-19 20:55:26 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:55:26 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:55:26 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:55:26 --> URI Class Initialized
+DEBUG - 2016-11-19 20:55:26 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:55:26 --> Router Class Initialized
+INFO - 2016-11-19 20:55:26 --> Output Class Initialized
+INFO - 2016-11-19 20:55:26 --> Security Class Initialized
+DEBUG - 2016-11-19 20:55:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:55:26 --> Input Class Initialized
+INFO - 2016-11-19 20:55:26 --> Language Class Initialized
+INFO - 2016-11-19 20:55:26 --> Loader Class Initialized
+INFO - 2016-11-19 20:55:26 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:55:26 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:55:27 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:55:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:55:27 --> Controller Class Initialized
+INFO - 2016-11-19 20:55:27 --> Model Class Initialized
+INFO - 2016-11-19 20:55:27 --> Model Class Initialized
+INFO - 2016-11-19 20:55:27 --> Model Class Initialized
+INFO - 2016-11-19 20:55:27 --> Model Class Initialized
+INFO - 2016-11-19 20:55:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:55:27 --> Pagination Class Initialized
+INFO - 2016-11-19 20:55:27 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:55:27 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:55:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:55:27 --> Final output sent to browser
+DEBUG - 2016-11-19 20:55:27 --> Total execution time: 0.8775
+INFO - 2016-11-19 20:55:49 --> Config Class Initialized
+INFO - 2016-11-19 20:55:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:55:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:55:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:55:49 --> URI Class Initialized
+DEBUG - 2016-11-19 20:55:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:55:49 --> Router Class Initialized
+INFO - 2016-11-19 20:55:49 --> Output Class Initialized
+INFO - 2016-11-19 20:55:49 --> Security Class Initialized
+DEBUG - 2016-11-19 20:55:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:55:49 --> Input Class Initialized
+INFO - 2016-11-19 20:55:49 --> Language Class Initialized
+INFO - 2016-11-19 20:55:49 --> Loader Class Initialized
+INFO - 2016-11-19 20:55:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:55:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:55:49 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:55:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:55:49 --> Controller Class Initialized
+INFO - 2016-11-19 20:55:49 --> Model Class Initialized
+INFO - 2016-11-19 20:55:49 --> Model Class Initialized
+INFO - 2016-11-19 20:55:49 --> Model Class Initialized
+INFO - 2016-11-19 20:55:49 --> Model Class Initialized
+INFO - 2016-11-19 20:55:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:55:49 --> Pagination Class Initialized
+INFO - 2016-11-19 20:55:49 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:55:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:55:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:55:49 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:55:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:55:50 --> Final output sent to browser
+DEBUG - 2016-11-19 20:55:50 --> Total execution time: 0.9016
+INFO - 2016-11-19 20:56:38 --> Config Class Initialized
+INFO - 2016-11-19 20:56:38 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:56:38 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:56:38 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:56:38 --> URI Class Initialized
+INFO - 2016-11-19 20:56:38 --> Router Class Initialized
+INFO - 2016-11-19 20:56:38 --> Output Class Initialized
+INFO - 2016-11-19 20:56:38 --> Security Class Initialized
+DEBUG - 2016-11-19 20:56:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:56:38 --> Input Class Initialized
+INFO - 2016-11-19 20:56:38 --> Language Class Initialized
+INFO - 2016-11-19 20:56:38 --> Loader Class Initialized
+INFO - 2016-11-19 20:56:38 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:56:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:56:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:56:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:56:38 --> Controller Class Initialized
+INFO - 2016-11-19 20:56:38 --> Model Class Initialized
+INFO - 2016-11-19 20:56:38 --> Form Validation Class Initialized
+INFO - 2016-11-19 20:56:38 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 20:56:38 --> Final output sent to browser
+DEBUG - 2016-11-19 20:56:38 --> Total execution time: 0.4386
+INFO - 2016-11-19 20:56:51 --> Config Class Initialized
+INFO - 2016-11-19 20:56:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:56:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:56:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:56:51 --> URI Class Initialized
+INFO - 2016-11-19 20:56:51 --> Router Class Initialized
+INFO - 2016-11-19 20:56:51 --> Output Class Initialized
+INFO - 2016-11-19 20:56:51 --> Security Class Initialized
+DEBUG - 2016-11-19 20:56:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:56:51 --> Input Class Initialized
+INFO - 2016-11-19 20:56:51 --> Language Class Initialized
+INFO - 2016-11-19 20:56:51 --> Loader Class Initialized
+INFO - 2016-11-19 20:56:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:56:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:56:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:56:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:56:51 --> Controller Class Initialized
+INFO - 2016-11-19 20:56:51 --> Model Class Initialized
+INFO - 2016-11-19 20:56:51 --> Form Validation Class Initialized
+INFO - 2016-11-19 20:56:51 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 20:56:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:56:51 --> Final output sent to browser
+DEBUG - 2016-11-19 20:56:51 --> Total execution time: 0.6125
+INFO - 2016-11-19 20:56:59 --> Config Class Initialized
+INFO - 2016-11-19 20:56:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:56:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:56:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:56:59 --> URI Class Initialized
+INFO - 2016-11-19 20:56:59 --> Router Class Initialized
+INFO - 2016-11-19 20:56:59 --> Output Class Initialized
+INFO - 2016-11-19 20:56:59 --> Security Class Initialized
+DEBUG - 2016-11-19 20:56:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:56:59 --> Input Class Initialized
+INFO - 2016-11-19 20:56:59 --> Language Class Initialized
+INFO - 2016-11-19 20:56:59 --> Loader Class Initialized
+INFO - 2016-11-19 20:56:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:56:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:56:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:56:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:56:59 --> Controller Class Initialized
+INFO - 2016-11-19 20:56:59 --> Model Class Initialized
+INFO - 2016-11-19 20:56:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:56:59 --> Final output sent to browser
+DEBUG - 2016-11-19 20:56:59 --> Total execution time: 0.5156
+INFO - 2016-11-19 20:57:08 --> Config Class Initialized
+INFO - 2016-11-19 20:57:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:57:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:57:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:57:08 --> URI Class Initialized
+DEBUG - 2016-11-19 20:57:08 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:57:08 --> Router Class Initialized
+INFO - 2016-11-19 20:57:08 --> Output Class Initialized
+INFO - 2016-11-19 20:57:08 --> Security Class Initialized
+DEBUG - 2016-11-19 20:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:57:08 --> Input Class Initialized
+INFO - 2016-11-19 20:57:08 --> Language Class Initialized
+INFO - 2016-11-19 20:57:08 --> Loader Class Initialized
+INFO - 2016-11-19 20:57:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:57:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:57:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:57:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:57:09 --> Controller Class Initialized
+INFO - 2016-11-19 20:57:09 --> Model Class Initialized
+INFO - 2016-11-19 20:57:09 --> Model Class Initialized
+INFO - 2016-11-19 20:57:09 --> Model Class Initialized
+INFO - 2016-11-19 20:57:09 --> Model Class Initialized
+INFO - 2016-11-19 20:57:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:57:09 --> Pagination Class Initialized
+INFO - 2016-11-19 20:57:09 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:57:09 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:57:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:57:09 --> Final output sent to browser
+DEBUG - 2016-11-19 20:57:09 --> Total execution time: 0.8661
+INFO - 2016-11-19 20:57:22 --> Config Class Initialized
+INFO - 2016-11-19 20:57:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:57:22 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:57:22 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:57:22 --> URI Class Initialized
+INFO - 2016-11-19 20:57:22 --> Router Class Initialized
+INFO - 2016-11-19 20:57:22 --> Output Class Initialized
+INFO - 2016-11-19 20:57:22 --> Security Class Initialized
+DEBUG - 2016-11-19 20:57:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:57:22 --> Input Class Initialized
+INFO - 2016-11-19 20:57:22 --> Language Class Initialized
+INFO - 2016-11-19 20:57:22 --> Loader Class Initialized
+INFO - 2016-11-19 20:57:23 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:57:23 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:57:23 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:57:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:57:23 --> Controller Class Initialized
+INFO - 2016-11-19 20:57:23 --> Model Class Initialized
+INFO - 2016-11-19 20:57:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:57:23 --> Final output sent to browser
+DEBUG - 2016-11-19 20:57:23 --> Total execution time: 0.5172
+INFO - 2016-11-19 20:57:34 --> Config Class Initialized
+INFO - 2016-11-19 20:57:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:57:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:57:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:57:34 --> URI Class Initialized
+INFO - 2016-11-19 20:57:34 --> Router Class Initialized
+INFO - 2016-11-19 20:57:34 --> Output Class Initialized
+INFO - 2016-11-19 20:57:34 --> Security Class Initialized
+DEBUG - 2016-11-19 20:57:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:57:34 --> Input Class Initialized
+INFO - 2016-11-19 20:57:34 --> Language Class Initialized
+INFO - 2016-11-19 20:57:34 --> Loader Class Initialized
+INFO - 2016-11-19 20:57:34 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:57:34 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:57:34 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:57:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:57:34 --> Controller Class Initialized
+INFO - 2016-11-19 20:57:34 --> Model Class Initialized
+INFO - 2016-11-19 20:57:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 20:57:34 --> Final output sent to browser
+DEBUG - 2016-11-19 20:57:34 --> Total execution time: 0.5031
+INFO - 2016-11-19 20:58:01 --> Config Class Initialized
+INFO - 2016-11-19 20:58:01 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:58:01 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:58:01 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:58:01 --> URI Class Initialized
+INFO - 2016-11-19 20:58:01 --> Router Class Initialized
+INFO - 2016-11-19 20:58:01 --> Output Class Initialized
+INFO - 2016-11-19 20:58:01 --> Security Class Initialized
+DEBUG - 2016-11-19 20:58:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:58:01 --> Input Class Initialized
+INFO - 2016-11-19 20:58:01 --> Language Class Initialized
+INFO - 2016-11-19 20:58:01 --> Loader Class Initialized
+INFO - 2016-11-19 20:58:01 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:58:01 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:58:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:58:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:58:02 --> Controller Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:58:02 --> Pagination Class Initialized
+INFO - 2016-11-19 20:58:02 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 20:58:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 20:58:02 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+ERROR - 2016-11-19 20:58:02 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+INFO - 2016-11-19 20:58:02 --> Config Class Initialized
+INFO - 2016-11-19 20:58:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:58:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:58:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:58:02 --> URI Class Initialized
+DEBUG - 2016-11-19 20:58:02 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:58:02 --> Router Class Initialized
+INFO - 2016-11-19 20:58:02 --> Output Class Initialized
+INFO - 2016-11-19 20:58:02 --> Security Class Initialized
+DEBUG - 2016-11-19 20:58:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:58:02 --> Input Class Initialized
+INFO - 2016-11-19 20:58:02 --> Language Class Initialized
+INFO - 2016-11-19 20:58:02 --> Loader Class Initialized
+INFO - 2016-11-19 20:58:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:58:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:58:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:58:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:58:02 --> Controller Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Model Class Initialized
+INFO - 2016-11-19 20:58:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:58:02 --> Pagination Class Initialized
+INFO - 2016-11-19 20:58:02 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:58:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:58:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 20:58:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:58:02 --> Final output sent to browser
+DEBUG - 2016-11-19 20:58:03 --> Total execution time: 0.6422
+INFO - 2016-11-19 20:58:09 --> Config Class Initialized
+INFO - 2016-11-19 20:58:09 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:58:09 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:58:09 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:58:09 --> URI Class Initialized
+INFO - 2016-11-19 20:58:09 --> Router Class Initialized
+INFO - 2016-11-19 20:58:09 --> Output Class Initialized
+INFO - 2016-11-19 20:58:09 --> Security Class Initialized
+DEBUG - 2016-11-19 20:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:58:09 --> Input Class Initialized
+INFO - 2016-11-19 20:58:09 --> Language Class Initialized
+INFO - 2016-11-19 20:58:09 --> Loader Class Initialized
+INFO - 2016-11-19 20:58:09 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:58:09 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:58:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:58:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:58:09 --> Controller Class Initialized
+INFO - 2016-11-19 20:58:09 --> Model Class Initialized
+INFO - 2016-11-19 20:58:09 --> Model Class Initialized
+INFO - 2016-11-19 20:58:09 --> Model Class Initialized
+INFO - 2016-11-19 20:58:09 --> Model Class Initialized
+INFO - 2016-11-19 20:58:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:58:09 --> Pagination Class Initialized
+INFO - 2016-11-19 20:58:09 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 20:58:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:58:09 --> Model Class Initialized
+INFO - 2016-11-19 20:58:09 --> Final output sent to browser
+DEBUG - 2016-11-19 20:58:09 --> Total execution time: 0.5025
+INFO - 2016-11-19 20:58:09 --> Config Class Initialized
+INFO - 2016-11-19 20:58:09 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:58:09 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:58:09 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:58:09 --> URI Class Initialized
+DEBUG - 2016-11-19 20:58:09 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:58:09 --> Router Class Initialized
+INFO - 2016-11-19 20:58:09 --> Output Class Initialized
+INFO - 2016-11-19 20:58:09 --> Security Class Initialized
+DEBUG - 2016-11-19 20:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:58:09 --> Input Class Initialized
+INFO - 2016-11-19 20:58:10 --> Language Class Initialized
+INFO - 2016-11-19 20:58:10 --> Loader Class Initialized
+INFO - 2016-11-19 20:58:10 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:58:10 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:58:10 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:58:10 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:58:10 --> Controller Class Initialized
+INFO - 2016-11-19 20:58:10 --> Model Class Initialized
+INFO - 2016-11-19 20:58:10 --> Model Class Initialized
+INFO - 2016-11-19 20:58:10 --> Model Class Initialized
+INFO - 2016-11-19 20:58:10 --> Model Class Initialized
+INFO - 2016-11-19 20:58:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:58:10 --> Pagination Class Initialized
+INFO - 2016-11-19 20:58:10 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:58:10 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:58:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:58:10 --> Final output sent to browser
+DEBUG - 2016-11-19 20:58:10 --> Total execution time: 0.8782
+INFO - 2016-11-19 20:59:34 --> Config Class Initialized
+INFO - 2016-11-19 20:59:34 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:59:34 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:59:34 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:59:34 --> URI Class Initialized
+DEBUG - 2016-11-19 20:59:34 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:59:34 --> Router Class Initialized
+INFO - 2016-11-19 20:59:34 --> Output Class Initialized
+INFO - 2016-11-19 20:59:34 --> Security Class Initialized
+DEBUG - 2016-11-19 20:59:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:59:34 --> Input Class Initialized
+INFO - 2016-11-19 20:59:35 --> Language Class Initialized
+INFO - 2016-11-19 20:59:35 --> Loader Class Initialized
+INFO - 2016-11-19 20:59:35 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:59:35 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:59:35 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:59:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:59:35 --> Controller Class Initialized
+INFO - 2016-11-19 20:59:35 --> Model Class Initialized
+INFO - 2016-11-19 20:59:35 --> Model Class Initialized
+INFO - 2016-11-19 20:59:35 --> Model Class Initialized
+INFO - 2016-11-19 20:59:35 --> Model Class Initialized
+INFO - 2016-11-19 20:59:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:59:35 --> Pagination Class Initialized
+INFO - 2016-11-19 20:59:35 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:59:35 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:59:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:59:35 --> Final output sent to browser
+DEBUG - 2016-11-19 20:59:35 --> Total execution time: 0.9482
+INFO - 2016-11-19 20:59:51 --> Config Class Initialized
+INFO - 2016-11-19 20:59:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:59:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:59:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:59:51 --> URI Class Initialized
+DEBUG - 2016-11-19 20:59:51 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:59:51 --> Router Class Initialized
+INFO - 2016-11-19 20:59:51 --> Output Class Initialized
+INFO - 2016-11-19 20:59:51 --> Security Class Initialized
+DEBUG - 2016-11-19 20:59:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:59:51 --> Input Class Initialized
+INFO - 2016-11-19 20:59:51 --> Language Class Initialized
+INFO - 2016-11-19 20:59:52 --> Loader Class Initialized
+INFO - 2016-11-19 20:59:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:59:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:59:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:59:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:59:52 --> Controller Class Initialized
+INFO - 2016-11-19 20:59:52 --> Model Class Initialized
+INFO - 2016-11-19 20:59:52 --> Model Class Initialized
+INFO - 2016-11-19 20:59:52 --> Model Class Initialized
+INFO - 2016-11-19 20:59:52 --> Model Class Initialized
+INFO - 2016-11-19 20:59:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:59:52 --> Pagination Class Initialized
+INFO - 2016-11-19 20:59:52 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:59:52 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:59:52 --> Final output sent to browser
+DEBUG - 2016-11-19 20:59:52 --> Total execution time: 0.8892
+INFO - 2016-11-19 20:59:55 --> Config Class Initialized
+INFO - 2016-11-19 20:59:55 --> Hooks Class Initialized
+DEBUG - 2016-11-19 20:59:55 --> UTF-8 Support Enabled
+INFO - 2016-11-19 20:59:55 --> Utf8 Class Initialized
+INFO - 2016-11-19 20:59:55 --> URI Class Initialized
+DEBUG - 2016-11-19 20:59:55 --> No URI present. Default controller set.
+INFO - 2016-11-19 20:59:55 --> Router Class Initialized
+INFO - 2016-11-19 20:59:55 --> Output Class Initialized
+INFO - 2016-11-19 20:59:55 --> Security Class Initialized
+DEBUG - 2016-11-19 20:59:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 20:59:55 --> Input Class Initialized
+INFO - 2016-11-19 20:59:55 --> Language Class Initialized
+INFO - 2016-11-19 20:59:55 --> Loader Class Initialized
+INFO - 2016-11-19 20:59:55 --> Helper loaded: url_helper
+INFO - 2016-11-19 20:59:55 --> Helper loaded: form_helper
+INFO - 2016-11-19 20:59:55 --> Database Driver Class Initialized
+INFO - 2016-11-19 20:59:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 20:59:55 --> Controller Class Initialized
+INFO - 2016-11-19 20:59:56 --> Model Class Initialized
+INFO - 2016-11-19 20:59:56 --> Model Class Initialized
+INFO - 2016-11-19 20:59:56 --> Model Class Initialized
+INFO - 2016-11-19 20:59:56 --> Model Class Initialized
+INFO - 2016-11-19 20:59:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 20:59:56 --> Pagination Class Initialized
+INFO - 2016-11-19 20:59:56 --> Helper loaded: app_helper
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 20:59:56 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 20:59:56 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 20:59:56 --> Final output sent to browser
+DEBUG - 2016-11-19 20:59:56 --> Total execution time: 0.8957
+INFO - 2016-11-19 21:00:04 --> Config Class Initialized
+INFO - 2016-11-19 21:00:04 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:00:04 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:00:04 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:00:04 --> URI Class Initialized
+DEBUG - 2016-11-19 21:00:04 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:00:04 --> Router Class Initialized
+INFO - 2016-11-19 21:00:04 --> Output Class Initialized
+INFO - 2016-11-19 21:00:04 --> Security Class Initialized
+DEBUG - 2016-11-19 21:00:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:00:04 --> Input Class Initialized
+INFO - 2016-11-19 21:00:04 --> Language Class Initialized
+INFO - 2016-11-19 21:00:04 --> Loader Class Initialized
+INFO - 2016-11-19 21:00:04 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:00:04 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:00:04 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:00:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:00:04 --> Controller Class Initialized
+INFO - 2016-11-19 21:00:04 --> Model Class Initialized
+INFO - 2016-11-19 21:00:04 --> Model Class Initialized
+INFO - 2016-11-19 21:00:04 --> Model Class Initialized
+INFO - 2016-11-19 21:00:04 --> Model Class Initialized
+INFO - 2016-11-19 21:00:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:00:04 --> Pagination Class Initialized
+INFO - 2016-11-19 21:00:04 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:00:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:00:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:00:04 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:00:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:00:05 --> Final output sent to browser
+DEBUG - 2016-11-19 21:00:05 --> Total execution time: 0.8426
+INFO - 2016-11-19 21:00:07 --> Config Class Initialized
+INFO - 2016-11-19 21:00:07 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:00:07 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:00:07 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:00:07 --> URI Class Initialized
+DEBUG - 2016-11-19 21:00:07 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:00:07 --> Router Class Initialized
+INFO - 2016-11-19 21:00:07 --> Output Class Initialized
+INFO - 2016-11-19 21:00:07 --> Security Class Initialized
+DEBUG - 2016-11-19 21:00:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:00:07 --> Input Class Initialized
+INFO - 2016-11-19 21:00:07 --> Language Class Initialized
+INFO - 2016-11-19 21:00:07 --> Loader Class Initialized
+INFO - 2016-11-19 21:00:07 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:00:07 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:00:07 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:00:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:00:07 --> Controller Class Initialized
+INFO - 2016-11-19 21:00:07 --> Model Class Initialized
+INFO - 2016-11-19 21:00:07 --> Model Class Initialized
+INFO - 2016-11-19 21:00:07 --> Model Class Initialized
+INFO - 2016-11-19 21:00:07 --> Model Class Initialized
+INFO - 2016-11-19 21:00:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:00:07 --> Pagination Class Initialized
+INFO - 2016-11-19 21:00:07 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:00:07 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:00:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:00:08 --> Final output sent to browser
+DEBUG - 2016-11-19 21:00:08 --> Total execution time: 0.9419
+INFO - 2016-11-19 21:00:22 --> Config Class Initialized
+INFO - 2016-11-19 21:00:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:00:22 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:00:22 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:00:22 --> URI Class Initialized
+DEBUG - 2016-11-19 21:00:22 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:00:22 --> Router Class Initialized
+INFO - 2016-11-19 21:00:22 --> Output Class Initialized
+INFO - 2016-11-19 21:00:22 --> Security Class Initialized
+DEBUG - 2016-11-19 21:00:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:00:22 --> Input Class Initialized
+INFO - 2016-11-19 21:00:22 --> Language Class Initialized
+INFO - 2016-11-19 21:00:22 --> Loader Class Initialized
+INFO - 2016-11-19 21:00:22 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:00:22 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:00:22 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:00:22 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:00:22 --> Controller Class Initialized
+INFO - 2016-11-19 21:00:22 --> Model Class Initialized
+INFO - 2016-11-19 21:00:22 --> Model Class Initialized
+INFO - 2016-11-19 21:00:22 --> Model Class Initialized
+INFO - 2016-11-19 21:00:22 --> Model Class Initialized
+INFO - 2016-11-19 21:00:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:00:22 --> Pagination Class Initialized
+INFO - 2016-11-19 21:00:22 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:00:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:00:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:00:23 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:00:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:00:23 --> Final output sent to browser
+DEBUG - 2016-11-19 21:00:23 --> Total execution time: 0.9359
+INFO - 2016-11-19 21:00:28 --> Config Class Initialized
+INFO - 2016-11-19 21:00:28 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:00:28 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:00:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:00:29 --> URI Class Initialized
+DEBUG - 2016-11-19 21:00:29 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:00:29 --> Router Class Initialized
+INFO - 2016-11-19 21:00:29 --> Output Class Initialized
+INFO - 2016-11-19 21:00:29 --> Security Class Initialized
+DEBUG - 2016-11-19 21:00:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:00:29 --> Input Class Initialized
+INFO - 2016-11-19 21:00:29 --> Language Class Initialized
+INFO - 2016-11-19 21:00:29 --> Loader Class Initialized
+INFO - 2016-11-19 21:00:29 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:00:29 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:00:29 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:00:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:00:29 --> Controller Class Initialized
+INFO - 2016-11-19 21:00:29 --> Model Class Initialized
+INFO - 2016-11-19 21:00:29 --> Model Class Initialized
+INFO - 2016-11-19 21:00:29 --> Model Class Initialized
+INFO - 2016-11-19 21:00:29 --> Model Class Initialized
+INFO - 2016-11-19 21:00:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:00:29 --> Pagination Class Initialized
+INFO - 2016-11-19 21:00:29 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:00:29 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:00:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:00:29 --> Final output sent to browser
+DEBUG - 2016-11-19 21:00:29 --> Total execution time: 0.8547
+INFO - 2016-11-19 21:00:32 --> Config Class Initialized
+INFO - 2016-11-19 21:00:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:00:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:00:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:00:32 --> URI Class Initialized
+DEBUG - 2016-11-19 21:00:32 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:00:32 --> Router Class Initialized
+INFO - 2016-11-19 21:00:32 --> Output Class Initialized
+INFO - 2016-11-19 21:00:32 --> Security Class Initialized
+DEBUG - 2016-11-19 21:00:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:00:32 --> Input Class Initialized
+INFO - 2016-11-19 21:00:32 --> Language Class Initialized
+INFO - 2016-11-19 21:00:32 --> Loader Class Initialized
+INFO - 2016-11-19 21:00:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:00:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:00:32 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:00:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:00:32 --> Controller Class Initialized
+INFO - 2016-11-19 21:00:32 --> Model Class Initialized
+INFO - 2016-11-19 21:00:32 --> Model Class Initialized
+INFO - 2016-11-19 21:00:32 --> Model Class Initialized
+INFO - 2016-11-19 21:00:32 --> Model Class Initialized
+INFO - 2016-11-19 21:00:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:00:32 --> Pagination Class Initialized
+INFO - 2016-11-19 21:00:32 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:00:32 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:00:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:00:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:00:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:00:33 --> Final output sent to browser
+DEBUG - 2016-11-19 21:00:33 --> Total execution time: 0.9748
+INFO - 2016-11-19 21:00:59 --> Config Class Initialized
+INFO - 2016-11-19 21:00:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:00:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:00:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:00:59 --> URI Class Initialized
+DEBUG - 2016-11-19 21:00:59 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:00:59 --> Router Class Initialized
+INFO - 2016-11-19 21:00:59 --> Output Class Initialized
+INFO - 2016-11-19 21:00:59 --> Security Class Initialized
+DEBUG - 2016-11-19 21:00:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:00:59 --> Input Class Initialized
+INFO - 2016-11-19 21:00:59 --> Language Class Initialized
+INFO - 2016-11-19 21:00:59 --> Loader Class Initialized
+INFO - 2016-11-19 21:00:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:00:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:00:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:00:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:00:59 --> Controller Class Initialized
+INFO - 2016-11-19 21:00:59 --> Model Class Initialized
+INFO - 2016-11-19 21:00:59 --> Model Class Initialized
+INFO - 2016-11-19 21:01:00 --> Model Class Initialized
+INFO - 2016-11-19 21:01:00 --> Model Class Initialized
+INFO - 2016-11-19 21:01:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:01:00 --> Pagination Class Initialized
+INFO - 2016-11-19 21:01:00 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:01:00 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:01:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:01:00 --> Final output sent to browser
+DEBUG - 2016-11-19 21:01:00 --> Total execution time: 0.9824
+INFO - 2016-11-19 21:01:05 --> Config Class Initialized
+INFO - 2016-11-19 21:01:05 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:01:05 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:01:05 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:01:05 --> URI Class Initialized
+DEBUG - 2016-11-19 21:01:05 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:01:05 --> Router Class Initialized
+INFO - 2016-11-19 21:01:05 --> Output Class Initialized
+INFO - 2016-11-19 21:01:05 --> Security Class Initialized
+DEBUG - 2016-11-19 21:01:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:01:05 --> Input Class Initialized
+INFO - 2016-11-19 21:01:05 --> Language Class Initialized
+INFO - 2016-11-19 21:01:05 --> Loader Class Initialized
+INFO - 2016-11-19 21:01:05 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:01:05 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:01:05 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:01:05 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:01:06 --> Controller Class Initialized
+INFO - 2016-11-19 21:01:06 --> Model Class Initialized
+INFO - 2016-11-19 21:01:06 --> Model Class Initialized
+INFO - 2016-11-19 21:01:06 --> Model Class Initialized
+INFO - 2016-11-19 21:01:06 --> Model Class Initialized
+INFO - 2016-11-19 21:01:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:01:06 --> Pagination Class Initialized
+INFO - 2016-11-19 21:01:06 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:01:06 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:01:06 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:01:06 --> Final output sent to browser
+DEBUG - 2016-11-19 21:01:06 --> Total execution time: 0.8987
+INFO - 2016-11-19 21:01:12 --> Config Class Initialized
+INFO - 2016-11-19 21:01:12 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:01:12 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:01:12 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:01:12 --> URI Class Initialized
+DEBUG - 2016-11-19 21:01:12 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:01:12 --> Router Class Initialized
+INFO - 2016-11-19 21:01:13 --> Output Class Initialized
+INFO - 2016-11-19 21:01:13 --> Security Class Initialized
+DEBUG - 2016-11-19 21:01:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:01:13 --> Input Class Initialized
+INFO - 2016-11-19 21:01:13 --> Language Class Initialized
+INFO - 2016-11-19 21:01:13 --> Loader Class Initialized
+INFO - 2016-11-19 21:01:13 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:01:13 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:01:13 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:01:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:01:13 --> Controller Class Initialized
+INFO - 2016-11-19 21:01:13 --> Model Class Initialized
+INFO - 2016-11-19 21:01:13 --> Model Class Initialized
+INFO - 2016-11-19 21:01:13 --> Model Class Initialized
+INFO - 2016-11-19 21:01:13 --> Model Class Initialized
+INFO - 2016-11-19 21:01:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:01:13 --> Pagination Class Initialized
+INFO - 2016-11-19 21:01:13 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:01:13 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:01:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:01:13 --> Final output sent to browser
+DEBUG - 2016-11-19 21:01:13 --> Total execution time: 0.9499
+INFO - 2016-11-19 21:01:56 --> Config Class Initialized
+INFO - 2016-11-19 21:01:56 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:01:56 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:01:56 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:01:56 --> URI Class Initialized
+INFO - 2016-11-19 21:01:56 --> Router Class Initialized
+INFO - 2016-11-19 21:01:56 --> Output Class Initialized
+INFO - 2016-11-19 21:01:56 --> Security Class Initialized
+DEBUG - 2016-11-19 21:01:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:01:56 --> Input Class Initialized
+INFO - 2016-11-19 21:01:56 --> Language Class Initialized
+INFO - 2016-11-19 21:01:56 --> Loader Class Initialized
+INFO - 2016-11-19 21:01:56 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:01:56 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:01:56 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:01:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:01:56 --> Controller Class Initialized
+INFO - 2016-11-19 21:01:56 --> Model Class Initialized
+ERROR - 2016-11-19 21:01:56 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 21:01:59 --> Config Class Initialized
+INFO - 2016-11-19 21:01:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:01:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:01:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:01:59 --> URI Class Initialized
+INFO - 2016-11-19 21:01:59 --> Router Class Initialized
+INFO - 2016-11-19 21:01:59 --> Output Class Initialized
+INFO - 2016-11-19 21:01:59 --> Security Class Initialized
+DEBUG - 2016-11-19 21:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:01:59 --> Input Class Initialized
+INFO - 2016-11-19 21:01:59 --> Language Class Initialized
+INFO - 2016-11-19 21:01:59 --> Loader Class Initialized
+INFO - 2016-11-19 21:01:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:01:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:01:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:01:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:02:00 --> Controller Class Initialized
+INFO - 2016-11-19 21:02:00 --> Model Class Initialized
+ERROR - 2016-11-19 21:02:00 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 113
+INFO - 2016-11-19 21:02:10 --> Config Class Initialized
+INFO - 2016-11-19 21:02:10 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:02:10 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:02:10 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:02:10 --> URI Class Initialized
+DEBUG - 2016-11-19 21:02:10 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:02:10 --> Router Class Initialized
+INFO - 2016-11-19 21:02:10 --> Output Class Initialized
+INFO - 2016-11-19 21:02:10 --> Security Class Initialized
+DEBUG - 2016-11-19 21:02:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:02:10 --> Input Class Initialized
+INFO - 2016-11-19 21:02:10 --> Language Class Initialized
+INFO - 2016-11-19 21:02:10 --> Loader Class Initialized
+INFO - 2016-11-19 21:02:10 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:02:10 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:02:10 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:02:10 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:02:10 --> Controller Class Initialized
+INFO - 2016-11-19 21:02:10 --> Model Class Initialized
+INFO - 2016-11-19 21:02:11 --> Model Class Initialized
+INFO - 2016-11-19 21:02:11 --> Model Class Initialized
+INFO - 2016-11-19 21:02:11 --> Model Class Initialized
+INFO - 2016-11-19 21:02:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:02:11 --> Pagination Class Initialized
+INFO - 2016-11-19 21:02:11 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:02:11 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:02:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:02:11 --> Final output sent to browser
+DEBUG - 2016-11-19 21:02:11 --> Total execution time: 0.9752
+INFO - 2016-11-19 21:04:08 --> Config Class Initialized
+INFO - 2016-11-19 21:04:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:04:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:04:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:04:08 --> URI Class Initialized
+INFO - 2016-11-19 21:04:08 --> Router Class Initialized
+INFO - 2016-11-19 21:04:08 --> Output Class Initialized
+INFO - 2016-11-19 21:04:08 --> Security Class Initialized
+DEBUG - 2016-11-19 21:04:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:04:08 --> Input Class Initialized
+INFO - 2016-11-19 21:04:08 --> Language Class Initialized
+INFO - 2016-11-19 21:04:09 --> Loader Class Initialized
+INFO - 2016-11-19 21:04:09 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:04:09 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:04:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:04:09 --> Controller Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:04:09 --> Pagination Class Initialized
+INFO - 2016-11-19 21:04:09 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 21:04:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 21:04:09 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+ERROR - 2016-11-19 21:04:09 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 157
+INFO - 2016-11-19 21:04:09 --> Config Class Initialized
+INFO - 2016-11-19 21:04:09 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:04:09 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:04:09 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:04:09 --> URI Class Initialized
+DEBUG - 2016-11-19 21:04:09 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:04:09 --> Router Class Initialized
+INFO - 2016-11-19 21:04:09 --> Output Class Initialized
+INFO - 2016-11-19 21:04:09 --> Security Class Initialized
+DEBUG - 2016-11-19 21:04:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:04:09 --> Input Class Initialized
+INFO - 2016-11-19 21:04:09 --> Language Class Initialized
+INFO - 2016-11-19 21:04:09 --> Loader Class Initialized
+INFO - 2016-11-19 21:04:09 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:04:09 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:04:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:04:09 --> Controller Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Model Class Initialized
+INFO - 2016-11-19 21:04:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:04:09 --> Pagination Class Initialized
+INFO - 2016-11-19 21:04:09 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:04:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:04:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 21:04:10 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:04:10 --> Final output sent to browser
+DEBUG - 2016-11-19 21:04:10 --> Total execution time: 0.6102
+INFO - 2016-11-19 21:04:18 --> Config Class Initialized
+INFO - 2016-11-19 21:04:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:04:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:04:19 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:04:19 --> URI Class Initialized
+INFO - 2016-11-19 21:04:19 --> Router Class Initialized
+INFO - 2016-11-19 21:04:19 --> Output Class Initialized
+INFO - 2016-11-19 21:04:19 --> Security Class Initialized
+DEBUG - 2016-11-19 21:04:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:04:19 --> Input Class Initialized
+INFO - 2016-11-19 21:04:19 --> Language Class Initialized
+INFO - 2016-11-19 21:04:19 --> Loader Class Initialized
+INFO - 2016-11-19 21:04:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:04:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:04:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:04:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:04:19 --> Controller Class Initialized
+INFO - 2016-11-19 21:04:19 --> Model Class Initialized
+INFO - 2016-11-19 21:04:19 --> Model Class Initialized
+INFO - 2016-11-19 21:04:19 --> Model Class Initialized
+INFO - 2016-11-19 21:04:19 --> Model Class Initialized
+INFO - 2016-11-19 21:04:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:04:19 --> Pagination Class Initialized
+INFO - 2016-11-19 21:04:19 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 21:04:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:04:19 --> Model Class Initialized
+INFO - 2016-11-19 21:04:19 --> Final output sent to browser
+DEBUG - 2016-11-19 21:04:19 --> Total execution time: 0.5239
+INFO - 2016-11-19 21:04:19 --> Config Class Initialized
+INFO - 2016-11-19 21:04:19 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:04:19 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:04:19 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:04:19 --> URI Class Initialized
+DEBUG - 2016-11-19 21:04:19 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:04:19 --> Router Class Initialized
+INFO - 2016-11-19 21:04:19 --> Output Class Initialized
+INFO - 2016-11-19 21:04:19 --> Security Class Initialized
+DEBUG - 2016-11-19 21:04:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:04:19 --> Input Class Initialized
+INFO - 2016-11-19 21:04:19 --> Language Class Initialized
+INFO - 2016-11-19 21:04:19 --> Loader Class Initialized
+INFO - 2016-11-19 21:04:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:04:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:04:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:04:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:04:19 --> Controller Class Initialized
+INFO - 2016-11-19 21:04:19 --> Model Class Initialized
+INFO - 2016-11-19 21:04:20 --> Model Class Initialized
+INFO - 2016-11-19 21:04:20 --> Model Class Initialized
+INFO - 2016-11-19 21:04:20 --> Model Class Initialized
+INFO - 2016-11-19 21:04:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:04:20 --> Pagination Class Initialized
+INFO - 2016-11-19 21:04:20 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:04:20 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:04:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:04:20 --> Final output sent to browser
+DEBUG - 2016-11-19 21:04:20 --> Total execution time: 0.8204
+INFO - 2016-11-19 21:09:00 --> Config Class Initialized
+INFO - 2016-11-19 21:09:00 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:09:00 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:09:00 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:09:00 --> URI Class Initialized
+DEBUG - 2016-11-19 21:09:00 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:09:00 --> Router Class Initialized
+INFO - 2016-11-19 21:09:00 --> Output Class Initialized
+INFO - 2016-11-19 21:09:00 --> Security Class Initialized
+DEBUG - 2016-11-19 21:09:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:09:00 --> Input Class Initialized
+INFO - 2016-11-19 21:09:00 --> Language Class Initialized
+INFO - 2016-11-19 21:09:00 --> Loader Class Initialized
+INFO - 2016-11-19 21:09:00 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:09:00 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:09:00 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:09:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:09:00 --> Controller Class Initialized
+INFO - 2016-11-19 21:09:00 --> Model Class Initialized
+INFO - 2016-11-19 21:09:00 --> Model Class Initialized
+INFO - 2016-11-19 21:09:00 --> Model Class Initialized
+INFO - 2016-11-19 21:09:00 --> Model Class Initialized
+INFO - 2016-11-19 21:09:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:09:00 --> Pagination Class Initialized
+INFO - 2016-11-19 21:09:00 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:09:00 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:09:00 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:09:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:09:01 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:09:01 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:09:01 --> Final output sent to browser
+DEBUG - 2016-11-19 21:09:01 --> Total execution time: 0.9212
+INFO - 2016-11-19 21:09:07 --> Config Class Initialized
+INFO - 2016-11-19 21:09:07 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:09:07 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:09:07 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:09:07 --> URI Class Initialized
+DEBUG - 2016-11-19 21:09:07 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:09:07 --> Router Class Initialized
+INFO - 2016-11-19 21:09:07 --> Output Class Initialized
+INFO - 2016-11-19 21:09:07 --> Security Class Initialized
+DEBUG - 2016-11-19 21:09:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:09:08 --> Input Class Initialized
+INFO - 2016-11-19 21:09:08 --> Language Class Initialized
+INFO - 2016-11-19 21:09:08 --> Loader Class Initialized
+INFO - 2016-11-19 21:09:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:09:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:09:08 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:09:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:09:08 --> Controller Class Initialized
+INFO - 2016-11-19 21:09:08 --> Model Class Initialized
+INFO - 2016-11-19 21:09:08 --> Model Class Initialized
+INFO - 2016-11-19 21:09:08 --> Model Class Initialized
+INFO - 2016-11-19 21:09:08 --> Model Class Initialized
+INFO - 2016-11-19 21:09:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:09:08 --> Pagination Class Initialized
+INFO - 2016-11-19 21:09:08 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:09:08 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:09:08 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:09:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:09:08 --> Final output sent to browser
+DEBUG - 2016-11-19 21:09:08 --> Total execution time: 0.9741
+INFO - 2016-11-19 21:09:15 --> Config Class Initialized
+INFO - 2016-11-19 21:09:15 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:09:15 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:09:15 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:09:15 --> URI Class Initialized
+INFO - 2016-11-19 21:09:15 --> Router Class Initialized
+INFO - 2016-11-19 21:09:15 --> Output Class Initialized
+INFO - 2016-11-19 21:09:15 --> Security Class Initialized
+DEBUG - 2016-11-19 21:09:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:09:15 --> Input Class Initialized
+INFO - 2016-11-19 21:09:15 --> Language Class Initialized
+INFO - 2016-11-19 21:09:15 --> Loader Class Initialized
+INFO - 2016-11-19 21:09:15 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:09:15 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:09:15 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:09:15 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:09:15 --> Controller Class Initialized
+INFO - 2016-11-19 21:09:15 --> Model Class Initialized
+ERROR - 2016-11-19 21:09:15 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\admin\all_leave_type.php 49
+INFO - 2016-11-19 21:09:15 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:09:15 --> Final output sent to browser
+DEBUG - 2016-11-19 21:09:15 --> Total execution time: 0.5171
+INFO - 2016-11-19 21:09:22 --> Config Class Initialized
+INFO - 2016-11-19 21:09:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:09:22 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:09:22 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:09:22 --> URI Class Initialized
+DEBUG - 2016-11-19 21:09:22 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:09:22 --> Router Class Initialized
+INFO - 2016-11-19 21:09:22 --> Output Class Initialized
+INFO - 2016-11-19 21:09:22 --> Security Class Initialized
+DEBUG - 2016-11-19 21:09:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:09:22 --> Input Class Initialized
+INFO - 2016-11-19 21:09:22 --> Language Class Initialized
+INFO - 2016-11-19 21:09:22 --> Loader Class Initialized
+INFO - 2016-11-19 21:09:22 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:09:22 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:09:22 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:09:22 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:09:22 --> Controller Class Initialized
+INFO - 2016-11-19 21:09:22 --> Model Class Initialized
+INFO - 2016-11-19 21:09:22 --> Model Class Initialized
+INFO - 2016-11-19 21:09:22 --> Model Class Initialized
+INFO - 2016-11-19 21:09:22 --> Model Class Initialized
+INFO - 2016-11-19 21:09:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:09:22 --> Pagination Class Initialized
+INFO - 2016-11-19 21:09:22 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:09:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:09:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:09:22 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:09:23 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:09:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:09:23 --> Final output sent to browser
+DEBUG - 2016-11-19 21:09:23 --> Total execution time: 0.9844
+INFO - 2016-11-19 21:13:03 --> Config Class Initialized
+INFO - 2016-11-19 21:13:03 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:13:03 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:13:03 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:13:03 --> URI Class Initialized
+DEBUG - 2016-11-19 21:13:03 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:13:03 --> Router Class Initialized
+INFO - 2016-11-19 21:13:03 --> Output Class Initialized
+INFO - 2016-11-19 21:13:03 --> Security Class Initialized
+DEBUG - 2016-11-19 21:13:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:13:03 --> Input Class Initialized
+INFO - 2016-11-19 21:13:03 --> Language Class Initialized
+INFO - 2016-11-19 21:13:03 --> Loader Class Initialized
+INFO - 2016-11-19 21:13:03 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:13:03 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:13:03 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:13:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:13:03 --> Controller Class Initialized
+INFO - 2016-11-19 21:13:03 --> Model Class Initialized
+INFO - 2016-11-19 21:13:03 --> Model Class Initialized
+INFO - 2016-11-19 21:13:03 --> Model Class Initialized
+INFO - 2016-11-19 21:13:03 --> Model Class Initialized
+INFO - 2016-11-19 21:13:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:13:03 --> Pagination Class Initialized
+INFO - 2016-11-19 21:13:03 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:13:03 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:13:03 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:13:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:13:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:13:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:13:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:13:04 --> Final output sent to browser
+DEBUG - 2016-11-19 21:13:04 --> Total execution time: 1.0108
+INFO - 2016-11-19 21:13:29 --> Config Class Initialized
+INFO - 2016-11-19 21:13:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:13:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:13:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:13:29 --> URI Class Initialized
+DEBUG - 2016-11-19 21:13:29 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:13:29 --> Router Class Initialized
+INFO - 2016-11-19 21:13:29 --> Output Class Initialized
+INFO - 2016-11-19 21:13:29 --> Security Class Initialized
+DEBUG - 2016-11-19 21:13:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:13:30 --> Input Class Initialized
+INFO - 2016-11-19 21:13:30 --> Language Class Initialized
+INFO - 2016-11-19 21:13:30 --> Loader Class Initialized
+INFO - 2016-11-19 21:13:30 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:13:30 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:13:30 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:13:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:13:30 --> Controller Class Initialized
+INFO - 2016-11-19 21:13:30 --> Model Class Initialized
+INFO - 2016-11-19 21:13:30 --> Model Class Initialized
+INFO - 2016-11-19 21:13:30 --> Model Class Initialized
+INFO - 2016-11-19 21:13:30 --> Model Class Initialized
+INFO - 2016-11-19 21:13:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:13:30 --> Pagination Class Initialized
+INFO - 2016-11-19 21:13:30 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:13:30 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:13:30 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:13:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:13:30 --> Final output sent to browser
+DEBUG - 2016-11-19 21:13:30 --> Total execution time: 1.0174
+INFO - 2016-11-19 21:13:41 --> Config Class Initialized
+INFO - 2016-11-19 21:13:41 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:13:41 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:13:41 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:13:41 --> URI Class Initialized
+INFO - 2016-11-19 21:13:41 --> Router Class Initialized
+INFO - 2016-11-19 21:13:41 --> Output Class Initialized
+INFO - 2016-11-19 21:13:41 --> Security Class Initialized
+DEBUG - 2016-11-19 21:13:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:13:41 --> Input Class Initialized
+INFO - 2016-11-19 21:13:41 --> Language Class Initialized
+INFO - 2016-11-19 21:13:41 --> Loader Class Initialized
+INFO - 2016-11-19 21:13:41 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:13:41 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:13:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:13:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:13:42 --> Controller Class Initialized
+INFO - 2016-11-19 21:13:42 --> Model Class Initialized
+INFO - 2016-11-19 21:13:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:13:42 --> Final output sent to browser
+DEBUG - 2016-11-19 21:13:42 --> Total execution time: 0.5138
+INFO - 2016-11-19 21:15:29 --> Config Class Initialized
+INFO - 2016-11-19 21:15:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:15:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:15:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:15:29 --> URI Class Initialized
+DEBUG - 2016-11-19 21:15:29 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:15:29 --> Router Class Initialized
+INFO - 2016-11-19 21:15:29 --> Output Class Initialized
+INFO - 2016-11-19 21:15:29 --> Security Class Initialized
+DEBUG - 2016-11-19 21:15:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:15:29 --> Input Class Initialized
+INFO - 2016-11-19 21:15:29 --> Language Class Initialized
+INFO - 2016-11-19 21:15:29 --> Loader Class Initialized
+INFO - 2016-11-19 21:15:29 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:15:29 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:15:30 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:15:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:15:30 --> Controller Class Initialized
+INFO - 2016-11-19 21:15:30 --> Model Class Initialized
+INFO - 2016-11-19 21:15:30 --> Model Class Initialized
+INFO - 2016-11-19 21:15:30 --> Model Class Initialized
+INFO - 2016-11-19 21:15:30 --> Model Class Initialized
+INFO - 2016-11-19 21:15:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:15:30 --> Pagination Class Initialized
+INFO - 2016-11-19 21:15:30 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:15:30 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:15:30 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:15:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:15:30 --> Final output sent to browser
+DEBUG - 2016-11-19 21:15:30 --> Total execution time: 0.9438
+INFO - 2016-11-19 21:15:36 --> Config Class Initialized
+INFO - 2016-11-19 21:15:36 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:15:36 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:15:36 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:15:36 --> URI Class Initialized
+INFO - 2016-11-19 21:15:36 --> Router Class Initialized
+INFO - 2016-11-19 21:15:36 --> Output Class Initialized
+INFO - 2016-11-19 21:15:36 --> Security Class Initialized
+DEBUG - 2016-11-19 21:15:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:15:36 --> Input Class Initialized
+INFO - 2016-11-19 21:15:36 --> Language Class Initialized
+INFO - 2016-11-19 21:15:36 --> Loader Class Initialized
+INFO - 2016-11-19 21:15:36 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:15:36 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:15:36 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:15:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:15:36 --> Controller Class Initialized
+INFO - 2016-11-19 21:15:36 --> Model Class Initialized
+ERROR - 2016-11-19 21:15:37 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 103
+INFO - 2016-11-19 21:15:44 --> Config Class Initialized
+INFO - 2016-11-19 21:15:44 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:15:44 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:15:44 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:15:44 --> URI Class Initialized
+DEBUG - 2016-11-19 21:15:44 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:15:44 --> Router Class Initialized
+INFO - 2016-11-19 21:15:44 --> Output Class Initialized
+INFO - 2016-11-19 21:15:44 --> Security Class Initialized
+DEBUG - 2016-11-19 21:15:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:15:44 --> Input Class Initialized
+INFO - 2016-11-19 21:15:44 --> Language Class Initialized
+INFO - 2016-11-19 21:15:44 --> Loader Class Initialized
+INFO - 2016-11-19 21:15:44 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:15:44 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:15:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:15:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:15:45 --> Controller Class Initialized
+INFO - 2016-11-19 21:15:45 --> Model Class Initialized
+INFO - 2016-11-19 21:15:45 --> Model Class Initialized
+INFO - 2016-11-19 21:15:45 --> Model Class Initialized
+INFO - 2016-11-19 21:15:45 --> Model Class Initialized
+INFO - 2016-11-19 21:15:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:15:45 --> Pagination Class Initialized
+INFO - 2016-11-19 21:15:45 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:15:45 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:15:45 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:15:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:15:45 --> Final output sent to browser
+DEBUG - 2016-11-19 21:15:45 --> Total execution time: 0.9635
+INFO - 2016-11-19 21:15:51 --> Config Class Initialized
+INFO - 2016-11-19 21:15:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:15:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:15:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:15:51 --> URI Class Initialized
+INFO - 2016-11-19 21:15:51 --> Router Class Initialized
+INFO - 2016-11-19 21:15:51 --> Output Class Initialized
+INFO - 2016-11-19 21:15:51 --> Security Class Initialized
+DEBUG - 2016-11-19 21:15:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:15:51 --> Input Class Initialized
+INFO - 2016-11-19 21:15:51 --> Language Class Initialized
+INFO - 2016-11-19 21:15:51 --> Loader Class Initialized
+INFO - 2016-11-19 21:15:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:15:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:15:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:15:51 --> Controller Class Initialized
+INFO - 2016-11-19 21:15:51 --> Model Class Initialized
+ERROR - 2016-11-19 21:15:51 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 103
+INFO - 2016-11-19 21:15:57 --> Config Class Initialized
+INFO - 2016-11-19 21:15:57 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:15:57 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:15:57 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:15:57 --> URI Class Initialized
+DEBUG - 2016-11-19 21:15:57 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:15:57 --> Router Class Initialized
+INFO - 2016-11-19 21:15:57 --> Output Class Initialized
+INFO - 2016-11-19 21:15:57 --> Security Class Initialized
+DEBUG - 2016-11-19 21:15:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:15:57 --> Input Class Initialized
+INFO - 2016-11-19 21:15:57 --> Language Class Initialized
+INFO - 2016-11-19 21:15:57 --> Loader Class Initialized
+INFO - 2016-11-19 21:15:57 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:15:57 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:15:57 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:15:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:15:57 --> Controller Class Initialized
+INFO - 2016-11-19 21:15:57 --> Model Class Initialized
+INFO - 2016-11-19 21:15:58 --> Model Class Initialized
+INFO - 2016-11-19 21:15:58 --> Model Class Initialized
+INFO - 2016-11-19 21:15:58 --> Model Class Initialized
+INFO - 2016-11-19 21:15:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:15:58 --> Pagination Class Initialized
+INFO - 2016-11-19 21:15:58 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:15:58 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:15:58 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:15:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:15:58 --> Final output sent to browser
+DEBUG - 2016-11-19 21:15:58 --> Total execution time: 1.1332
+INFO - 2016-11-19 21:17:27 --> Config Class Initialized
+INFO - 2016-11-19 21:17:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:17:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:17:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:17:27 --> URI Class Initialized
+DEBUG - 2016-11-19 21:17:27 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:17:27 --> Router Class Initialized
+INFO - 2016-11-19 21:17:27 --> Output Class Initialized
+INFO - 2016-11-19 21:17:27 --> Security Class Initialized
+DEBUG - 2016-11-19 21:17:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:17:27 --> Input Class Initialized
+INFO - 2016-11-19 21:17:27 --> Language Class Initialized
+INFO - 2016-11-19 21:17:27 --> Loader Class Initialized
+INFO - 2016-11-19 21:17:27 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:17:27 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:17:27 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:17:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:17:28 --> Controller Class Initialized
+INFO - 2016-11-19 21:17:28 --> Model Class Initialized
+INFO - 2016-11-19 21:17:28 --> Model Class Initialized
+INFO - 2016-11-19 21:17:28 --> Model Class Initialized
+INFO - 2016-11-19 21:17:28 --> Model Class Initialized
+INFO - 2016-11-19 21:17:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:17:28 --> Pagination Class Initialized
+INFO - 2016-11-19 21:17:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:17:28 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:17:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:17:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:17:28 --> Final output sent to browser
+DEBUG - 2016-11-19 21:17:28 --> Total execution time: 1.3302
+INFO - 2016-11-19 21:17:52 --> Config Class Initialized
+INFO - 2016-11-19 21:17:52 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:17:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:17:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:17:52 --> URI Class Initialized
+INFO - 2016-11-19 21:17:52 --> Router Class Initialized
+INFO - 2016-11-19 21:17:52 --> Output Class Initialized
+INFO - 2016-11-19 21:17:52 --> Security Class Initialized
+DEBUG - 2016-11-19 21:17:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:17:52 --> Input Class Initialized
+INFO - 2016-11-19 21:17:52 --> Language Class Initialized
+INFO - 2016-11-19 21:17:52 --> Loader Class Initialized
+INFO - 2016-11-19 21:17:53 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:17:53 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:17:53 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:17:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:17:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:17:53 --> Model Class Initialized
+ERROR - 2016-11-19 21:17:53 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\admin\all_leave_type.php 49
+INFO - 2016-11-19 21:17:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:17:53 --> Final output sent to browser
+DEBUG - 2016-11-19 21:17:53 --> Total execution time: 0.5088
+INFO - 2016-11-19 21:21:33 --> Config Class Initialized
+INFO - 2016-11-19 21:21:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:21:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:33 --> URI Class Initialized
+DEBUG - 2016-11-19 21:21:33 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:21:33 --> Router Class Initialized
+INFO - 2016-11-19 21:21:33 --> Output Class Initialized
+INFO - 2016-11-19 21:21:33 --> Security Class Initialized
+DEBUG - 2016-11-19 21:21:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:33 --> Input Class Initialized
+INFO - 2016-11-19 21:21:33 --> Language Class Initialized
+INFO - 2016-11-19 21:21:33 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:33 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:33 --> Model Class Initialized
+INFO - 2016-11-19 21:21:33 --> Model Class Initialized
+INFO - 2016-11-19 21:21:33 --> Model Class Initialized
+INFO - 2016-11-19 21:21:33 --> Model Class Initialized
+INFO - 2016-11-19 21:21:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:21:33 --> Pagination Class Initialized
+INFO - 2016-11-19 21:21:34 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:21:34 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:21:34 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:21:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:21:34 --> Final output sent to browser
+DEBUG - 2016-11-19 21:21:34 --> Total execution time: 0.9532
+INFO - 2016-11-19 21:21:45 --> Config Class Initialized
+INFO - 2016-11-19 21:21:45 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:21:45 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:45 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:45 --> URI Class Initialized
+INFO - 2016-11-19 21:21:45 --> Router Class Initialized
+INFO - 2016-11-19 21:21:45 --> Output Class Initialized
+INFO - 2016-11-19 21:21:45 --> Security Class Initialized
+DEBUG - 2016-11-19 21:21:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:45 --> Input Class Initialized
+INFO - 2016-11-19 21:21:45 --> Language Class Initialized
+INFO - 2016-11-19 21:21:45 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:45 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:45 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:45 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:45 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:45 --> Model Class Initialized
+ERROR - 2016-11-19 21:21:45 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:47 --> Config Class Initialized
+INFO - 2016-11-19 21:21:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:21:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:47 --> URI Class Initialized
+INFO - 2016-11-19 21:21:47 --> Router Class Initialized
+INFO - 2016-11-19 21:21:47 --> Config Class Initialized
+INFO - 2016-11-19 21:21:47 --> Output Class Initialized
+INFO - 2016-11-19 21:21:47 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:47 --> Security Class Initialized
+DEBUG - 2016-11-19 21:21:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 21:21:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:47 --> Input Class Initialized
+INFO - 2016-11-19 21:21:47 --> URI Class Initialized
+INFO - 2016-11-19 21:21:47 --> Config Class Initialized
+INFO - 2016-11-19 21:21:47 --> Language Class Initialized
+INFO - 2016-11-19 21:21:47 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:47 --> Router Class Initialized
+INFO - 2016-11-19 21:21:47 --> Loader Class Initialized
+DEBUG - 2016-11-19 21:21:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:47 --> Output Class Initialized
+INFO - 2016-11-19 21:21:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:47 --> Config Class Initialized
+INFO - 2016-11-19 21:21:47 --> URI Class Initialized
+INFO - 2016-11-19 21:21:47 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:47 --> Security Class Initialized
+INFO - 2016-11-19 21:21:47 --> Helper loaded: form_helper
+DEBUG - 2016-11-19 21:21:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 21:21:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:47 --> Router Class Initialized
+INFO - 2016-11-19 21:21:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:47 --> Input Class Initialized
+INFO - 2016-11-19 21:21:47 --> Output Class Initialized
+INFO - 2016-11-19 21:21:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:48 --> URI Class Initialized
+INFO - 2016-11-19 21:21:48 --> Config Class Initialized
+INFO - 2016-11-19 21:21:48 --> Language Class Initialized
+INFO - 2016-11-19 21:21:48 --> Security Class Initialized
+INFO - 2016-11-19 21:21:48 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:48 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:48 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:48 --> Router Class Initialized
+DEBUG - 2016-11-19 21:21:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 21:21:48 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:48 --> Model Class Initialized
+INFO - 2016-11-19 21:21:48 --> Output Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:48 --> Input Class Initialized
+ERROR - 2016-11-19 21:21:48 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:48 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:48 --> Security Class Initialized
+INFO - 2016-11-19 21:21:48 --> Language Class Initialized
+INFO - 2016-11-19 21:21:48 --> Config Class Initialized
+INFO - 2016-11-19 21:21:48 --> URI Class Initialized
+INFO - 2016-11-19 21:21:48 --> Database Driver Class Initialized
+DEBUG - 2016-11-19 21:21:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:48 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:48 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:48 --> Input Class Initialized
+INFO - 2016-11-19 21:21:48 --> Router Class Initialized
+DEBUG - 2016-11-19 21:21:48 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:48 --> Output Class Initialized
+INFO - 2016-11-19 21:21:48 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:48 --> Language Class Initialized
+INFO - 2016-11-19 21:21:48 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:48 --> Config Class Initialized
+INFO - 2016-11-19 21:21:48 --> Security Class Initialized
+INFO - 2016-11-19 21:21:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:48 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:48 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:48 --> Model Class Initialized
+INFO - 2016-11-19 21:21:48 --> URI Class Initialized
+DEBUG - 2016-11-19 21:21:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: url_helper
+DEBUG - 2016-11-19 21:21:48 --> UTF-8 Support Enabled
+ERROR - 2016-11-19 21:21:48 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:48 --> Router Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:48 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:48 --> Input Class Initialized
+INFO - 2016-11-19 21:21:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:48 --> Output Class Initialized
+INFO - 2016-11-19 21:21:48 --> URI Class Initialized
+INFO - 2016-11-19 21:21:48 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:48 --> Language Class Initialized
+INFO - 2016-11-19 21:21:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:48 --> Model Class Initialized
+INFO - 2016-11-19 21:21:48 --> Security Class Initialized
+INFO - 2016-11-19 21:21:48 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:48 --> Router Class Initialized
+ERROR - 2016-11-19 21:21:48 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+DEBUG - 2016-11-19 21:21:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:48 --> Input Class Initialized
+INFO - 2016-11-19 21:21:48 --> Output Class Initialized
+INFO - 2016-11-19 21:21:48 --> Language Class Initialized
+INFO - 2016-11-19 21:21:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:48 --> Security Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:48 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:48 --> Loader Class Initialized
+DEBUG - 2016-11-19 21:21:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:48 --> Model Class Initialized
+INFO - 2016-11-19 21:21:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:48 --> Input Class Initialized
+ERROR - 2016-11-19 21:21:48 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:48 --> Language Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:48 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:48 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:48 --> Model Class Initialized
+INFO - 2016-11-19 21:21:48 --> Helper loaded: form_helper
+ERROR - 2016-11-19 21:21:48 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:48 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:49 --> Model Class Initialized
+ERROR - 2016-11-19 21:21:49 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:49 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:49 --> Model Class Initialized
+ERROR - 2016-11-19 21:21:49 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:51 --> Config Class Initialized
+INFO - 2016-11-19 21:21:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:21:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:51 --> URI Class Initialized
+INFO - 2016-11-19 21:21:51 --> Router Class Initialized
+INFO - 2016-11-19 21:21:51 --> Output Class Initialized
+INFO - 2016-11-19 21:21:52 --> Config Class Initialized
+INFO - 2016-11-19 21:21:52 --> Security Class Initialized
+INFO - 2016-11-19 21:21:52 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 21:21:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:52 --> Input Class Initialized
+INFO - 2016-11-19 21:21:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:52 --> Language Class Initialized
+INFO - 2016-11-19 21:21:52 --> Config Class Initialized
+INFO - 2016-11-19 21:21:52 --> URI Class Initialized
+INFO - 2016-11-19 21:21:52 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:52 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:52 --> Router Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: url_helper
+DEBUG - 2016-11-19 21:21:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:52 --> Output Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:52 --> Config Class Initialized
+INFO - 2016-11-19 21:21:52 --> Security Class Initialized
+INFO - 2016-11-19 21:21:52 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:52 --> URI Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:52 --> Router Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:52 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:52 --> Input Class Initialized
+INFO - 2016-11-19 21:21:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:52 --> Output Class Initialized
+INFO - 2016-11-19 21:21:52 --> Config Class Initialized
+INFO - 2016-11-19 21:21:52 --> URI Class Initialized
+INFO - 2016-11-19 21:21:52 --> Security Class Initialized
+INFO - 2016-11-19 21:21:52 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:52 --> Model Class Initialized
+INFO - 2016-11-19 21:21:52 --> Language Class Initialized
+INFO - 2016-11-19 21:21:52 --> Loader Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:52 --> Router Class Initialized
+ERROR - 2016-11-19 21:21:52 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+DEBUG - 2016-11-19 21:21:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:52 --> Input Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:52 --> Output Class Initialized
+INFO - 2016-11-19 21:21:52 --> Config Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:52 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:52 --> Security Class Initialized
+INFO - 2016-11-19 21:21:52 --> Language Class Initialized
+INFO - 2016-11-19 21:21:52 --> URI Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 21:21:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:52 --> Router Class Initialized
+INFO - 2016-11-19 21:21:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:52 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:52 --> Input Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:52 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:52 --> URI Class Initialized
+INFO - 2016-11-19 21:21:52 --> Output Class Initialized
+INFO - 2016-11-19 21:21:52 --> Config Class Initialized
+INFO - 2016-11-19 21:21:52 --> Language Class Initialized
+INFO - 2016-11-19 21:21:52 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:52 --> Model Class Initialized
+INFO - 2016-11-19 21:21:52 --> Security Class Initialized
+INFO - 2016-11-19 21:21:52 --> Router Class Initialized
+INFO - 2016-11-19 21:21:52 --> Loader Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 21:21:52 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+DEBUG - 2016-11-19 21:21:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:52 --> Output Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:52 --> Input Class Initialized
+INFO - 2016-11-19 21:21:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:52 --> Security Class Initialized
+INFO - 2016-11-19 21:21:52 --> Language Class Initialized
+INFO - 2016-11-19 21:21:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:52 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:52 --> URI Class Initialized
+DEBUG - 2016-11-19 21:21:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:52 --> Model Class Initialized
+INFO - 2016-11-19 21:21:52 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:52 --> Input Class Initialized
+INFO - 2016-11-19 21:21:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:53 --> Language Class Initialized
+INFO - 2016-11-19 21:21:53 --> Router Class Initialized
+INFO - 2016-11-19 21:21:53 --> Helper loaded: url_helper
+ERROR - 2016-11-19 21:21:53 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:53 --> Output Class Initialized
+INFO - 2016-11-19 21:21:53 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:53 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:53 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:53 --> Security Class Initialized
+INFO - 2016-11-19 21:21:53 --> Database Driver Class Initialized
+DEBUG - 2016-11-19 21:21:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:53 --> Model Class Initialized
+INFO - 2016-11-19 21:21:53 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:53 --> Input Class Initialized
+ERROR - 2016-11-19 21:21:53 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:53 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:53 --> Language Class Initialized
+INFO - 2016-11-19 21:21:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:53 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:53 --> Config Class Initialized
+INFO - 2016-11-19 21:21:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:53 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:53 --> Model Class Initialized
+INFO - 2016-11-19 21:21:53 --> Helper loaded: url_helper
+DEBUG - 2016-11-19 21:21:53 --> UTF-8 Support Enabled
+ERROR - 2016-11-19 21:21:53 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:53 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:53 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:53 --> URI Class Initialized
+INFO - 2016-11-19 21:21:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:53 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:53 --> Router Class Initialized
+INFO - 2016-11-19 21:21:53 --> Model Class Initialized
+INFO - 2016-11-19 21:21:53 --> Config Class Initialized
+INFO - 2016-11-19 21:21:53 --> Output Class Initialized
+INFO - 2016-11-19 21:21:53 --> Hooks Class Initialized
+ERROR - 2016-11-19 21:21:53 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+DEBUG - 2016-11-19 21:21:53 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:53 --> Security Class Initialized
+INFO - 2016-11-19 21:21:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:53 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:53 --> Controller Class Initialized
+DEBUG - 2016-11-19 21:21:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:53 --> URI Class Initialized
+INFO - 2016-11-19 21:21:53 --> Input Class Initialized
+INFO - 2016-11-19 21:21:53 --> Config Class Initialized
+INFO - 2016-11-19 21:21:53 --> Model Class Initialized
+INFO - 2016-11-19 21:21:53 --> Language Class Initialized
+ERROR - 2016-11-19 21:21:53 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:53 --> Router Class Initialized
+INFO - 2016-11-19 21:21:53 --> Hooks Class Initialized
+INFO - 2016-11-19 21:21:53 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:53 --> Output Class Initialized
+DEBUG - 2016-11-19 21:21:53 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:21:53 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:53 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:21:53 --> Security Class Initialized
+INFO - 2016-11-19 21:21:53 --> URI Class Initialized
+INFO - 2016-11-19 21:21:53 --> Helper loaded: form_helper
+DEBUG - 2016-11-19 21:21:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:53 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:53 --> Router Class Initialized
+INFO - 2016-11-19 21:21:53 --> Input Class Initialized
+INFO - 2016-11-19 21:21:53 --> Language Class Initialized
+INFO - 2016-11-19 21:21:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:53 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:53 --> Output Class Initialized
+INFO - 2016-11-19 21:21:53 --> Model Class Initialized
+INFO - 2016-11-19 21:21:53 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:53 --> Security Class Initialized
+ERROR - 2016-11-19 21:21:53 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+DEBUG - 2016-11-19 21:21:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:21:54 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:21:54 --> Input Class Initialized
+INFO - 2016-11-19 21:21:54 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:54 --> Language Class Initialized
+INFO - 2016-11-19 21:21:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:54 --> Loader Class Initialized
+INFO - 2016-11-19 21:21:54 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:54 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:21:54 --> Model Class Initialized
+INFO - 2016-11-19 21:21:54 --> Helper loaded: form_helper
+ERROR - 2016-11-19 21:21:54 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:21:54 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:21:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:21:54 --> Controller Class Initialized
+INFO - 2016-11-19 21:21:54 --> Model Class Initialized
+ERROR - 2016-11-19 21:21:54 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:22:10 --> Config Class Initialized
+INFO - 2016-11-19 21:22:10 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:22:10 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:10 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:10 --> URI Class Initialized
+DEBUG - 2016-11-19 21:22:10 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:22:10 --> Router Class Initialized
+INFO - 2016-11-19 21:22:10 --> Output Class Initialized
+INFO - 2016-11-19 21:22:10 --> Security Class Initialized
+DEBUG - 2016-11-19 21:22:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:22:11 --> Input Class Initialized
+INFO - 2016-11-19 21:22:11 --> Language Class Initialized
+INFO - 2016-11-19 21:22:11 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:11 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:11 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:11 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:11 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:11 --> Model Class Initialized
+INFO - 2016-11-19 21:22:11 --> Model Class Initialized
+INFO - 2016-11-19 21:22:11 --> Model Class Initialized
+INFO - 2016-11-19 21:22:11 --> Model Class Initialized
+INFO - 2016-11-19 21:22:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:22:11 --> Pagination Class Initialized
+INFO - 2016-11-19 21:22:11 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:22:11 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:22:11 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:22:11 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:22:11 --> Final output sent to browser
+DEBUG - 2016-11-19 21:22:11 --> Total execution time: 1.0110
+INFO - 2016-11-19 21:22:18 --> Config Class Initialized
+INFO - 2016-11-19 21:22:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:22:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:18 --> URI Class Initialized
+INFO - 2016-11-19 21:22:18 --> Router Class Initialized
+INFO - 2016-11-19 21:22:18 --> Output Class Initialized
+INFO - 2016-11-19 21:22:19 --> Security Class Initialized
+DEBUG - 2016-11-19 21:22:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:22:19 --> Input Class Initialized
+INFO - 2016-11-19 21:22:19 --> Language Class Initialized
+INFO - 2016-11-19 21:22:19 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:19 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:19 --> Model Class Initialized
+ERROR - 2016-11-19 21:22:19 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\admin\all_leave_type.php 49
+INFO - 2016-11-19 21:22:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:22:19 --> Final output sent to browser
+DEBUG - 2016-11-19 21:22:19 --> Total execution time: 0.5132
+INFO - 2016-11-19 21:22:35 --> Config Class Initialized
+INFO - 2016-11-19 21:22:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:22:35 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:35 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:35 --> URI Class Initialized
+DEBUG - 2016-11-19 21:22:35 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:22:35 --> Router Class Initialized
+INFO - 2016-11-19 21:22:35 --> Output Class Initialized
+INFO - 2016-11-19 21:22:35 --> Security Class Initialized
+DEBUG - 2016-11-19 21:22:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:22:36 --> Input Class Initialized
+INFO - 2016-11-19 21:22:36 --> Language Class Initialized
+INFO - 2016-11-19 21:22:36 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:36 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:36 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:36 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:36 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:36 --> Model Class Initialized
+INFO - 2016-11-19 21:22:36 --> Model Class Initialized
+INFO - 2016-11-19 21:22:36 --> Model Class Initialized
+INFO - 2016-11-19 21:22:36 --> Model Class Initialized
+INFO - 2016-11-19 21:22:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:22:36 --> Pagination Class Initialized
+INFO - 2016-11-19 21:22:36 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:22:36 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:22:36 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:22:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:22:36 --> Final output sent to browser
+DEBUG - 2016-11-19 21:22:36 --> Total execution time: 0.9959
+INFO - 2016-11-19 21:22:45 --> Config Class Initialized
+INFO - 2016-11-19 21:22:45 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:22:45 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:45 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:45 --> URI Class Initialized
+INFO - 2016-11-19 21:22:45 --> Router Class Initialized
+INFO - 2016-11-19 21:22:45 --> Output Class Initialized
+INFO - 2016-11-19 21:22:45 --> Security Class Initialized
+DEBUG - 2016-11-19 21:22:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:22:45 --> Input Class Initialized
+INFO - 2016-11-19 21:22:45 --> Language Class Initialized
+INFO - 2016-11-19 21:22:45 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:45 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:45 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:45 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:45 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:45 --> Model Class Initialized
+ERROR - 2016-11-19 21:22:45 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:22:46 --> Config Class Initialized
+INFO - 2016-11-19 21:22:46 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:22:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:46 --> URI Class Initialized
+INFO - 2016-11-19 21:22:46 --> Router Class Initialized
+INFO - 2016-11-19 21:22:46 --> Config Class Initialized
+INFO - 2016-11-19 21:22:46 --> Output Class Initialized
+INFO - 2016-11-19 21:22:46 --> Hooks Class Initialized
+INFO - 2016-11-19 21:22:46 --> Security Class Initialized
+DEBUG - 2016-11-19 21:22:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 21:22:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:22:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:46 --> Input Class Initialized
+INFO - 2016-11-19 21:22:46 --> Config Class Initialized
+INFO - 2016-11-19 21:22:46 --> URI Class Initialized
+INFO - 2016-11-19 21:22:46 --> Hooks Class Initialized
+INFO - 2016-11-19 21:22:46 --> Language Class Initialized
+INFO - 2016-11-19 21:22:46 --> Router Class Initialized
+DEBUG - 2016-11-19 21:22:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:46 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:46 --> Output Class Initialized
+INFO - 2016-11-19 21:22:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:47 --> Config Class Initialized
+INFO - 2016-11-19 21:22:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:47 --> Security Class Initialized
+INFO - 2016-11-19 21:22:47 --> URI Class Initialized
+INFO - 2016-11-19 21:22:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:22:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 21:22:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:22:47 --> Router Class Initialized
+INFO - 2016-11-19 21:22:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:47 --> Input Class Initialized
+INFO - 2016-11-19 21:22:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:22:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:47 --> Output Class Initialized
+INFO - 2016-11-19 21:22:47 --> URI Class Initialized
+INFO - 2016-11-19 21:22:47 --> Language Class Initialized
+INFO - 2016-11-19 21:22:47 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:47 --> Security Class Initialized
+INFO - 2016-11-19 21:22:47 --> Router Class Initialized
+INFO - 2016-11-19 21:22:47 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:47 --> Model Class Initialized
+DEBUG - 2016-11-19 21:22:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 21:22:47 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:22:47 --> Input Class Initialized
+INFO - 2016-11-19 21:22:47 --> Output Class Initialized
+INFO - 2016-11-19 21:22:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:47 --> Security Class Initialized
+INFO - 2016-11-19 21:22:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:47 --> Language Class Initialized
+INFO - 2016-11-19 21:22:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:47 --> Loader Class Initialized
+DEBUG - 2016-11-19 21:22:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:22:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:47 --> Input Class Initialized
+INFO - 2016-11-19 21:22:47 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:22:47 --> Model Class Initialized
+INFO - 2016-11-19 21:22:47 --> Language Class Initialized
+INFO - 2016-11-19 21:22:47 --> Database Driver Class Initialized
+ERROR - 2016-11-19 21:22:47 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:22:47 --> Loader Class Initialized
+INFO - 2016-11-19 21:22:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:22:47 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:47 --> Model Class Initialized
+INFO - 2016-11-19 21:22:47 --> Helper loaded: form_helper
+ERROR - 2016-11-19 21:22:47 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:22:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:22:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:22:47 --> Controller Class Initialized
+INFO - 2016-11-19 21:22:47 --> Model Class Initialized
+ERROR - 2016-11-19 21:22:47 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 170
+INFO - 2016-11-19 21:24:11 --> Config Class Initialized
+INFO - 2016-11-19 21:24:11 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:24:11 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:24:11 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:24:11 --> URI Class Initialized
+DEBUG - 2016-11-19 21:24:11 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:24:11 --> Router Class Initialized
+INFO - 2016-11-19 21:24:11 --> Output Class Initialized
+INFO - 2016-11-19 21:24:11 --> Security Class Initialized
+DEBUG - 2016-11-19 21:24:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:24:12 --> Input Class Initialized
+INFO - 2016-11-19 21:24:12 --> Language Class Initialized
+INFO - 2016-11-19 21:24:12 --> Loader Class Initialized
+INFO - 2016-11-19 21:24:12 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:24:12 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:24:12 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:24:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:24:12 --> Controller Class Initialized
+INFO - 2016-11-19 21:24:12 --> Model Class Initialized
+INFO - 2016-11-19 21:24:12 --> Model Class Initialized
+INFO - 2016-11-19 21:24:12 --> Model Class Initialized
+INFO - 2016-11-19 21:24:12 --> Model Class Initialized
+INFO - 2016-11-19 21:24:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:24:12 --> Pagination Class Initialized
+INFO - 2016-11-19 21:24:12 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:24:12 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:24:12 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:24:12 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:24:12 --> Final output sent to browser
+DEBUG - 2016-11-19 21:24:12 --> Total execution time: 0.9863
+INFO - 2016-11-19 21:24:15 --> Config Class Initialized
+INFO - 2016-11-19 21:24:15 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:24:15 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:24:15 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:24:15 --> URI Class Initialized
+INFO - 2016-11-19 21:24:16 --> Router Class Initialized
+INFO - 2016-11-19 21:24:16 --> Output Class Initialized
+INFO - 2016-11-19 21:24:16 --> Security Class Initialized
+DEBUG - 2016-11-19 21:24:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:24:16 --> Input Class Initialized
+INFO - 2016-11-19 21:24:16 --> Language Class Initialized
+INFO - 2016-11-19 21:24:16 --> Loader Class Initialized
+INFO - 2016-11-19 21:24:16 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:24:16 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:24:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:24:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:24:16 --> Controller Class Initialized
+INFO - 2016-11-19 21:24:16 --> Model Class Initialized
+INFO - 2016-11-19 21:24:16 --> Form Validation Class Initialized
+INFO - 2016-11-19 21:24:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 21:24:16 --> Final output sent to browser
+DEBUG - 2016-11-19 21:24:16 --> Total execution time: 0.4998
+INFO - 2016-11-19 21:24:41 --> Config Class Initialized
+INFO - 2016-11-19 21:24:41 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:24:41 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:24:41 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:24:42 --> URI Class Initialized
+INFO - 2016-11-19 21:24:42 --> Router Class Initialized
+INFO - 2016-11-19 21:24:42 --> Output Class Initialized
+INFO - 2016-11-19 21:24:42 --> Security Class Initialized
+DEBUG - 2016-11-19 21:24:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:24:42 --> Input Class Initialized
+INFO - 2016-11-19 21:24:42 --> Language Class Initialized
+INFO - 2016-11-19 21:24:42 --> Loader Class Initialized
+INFO - 2016-11-19 21:24:42 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:24:42 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:24:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:24:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:24:42 --> Controller Class Initialized
+INFO - 2016-11-19 21:24:42 --> Model Class Initialized
+INFO - 2016-11-19 21:24:42 --> Form Validation Class Initialized
+ERROR - 2016-11-19 21:24:42 --> Severity: Error --> Call to undefined function pagination() C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php 106
+INFO - 2016-11-19 21:24:57 --> Config Class Initialized
+INFO - 2016-11-19 21:24:57 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:24:57 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:24:57 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:24:57 --> URI Class Initialized
+DEBUG - 2016-11-19 21:24:57 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:24:57 --> Router Class Initialized
+INFO - 2016-11-19 21:24:57 --> Output Class Initialized
+INFO - 2016-11-19 21:24:57 --> Security Class Initialized
+DEBUG - 2016-11-19 21:24:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:24:57 --> Input Class Initialized
+INFO - 2016-11-19 21:24:57 --> Language Class Initialized
+INFO - 2016-11-19 21:24:57 --> Loader Class Initialized
+INFO - 2016-11-19 21:24:57 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:24:57 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:24:57 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:24:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:24:57 --> Controller Class Initialized
+INFO - 2016-11-19 21:24:57 --> Model Class Initialized
+INFO - 2016-11-19 21:24:57 --> Model Class Initialized
+INFO - 2016-11-19 21:24:57 --> Model Class Initialized
+INFO - 2016-11-19 21:24:57 --> Model Class Initialized
+INFO - 2016-11-19 21:24:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:24:57 --> Pagination Class Initialized
+INFO - 2016-11-19 21:24:57 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:24:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:24:57 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:24:57 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:24:57 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:24:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:24:58 --> Final output sent to browser
+DEBUG - 2016-11-19 21:24:58 --> Total execution time: 1.0330
+INFO - 2016-11-19 21:25:45 --> Config Class Initialized
+INFO - 2016-11-19 21:25:45 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:25:45 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:25:45 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:25:45 --> URI Class Initialized
+DEBUG - 2016-11-19 21:25:45 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:25:45 --> Router Class Initialized
+INFO - 2016-11-19 21:25:45 --> Output Class Initialized
+INFO - 2016-11-19 21:25:45 --> Security Class Initialized
+DEBUG - 2016-11-19 21:25:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:25:45 --> Input Class Initialized
+INFO - 2016-11-19 21:25:45 --> Language Class Initialized
+INFO - 2016-11-19 21:25:45 --> Loader Class Initialized
+INFO - 2016-11-19 21:25:45 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:25:46 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:25:46 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:25:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:25:46 --> Controller Class Initialized
+INFO - 2016-11-19 21:25:46 --> Model Class Initialized
+INFO - 2016-11-19 21:25:46 --> Model Class Initialized
+INFO - 2016-11-19 21:25:46 --> Model Class Initialized
+INFO - 2016-11-19 21:25:46 --> Model Class Initialized
+INFO - 2016-11-19 21:25:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:25:46 --> Pagination Class Initialized
+INFO - 2016-11-19 21:25:46 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:25:46 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:25:46 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:25:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:25:46 --> Final output sent to browser
+DEBUG - 2016-11-19 21:25:46 --> Total execution time: 0.9548
+INFO - 2016-11-19 21:26:07 --> Config Class Initialized
+INFO - 2016-11-19 21:26:07 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:26:07 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:26:07 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:26:07 --> URI Class Initialized
+INFO - 2016-11-19 21:26:07 --> Router Class Initialized
+INFO - 2016-11-19 21:26:07 --> Output Class Initialized
+INFO - 2016-11-19 21:26:07 --> Security Class Initialized
+DEBUG - 2016-11-19 21:26:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:26:07 --> Input Class Initialized
+INFO - 2016-11-19 21:26:07 --> Language Class Initialized
+INFO - 2016-11-19 21:26:07 --> Loader Class Initialized
+INFO - 2016-11-19 21:26:07 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:26:07 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:26:07 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:26:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:26:07 --> Controller Class Initialized
+INFO - 2016-11-19 21:26:07 --> Model Class Initialized
+INFO - 2016-11-19 21:26:07 --> Model Class Initialized
+INFO - 2016-11-19 21:26:07 --> Model Class Initialized
+INFO - 2016-11-19 21:26:07 --> Model Class Initialized
+INFO - 2016-11-19 21:26:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:26:07 --> Pagination Class Initialized
+INFO - 2016-11-19 21:26:08 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 21:26:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 21:26:08 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+ERROR - 2016-11-19 21:26:08 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+INFO - 2016-11-19 21:26:08 --> Config Class Initialized
+INFO - 2016-11-19 21:26:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:26:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:26:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:26:08 --> URI Class Initialized
+DEBUG - 2016-11-19 21:26:08 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:26:08 --> Router Class Initialized
+INFO - 2016-11-19 21:26:08 --> Output Class Initialized
+INFO - 2016-11-19 21:26:08 --> Security Class Initialized
+DEBUG - 2016-11-19 21:26:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:26:08 --> Input Class Initialized
+INFO - 2016-11-19 21:26:08 --> Language Class Initialized
+INFO - 2016-11-19 21:26:08 --> Loader Class Initialized
+INFO - 2016-11-19 21:26:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:26:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:26:08 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:26:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:26:08 --> Controller Class Initialized
+INFO - 2016-11-19 21:26:08 --> Model Class Initialized
+INFO - 2016-11-19 21:26:08 --> Model Class Initialized
+INFO - 2016-11-19 21:26:08 --> Model Class Initialized
+INFO - 2016-11-19 21:26:08 --> Model Class Initialized
+INFO - 2016-11-19 21:26:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:26:08 --> Pagination Class Initialized
+INFO - 2016-11-19 21:26:08 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:26:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:26:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 21:26:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:26:08 --> Final output sent to browser
+DEBUG - 2016-11-19 21:26:08 --> Total execution time: 0.6651
+INFO - 2016-11-19 21:26:18 --> Config Class Initialized
+INFO - 2016-11-19 21:26:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:26:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:26:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:26:18 --> URI Class Initialized
+INFO - 2016-11-19 21:26:18 --> Router Class Initialized
+INFO - 2016-11-19 21:26:18 --> Output Class Initialized
+INFO - 2016-11-19 21:26:18 --> Security Class Initialized
+DEBUG - 2016-11-19 21:26:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:26:18 --> Input Class Initialized
+INFO - 2016-11-19 21:26:18 --> Language Class Initialized
+INFO - 2016-11-19 21:26:18 --> Loader Class Initialized
+INFO - 2016-11-19 21:26:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:26:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:26:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:26:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:26:18 --> Controller Class Initialized
+INFO - 2016-11-19 21:26:18 --> Model Class Initialized
+INFO - 2016-11-19 21:26:18 --> Model Class Initialized
+INFO - 2016-11-19 21:26:18 --> Model Class Initialized
+INFO - 2016-11-19 21:26:18 --> Model Class Initialized
+INFO - 2016-11-19 21:26:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:26:18 --> Pagination Class Initialized
+INFO - 2016-11-19 21:26:18 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 21:26:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:26:18 --> Model Class Initialized
+INFO - 2016-11-19 21:26:18 --> Final output sent to browser
+DEBUG - 2016-11-19 21:26:18 --> Total execution time: 0.5604
+INFO - 2016-11-19 21:26:18 --> Config Class Initialized
+INFO - 2016-11-19 21:26:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:26:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:26:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:26:19 --> URI Class Initialized
+DEBUG - 2016-11-19 21:26:19 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:26:19 --> Router Class Initialized
+INFO - 2016-11-19 21:26:19 --> Output Class Initialized
+INFO - 2016-11-19 21:26:19 --> Security Class Initialized
+DEBUG - 2016-11-19 21:26:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:26:19 --> Input Class Initialized
+INFO - 2016-11-19 21:26:19 --> Language Class Initialized
+INFO - 2016-11-19 21:26:19 --> Loader Class Initialized
+INFO - 2016-11-19 21:26:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:26:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:26:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:26:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:26:19 --> Controller Class Initialized
+INFO - 2016-11-19 21:26:19 --> Model Class Initialized
+INFO - 2016-11-19 21:26:19 --> Model Class Initialized
+INFO - 2016-11-19 21:26:19 --> Model Class Initialized
+INFO - 2016-11-19 21:26:19 --> Model Class Initialized
+INFO - 2016-11-19 21:26:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:26:19 --> Pagination Class Initialized
+INFO - 2016-11-19 21:26:19 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:26:19 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:26:19 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:26:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:26:19 --> Final output sent to browser
+DEBUG - 2016-11-19 21:26:19 --> Total execution time: 0.9715
+INFO - 2016-11-19 21:26:41 --> Config Class Initialized
+INFO - 2016-11-19 21:26:41 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:26:41 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:26:41 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:26:42 --> URI Class Initialized
+DEBUG - 2016-11-19 21:26:42 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:26:42 --> Router Class Initialized
+INFO - 2016-11-19 21:26:42 --> Output Class Initialized
+INFO - 2016-11-19 21:26:42 --> Security Class Initialized
+DEBUG - 2016-11-19 21:26:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:26:42 --> Input Class Initialized
+INFO - 2016-11-19 21:26:42 --> Language Class Initialized
+INFO - 2016-11-19 21:26:42 --> Loader Class Initialized
+INFO - 2016-11-19 21:26:42 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:26:42 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:26:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:26:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:26:42 --> Controller Class Initialized
+INFO - 2016-11-19 21:26:42 --> Model Class Initialized
+INFO - 2016-11-19 21:26:42 --> Model Class Initialized
+INFO - 2016-11-19 21:26:42 --> Model Class Initialized
+INFO - 2016-11-19 21:26:42 --> Model Class Initialized
+INFO - 2016-11-19 21:26:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:26:42 --> Pagination Class Initialized
+INFO - 2016-11-19 21:26:42 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:26:42 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:26:42 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:26:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:26:42 --> Final output sent to browser
+DEBUG - 2016-11-19 21:26:43 --> Total execution time: 1.0518
+INFO - 2016-11-19 21:29:21 --> Config Class Initialized
+INFO - 2016-11-19 21:29:21 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:29:21 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:29:21 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:29:21 --> URI Class Initialized
+DEBUG - 2016-11-19 21:29:21 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:29:21 --> Router Class Initialized
+INFO - 2016-11-19 21:29:21 --> Output Class Initialized
+INFO - 2016-11-19 21:29:21 --> Security Class Initialized
+DEBUG - 2016-11-19 21:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:29:21 --> Input Class Initialized
+INFO - 2016-11-19 21:29:21 --> Language Class Initialized
+INFO - 2016-11-19 21:29:21 --> Loader Class Initialized
+INFO - 2016-11-19 21:29:21 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:29:21 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:29:21 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:29:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:29:21 --> Controller Class Initialized
+INFO - 2016-11-19 21:29:21 --> Model Class Initialized
+INFO - 2016-11-19 21:29:21 --> Model Class Initialized
+INFO - 2016-11-19 21:29:21 --> Model Class Initialized
+INFO - 2016-11-19 21:29:21 --> Model Class Initialized
+INFO - 2016-11-19 21:29:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:29:21 --> Pagination Class Initialized
+INFO - 2016-11-19 21:29:21 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:29:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:29:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:29:22 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:29:22 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:29:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:29:22 --> Final output sent to browser
+DEBUG - 2016-11-19 21:29:22 --> Total execution time: 1.0824
+INFO - 2016-11-19 21:30:37 --> Config Class Initialized
+INFO - 2016-11-19 21:30:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:30:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:30:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:30:38 --> URI Class Initialized
+DEBUG - 2016-11-19 21:30:38 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:30:38 --> Router Class Initialized
+INFO - 2016-11-19 21:30:38 --> Output Class Initialized
+INFO - 2016-11-19 21:30:38 --> Security Class Initialized
+DEBUG - 2016-11-19 21:30:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:30:38 --> Input Class Initialized
+INFO - 2016-11-19 21:30:38 --> Language Class Initialized
+INFO - 2016-11-19 21:30:38 --> Loader Class Initialized
+INFO - 2016-11-19 21:30:38 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:30:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:30:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:30:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:30:38 --> Controller Class Initialized
+INFO - 2016-11-19 21:30:38 --> Model Class Initialized
+INFO - 2016-11-19 21:30:38 --> Model Class Initialized
+INFO - 2016-11-19 21:30:38 --> Model Class Initialized
+INFO - 2016-11-19 21:30:38 --> Model Class Initialized
+INFO - 2016-11-19 21:30:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:30:38 --> Pagination Class Initialized
+INFO - 2016-11-19 21:30:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:30:38 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:30:38 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:30:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:30:38 --> Final output sent to browser
+DEBUG - 2016-11-19 21:30:38 --> Total execution time: 1.0202
+INFO - 2016-11-19 21:30:46 --> Config Class Initialized
+INFO - 2016-11-19 21:30:46 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:30:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:30:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:30:46 --> URI Class Initialized
+INFO - 2016-11-19 21:30:46 --> Router Class Initialized
+INFO - 2016-11-19 21:30:46 --> Output Class Initialized
+INFO - 2016-11-19 21:30:46 --> Security Class Initialized
+DEBUG - 2016-11-19 21:30:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:30:46 --> Input Class Initialized
+INFO - 2016-11-19 21:30:46 --> Language Class Initialized
+INFO - 2016-11-19 21:30:46 --> Loader Class Initialized
+INFO - 2016-11-19 21:30:46 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:30:46 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:30:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:30:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:30:47 --> Controller Class Initialized
+INFO - 2016-11-19 21:30:47 --> Model Class Initialized
+ERROR - 2016-11-19 21:30:47 --> Severity: Notice --> Undefined variable: query C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 111
+ERROR - 2016-11-19 21:30:47 --> Severity: Error --> Call to a member function result() on null C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 15
+INFO - 2016-11-19 21:30:53 --> Config Class Initialized
+INFO - 2016-11-19 21:30:53 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:30:53 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:30:53 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:30:53 --> URI Class Initialized
+INFO - 2016-11-19 21:30:53 --> Router Class Initialized
+INFO - 2016-11-19 21:30:53 --> Output Class Initialized
+INFO - 2016-11-19 21:30:53 --> Security Class Initialized
+DEBUG - 2016-11-19 21:30:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:30:53 --> Input Class Initialized
+INFO - 2016-11-19 21:30:53 --> Language Class Initialized
+INFO - 2016-11-19 21:30:53 --> Loader Class Initialized
+INFO - 2016-11-19 21:30:53 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:30:53 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:30:53 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:30:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:30:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:30:53 --> Model Class Initialized
+ERROR - 2016-11-19 21:30:53 --> Severity: Notice --> Undefined variable: query C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 111
+ERROR - 2016-11-19 21:30:53 --> Severity: Error --> Call to a member function result() on null C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 15
+INFO - 2016-11-19 21:31:51 --> Config Class Initialized
+INFO - 2016-11-19 21:31:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:31:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:31:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:31:51 --> URI Class Initialized
+DEBUG - 2016-11-19 21:31:52 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:31:52 --> Router Class Initialized
+INFO - 2016-11-19 21:31:52 --> Output Class Initialized
+INFO - 2016-11-19 21:31:52 --> Security Class Initialized
+DEBUG - 2016-11-19 21:31:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:31:52 --> Input Class Initialized
+INFO - 2016-11-19 21:31:52 --> Language Class Initialized
+INFO - 2016-11-19 21:31:52 --> Loader Class Initialized
+INFO - 2016-11-19 21:31:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:31:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:31:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:31:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:31:52 --> Controller Class Initialized
+INFO - 2016-11-19 21:31:52 --> Model Class Initialized
+INFO - 2016-11-19 21:31:52 --> Model Class Initialized
+INFO - 2016-11-19 21:31:52 --> Model Class Initialized
+INFO - 2016-11-19 21:31:52 --> Model Class Initialized
+INFO - 2016-11-19 21:31:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:31:52 --> Pagination Class Initialized
+INFO - 2016-11-19 21:31:52 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:31:52 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:31:52 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:31:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:31:52 --> Final output sent to browser
+DEBUG - 2016-11-19 21:31:52 --> Total execution time: 1.0147
+INFO - 2016-11-19 21:31:58 --> Config Class Initialized
+INFO - 2016-11-19 21:31:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:31:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:31:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:31:58 --> URI Class Initialized
+INFO - 2016-11-19 21:31:58 --> Router Class Initialized
+INFO - 2016-11-19 21:31:58 --> Output Class Initialized
+INFO - 2016-11-19 21:31:58 --> Security Class Initialized
+DEBUG - 2016-11-19 21:31:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:31:58 --> Input Class Initialized
+INFO - 2016-11-19 21:31:58 --> Language Class Initialized
+INFO - 2016-11-19 21:31:58 --> Loader Class Initialized
+INFO - 2016-11-19 21:31:58 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:31:58 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:31:58 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:31:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:31:59 --> Controller Class Initialized
+INFO - 2016-11-19 21:31:59 --> Model Class Initialized
+ERROR - 2016-11-19 21:31:59 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 31
+INFO - 2016-11-19 21:31:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:31:59 --> Final output sent to browser
+DEBUG - 2016-11-19 21:31:59 --> Total execution time: 0.5715
+INFO - 2016-11-19 21:32:40 --> Config Class Initialized
+INFO - 2016-11-19 21:32:40 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:32:40 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:32:40 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:32:40 --> URI Class Initialized
+DEBUG - 2016-11-19 21:32:40 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:32:40 --> Router Class Initialized
+INFO - 2016-11-19 21:32:40 --> Output Class Initialized
+INFO - 2016-11-19 21:32:40 --> Security Class Initialized
+DEBUG - 2016-11-19 21:32:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:32:40 --> Input Class Initialized
+INFO - 2016-11-19 21:32:40 --> Language Class Initialized
+INFO - 2016-11-19 21:32:40 --> Loader Class Initialized
+INFO - 2016-11-19 21:32:40 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:32:40 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:32:40 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:32:40 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:32:40 --> Controller Class Initialized
+INFO - 2016-11-19 21:32:40 --> Model Class Initialized
+INFO - 2016-11-19 21:32:40 --> Model Class Initialized
+INFO - 2016-11-19 21:32:40 --> Model Class Initialized
+INFO - 2016-11-19 21:32:40 --> Model Class Initialized
+INFO - 2016-11-19 21:32:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:32:40 --> Pagination Class Initialized
+INFO - 2016-11-19 21:32:40 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:32:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:32:41 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:32:41 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:32:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:32:41 --> Final output sent to browser
+DEBUG - 2016-11-19 21:32:41 --> Total execution time: 1.0186
+INFO - 2016-11-19 21:32:51 --> Config Class Initialized
+INFO - 2016-11-19 21:32:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:32:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:32:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:32:51 --> URI Class Initialized
+INFO - 2016-11-19 21:32:51 --> Router Class Initialized
+INFO - 2016-11-19 21:32:51 --> Output Class Initialized
+INFO - 2016-11-19 21:32:51 --> Security Class Initialized
+DEBUG - 2016-11-19 21:32:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:32:51 --> Input Class Initialized
+INFO - 2016-11-19 21:32:51 --> Language Class Initialized
+INFO - 2016-11-19 21:32:51 --> Loader Class Initialized
+INFO - 2016-11-19 21:32:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:32:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:32:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:32:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:32:51 --> Controller Class Initialized
+INFO - 2016-11-19 21:32:51 --> Model Class Initialized
+INFO - 2016-11-19 21:32:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:32:51 --> Final output sent to browser
+DEBUG - 2016-11-19 21:32:51 --> Total execution time: 0.5899
+INFO - 2016-11-19 21:36:24 --> Config Class Initialized
+INFO - 2016-11-19 21:36:24 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:36:24 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:36:24 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:36:24 --> URI Class Initialized
+DEBUG - 2016-11-19 21:36:24 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:36:24 --> Router Class Initialized
+INFO - 2016-11-19 21:36:24 --> Output Class Initialized
+INFO - 2016-11-19 21:36:24 --> Security Class Initialized
+DEBUG - 2016-11-19 21:36:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:36:24 --> Input Class Initialized
+INFO - 2016-11-19 21:36:24 --> Language Class Initialized
+INFO - 2016-11-19 21:36:24 --> Loader Class Initialized
+INFO - 2016-11-19 21:36:24 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:36:24 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:36:24 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:36:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:36:24 --> Controller Class Initialized
+INFO - 2016-11-19 21:36:24 --> Model Class Initialized
+INFO - 2016-11-19 21:36:24 --> Model Class Initialized
+INFO - 2016-11-19 21:36:24 --> Model Class Initialized
+INFO - 2016-11-19 21:36:24 --> Model Class Initialized
+INFO - 2016-11-19 21:36:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:36:24 --> Pagination Class Initialized
+INFO - 2016-11-19 21:36:24 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:36:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:36:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:36:24 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:36:25 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:36:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:36:25 --> Final output sent to browser
+DEBUG - 2016-11-19 21:36:25 --> Total execution time: 0.9928
+INFO - 2016-11-19 21:36:33 --> Config Class Initialized
+INFO - 2016-11-19 21:36:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:36:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:36:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:36:33 --> URI Class Initialized
+INFO - 2016-11-19 21:36:34 --> Router Class Initialized
+INFO - 2016-11-19 21:36:34 --> Output Class Initialized
+INFO - 2016-11-19 21:36:34 --> Security Class Initialized
+DEBUG - 2016-11-19 21:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:36:34 --> Input Class Initialized
+INFO - 2016-11-19 21:36:34 --> Language Class Initialized
+INFO - 2016-11-19 21:36:34 --> Loader Class Initialized
+INFO - 2016-11-19 21:36:34 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:36:34 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:36:34 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:36:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:36:34 --> Controller Class Initialized
+INFO - 2016-11-19 21:36:34 --> Model Class Initialized
+INFO - 2016-11-19 21:36:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:36:34 --> Final output sent to browser
+DEBUG - 2016-11-19 21:36:34 --> Total execution time: 0.5745
+INFO - 2016-11-19 21:38:41 --> Config Class Initialized
+INFO - 2016-11-19 21:38:41 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:38:41 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:38:41 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:38:41 --> URI Class Initialized
+DEBUG - 2016-11-19 21:38:41 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:38:41 --> Router Class Initialized
+INFO - 2016-11-19 21:38:41 --> Output Class Initialized
+INFO - 2016-11-19 21:38:41 --> Security Class Initialized
+DEBUG - 2016-11-19 21:38:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:38:41 --> Input Class Initialized
+INFO - 2016-11-19 21:38:41 --> Language Class Initialized
+INFO - 2016-11-19 21:38:41 --> Loader Class Initialized
+INFO - 2016-11-19 21:38:41 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:38:41 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:38:41 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:38:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:38:41 --> Controller Class Initialized
+INFO - 2016-11-19 21:38:41 --> Model Class Initialized
+INFO - 2016-11-19 21:38:41 --> Model Class Initialized
+INFO - 2016-11-19 21:38:41 --> Model Class Initialized
+INFO - 2016-11-19 21:38:42 --> Model Class Initialized
+INFO - 2016-11-19 21:38:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:38:42 --> Pagination Class Initialized
+INFO - 2016-11-19 21:38:42 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:38:42 --> Pagination class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 21:38:42 --> Severity: Notice --> Undefined variable: pagination_links_records C:\xampp\htdocs\LMS\app\controllers\Auth.php 89
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:38:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:38:42 --> Final output sent to browser
+DEBUG - 2016-11-19 21:38:42 --> Total execution time: 1.0605
+INFO - 2016-11-19 21:39:04 --> Config Class Initialized
+INFO - 2016-11-19 21:39:04 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:39:04 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:39:04 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:39:04 --> URI Class Initialized
+DEBUG - 2016-11-19 21:39:04 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:39:04 --> Router Class Initialized
+INFO - 2016-11-19 21:39:04 --> Output Class Initialized
+INFO - 2016-11-19 21:39:04 --> Security Class Initialized
+DEBUG - 2016-11-19 21:39:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:39:04 --> Input Class Initialized
+INFO - 2016-11-19 21:39:04 --> Language Class Initialized
+INFO - 2016-11-19 21:39:04 --> Loader Class Initialized
+INFO - 2016-11-19 21:39:04 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:39:04 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:39:04 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:39:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:39:04 --> Controller Class Initialized
+INFO - 2016-11-19 21:39:04 --> Model Class Initialized
+INFO - 2016-11-19 21:39:04 --> Model Class Initialized
+INFO - 2016-11-19 21:39:04 --> Model Class Initialized
+INFO - 2016-11-19 21:39:04 --> Model Class Initialized
+INFO - 2016-11-19 21:39:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:39:05 --> Pagination Class Initialized
+INFO - 2016-11-19 21:39:05 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:39:05 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:39:05 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:39:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:39:05 --> Final output sent to browser
+DEBUG - 2016-11-19 21:39:05 --> Total execution time: 1.0444
+INFO - 2016-11-19 21:39:13 --> Config Class Initialized
+INFO - 2016-11-19 21:39:13 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:39:13 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:39:13 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:39:13 --> URI Class Initialized
+INFO - 2016-11-19 21:39:13 --> Router Class Initialized
+INFO - 2016-11-19 21:39:13 --> Output Class Initialized
+INFO - 2016-11-19 21:39:13 --> Security Class Initialized
+DEBUG - 2016-11-19 21:39:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:39:13 --> Input Class Initialized
+INFO - 2016-11-19 21:39:13 --> Language Class Initialized
+INFO - 2016-11-19 21:39:13 --> Loader Class Initialized
+INFO - 2016-11-19 21:39:13 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:39:13 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:39:13 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:39:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:39:13 --> Controller Class Initialized
+INFO - 2016-11-19 21:39:14 --> Model Class Initialized
+INFO - 2016-11-19 21:39:14 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:39:14 --> Final output sent to browser
+DEBUG - 2016-11-19 21:39:14 --> Total execution time: 0.6722
+INFO - 2016-11-19 21:41:54 --> Config Class Initialized
+INFO - 2016-11-19 21:41:55 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:41:55 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:41:55 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:41:55 --> URI Class Initialized
+DEBUG - 2016-11-19 21:41:55 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:41:55 --> Router Class Initialized
+INFO - 2016-11-19 21:41:55 --> Output Class Initialized
+INFO - 2016-11-19 21:41:55 --> Security Class Initialized
+DEBUG - 2016-11-19 21:41:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:41:55 --> Input Class Initialized
+INFO - 2016-11-19 21:41:55 --> Language Class Initialized
+INFO - 2016-11-19 21:41:55 --> Loader Class Initialized
+INFO - 2016-11-19 21:41:55 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:41:55 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:41:55 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:41:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:41:55 --> Controller Class Initialized
+INFO - 2016-11-19 21:41:55 --> Model Class Initialized
+INFO - 2016-11-19 21:41:55 --> Model Class Initialized
+INFO - 2016-11-19 21:41:55 --> Model Class Initialized
+INFO - 2016-11-19 21:41:55 --> Model Class Initialized
+INFO - 2016-11-19 21:41:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:41:55 --> Pagination Class Initialized
+INFO - 2016-11-19 21:41:55 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:41:55 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:41:55 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:41:55 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:41:56 --> Final output sent to browser
+DEBUG - 2016-11-19 21:41:56 --> Total execution time: 1.0307
+INFO - 2016-11-19 21:42:00 --> Config Class Initialized
+INFO - 2016-11-19 21:42:00 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:42:01 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:42:01 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:42:01 --> URI Class Initialized
+INFO - 2016-11-19 21:42:01 --> Router Class Initialized
+INFO - 2016-11-19 21:42:01 --> Output Class Initialized
+INFO - 2016-11-19 21:42:01 --> Security Class Initialized
+DEBUG - 2016-11-19 21:42:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:42:01 --> Input Class Initialized
+INFO - 2016-11-19 21:42:01 --> Language Class Initialized
+INFO - 2016-11-19 21:42:01 --> Loader Class Initialized
+INFO - 2016-11-19 21:42:01 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:42:01 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:42:01 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:42:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:42:01 --> Controller Class Initialized
+INFO - 2016-11-19 21:42:01 --> Model Class Initialized
+INFO - 2016-11-19 21:42:01 --> Final output sent to browser
+DEBUG - 2016-11-19 21:42:01 --> Total execution time: 0.5647
+INFO - 2016-11-19 21:43:16 --> Config Class Initialized
+INFO - 2016-11-19 21:43:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:43:16 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:43:16 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:43:16 --> URI Class Initialized
+DEBUG - 2016-11-19 21:43:16 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:43:16 --> Router Class Initialized
+INFO - 2016-11-19 21:43:16 --> Output Class Initialized
+INFO - 2016-11-19 21:43:16 --> Security Class Initialized
+DEBUG - 2016-11-19 21:43:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:43:16 --> Input Class Initialized
+INFO - 2016-11-19 21:43:16 --> Language Class Initialized
+INFO - 2016-11-19 21:43:16 --> Loader Class Initialized
+INFO - 2016-11-19 21:43:16 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:43:16 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:43:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:43:17 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:43:17 --> Controller Class Initialized
+INFO - 2016-11-19 21:43:17 --> Model Class Initialized
+INFO - 2016-11-19 21:43:17 --> Model Class Initialized
+INFO - 2016-11-19 21:43:17 --> Model Class Initialized
+INFO - 2016-11-19 21:43:17 --> Model Class Initialized
+INFO - 2016-11-19 21:43:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:43:17 --> Pagination Class Initialized
+INFO - 2016-11-19 21:43:17 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:43:17 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:43:17 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:43:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:43:17 --> Final output sent to browser
+DEBUG - 2016-11-19 21:43:17 --> Total execution time: 1.0886
+INFO - 2016-11-19 21:43:22 --> Config Class Initialized
+INFO - 2016-11-19 21:43:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:43:22 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:43:22 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:43:22 --> URI Class Initialized
+INFO - 2016-11-19 21:43:22 --> Router Class Initialized
+INFO - 2016-11-19 21:43:22 --> Output Class Initialized
+INFO - 2016-11-19 21:43:22 --> Security Class Initialized
+DEBUG - 2016-11-19 21:43:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:43:22 --> Input Class Initialized
+INFO - 2016-11-19 21:43:22 --> Language Class Initialized
+INFO - 2016-11-19 21:43:22 --> Loader Class Initialized
+INFO - 2016-11-19 21:43:22 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:43:22 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:43:22 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:43:22 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:43:22 --> Controller Class Initialized
+INFO - 2016-11-19 21:43:22 --> Model Class Initialized
+ERROR - 2016-11-19 21:43:22 --> Severity: Notice --> Undefined variable: query C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 114
+ERROR - 2016-11-19 21:43:22 --> Severity: Error --> Call to a member function result() on null C:\xampp\htdocs\LMS\app\views\manager\add_leave_record_sidebar.php 15
+INFO - 2016-11-19 21:43:53 --> Config Class Initialized
+INFO - 2016-11-19 21:43:53 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:43:53 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:43:53 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:43:54 --> URI Class Initialized
+DEBUG - 2016-11-19 21:43:54 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:43:54 --> Router Class Initialized
+INFO - 2016-11-19 21:43:54 --> Output Class Initialized
+INFO - 2016-11-19 21:43:54 --> Security Class Initialized
+DEBUG - 2016-11-19 21:43:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:43:54 --> Input Class Initialized
+INFO - 2016-11-19 21:43:54 --> Language Class Initialized
+INFO - 2016-11-19 21:43:54 --> Loader Class Initialized
+INFO - 2016-11-19 21:43:54 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:43:54 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:43:54 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:43:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:43:54 --> Controller Class Initialized
+INFO - 2016-11-19 21:43:54 --> Model Class Initialized
+INFO - 2016-11-19 21:43:54 --> Model Class Initialized
+INFO - 2016-11-19 21:43:54 --> Model Class Initialized
+INFO - 2016-11-19 21:43:54 --> Model Class Initialized
+INFO - 2016-11-19 21:43:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:43:54 --> Pagination Class Initialized
+INFO - 2016-11-19 21:43:54 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:43:54 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:43:54 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:43:54 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:43:54 --> Final output sent to browser
+DEBUG - 2016-11-19 21:43:55 --> Total execution time: 1.0615
+INFO - 2016-11-19 21:43:58 --> Config Class Initialized
+INFO - 2016-11-19 21:43:58 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:43:58 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:43:58 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:43:58 --> URI Class Initialized
+INFO - 2016-11-19 21:43:58 --> Router Class Initialized
+INFO - 2016-11-19 21:43:59 --> Output Class Initialized
+INFO - 2016-11-19 21:43:59 --> Security Class Initialized
+DEBUG - 2016-11-19 21:43:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:43:59 --> Input Class Initialized
+INFO - 2016-11-19 21:43:59 --> Language Class Initialized
+INFO - 2016-11-19 21:43:59 --> Loader Class Initialized
+INFO - 2016-11-19 21:43:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:43:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:43:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:43:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:43:59 --> Controller Class Initialized
+INFO - 2016-11-19 21:43:59 --> Model Class Initialized
+INFO - 2016-11-19 21:43:59 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:43:59 --> Final output sent to browser
+DEBUG - 2016-11-19 21:43:59 --> Total execution time: 0.6486
+INFO - 2016-11-19 21:48:15 --> Config Class Initialized
+INFO - 2016-11-19 21:48:15 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:48:15 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:48:15 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:48:15 --> URI Class Initialized
+DEBUG - 2016-11-19 21:48:15 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:48:15 --> Router Class Initialized
+INFO - 2016-11-19 21:48:15 --> Output Class Initialized
+INFO - 2016-11-19 21:48:15 --> Security Class Initialized
+DEBUG - 2016-11-19 21:48:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:48:15 --> Input Class Initialized
+INFO - 2016-11-19 21:48:15 --> Language Class Initialized
+INFO - 2016-11-19 21:48:15 --> Loader Class Initialized
+INFO - 2016-11-19 21:48:15 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:48:16 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:48:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:48:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:48:16 --> Controller Class Initialized
+INFO - 2016-11-19 21:48:16 --> Model Class Initialized
+INFO - 2016-11-19 21:48:16 --> Model Class Initialized
+INFO - 2016-11-19 21:48:16 --> Model Class Initialized
+INFO - 2016-11-19 21:48:16 --> Model Class Initialized
+INFO - 2016-11-19 21:48:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:48:16 --> Pagination Class Initialized
+INFO - 2016-11-19 21:48:16 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:48:16 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:48:16 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:48:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:48:16 --> Final output sent to browser
+DEBUG - 2016-11-19 21:48:16 --> Total execution time: 1.3430
+INFO - 2016-11-19 21:49:43 --> Config Class Initialized
+INFO - 2016-11-19 21:49:43 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:49:43 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:49:43 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:49:43 --> URI Class Initialized
+DEBUG - 2016-11-19 21:49:43 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:49:43 --> Router Class Initialized
+INFO - 2016-11-19 21:49:43 --> Output Class Initialized
+INFO - 2016-11-19 21:49:43 --> Security Class Initialized
+DEBUG - 2016-11-19 21:49:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:49:43 --> Input Class Initialized
+INFO - 2016-11-19 21:49:43 --> Language Class Initialized
+INFO - 2016-11-19 21:49:43 --> Loader Class Initialized
+INFO - 2016-11-19 21:49:43 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:49:43 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:49:43 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:49:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:49:43 --> Controller Class Initialized
+INFO - 2016-11-19 21:49:43 --> Model Class Initialized
+INFO - 2016-11-19 21:49:43 --> Model Class Initialized
+INFO - 2016-11-19 21:49:43 --> Model Class Initialized
+INFO - 2016-11-19 21:49:43 --> Model Class Initialized
+INFO - 2016-11-19 21:49:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:49:43 --> Pagination Class Initialized
+INFO - 2016-11-19 21:49:43 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:49:44 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:49:44 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:49:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:49:44 --> Final output sent to browser
+DEBUG - 2016-11-19 21:49:44 --> Total execution time: 1.0475
+INFO - 2016-11-19 21:51:31 --> Config Class Initialized
+INFO - 2016-11-19 21:51:31 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:51:31 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:51:31 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:51:31 --> URI Class Initialized
+INFO - 2016-11-19 21:51:31 --> Router Class Initialized
+INFO - 2016-11-19 21:51:31 --> Output Class Initialized
+INFO - 2016-11-19 21:51:31 --> Security Class Initialized
+DEBUG - 2016-11-19 21:51:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:51:32 --> Input Class Initialized
+INFO - 2016-11-19 21:51:32 --> Language Class Initialized
+INFO - 2016-11-19 21:51:32 --> Loader Class Initialized
+INFO - 2016-11-19 21:51:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:51:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:51:32 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:51:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:51:32 --> Controller Class Initialized
+INFO - 2016-11-19 21:51:32 --> Model Class Initialized
+INFO - 2016-11-19 21:51:32 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:51:32 --> Final output sent to browser
+DEBUG - 2016-11-19 21:51:32 --> Total execution time: 0.5588
+INFO - 2016-11-19 21:51:44 --> Config Class Initialized
+INFO - 2016-11-19 21:51:45 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:51:45 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:51:45 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:51:45 --> URI Class Initialized
+DEBUG - 2016-11-19 21:51:45 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:51:45 --> Router Class Initialized
+INFO - 2016-11-19 21:51:45 --> Output Class Initialized
+INFO - 2016-11-19 21:51:45 --> Security Class Initialized
+DEBUG - 2016-11-19 21:51:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:51:45 --> Input Class Initialized
+INFO - 2016-11-19 21:51:45 --> Language Class Initialized
+INFO - 2016-11-19 21:51:45 --> Loader Class Initialized
+INFO - 2016-11-19 21:51:45 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:51:45 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:51:45 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:51:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:51:45 --> Controller Class Initialized
+INFO - 2016-11-19 21:51:45 --> Model Class Initialized
+INFO - 2016-11-19 21:51:45 --> Model Class Initialized
+INFO - 2016-11-19 21:51:45 --> Model Class Initialized
+INFO - 2016-11-19 21:51:45 --> Model Class Initialized
+INFO - 2016-11-19 21:51:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:51:45 --> Pagination Class Initialized
+INFO - 2016-11-19 21:51:45 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:51:45 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:51:45 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:51:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:51:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:51:46 --> Final output sent to browser
+DEBUG - 2016-11-19 21:51:46 --> Total execution time: 1.0687
+INFO - 2016-11-19 21:53:18 --> Config Class Initialized
+INFO - 2016-11-19 21:53:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:53:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:53:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:53:18 --> URI Class Initialized
+DEBUG - 2016-11-19 21:53:18 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:53:18 --> Router Class Initialized
+INFO - 2016-11-19 21:53:18 --> Output Class Initialized
+INFO - 2016-11-19 21:53:18 --> Security Class Initialized
+DEBUG - 2016-11-19 21:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:53:18 --> Input Class Initialized
+INFO - 2016-11-19 21:53:18 --> Language Class Initialized
+INFO - 2016-11-19 21:53:18 --> Loader Class Initialized
+INFO - 2016-11-19 21:53:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:53:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:53:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:53:18 --> Controller Class Initialized
+INFO - 2016-11-19 21:53:18 --> Model Class Initialized
+INFO - 2016-11-19 21:53:18 --> Model Class Initialized
+INFO - 2016-11-19 21:53:18 --> Model Class Initialized
+INFO - 2016-11-19 21:53:18 --> Model Class Initialized
+INFO - 2016-11-19 21:53:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:53:19 --> Pagination Class Initialized
+INFO - 2016-11-19 21:53:19 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:53:19 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:53:19 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:53:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:53:19 --> Final output sent to browser
+DEBUG - 2016-11-19 21:53:19 --> Total execution time: 1.0984
+INFO - 2016-11-19 21:53:24 --> Config Class Initialized
+INFO - 2016-11-19 21:53:24 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:53:24 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:53:24 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:53:24 --> URI Class Initialized
+INFO - 2016-11-19 21:53:24 --> Router Class Initialized
+INFO - 2016-11-19 21:53:24 --> Output Class Initialized
+INFO - 2016-11-19 21:53:24 --> Security Class Initialized
+DEBUG - 2016-11-19 21:53:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:53:24 --> Input Class Initialized
+INFO - 2016-11-19 21:53:24 --> Language Class Initialized
+INFO - 2016-11-19 21:53:24 --> Loader Class Initialized
+INFO - 2016-11-19 21:53:24 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:53:24 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:53:24 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:53:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:53:24 --> Controller Class Initialized
+INFO - 2016-11-19 21:53:24 --> Model Class Initialized
+INFO - 2016-11-19 21:53:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:53:24 --> Final output sent to browser
+DEBUG - 2016-11-19 21:53:24 --> Total execution time: 0.5239
+INFO - 2016-11-19 21:55:47 --> Config Class Initialized
+INFO - 2016-11-19 21:55:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:55:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:55:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:55:47 --> URI Class Initialized
+DEBUG - 2016-11-19 21:55:47 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:55:47 --> Router Class Initialized
+INFO - 2016-11-19 21:55:47 --> Output Class Initialized
+INFO - 2016-11-19 21:55:47 --> Security Class Initialized
+DEBUG - 2016-11-19 21:55:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:55:47 --> Input Class Initialized
+INFO - 2016-11-19 21:55:47 --> Language Class Initialized
+INFO - 2016-11-19 21:55:47 --> Loader Class Initialized
+INFO - 2016-11-19 21:55:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:55:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:55:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:55:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:55:47 --> Controller Class Initialized
+INFO - 2016-11-19 21:55:47 --> Model Class Initialized
+INFO - 2016-11-19 21:55:47 --> Model Class Initialized
+INFO - 2016-11-19 21:55:47 --> Model Class Initialized
+INFO - 2016-11-19 21:55:47 --> Model Class Initialized
+INFO - 2016-11-19 21:55:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:55:47 --> Pagination Class Initialized
+INFO - 2016-11-19 21:55:47 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:55:47 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:55:47 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:55:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:55:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:55:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:55:48 --> Final output sent to browser
+DEBUG - 2016-11-19 21:55:48 --> Total execution time: 1.0308
+INFO - 2016-11-19 21:55:53 --> Config Class Initialized
+INFO - 2016-11-19 21:55:53 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:55:53 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:55:53 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:55:53 --> URI Class Initialized
+INFO - 2016-11-19 21:55:53 --> Router Class Initialized
+INFO - 2016-11-19 21:55:53 --> Output Class Initialized
+INFO - 2016-11-19 21:55:53 --> Security Class Initialized
+DEBUG - 2016-11-19 21:55:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:55:53 --> Input Class Initialized
+INFO - 2016-11-19 21:55:53 --> Language Class Initialized
+INFO - 2016-11-19 21:55:53 --> Loader Class Initialized
+INFO - 2016-11-19 21:55:53 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:55:53 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:55:53 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:55:53 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:55:53 --> Controller Class Initialized
+INFO - 2016-11-19 21:55:53 --> Model Class Initialized
+ERROR - 2016-11-19 21:55:53 --> Severity: Notice --> Use of undefined constant REFRESH - assumed 'REFRESH' C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php 116
+INFO - 2016-11-19 21:55:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:55:53 --> Final output sent to browser
+DEBUG - 2016-11-19 21:55:53 --> Total execution time: 0.6104
+INFO - 2016-11-19 21:56:20 --> Config Class Initialized
+INFO - 2016-11-19 21:56:20 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:56:20 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:56:20 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:56:20 --> URI Class Initialized
+DEBUG - 2016-11-19 21:56:20 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:56:20 --> Router Class Initialized
+INFO - 2016-11-19 21:56:20 --> Output Class Initialized
+INFO - 2016-11-19 21:56:20 --> Security Class Initialized
+DEBUG - 2016-11-19 21:56:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:56:20 --> Input Class Initialized
+INFO - 2016-11-19 21:56:20 --> Language Class Initialized
+INFO - 2016-11-19 21:56:20 --> Loader Class Initialized
+INFO - 2016-11-19 21:56:20 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:56:20 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:56:20 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:56:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:56:20 --> Controller Class Initialized
+INFO - 2016-11-19 21:56:20 --> Model Class Initialized
+INFO - 2016-11-19 21:56:20 --> Model Class Initialized
+INFO - 2016-11-19 21:56:20 --> Model Class Initialized
+INFO - 2016-11-19 21:56:20 --> Model Class Initialized
+INFO - 2016-11-19 21:56:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:56:20 --> Pagination Class Initialized
+INFO - 2016-11-19 21:56:20 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:56:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:56:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:56:20 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:56:20 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:56:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:56:21 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:56:21 --> Final output sent to browser
+DEBUG - 2016-11-19 21:56:21 --> Total execution time: 1.1119
+INFO - 2016-11-19 21:56:25 --> Config Class Initialized
+INFO - 2016-11-19 21:56:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:56:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:56:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:56:25 --> URI Class Initialized
+INFO - 2016-11-19 21:56:25 --> Router Class Initialized
+INFO - 2016-11-19 21:56:25 --> Output Class Initialized
+INFO - 2016-11-19 21:56:25 --> Security Class Initialized
+DEBUG - 2016-11-19 21:56:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:56:25 --> Input Class Initialized
+INFO - 2016-11-19 21:56:25 --> Language Class Initialized
+INFO - 2016-11-19 21:56:25 --> Loader Class Initialized
+INFO - 2016-11-19 21:56:26 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:56:26 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:56:26 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:56:26 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:56:26 --> Controller Class Initialized
+INFO - 2016-11-19 21:56:26 --> Model Class Initialized
+INFO - 2016-11-19 21:56:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:56:26 --> Final output sent to browser
+DEBUG - 2016-11-19 21:56:26 --> Total execution time: 0.6269
+INFO - 2016-11-19 21:57:06 --> Config Class Initialized
+INFO - 2016-11-19 21:57:06 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:57:06 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:57:06 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:57:06 --> URI Class Initialized
+DEBUG - 2016-11-19 21:57:06 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:57:06 --> Router Class Initialized
+INFO - 2016-11-19 21:57:06 --> Output Class Initialized
+INFO - 2016-11-19 21:57:06 --> Security Class Initialized
+DEBUG - 2016-11-19 21:57:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:57:07 --> Input Class Initialized
+INFO - 2016-11-19 21:57:07 --> Language Class Initialized
+INFO - 2016-11-19 21:57:07 --> Loader Class Initialized
+INFO - 2016-11-19 21:57:07 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:57:07 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:57:07 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:57:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:57:07 --> Controller Class Initialized
+INFO - 2016-11-19 21:57:07 --> Model Class Initialized
+INFO - 2016-11-19 21:57:07 --> Model Class Initialized
+INFO - 2016-11-19 21:57:07 --> Model Class Initialized
+INFO - 2016-11-19 21:57:07 --> Model Class Initialized
+INFO - 2016-11-19 21:57:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:57:07 --> Pagination Class Initialized
+INFO - 2016-11-19 21:57:07 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:57:07 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:57:07 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:57:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:57:07 --> Final output sent to browser
+DEBUG - 2016-11-19 21:57:07 --> Total execution time: 1.0879
+INFO - 2016-11-19 21:59:51 --> Config Class Initialized
+INFO - 2016-11-19 21:59:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:59:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:59:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:59:51 --> URI Class Initialized
+DEBUG - 2016-11-19 21:59:51 --> No URI present. Default controller set.
+INFO - 2016-11-19 21:59:51 --> Router Class Initialized
+INFO - 2016-11-19 21:59:51 --> Output Class Initialized
+INFO - 2016-11-19 21:59:51 --> Security Class Initialized
+DEBUG - 2016-11-19 21:59:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:59:52 --> Input Class Initialized
+INFO - 2016-11-19 21:59:52 --> Language Class Initialized
+INFO - 2016-11-19 21:59:52 --> Loader Class Initialized
+INFO - 2016-11-19 21:59:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:59:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:59:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:59:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:59:52 --> Controller Class Initialized
+INFO - 2016-11-19 21:59:52 --> Model Class Initialized
+INFO - 2016-11-19 21:59:52 --> Model Class Initialized
+INFO - 2016-11-19 21:59:52 --> Model Class Initialized
+INFO - 2016-11-19 21:59:52 --> Model Class Initialized
+INFO - 2016-11-19 21:59:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 21:59:52 --> Pagination Class Initialized
+INFO - 2016-11-19 21:59:52 --> Helper loaded: app_helper
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 21:59:52 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 21:59:52 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 21:59:52 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 21:59:52 --> Final output sent to browser
+DEBUG - 2016-11-19 21:59:52 --> Total execution time: 1.1405
+INFO - 2016-11-19 21:59:57 --> Config Class Initialized
+INFO - 2016-11-19 21:59:57 --> Hooks Class Initialized
+DEBUG - 2016-11-19 21:59:57 --> UTF-8 Support Enabled
+INFO - 2016-11-19 21:59:57 --> Utf8 Class Initialized
+INFO - 2016-11-19 21:59:57 --> URI Class Initialized
+INFO - 2016-11-19 21:59:57 --> Router Class Initialized
+INFO - 2016-11-19 21:59:57 --> Output Class Initialized
+INFO - 2016-11-19 21:59:57 --> Security Class Initialized
+DEBUG - 2016-11-19 21:59:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 21:59:57 --> Input Class Initialized
+INFO - 2016-11-19 21:59:57 --> Language Class Initialized
+INFO - 2016-11-19 21:59:57 --> Loader Class Initialized
+INFO - 2016-11-19 21:59:57 --> Helper loaded: url_helper
+INFO - 2016-11-19 21:59:57 --> Helper loaded: form_helper
+INFO - 2016-11-19 21:59:57 --> Database Driver Class Initialized
+INFO - 2016-11-19 21:59:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 21:59:57 --> Controller Class Initialized
+INFO - 2016-11-19 21:59:57 --> Model Class Initialized
+INFO - 2016-11-19 21:59:58 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 21:59:58 --> Final output sent to browser
+DEBUG - 2016-11-19 21:59:58 --> Total execution time: 0.6008
+INFO - 2016-11-19 22:01:43 --> Config Class Initialized
+INFO - 2016-11-19 22:01:43 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:01:43 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:01:43 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:01:43 --> URI Class Initialized
+DEBUG - 2016-11-19 22:01:43 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:01:43 --> Router Class Initialized
+INFO - 2016-11-19 22:01:43 --> Output Class Initialized
+INFO - 2016-11-19 22:01:43 --> Security Class Initialized
+DEBUG - 2016-11-19 22:01:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:01:43 --> Input Class Initialized
+INFO - 2016-11-19 22:01:43 --> Language Class Initialized
+INFO - 2016-11-19 22:01:43 --> Loader Class Initialized
+INFO - 2016-11-19 22:01:43 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:01:43 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:01:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:01:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:01:44 --> Controller Class Initialized
+INFO - 2016-11-19 22:01:44 --> Model Class Initialized
+INFO - 2016-11-19 22:01:44 --> Model Class Initialized
+INFO - 2016-11-19 22:01:44 --> Model Class Initialized
+INFO - 2016-11-19 22:01:44 --> Model Class Initialized
+INFO - 2016-11-19 22:01:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:01:44 --> Pagination Class Initialized
+INFO - 2016-11-19 22:01:44 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:01:44 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:01:44 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:01:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:01:44 --> Final output sent to browser
+DEBUG - 2016-11-19 22:01:44 --> Total execution time: 1.0636
+INFO - 2016-11-19 22:01:49 --> Config Class Initialized
+INFO - 2016-11-19 22:01:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:01:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:01:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:01:49 --> URI Class Initialized
+INFO - 2016-11-19 22:01:49 --> Router Class Initialized
+INFO - 2016-11-19 22:01:49 --> Output Class Initialized
+INFO - 2016-11-19 22:01:49 --> Security Class Initialized
+DEBUG - 2016-11-19 22:01:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:01:49 --> Input Class Initialized
+INFO - 2016-11-19 22:01:49 --> Language Class Initialized
+INFO - 2016-11-19 22:01:49 --> Loader Class Initialized
+INFO - 2016-11-19 22:01:49 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:01:49 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:01:49 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:01:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:01:50 --> Controller Class Initialized
+INFO - 2016-11-19 22:01:50 --> Model Class Initialized
+INFO - 2016-11-19 22:01:50 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:01:50 --> Final output sent to browser
+DEBUG - 2016-11-19 22:01:50 --> Total execution time: 0.6380
+INFO - 2016-11-19 22:03:16 --> Config Class Initialized
+INFO - 2016-11-19 22:03:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:03:16 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:03:16 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:03:16 --> URI Class Initialized
+DEBUG - 2016-11-19 22:03:16 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:03:16 --> Router Class Initialized
+INFO - 2016-11-19 22:03:16 --> Output Class Initialized
+INFO - 2016-11-19 22:03:16 --> Security Class Initialized
+DEBUG - 2016-11-19 22:03:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:03:16 --> Input Class Initialized
+INFO - 2016-11-19 22:03:16 --> Language Class Initialized
+INFO - 2016-11-19 22:03:16 --> Loader Class Initialized
+INFO - 2016-11-19 22:03:16 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:03:16 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:03:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:03:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:03:16 --> Controller Class Initialized
+INFO - 2016-11-19 22:03:16 --> Model Class Initialized
+INFO - 2016-11-19 22:03:16 --> Model Class Initialized
+INFO - 2016-11-19 22:03:16 --> Model Class Initialized
+INFO - 2016-11-19 22:03:16 --> Model Class Initialized
+INFO - 2016-11-19 22:03:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:03:16 --> Pagination Class Initialized
+INFO - 2016-11-19 22:03:16 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:03:16 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:03:17 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:03:17 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:03:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:03:17 --> Final output sent to browser
+DEBUG - 2016-11-19 22:03:17 --> Total execution time: 1.1265
+INFO - 2016-11-19 22:03:50 --> Config Class Initialized
+INFO - 2016-11-19 22:03:50 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:03:50 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:03:50 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:03:50 --> URI Class Initialized
+DEBUG - 2016-11-19 22:03:50 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:03:50 --> Router Class Initialized
+INFO - 2016-11-19 22:03:51 --> Output Class Initialized
+INFO - 2016-11-19 22:03:51 --> Security Class Initialized
+DEBUG - 2016-11-19 22:03:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:03:51 --> Input Class Initialized
+INFO - 2016-11-19 22:03:51 --> Language Class Initialized
+INFO - 2016-11-19 22:03:51 --> Loader Class Initialized
+INFO - 2016-11-19 22:03:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:03:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:03:51 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:03:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:03:51 --> Controller Class Initialized
+INFO - 2016-11-19 22:03:51 --> Model Class Initialized
+INFO - 2016-11-19 22:03:51 --> Model Class Initialized
+INFO - 2016-11-19 22:03:51 --> Model Class Initialized
+INFO - 2016-11-19 22:03:51 --> Model Class Initialized
+INFO - 2016-11-19 22:03:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:03:51 --> Pagination Class Initialized
+INFO - 2016-11-19 22:03:51 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:03:51 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:03:51 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:03:51 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:03:51 --> Final output sent to browser
+DEBUG - 2016-11-19 22:03:52 --> Total execution time: 1.1536
+INFO - 2016-11-19 22:08:04 --> Config Class Initialized
+INFO - 2016-11-19 22:08:04 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:08:04 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:08:04 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:08:04 --> URI Class Initialized
+DEBUG - 2016-11-19 22:08:04 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:08:04 --> Router Class Initialized
+INFO - 2016-11-19 22:08:04 --> Output Class Initialized
+INFO - 2016-11-19 22:08:04 --> Security Class Initialized
+DEBUG - 2016-11-19 22:08:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:08:04 --> Input Class Initialized
+INFO - 2016-11-19 22:08:04 --> Language Class Initialized
+INFO - 2016-11-19 22:08:04 --> Loader Class Initialized
+INFO - 2016-11-19 22:08:04 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:08:04 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:08:04 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:08:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:08:04 --> Controller Class Initialized
+INFO - 2016-11-19 22:08:04 --> Model Class Initialized
+INFO - 2016-11-19 22:08:04 --> Model Class Initialized
+INFO - 2016-11-19 22:08:04 --> Model Class Initialized
+INFO - 2016-11-19 22:08:04 --> Model Class Initialized
+INFO - 2016-11-19 22:08:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:08:04 --> Pagination Class Initialized
+INFO - 2016-11-19 22:08:04 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:08:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:08:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:08:04 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:08:04 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:08:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:08:05 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:08:05 --> Final output sent to browser
+DEBUG - 2016-11-19 22:08:05 --> Total execution time: 1.1382
+INFO - 2016-11-19 22:15:08 --> Config Class Initialized
+INFO - 2016-11-19 22:15:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:15:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:15:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:15:08 --> URI Class Initialized
+DEBUG - 2016-11-19 22:15:08 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:15:08 --> Router Class Initialized
+INFO - 2016-11-19 22:15:08 --> Output Class Initialized
+INFO - 2016-11-19 22:15:08 --> Security Class Initialized
+DEBUG - 2016-11-19 22:15:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:15:08 --> Input Class Initialized
+INFO - 2016-11-19 22:15:08 --> Language Class Initialized
+INFO - 2016-11-19 22:15:08 --> Loader Class Initialized
+INFO - 2016-11-19 22:15:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:15:09 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:15:09 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:15:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:15:09 --> Controller Class Initialized
+INFO - 2016-11-19 22:15:09 --> Model Class Initialized
+INFO - 2016-11-19 22:15:09 --> Model Class Initialized
+INFO - 2016-11-19 22:15:09 --> Model Class Initialized
+INFO - 2016-11-19 22:15:09 --> Model Class Initialized
+INFO - 2016-11-19 22:15:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:15:09 --> Pagination Class Initialized
+INFO - 2016-11-19 22:15:09 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:15:09 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:15:09 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:15:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:15:09 --> Final output sent to browser
+DEBUG - 2016-11-19 22:15:09 --> Total execution time: 1.1187
+INFO - 2016-11-19 22:15:18 --> Config Class Initialized
+INFO - 2016-11-19 22:15:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:15:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:15:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:15:18 --> URI Class Initialized
+INFO - 2016-11-19 22:15:18 --> Router Class Initialized
+INFO - 2016-11-19 22:15:18 --> Output Class Initialized
+INFO - 2016-11-19 22:15:18 --> Security Class Initialized
+DEBUG - 2016-11-19 22:15:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:15:18 --> Input Class Initialized
+INFO - 2016-11-19 22:15:18 --> Language Class Initialized
+INFO - 2016-11-19 22:15:18 --> Loader Class Initialized
+INFO - 2016-11-19 22:15:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:15:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:15:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:15:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:15:19 --> Controller Class Initialized
+INFO - 2016-11-19 22:15:19 --> Model Class Initialized
+INFO - 2016-11-19 22:15:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:15:19 --> Final output sent to browser
+DEBUG - 2016-11-19 22:15:19 --> Total execution time: 0.6246
+INFO - 2016-11-19 22:15:47 --> Config Class Initialized
+INFO - 2016-11-19 22:15:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:15:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:15:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:15:47 --> URI Class Initialized
+DEBUG - 2016-11-19 22:15:47 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:15:47 --> Router Class Initialized
+INFO - 2016-11-19 22:15:47 --> Output Class Initialized
+INFO - 2016-11-19 22:15:47 --> Security Class Initialized
+DEBUG - 2016-11-19 22:15:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:15:47 --> Input Class Initialized
+INFO - 2016-11-19 22:15:47 --> Language Class Initialized
+INFO - 2016-11-19 22:15:47 --> Loader Class Initialized
+INFO - 2016-11-19 22:15:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:15:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:15:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:15:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:15:47 --> Controller Class Initialized
+INFO - 2016-11-19 22:15:47 --> Model Class Initialized
+INFO - 2016-11-19 22:15:47 --> Model Class Initialized
+INFO - 2016-11-19 22:15:47 --> Model Class Initialized
+INFO - 2016-11-19 22:15:47 --> Model Class Initialized
+INFO - 2016-11-19 22:15:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:15:47 --> Pagination Class Initialized
+INFO - 2016-11-19 22:15:47 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:15:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:15:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:15:47 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:15:47 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:15:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:15:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:15:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:15:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:15:48 --> Final output sent to browser
+DEBUG - 2016-11-19 22:15:48 --> Total execution time: 1.0901
+INFO - 2016-11-19 22:20:42 --> Config Class Initialized
+INFO - 2016-11-19 22:20:42 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:20:42 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:20:42 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:20:42 --> URI Class Initialized
+DEBUG - 2016-11-19 22:20:42 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:20:42 --> Router Class Initialized
+INFO - 2016-11-19 22:20:42 --> Output Class Initialized
+INFO - 2016-11-19 22:20:42 --> Security Class Initialized
+DEBUG - 2016-11-19 22:20:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:20:42 --> Input Class Initialized
+INFO - 2016-11-19 22:20:42 --> Language Class Initialized
+INFO - 2016-11-19 22:20:42 --> Loader Class Initialized
+INFO - 2016-11-19 22:20:42 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:20:42 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:20:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:20:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:20:42 --> Controller Class Initialized
+INFO - 2016-11-19 22:20:42 --> Model Class Initialized
+INFO - 2016-11-19 22:20:42 --> Model Class Initialized
+INFO - 2016-11-19 22:20:42 --> Model Class Initialized
+INFO - 2016-11-19 22:20:42 --> Model Class Initialized
+INFO - 2016-11-19 22:20:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:20:42 --> Pagination Class Initialized
+INFO - 2016-11-19 22:20:42 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:20:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:20:42 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:20:42 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:20:42 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:20:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:20:43 --> Final output sent to browser
+DEBUG - 2016-11-19 22:20:43 --> Total execution time: 1.1688
+INFO - 2016-11-19 22:20:47 --> Config Class Initialized
+INFO - 2016-11-19 22:20:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:20:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:20:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:20:47 --> URI Class Initialized
+INFO - 2016-11-19 22:20:47 --> Router Class Initialized
+INFO - 2016-11-19 22:20:47 --> Output Class Initialized
+INFO - 2016-11-19 22:20:47 --> Security Class Initialized
+DEBUG - 2016-11-19 22:20:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:20:47 --> Input Class Initialized
+INFO - 2016-11-19 22:20:47 --> Language Class Initialized
+INFO - 2016-11-19 22:20:47 --> Loader Class Initialized
+INFO - 2016-11-19 22:20:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:20:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:20:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:20:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:20:47 --> Controller Class Initialized
+INFO - 2016-11-19 22:20:48 --> Model Class Initialized
+INFO - 2016-11-19 22:20:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:20:48 --> Final output sent to browser
+DEBUG - 2016-11-19 22:20:48 --> Total execution time: 0.6279
+INFO - 2016-11-19 22:20:48 --> Config Class Initialized
+INFO - 2016-11-19 22:20:48 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:20:48 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:20:48 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:20:48 --> URI Class Initialized
+DEBUG - 2016-11-19 22:20:48 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:20:48 --> Router Class Initialized
+INFO - 2016-11-19 22:20:48 --> Output Class Initialized
+INFO - 2016-11-19 22:20:48 --> Security Class Initialized
+DEBUG - 2016-11-19 22:20:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:20:48 --> Input Class Initialized
+INFO - 2016-11-19 22:20:48 --> Language Class Initialized
+INFO - 2016-11-19 22:20:48 --> Loader Class Initialized
+INFO - 2016-11-19 22:20:48 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:20:48 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:20:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:20:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:20:48 --> Controller Class Initialized
+INFO - 2016-11-19 22:20:48 --> Model Class Initialized
+INFO - 2016-11-19 22:20:48 --> Model Class Initialized
+INFO - 2016-11-19 22:20:48 --> Model Class Initialized
+INFO - 2016-11-19 22:20:48 --> Model Class Initialized
+INFO - 2016-11-19 22:20:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:20:48 --> Pagination Class Initialized
+INFO - 2016-11-19 22:20:48 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:20:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:20:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:20:48 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:20:48 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:20:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:20:49 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:20:49 --> Final output sent to browser
+DEBUG - 2016-11-19 22:20:49 --> Total execution time: 0.9836
+INFO - 2016-11-19 22:21:22 --> Config Class Initialized
+INFO - 2016-11-19 22:21:22 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:21:23 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:21:23 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:21:23 --> URI Class Initialized
+DEBUG - 2016-11-19 22:21:23 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:21:23 --> Router Class Initialized
+INFO - 2016-11-19 22:21:23 --> Output Class Initialized
+INFO - 2016-11-19 22:21:23 --> Security Class Initialized
+DEBUG - 2016-11-19 22:21:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:21:23 --> Input Class Initialized
+INFO - 2016-11-19 22:21:23 --> Language Class Initialized
+INFO - 2016-11-19 22:21:23 --> Loader Class Initialized
+INFO - 2016-11-19 22:21:23 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:21:23 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:21:23 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:21:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:21:23 --> Controller Class Initialized
+INFO - 2016-11-19 22:21:23 --> Model Class Initialized
+INFO - 2016-11-19 22:21:23 --> Model Class Initialized
+INFO - 2016-11-19 22:21:23 --> Model Class Initialized
+INFO - 2016-11-19 22:21:23 --> Model Class Initialized
+INFO - 2016-11-19 22:21:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:21:23 --> Pagination Class Initialized
+INFO - 2016-11-19 22:21:23 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:21:23 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:21:23 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:21:23 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:21:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:21:24 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:21:24 --> Final output sent to browser
+DEBUG - 2016-11-19 22:21:24 --> Total execution time: 1.0950
+INFO - 2016-11-19 22:21:29 --> Config Class Initialized
+INFO - 2016-11-19 22:21:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:21:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:21:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:21:29 --> URI Class Initialized
+INFO - 2016-11-19 22:21:29 --> Router Class Initialized
+INFO - 2016-11-19 22:21:29 --> Output Class Initialized
+INFO - 2016-11-19 22:21:29 --> Security Class Initialized
+DEBUG - 2016-11-19 22:21:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:21:29 --> Input Class Initialized
+INFO - 2016-11-19 22:21:29 --> Language Class Initialized
+INFO - 2016-11-19 22:21:29 --> Loader Class Initialized
+INFO - 2016-11-19 22:21:29 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:21:29 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:21:29 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:21:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:21:29 --> Controller Class Initialized
+INFO - 2016-11-19 22:21:29 --> Model Class Initialized
+INFO - 2016-11-19 22:21:29 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:21:29 --> Final output sent to browser
+DEBUG - 2016-11-19 22:21:29 --> Total execution time: 0.6109
+INFO - 2016-11-19 22:21:29 --> Config Class Initialized
+INFO - 2016-11-19 22:21:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:21:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:21:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:21:29 --> URI Class Initialized
+DEBUG - 2016-11-19 22:21:29 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:21:29 --> Router Class Initialized
+INFO - 2016-11-19 22:21:29 --> Output Class Initialized
+INFO - 2016-11-19 22:21:29 --> Security Class Initialized
+DEBUG - 2016-11-19 22:21:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:21:29 --> Input Class Initialized
+INFO - 2016-11-19 22:21:30 --> Language Class Initialized
+INFO - 2016-11-19 22:21:30 --> Loader Class Initialized
+INFO - 2016-11-19 22:21:30 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:21:30 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:21:30 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:21:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:21:30 --> Controller Class Initialized
+INFO - 2016-11-19 22:21:30 --> Model Class Initialized
+INFO - 2016-11-19 22:21:30 --> Model Class Initialized
+INFO - 2016-11-19 22:21:30 --> Model Class Initialized
+INFO - 2016-11-19 22:21:30 --> Model Class Initialized
+INFO - 2016-11-19 22:21:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:21:30 --> Pagination Class Initialized
+INFO - 2016-11-19 22:21:30 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:21:30 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:21:30 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:21:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:21:30 --> Final output sent to browser
+DEBUG - 2016-11-19 22:21:30 --> Total execution time: 1.0001
+INFO - 2016-11-19 22:22:33 --> Config Class Initialized
+INFO - 2016-11-19 22:22:33 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:22:33 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:22:33 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:22:33 --> URI Class Initialized
+DEBUG - 2016-11-19 22:22:33 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:22:33 --> Router Class Initialized
+INFO - 2016-11-19 22:22:33 --> Output Class Initialized
+INFO - 2016-11-19 22:22:33 --> Security Class Initialized
+DEBUG - 2016-11-19 22:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:22:33 --> Input Class Initialized
+INFO - 2016-11-19 22:22:33 --> Language Class Initialized
+INFO - 2016-11-19 22:22:33 --> Loader Class Initialized
+INFO - 2016-11-19 22:22:33 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:22:33 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:22:33 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:22:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:22:33 --> Controller Class Initialized
+INFO - 2016-11-19 22:22:33 --> Model Class Initialized
+INFO - 2016-11-19 22:22:33 --> Model Class Initialized
+INFO - 2016-11-19 22:22:33 --> Model Class Initialized
+INFO - 2016-11-19 22:22:33 --> Model Class Initialized
+INFO - 2016-11-19 22:22:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:22:33 --> Pagination Class Initialized
+INFO - 2016-11-19 22:22:33 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:22:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:22:33 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:22:33 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:22:33 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:22:34 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:22:34 --> Final output sent to browser
+DEBUG - 2016-11-19 22:22:34 --> Total execution time: 1.1550
+INFO - 2016-11-19 22:22:38 --> Config Class Initialized
+INFO - 2016-11-19 22:22:38 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:22:38 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:22:38 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:22:39 --> URI Class Initialized
+INFO - 2016-11-19 22:22:39 --> Router Class Initialized
+INFO - 2016-11-19 22:22:39 --> Output Class Initialized
+INFO - 2016-11-19 22:22:39 --> Security Class Initialized
+DEBUG - 2016-11-19 22:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:22:39 --> Input Class Initialized
+INFO - 2016-11-19 22:22:39 --> Language Class Initialized
+INFO - 2016-11-19 22:22:39 --> Loader Class Initialized
+INFO - 2016-11-19 22:22:39 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:22:39 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:22:39 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:22:39 --> Controller Class Initialized
+INFO - 2016-11-19 22:22:39 --> Model Class Initialized
+INFO - 2016-11-19 22:22:39 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:22:39 --> Final output sent to browser
+DEBUG - 2016-11-19 22:22:39 --> Total execution time: 0.6503
+INFO - 2016-11-19 22:22:39 --> Config Class Initialized
+INFO - 2016-11-19 22:22:39 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:22:39 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:22:39 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:22:39 --> URI Class Initialized
+DEBUG - 2016-11-19 22:22:39 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:22:39 --> Router Class Initialized
+INFO - 2016-11-19 22:22:39 --> Output Class Initialized
+INFO - 2016-11-19 22:22:39 --> Security Class Initialized
+DEBUG - 2016-11-19 22:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:22:39 --> Input Class Initialized
+INFO - 2016-11-19 22:22:39 --> Language Class Initialized
+INFO - 2016-11-19 22:22:39 --> Loader Class Initialized
+INFO - 2016-11-19 22:22:39 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:22:39 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:22:39 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:22:40 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:22:40 --> Controller Class Initialized
+INFO - 2016-11-19 22:22:40 --> Model Class Initialized
+INFO - 2016-11-19 22:22:40 --> Model Class Initialized
+INFO - 2016-11-19 22:22:40 --> Model Class Initialized
+INFO - 2016-11-19 22:22:40 --> Model Class Initialized
+INFO - 2016-11-19 22:22:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:22:40 --> Pagination Class Initialized
+INFO - 2016-11-19 22:22:40 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:22:40 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:22:40 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:22:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:22:40 --> Final output sent to browser
+DEBUG - 2016-11-19 22:22:40 --> Total execution time: 0.9932
+INFO - 2016-11-19 22:25:16 --> Config Class Initialized
+INFO - 2016-11-19 22:25:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:25:16 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:25:16 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:25:17 --> URI Class Initialized
+DEBUG - 2016-11-19 22:25:17 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:25:17 --> Router Class Initialized
+INFO - 2016-11-19 22:25:17 --> Output Class Initialized
+INFO - 2016-11-19 22:25:17 --> Security Class Initialized
+DEBUG - 2016-11-19 22:25:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:25:17 --> Input Class Initialized
+INFO - 2016-11-19 22:25:17 --> Language Class Initialized
+INFO - 2016-11-19 22:25:17 --> Loader Class Initialized
+INFO - 2016-11-19 22:25:17 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:25:17 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:25:17 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:25:17 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:25:17 --> Controller Class Initialized
+INFO - 2016-11-19 22:25:17 --> Model Class Initialized
+INFO - 2016-11-19 22:25:17 --> Model Class Initialized
+INFO - 2016-11-19 22:25:17 --> Model Class Initialized
+INFO - 2016-11-19 22:25:17 --> Model Class Initialized
+INFO - 2016-11-19 22:25:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:25:17 --> Pagination Class Initialized
+INFO - 2016-11-19 22:25:17 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:25:17 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:25:17 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:25:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:25:17 --> Final output sent to browser
+DEBUG - 2016-11-19 22:25:17 --> Total execution time: 1.0169
+INFO - 2016-11-19 22:26:21 --> Config Class Initialized
+INFO - 2016-11-19 22:26:21 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:26:21 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:26:21 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:26:21 --> URI Class Initialized
+DEBUG - 2016-11-19 22:26:21 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:26:21 --> Router Class Initialized
+INFO - 2016-11-19 22:26:21 --> Output Class Initialized
+INFO - 2016-11-19 22:26:21 --> Security Class Initialized
+DEBUG - 2016-11-19 22:26:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:26:21 --> Input Class Initialized
+INFO - 2016-11-19 22:26:21 --> Language Class Initialized
+INFO - 2016-11-19 22:26:21 --> Loader Class Initialized
+INFO - 2016-11-19 22:26:21 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:26:21 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:26:21 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:26:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:26:21 --> Controller Class Initialized
+INFO - 2016-11-19 22:26:21 --> Model Class Initialized
+INFO - 2016-11-19 22:26:21 --> Model Class Initialized
+INFO - 2016-11-19 22:26:21 --> Model Class Initialized
+INFO - 2016-11-19 22:26:21 --> Model Class Initialized
+INFO - 2016-11-19 22:26:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:26:21 --> Pagination Class Initialized
+INFO - 2016-11-19 22:26:22 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:26:22 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:26:22 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:26:22 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:26:22 --> Final output sent to browser
+DEBUG - 2016-11-19 22:26:22 --> Total execution time: 1.1097
+INFO - 2016-11-19 22:41:41 --> Config Class Initialized
+INFO - 2016-11-19 22:41:41 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:41:41 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:41:41 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:41:41 --> URI Class Initialized
+INFO - 2016-11-19 22:41:41 --> Router Class Initialized
+INFO - 2016-11-19 22:41:41 --> Output Class Initialized
+INFO - 2016-11-19 22:41:41 --> Security Class Initialized
+DEBUG - 2016-11-19 22:41:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:41:41 --> Input Class Initialized
+INFO - 2016-11-19 22:41:41 --> Language Class Initialized
+INFO - 2016-11-19 22:41:41 --> Loader Class Initialized
+INFO - 2016-11-19 22:41:41 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:41:41 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:41:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:41:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:41:42 --> Controller Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:41:42 --> Pagination Class Initialized
+INFO - 2016-11-19 22:41:42 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:41:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 22:41:42 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+ERROR - 2016-11-19 22:41:42 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+INFO - 2016-11-19 22:41:42 --> Config Class Initialized
+INFO - 2016-11-19 22:41:42 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:41:42 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:41:42 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:41:42 --> URI Class Initialized
+DEBUG - 2016-11-19 22:41:42 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:41:42 --> Router Class Initialized
+INFO - 2016-11-19 22:41:42 --> Output Class Initialized
+INFO - 2016-11-19 22:41:42 --> Security Class Initialized
+DEBUG - 2016-11-19 22:41:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:41:42 --> Input Class Initialized
+INFO - 2016-11-19 22:41:42 --> Language Class Initialized
+INFO - 2016-11-19 22:41:42 --> Loader Class Initialized
+INFO - 2016-11-19 22:41:42 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:41:42 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:41:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:41:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:41:42 --> Controller Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Model Class Initialized
+INFO - 2016-11-19 22:41:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:41:42 --> Pagination Class Initialized
+INFO - 2016-11-19 22:41:43 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:41:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:41:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 22:41:43 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:41:43 --> Final output sent to browser
+DEBUG - 2016-11-19 22:41:43 --> Total execution time: 0.7277
+INFO - 2016-11-19 22:41:51 --> Config Class Initialized
+INFO - 2016-11-19 22:41:51 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:41:51 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:41:51 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:41:51 --> URI Class Initialized
+INFO - 2016-11-19 22:41:51 --> Router Class Initialized
+INFO - 2016-11-19 22:41:51 --> Output Class Initialized
+INFO - 2016-11-19 22:41:51 --> Security Class Initialized
+DEBUG - 2016-11-19 22:41:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:41:51 --> Input Class Initialized
+INFO - 2016-11-19 22:41:51 --> Language Class Initialized
+INFO - 2016-11-19 22:41:51 --> Loader Class Initialized
+INFO - 2016-11-19 22:41:51 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:41:51 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:41:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:41:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:41:52 --> Controller Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:41:52 --> Pagination Class Initialized
+INFO - 2016-11-19 22:41:52 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:41:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Final output sent to browser
+DEBUG - 2016-11-19 22:41:52 --> Total execution time: 0.7293
+INFO - 2016-11-19 22:41:52 --> Config Class Initialized
+INFO - 2016-11-19 22:41:52 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:41:52 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:41:52 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:41:52 --> URI Class Initialized
+DEBUG - 2016-11-19 22:41:52 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:41:52 --> Router Class Initialized
+INFO - 2016-11-19 22:41:52 --> Output Class Initialized
+INFO - 2016-11-19 22:41:52 --> Security Class Initialized
+DEBUG - 2016-11-19 22:41:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:41:52 --> Input Class Initialized
+INFO - 2016-11-19 22:41:52 --> Language Class Initialized
+INFO - 2016-11-19 22:41:52 --> Loader Class Initialized
+INFO - 2016-11-19 22:41:52 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:41:52 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:41:52 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:41:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:41:52 --> Controller Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Model Class Initialized
+INFO - 2016-11-19 22:41:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:41:52 --> Pagination Class Initialized
+INFO - 2016-11-19 22:41:53 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:41:53 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:41:53 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:41:53 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:41:53 --> Final output sent to browser
+DEBUG - 2016-11-19 22:41:53 --> Total execution time: 0.9195
+INFO - 2016-11-19 22:42:19 --> Config Class Initialized
+INFO - 2016-11-19 22:42:19 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:42:19 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:42:19 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:42:19 --> URI Class Initialized
+INFO - 2016-11-19 22:42:19 --> Router Class Initialized
+INFO - 2016-11-19 22:42:19 --> Output Class Initialized
+INFO - 2016-11-19 22:42:19 --> Security Class Initialized
+DEBUG - 2016-11-19 22:42:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:42:19 --> Input Class Initialized
+INFO - 2016-11-19 22:42:19 --> Language Class Initialized
+INFO - 2016-11-19 22:42:19 --> Loader Class Initialized
+INFO - 2016-11-19 22:42:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:42:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:42:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:42:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:42:19 --> Controller Class Initialized
+INFO - 2016-11-19 22:42:19 --> Model Class Initialized
+INFO - 2016-11-19 22:42:19 --> Model Class Initialized
+INFO - 2016-11-19 22:42:19 --> Model Class Initialized
+INFO - 2016-11-19 22:42:19 --> Model Class Initialized
+INFO - 2016-11-19 22:42:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:42:19 --> Pagination Class Initialized
+INFO - 2016-11-19 22:42:19 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:42:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 22:42:19 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+ERROR - 2016-11-19 22:42:19 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+INFO - 2016-11-19 22:42:19 --> Config Class Initialized
+INFO - 2016-11-19 22:42:19 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:42:20 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:42:20 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:42:20 --> URI Class Initialized
+DEBUG - 2016-11-19 22:42:20 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:42:20 --> Router Class Initialized
+INFO - 2016-11-19 22:42:20 --> Output Class Initialized
+INFO - 2016-11-19 22:42:20 --> Security Class Initialized
+DEBUG - 2016-11-19 22:42:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:42:20 --> Input Class Initialized
+INFO - 2016-11-19 22:42:20 --> Language Class Initialized
+INFO - 2016-11-19 22:42:20 --> Loader Class Initialized
+INFO - 2016-11-19 22:42:20 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:42:20 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:42:20 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:42:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:42:20 --> Controller Class Initialized
+INFO - 2016-11-19 22:42:20 --> Model Class Initialized
+INFO - 2016-11-19 22:42:20 --> Model Class Initialized
+INFO - 2016-11-19 22:42:20 --> Model Class Initialized
+INFO - 2016-11-19 22:42:20 --> Model Class Initialized
+INFO - 2016-11-19 22:42:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:42:20 --> Pagination Class Initialized
+INFO - 2016-11-19 22:42:20 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:42:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:42:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 22:42:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:42:20 --> Final output sent to browser
+DEBUG - 2016-11-19 22:42:20 --> Total execution time: 0.8210
+INFO - 2016-11-19 22:42:32 --> Config Class Initialized
+INFO - 2016-11-19 22:42:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:42:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:42:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:42:32 --> URI Class Initialized
+INFO - 2016-11-19 22:42:32 --> Router Class Initialized
+INFO - 2016-11-19 22:42:32 --> Output Class Initialized
+INFO - 2016-11-19 22:42:32 --> Security Class Initialized
+DEBUG - 2016-11-19 22:42:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:42:32 --> Input Class Initialized
+INFO - 2016-11-19 22:42:32 --> Language Class Initialized
+INFO - 2016-11-19 22:42:32 --> Loader Class Initialized
+INFO - 2016-11-19 22:42:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:42:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:42:32 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:42:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:42:32 --> Controller Class Initialized
+INFO - 2016-11-19 22:42:32 --> Model Class Initialized
+INFO - 2016-11-19 22:42:32 --> Model Class Initialized
+INFO - 2016-11-19 22:42:32 --> Model Class Initialized
+INFO - 2016-11-19 22:42:32 --> Model Class Initialized
+INFO - 2016-11-19 22:42:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:42:32 --> Pagination Class Initialized
+INFO - 2016-11-19 22:42:32 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:42:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:42:32 --> Model Class Initialized
+INFO - 2016-11-19 22:42:32 --> Final output sent to browser
+DEBUG - 2016-11-19 22:42:32 --> Total execution time: 0.7167
+INFO - 2016-11-19 22:42:39 --> Config Class Initialized
+INFO - 2016-11-19 22:42:39 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:42:39 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:42:39 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:42:39 --> URI Class Initialized
+INFO - 2016-11-19 22:42:39 --> Router Class Initialized
+INFO - 2016-11-19 22:42:39 --> Output Class Initialized
+INFO - 2016-11-19 22:42:39 --> Security Class Initialized
+DEBUG - 2016-11-19 22:42:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:42:39 --> Input Class Initialized
+INFO - 2016-11-19 22:42:39 --> Language Class Initialized
+INFO - 2016-11-19 22:42:39 --> Loader Class Initialized
+INFO - 2016-11-19 22:42:39 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:42:39 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:42:39 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:42:39 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:42:39 --> Controller Class Initialized
+INFO - 2016-11-19 22:42:39 --> Model Class Initialized
+INFO - 2016-11-19 22:42:39 --> Model Class Initialized
+INFO - 2016-11-19 22:42:39 --> Model Class Initialized
+INFO - 2016-11-19 22:42:39 --> Model Class Initialized
+INFO - 2016-11-19 22:42:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:42:39 --> Pagination Class Initialized
+INFO - 2016-11-19 22:42:39 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:42:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:42:39 --> Model Class Initialized
+INFO - 2016-11-19 22:42:39 --> Final output sent to browser
+DEBUG - 2016-11-19 22:42:39 --> Total execution time: 0.6329
+INFO - 2016-11-19 22:42:40 --> Config Class Initialized
+INFO - 2016-11-19 22:42:40 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:42:40 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:42:40 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:42:40 --> URI Class Initialized
+DEBUG - 2016-11-19 22:42:40 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:42:40 --> Router Class Initialized
+INFO - 2016-11-19 22:42:40 --> Output Class Initialized
+INFO - 2016-11-19 22:42:40 --> Security Class Initialized
+DEBUG - 2016-11-19 22:42:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:42:40 --> Input Class Initialized
+INFO - 2016-11-19 22:42:40 --> Language Class Initialized
+INFO - 2016-11-19 22:42:40 --> Loader Class Initialized
+INFO - 2016-11-19 22:42:40 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:42:40 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:42:40 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:42:40 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:42:40 --> Controller Class Initialized
+INFO - 2016-11-19 22:42:40 --> Model Class Initialized
+INFO - 2016-11-19 22:42:40 --> Model Class Initialized
+INFO - 2016-11-19 22:42:40 --> Model Class Initialized
+INFO - 2016-11-19 22:42:40 --> Model Class Initialized
+INFO - 2016-11-19 22:42:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:42:40 --> Pagination Class Initialized
+INFO - 2016-11-19 22:42:40 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:42:40 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:42:40 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:42:40 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:42:41 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:42:41 --> Final output sent to browser
+DEBUG - 2016-11-19 22:42:41 --> Total execution time: 1.0363
+INFO - 2016-11-19 22:43:05 --> Config Class Initialized
+INFO - 2016-11-19 22:43:05 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:05 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:05 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:05 --> URI Class Initialized
+INFO - 2016-11-19 22:43:05 --> Router Class Initialized
+INFO - 2016-11-19 22:43:06 --> Output Class Initialized
+INFO - 2016-11-19 22:43:06 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:06 --> Input Class Initialized
+INFO - 2016-11-19 22:43:06 --> Language Class Initialized
+INFO - 2016-11-19 22:43:06 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:06 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:06 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:06 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:06 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:06 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:06 --> Model Class Initialized
+INFO - 2016-11-19 22:43:06 --> Model Class Initialized
+INFO - 2016-11-19 22:43:06 --> Model Class Initialized
+INFO - 2016-11-19 22:43:06 --> Model Class Initialized
+INFO - 2016-11-19 22:43:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:06 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:06 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:43:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 22:43:06 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+ERROR - 2016-11-19 22:43:06 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+INFO - 2016-11-19 22:43:06 --> Config Class Initialized
+INFO - 2016-11-19 22:43:06 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:06 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:06 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:06 --> URI Class Initialized
+DEBUG - 2016-11-19 22:43:06 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:43:06 --> Router Class Initialized
+INFO - 2016-11-19 22:43:06 --> Output Class Initialized
+INFO - 2016-11-19 22:43:06 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:06 --> Input Class Initialized
+INFO - 2016-11-19 22:43:06 --> Language Class Initialized
+INFO - 2016-11-19 22:43:06 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:06 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:06 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:07 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:07 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:07 --> Model Class Initialized
+INFO - 2016-11-19 22:43:07 --> Model Class Initialized
+INFO - 2016-11-19 22:43:07 --> Model Class Initialized
+INFO - 2016-11-19 22:43:07 --> Model Class Initialized
+INFO - 2016-11-19 22:43:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:07 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:07 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:43:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:43:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 22:43:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:43:07 --> Final output sent to browser
+DEBUG - 2016-11-19 22:43:07 --> Total execution time: 0.7928
+INFO - 2016-11-19 22:43:16 --> Config Class Initialized
+INFO - 2016-11-19 22:43:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:16 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:16 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:16 --> URI Class Initialized
+INFO - 2016-11-19 22:43:16 --> Router Class Initialized
+INFO - 2016-11-19 22:43:16 --> Output Class Initialized
+INFO - 2016-11-19 22:43:16 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:17 --> Input Class Initialized
+INFO - 2016-11-19 22:43:17 --> Language Class Initialized
+INFO - 2016-11-19 22:43:17 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:17 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:17 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:17 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:17 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:17 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:17 --> Model Class Initialized
+INFO - 2016-11-19 22:43:17 --> Model Class Initialized
+INFO - 2016-11-19 22:43:17 --> Model Class Initialized
+INFO - 2016-11-19 22:43:17 --> Model Class Initialized
+INFO - 2016-11-19 22:43:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:17 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:17 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:43:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:43:17 --> Model Class Initialized
+INFO - 2016-11-19 22:43:17 --> Final output sent to browser
+DEBUG - 2016-11-19 22:43:17 --> Total execution time: 0.7266
+INFO - 2016-11-19 22:43:17 --> Config Class Initialized
+INFO - 2016-11-19 22:43:17 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:17 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:17 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:17 --> URI Class Initialized
+DEBUG - 2016-11-19 22:43:17 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:43:17 --> Router Class Initialized
+INFO - 2016-11-19 22:43:17 --> Output Class Initialized
+INFO - 2016-11-19 22:43:17 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:17 --> Input Class Initialized
+INFO - 2016-11-19 22:43:17 --> Language Class Initialized
+INFO - 2016-11-19 22:43:17 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:17 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:17 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:17 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:18 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:18 --> Model Class Initialized
+INFO - 2016-11-19 22:43:18 --> Model Class Initialized
+INFO - 2016-11-19 22:43:18 --> Model Class Initialized
+INFO - 2016-11-19 22:43:18 --> Model Class Initialized
+INFO - 2016-11-19 22:43:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:18 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:18 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:43:18 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:43:18 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:43:18 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:43:18 --> Final output sent to browser
+DEBUG - 2016-11-19 22:43:18 --> Total execution time: 1.0504
+INFO - 2016-11-19 22:43:37 --> Config Class Initialized
+INFO - 2016-11-19 22:43:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:37 --> URI Class Initialized
+INFO - 2016-11-19 22:43:37 --> Router Class Initialized
+INFO - 2016-11-19 22:43:37 --> Output Class Initialized
+INFO - 2016-11-19 22:43:37 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:37 --> Input Class Initialized
+INFO - 2016-11-19 22:43:37 --> Language Class Initialized
+INFO - 2016-11-19 22:43:37 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:37 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:37 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:37 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:37 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:37 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:37 --> Model Class Initialized
+INFO - 2016-11-19 22:43:37 --> Model Class Initialized
+INFO - 2016-11-19 22:43:37 --> Model Class Initialized
+INFO - 2016-11-19 22:43:37 --> Model Class Initialized
+INFO - 2016-11-19 22:43:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:37 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:37 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:43:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 22:43:37 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+ERROR - 2016-11-19 22:43:37 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 159
+INFO - 2016-11-19 22:43:37 --> Config Class Initialized
+INFO - 2016-11-19 22:43:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:37 --> URI Class Initialized
+DEBUG - 2016-11-19 22:43:37 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:43:38 --> Router Class Initialized
+INFO - 2016-11-19 22:43:38 --> Output Class Initialized
+INFO - 2016-11-19 22:43:38 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:38 --> Input Class Initialized
+INFO - 2016-11-19 22:43:38 --> Language Class Initialized
+INFO - 2016-11-19 22:43:38 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:38 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:38 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:38 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:38 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:38 --> Model Class Initialized
+INFO - 2016-11-19 22:43:38 --> Model Class Initialized
+INFO - 2016-11-19 22:43:38 --> Model Class Initialized
+INFO - 2016-11-19 22:43:38 --> Model Class Initialized
+INFO - 2016-11-19 22:43:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:38 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 22:43:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:43:38 --> Final output sent to browser
+DEBUG - 2016-11-19 22:43:38 --> Total execution time: 0.7464
+INFO - 2016-11-19 22:43:46 --> Config Class Initialized
+INFO - 2016-11-19 22:43:46 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:46 --> URI Class Initialized
+INFO - 2016-11-19 22:43:46 --> Router Class Initialized
+INFO - 2016-11-19 22:43:46 --> Output Class Initialized
+INFO - 2016-11-19 22:43:46 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:46 --> Input Class Initialized
+INFO - 2016-11-19 22:43:46 --> Language Class Initialized
+INFO - 2016-11-19 22:43:46 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:46 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:46 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:46 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:46 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:46 --> Model Class Initialized
+INFO - 2016-11-19 22:43:46 --> Model Class Initialized
+INFO - 2016-11-19 22:43:46 --> Model Class Initialized
+INFO - 2016-11-19 22:43:46 --> Model Class Initialized
+INFO - 2016-11-19 22:43:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:46 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:46 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 22:43:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:43:46 --> Model Class Initialized
+INFO - 2016-11-19 22:43:46 --> Final output sent to browser
+DEBUG - 2016-11-19 22:43:46 --> Total execution time: 0.7388
+INFO - 2016-11-19 22:43:46 --> Config Class Initialized
+INFO - 2016-11-19 22:43:46 --> Hooks Class Initialized
+DEBUG - 2016-11-19 22:43:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 22:43:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 22:43:47 --> URI Class Initialized
+DEBUG - 2016-11-19 22:43:47 --> No URI present. Default controller set.
+INFO - 2016-11-19 22:43:47 --> Router Class Initialized
+INFO - 2016-11-19 22:43:47 --> Output Class Initialized
+INFO - 2016-11-19 22:43:47 --> Security Class Initialized
+DEBUG - 2016-11-19 22:43:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 22:43:47 --> Input Class Initialized
+INFO - 2016-11-19 22:43:47 --> Language Class Initialized
+INFO - 2016-11-19 22:43:47 --> Loader Class Initialized
+INFO - 2016-11-19 22:43:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 22:43:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 22:43:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 22:43:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 22:43:47 --> Controller Class Initialized
+INFO - 2016-11-19 22:43:47 --> Model Class Initialized
+INFO - 2016-11-19 22:43:47 --> Model Class Initialized
+INFO - 2016-11-19 22:43:47 --> Model Class Initialized
+INFO - 2016-11-19 22:43:47 --> Model Class Initialized
+INFO - 2016-11-19 22:43:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 22:43:47 --> Pagination Class Initialized
+INFO - 2016-11-19 22:43:47 --> Helper loaded: app_helper
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 22:43:47 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 22:43:47 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 22:43:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 22:43:47 --> Final output sent to browser
+DEBUG - 2016-11-19 22:43:48 --> Total execution time: 1.0430
+INFO - 2016-11-19 23:02:18 --> Config Class Initialized
+INFO - 2016-11-19 23:02:19 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:02:19 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:02:19 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:02:19 --> URI Class Initialized
+DEBUG - 2016-11-19 23:02:19 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:02:19 --> Router Class Initialized
+INFO - 2016-11-19 23:02:19 --> Output Class Initialized
+INFO - 2016-11-19 23:02:19 --> Security Class Initialized
+DEBUG - 2016-11-19 23:02:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:02:19 --> Input Class Initialized
+INFO - 2016-11-19 23:02:19 --> Language Class Initialized
+INFO - 2016-11-19 23:02:19 --> Loader Class Initialized
+INFO - 2016-11-19 23:02:19 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:02:19 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:02:19 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:02:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:02:19 --> Controller Class Initialized
+INFO - 2016-11-19 23:02:19 --> Model Class Initialized
+INFO - 2016-11-19 23:02:19 --> Model Class Initialized
+INFO - 2016-11-19 23:02:19 --> Model Class Initialized
+INFO - 2016-11-19 23:02:19 --> Model Class Initialized
+INFO - 2016-11-19 23:02:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:02:19 --> Pagination Class Initialized
+INFO - 2016-11-19 23:02:19 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:02:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:02:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:02:20 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:02:20 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:02:20 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:02:20 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:02:20 --> Final output sent to browser
+DEBUG - 2016-11-19 23:02:20 --> Total execution time: 1.4318
+INFO - 2016-11-19 23:03:47 --> Config Class Initialized
+INFO - 2016-11-19 23:03:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:03:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:03:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:03:47 --> URI Class Initialized
+DEBUG - 2016-11-19 23:03:47 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:03:47 --> Router Class Initialized
+INFO - 2016-11-19 23:03:47 --> Output Class Initialized
+INFO - 2016-11-19 23:03:47 --> Security Class Initialized
+DEBUG - 2016-11-19 23:03:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:03:47 --> Input Class Initialized
+INFO - 2016-11-19 23:03:47 --> Language Class Initialized
+INFO - 2016-11-19 23:03:47 --> Loader Class Initialized
+INFO - 2016-11-19 23:03:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:03:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:03:48 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:03:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:03:48 --> Controller Class Initialized
+INFO - 2016-11-19 23:03:48 --> Model Class Initialized
+INFO - 2016-11-19 23:03:48 --> Model Class Initialized
+INFO - 2016-11-19 23:03:48 --> Model Class Initialized
+INFO - 2016-11-19 23:03:48 --> Model Class Initialized
+INFO - 2016-11-19 23:03:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:03:48 --> Pagination Class Initialized
+INFO - 2016-11-19 23:03:48 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:03:48 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:03:48 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:03:48 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:03:48 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:03:48 --> Final output sent to browser
+DEBUG - 2016-11-19 23:03:48 --> Total execution time: 1.2044
+INFO - 2016-11-19 23:04:49 --> Config Class Initialized
+INFO - 2016-11-19 23:04:49 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:04:49 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:04:49 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:04:49 --> URI Class Initialized
+DEBUG - 2016-11-19 23:04:49 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:04:49 --> Router Class Initialized
+INFO - 2016-11-19 23:04:49 --> Output Class Initialized
+INFO - 2016-11-19 23:04:49 --> Security Class Initialized
+DEBUG - 2016-11-19 23:04:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:04:49 --> Input Class Initialized
+INFO - 2016-11-19 23:04:49 --> Language Class Initialized
+ERROR - 2016-11-19 23:04:50 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\LMS\app\controllers\Auth.php 90
+INFO - 2016-11-19 23:05:02 --> Config Class Initialized
+INFO - 2016-11-19 23:05:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:05:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:05:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:05:02 --> URI Class Initialized
+DEBUG - 2016-11-19 23:05:02 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:05:02 --> Router Class Initialized
+INFO - 2016-11-19 23:05:02 --> Output Class Initialized
+INFO - 2016-11-19 23:05:02 --> Security Class Initialized
+DEBUG - 2016-11-19 23:05:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:05:02 --> Input Class Initialized
+INFO - 2016-11-19 23:05:02 --> Language Class Initialized
+INFO - 2016-11-19 23:05:02 --> Loader Class Initialized
+INFO - 2016-11-19 23:05:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:05:03 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:05:03 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:05:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:05:03 --> Controller Class Initialized
+INFO - 2016-11-19 23:05:03 --> Model Class Initialized
+INFO - 2016-11-19 23:05:03 --> Model Class Initialized
+INFO - 2016-11-19 23:05:03 --> Model Class Initialized
+INFO - 2016-11-19 23:05:03 --> Model Class Initialized
+INFO - 2016-11-19 23:05:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:05:03 --> Pagination Class Initialized
+INFO - 2016-11-19 23:05:03 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:05:03 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:05:03 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:05:03 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:05:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:05:03 --> Final output sent to browser
+DEBUG - 2016-11-19 23:05:03 --> Total execution time: 1.1626
+INFO - 2016-11-19 23:10:12 --> Config Class Initialized
+INFO - 2016-11-19 23:10:12 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:10:12 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:10:12 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:10:12 --> URI Class Initialized
+DEBUG - 2016-11-19 23:10:12 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:10:12 --> Router Class Initialized
+INFO - 2016-11-19 23:10:12 --> Output Class Initialized
+INFO - 2016-11-19 23:10:12 --> Security Class Initialized
+DEBUG - 2016-11-19 23:10:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:10:12 --> Input Class Initialized
+INFO - 2016-11-19 23:10:12 --> Language Class Initialized
+INFO - 2016-11-19 23:10:13 --> Loader Class Initialized
+INFO - 2016-11-19 23:10:13 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:10:13 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:10:13 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:10:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:10:13 --> Controller Class Initialized
+INFO - 2016-11-19 23:10:13 --> Model Class Initialized
+INFO - 2016-11-19 23:10:13 --> Model Class Initialized
+INFO - 2016-11-19 23:10:13 --> Model Class Initialized
+INFO - 2016-11-19 23:10:13 --> Model Class Initialized
+INFO - 2016-11-19 23:10:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:10:13 --> Pagination Class Initialized
+INFO - 2016-11-19 23:10:13 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:10:13 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:10:13 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:10:13 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:10:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:10:13 --> Final output sent to browser
+DEBUG - 2016-11-19 23:10:13 --> Total execution time: 1.1644
+INFO - 2016-11-19 23:10:45 --> Config Class Initialized
+INFO - 2016-11-19 23:10:45 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:10:45 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:10:45 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:10:45 --> URI Class Initialized
+INFO - 2016-11-19 23:10:45 --> Router Class Initialized
+INFO - 2016-11-19 23:10:45 --> Output Class Initialized
+INFO - 2016-11-19 23:10:45 --> Security Class Initialized
+DEBUG - 2016-11-19 23:10:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:10:45 --> Input Class Initialized
+INFO - 2016-11-19 23:10:45 --> Language Class Initialized
+INFO - 2016-11-19 23:10:45 --> Loader Class Initialized
+INFO - 2016-11-19 23:10:45 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:10:45 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:10:45 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:10:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:10:45 --> Controller Class Initialized
+INFO - 2016-11-19 23:10:45 --> Model Class Initialized
+INFO - 2016-11-19 23:10:45 --> Form Validation Class Initialized
+ERROR - 2016-11-19 23:10:45 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:10:46 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 43
+INFO - 2016-11-19 23:10:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:10:46 --> Final output sent to browser
+DEBUG - 2016-11-19 23:10:46 --> Total execution time: 1.2645
+INFO - 2016-11-19 23:10:46 --> Config Class Initialized
+INFO - 2016-11-19 23:10:46 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:10:46 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:10:46 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:10:46 --> URI Class Initialized
+DEBUG - 2016-11-19 23:10:46 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:10:46 --> Router Class Initialized
+INFO - 2016-11-19 23:10:46 --> Output Class Initialized
+INFO - 2016-11-19 23:10:46 --> Security Class Initialized
+DEBUG - 2016-11-19 23:10:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:10:46 --> Input Class Initialized
+INFO - 2016-11-19 23:10:46 --> Language Class Initialized
+INFO - 2016-11-19 23:10:46 --> Loader Class Initialized
+INFO - 2016-11-19 23:10:46 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:10:46 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:10:46 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:10:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:10:46 --> Controller Class Initialized
+INFO - 2016-11-19 23:10:46 --> Model Class Initialized
+INFO - 2016-11-19 23:10:46 --> Model Class Initialized
+INFO - 2016-11-19 23:10:47 --> Model Class Initialized
+INFO - 2016-11-19 23:10:47 --> Model Class Initialized
+INFO - 2016-11-19 23:10:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:10:47 --> Pagination Class Initialized
+INFO - 2016-11-19 23:10:47 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:10:47 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:10:47 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:10:47 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:10:47 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:10:47 --> Final output sent to browser
+DEBUG - 2016-11-19 23:10:47 --> Total execution time: 1.0805
+INFO - 2016-11-19 23:11:02 --> Config Class Initialized
+INFO - 2016-11-19 23:11:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:11:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:11:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:11:02 --> URI Class Initialized
+INFO - 2016-11-19 23:11:02 --> Router Class Initialized
+INFO - 2016-11-19 23:11:02 --> Output Class Initialized
+INFO - 2016-11-19 23:11:02 --> Security Class Initialized
+DEBUG - 2016-11-19 23:11:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:11:02 --> Input Class Initialized
+INFO - 2016-11-19 23:11:02 --> Language Class Initialized
+INFO - 2016-11-19 23:11:02 --> Loader Class Initialized
+INFO - 2016-11-19 23:11:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:11:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:11:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:11:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:11:02 --> Controller Class Initialized
+INFO - 2016-11-19 23:11:02 --> Model Class Initialized
+INFO - 2016-11-19 23:11:02 --> Form Validation Class Initialized
+ERROR - 2016-11-19 23:11:02 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:02 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:03 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 43
+INFO - 2016-11-19 23:11:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:11:03 --> Final output sent to browser
+DEBUG - 2016-11-19 23:11:03 --> Total execution time: 1.2782
+INFO - 2016-11-19 23:11:03 --> Config Class Initialized
+INFO - 2016-11-19 23:11:03 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:11:03 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:11:03 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:11:03 --> URI Class Initialized
+DEBUG - 2016-11-19 23:11:03 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:11:03 --> Router Class Initialized
+INFO - 2016-11-19 23:11:03 --> Output Class Initialized
+INFO - 2016-11-19 23:11:03 --> Security Class Initialized
+DEBUG - 2016-11-19 23:11:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:11:03 --> Input Class Initialized
+INFO - 2016-11-19 23:11:03 --> Language Class Initialized
+INFO - 2016-11-19 23:11:03 --> Loader Class Initialized
+INFO - 2016-11-19 23:11:04 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:11:04 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:11:04 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:11:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:11:04 --> Controller Class Initialized
+INFO - 2016-11-19 23:11:04 --> Model Class Initialized
+INFO - 2016-11-19 23:11:04 --> Model Class Initialized
+INFO - 2016-11-19 23:11:04 --> Model Class Initialized
+INFO - 2016-11-19 23:11:04 --> Model Class Initialized
+INFO - 2016-11-19 23:11:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:11:04 --> Pagination Class Initialized
+INFO - 2016-11-19 23:11:04 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:11:04 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:11:04 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:11:04 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:11:04 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:11:04 --> Final output sent to browser
+DEBUG - 2016-11-19 23:11:04 --> Total execution time: 1.0966
+INFO - 2016-11-19 23:11:26 --> Config Class Initialized
+INFO - 2016-11-19 23:11:26 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:11:26 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:11:26 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:11:26 --> URI Class Initialized
+INFO - 2016-11-19 23:11:26 --> Router Class Initialized
+INFO - 2016-11-19 23:11:26 --> Output Class Initialized
+INFO - 2016-11-19 23:11:26 --> Security Class Initialized
+DEBUG - 2016-11-19 23:11:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:11:26 --> Input Class Initialized
+INFO - 2016-11-19 23:11:26 --> Language Class Initialized
+INFO - 2016-11-19 23:11:26 --> Loader Class Initialized
+INFO - 2016-11-19 23:11:26 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:11:26 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:11:26 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:11:26 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:11:27 --> Controller Class Initialized
+INFO - 2016-11-19 23:11:27 --> Model Class Initialized
+INFO - 2016-11-19 23:11:27 --> Form Validation Class Initialized
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: leavestatus C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 29
+ERROR - 2016-11-19 23:11:27 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php 43
+INFO - 2016-11-19 23:11:27 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:11:27 --> Final output sent to browser
+DEBUG - 2016-11-19 23:11:27 --> Total execution time: 1.2547
+INFO - 2016-11-19 23:11:27 --> Config Class Initialized
+INFO - 2016-11-19 23:11:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:11:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:11:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:11:28 --> URI Class Initialized
+DEBUG - 2016-11-19 23:11:28 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:11:28 --> Router Class Initialized
+INFO - 2016-11-19 23:11:28 --> Output Class Initialized
+INFO - 2016-11-19 23:11:28 --> Security Class Initialized
+DEBUG - 2016-11-19 23:11:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:11:28 --> Input Class Initialized
+INFO - 2016-11-19 23:11:28 --> Language Class Initialized
+INFO - 2016-11-19 23:11:28 --> Loader Class Initialized
+INFO - 2016-11-19 23:11:28 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:11:28 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:11:28 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:11:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:11:28 --> Controller Class Initialized
+INFO - 2016-11-19 23:11:28 --> Model Class Initialized
+INFO - 2016-11-19 23:11:28 --> Model Class Initialized
+INFO - 2016-11-19 23:11:28 --> Model Class Initialized
+INFO - 2016-11-19 23:11:28 --> Model Class Initialized
+INFO - 2016-11-19 23:11:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:11:28 --> Pagination Class Initialized
+INFO - 2016-11-19 23:11:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:11:28 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:11:28 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:11:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:11:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:11:28 --> Final output sent to browser
+DEBUG - 2016-11-19 23:11:29 --> Total execution time: 1.0924
+INFO - 2016-11-19 23:14:35 --> Config Class Initialized
+INFO - 2016-11-19 23:14:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:14:36 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:14:36 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:14:36 --> URI Class Initialized
+INFO - 2016-11-19 23:14:36 --> Router Class Initialized
+INFO - 2016-11-19 23:14:36 --> Output Class Initialized
+INFO - 2016-11-19 23:14:36 --> Security Class Initialized
+DEBUG - 2016-11-19 23:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:14:36 --> Input Class Initialized
+INFO - 2016-11-19 23:14:36 --> Language Class Initialized
+INFO - 2016-11-19 23:14:36 --> Loader Class Initialized
+INFO - 2016-11-19 23:14:36 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:14:36 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:14:36 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:14:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:14:36 --> Controller Class Initialized
+INFO - 2016-11-19 23:14:36 --> Model Class Initialized
+INFO - 2016-11-19 23:14:36 --> Form Validation Class Initialized
+INFO - 2016-11-19 23:14:36 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 23:14:36 --> Final output sent to browser
+DEBUG - 2016-11-19 23:14:36 --> Total execution time: 0.6253
+INFO - 2016-11-19 23:14:47 --> Config Class Initialized
+INFO - 2016-11-19 23:14:47 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:14:47 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:14:47 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:14:47 --> URI Class Initialized
+INFO - 2016-11-19 23:14:47 --> Router Class Initialized
+INFO - 2016-11-19 23:14:47 --> Output Class Initialized
+INFO - 2016-11-19 23:14:47 --> Security Class Initialized
+DEBUG - 2016-11-19 23:14:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:14:47 --> Input Class Initialized
+INFO - 2016-11-19 23:14:47 --> Language Class Initialized
+INFO - 2016-11-19 23:14:47 --> Loader Class Initialized
+INFO - 2016-11-19 23:14:47 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:14:47 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:14:47 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:14:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:14:47 --> Controller Class Initialized
+INFO - 2016-11-19 23:14:47 --> Model Class Initialized
+INFO - 2016-11-19 23:14:47 --> Form Validation Class Initialized
+INFO - 2016-11-19 23:14:47 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 23:14:48 --> Final output sent to browser
+DEBUG - 2016-11-19 23:14:48 --> Total execution time: 0.5911
+INFO - 2016-11-19 23:28:07 --> Config Class Initialized
+INFO - 2016-11-19 23:28:07 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:28:07 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:28:07 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:28:08 --> URI Class Initialized
+DEBUG - 2016-11-19 23:28:08 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:28:08 --> Router Class Initialized
+INFO - 2016-11-19 23:28:08 --> Output Class Initialized
+INFO - 2016-11-19 23:28:08 --> Security Class Initialized
+DEBUG - 2016-11-19 23:28:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:28:08 --> Input Class Initialized
+INFO - 2016-11-19 23:28:08 --> Language Class Initialized
+INFO - 2016-11-19 23:28:08 --> Loader Class Initialized
+INFO - 2016-11-19 23:28:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:28:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:28:08 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:28:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:28:08 --> Controller Class Initialized
+INFO - 2016-11-19 23:28:08 --> Model Class Initialized
+INFO - 2016-11-19 23:28:08 --> Model Class Initialized
+INFO - 2016-11-19 23:28:08 --> Model Class Initialized
+INFO - 2016-11-19 23:28:08 --> Model Class Initialized
+INFO - 2016-11-19 23:28:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:28:08 --> Pagination Class Initialized
+INFO - 2016-11-19 23:28:08 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:28:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:28:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:28:08 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:28:08 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:28:08 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:28:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:28:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+ERROR - 2016-11-19 23:28:08 --> Severity: Notice --> Undefined variable: pagination_links C:\xampp\htdocs\LMS\app\views\employee\apply_leave_sidebar.php 27
+INFO - 2016-11-19 23:28:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:28:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:28:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:28:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:28:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:28:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:28:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:28:09 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:28:09 --> Final output sent to browser
+DEBUG - 2016-11-19 23:28:09 --> Total execution time: 1.2967
+INFO - 2016-11-19 23:29:13 --> Config Class Initialized
+INFO - 2016-11-19 23:29:13 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:29:13 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:29:13 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:29:13 --> URI Class Initialized
+DEBUG - 2016-11-19 23:29:13 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:29:13 --> Router Class Initialized
+INFO - 2016-11-19 23:29:13 --> Output Class Initialized
+INFO - 2016-11-19 23:29:13 --> Security Class Initialized
+DEBUG - 2016-11-19 23:29:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:29:13 --> Input Class Initialized
+INFO - 2016-11-19 23:29:13 --> Language Class Initialized
+INFO - 2016-11-19 23:29:13 --> Loader Class Initialized
+INFO - 2016-11-19 23:29:13 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:29:13 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:29:13 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:29:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:29:13 --> Controller Class Initialized
+INFO - 2016-11-19 23:29:13 --> Model Class Initialized
+INFO - 2016-11-19 23:29:13 --> Model Class Initialized
+INFO - 2016-11-19 23:29:13 --> Model Class Initialized
+INFO - 2016-11-19 23:29:13 --> Model Class Initialized
+INFO - 2016-11-19 23:29:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:29:13 --> Pagination Class Initialized
+INFO - 2016-11-19 23:29:13 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:29:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:29:13 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:29:13 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:29:13 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:29:14 --> Pagination class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 23:29:14 --> Severity: Parsing Error --> syntax error, unexpected ',', expecting ')' C:\xampp\htdocs\LMS\app\views\dashboard.php 65
+INFO - 2016-11-19 23:29:30 --> Config Class Initialized
+INFO - 2016-11-19 23:29:30 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:29:30 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:29:30 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:29:30 --> URI Class Initialized
+DEBUG - 2016-11-19 23:29:30 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:29:30 --> Router Class Initialized
+INFO - 2016-11-19 23:29:30 --> Output Class Initialized
+INFO - 2016-11-19 23:29:30 --> Security Class Initialized
+DEBUG - 2016-11-19 23:29:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:29:31 --> Input Class Initialized
+INFO - 2016-11-19 23:29:31 --> Language Class Initialized
+INFO - 2016-11-19 23:29:31 --> Loader Class Initialized
+INFO - 2016-11-19 23:29:31 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:29:31 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:29:31 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:29:31 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:29:31 --> Controller Class Initialized
+INFO - 2016-11-19 23:29:31 --> Model Class Initialized
+INFO - 2016-11-19 23:29:31 --> Model Class Initialized
+INFO - 2016-11-19 23:29:31 --> Model Class Initialized
+INFO - 2016-11-19 23:29:31 --> Model Class Initialized
+INFO - 2016-11-19 23:29:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:29:31 --> Pagination Class Initialized
+INFO - 2016-11-19 23:29:31 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:29:31 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:29:31 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:29:31 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:29:31 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:29:31 --> Final output sent to browser
+DEBUG - 2016-11-19 23:29:32 --> Total execution time: 1.2465
+INFO - 2016-11-19 23:31:01 --> Config Class Initialized
+INFO - 2016-11-19 23:31:01 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:31:01 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:31:01 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:31:01 --> URI Class Initialized
+INFO - 2016-11-19 23:31:01 --> Router Class Initialized
+INFO - 2016-11-19 23:31:01 --> Output Class Initialized
+INFO - 2016-11-19 23:31:01 --> Security Class Initialized
+DEBUG - 2016-11-19 23:31:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:31:01 --> Input Class Initialized
+INFO - 2016-11-19 23:31:01 --> Language Class Initialized
+INFO - 2016-11-19 23:31:01 --> Loader Class Initialized
+INFO - 2016-11-19 23:31:01 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:31:01 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:31:01 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:31:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:31:01 --> Controller Class Initialized
+INFO - 2016-11-19 23:31:01 --> Model Class Initialized
+INFO - 2016-11-19 23:31:01 --> Form Validation Class Initialized
+INFO - 2016-11-19 23:31:01 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 23:31:01 --> Final output sent to browser
+DEBUG - 2016-11-19 23:31:01 --> Total execution time: 0.5841
+INFO - 2016-11-19 23:33:37 --> Config Class Initialized
+INFO - 2016-11-19 23:33:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:33:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:33:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:33:37 --> URI Class Initialized
+DEBUG - 2016-11-19 23:33:37 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:33:37 --> Router Class Initialized
+INFO - 2016-11-19 23:33:37 --> Output Class Initialized
+INFO - 2016-11-19 23:33:37 --> Security Class Initialized
+DEBUG - 2016-11-19 23:33:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:33:37 --> Input Class Initialized
+INFO - 2016-11-19 23:33:37 --> Language Class Initialized
+INFO - 2016-11-19 23:33:37 --> Loader Class Initialized
+INFO - 2016-11-19 23:33:37 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:33:37 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:33:37 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:33:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:33:38 --> Controller Class Initialized
+INFO - 2016-11-19 23:33:38 --> Model Class Initialized
+INFO - 2016-11-19 23:33:38 --> Model Class Initialized
+INFO - 2016-11-19 23:33:38 --> Model Class Initialized
+INFO - 2016-11-19 23:33:38 --> Model Class Initialized
+INFO - 2016-11-19 23:33:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:33:38 --> Pagination Class Initialized
+INFO - 2016-11-19 23:33:38 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:33:38 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:33:38 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:33:38 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:33:38 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:33:38 --> Final output sent to browser
+DEBUG - 2016-11-19 23:33:38 --> Total execution time: 1.4511
+INFO - 2016-11-19 23:34:05 --> Config Class Initialized
+INFO - 2016-11-19 23:34:05 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:05 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:05 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:05 --> URI Class Initialized
+INFO - 2016-11-19 23:34:05 --> Router Class Initialized
+INFO - 2016-11-19 23:34:05 --> Output Class Initialized
+INFO - 2016-11-19 23:34:05 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:05 --> Input Class Initialized
+INFO - 2016-11-19 23:34:05 --> Language Class Initialized
+INFO - 2016-11-19 23:34:05 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:06 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:06 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:06 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:06 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:06 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:06 --> Model Class Initialized
+INFO - 2016-11-19 23:34:06 --> Model Class Initialized
+INFO - 2016-11-19 23:34:06 --> Model Class Initialized
+INFO - 2016-11-19 23:34:06 --> Model Class Initialized
+INFO - 2016-11-19 23:34:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:06 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:06 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:34:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 23:34:06 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+ERROR - 2016-11-19 23:34:06 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+INFO - 2016-11-19 23:34:06 --> Config Class Initialized
+INFO - 2016-11-19 23:34:06 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:06 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:06 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:06 --> URI Class Initialized
+DEBUG - 2016-11-19 23:34:06 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:34:06 --> Router Class Initialized
+INFO - 2016-11-19 23:34:06 --> Output Class Initialized
+INFO - 2016-11-19 23:34:06 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:06 --> Input Class Initialized
+INFO - 2016-11-19 23:34:06 --> Language Class Initialized
+INFO - 2016-11-19 23:34:06 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:06 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:06 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:06 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:06 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:07 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:07 --> Config Class Initialized
+INFO - 2016-11-19 23:34:07 --> Hooks Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+DEBUG - 2016-11-19 23:34:07 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> URI Class Initialized
+INFO - 2016-11-19 23:34:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:07 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:07 --> Router Class Initialized
+INFO - 2016-11-19 23:34:07 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:34:07 --> Output Class Initialized
+INFO - 2016-11-19 23:34:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:34:07 --> Security Class Initialized
+INFO - 2016-11-19 23:34:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+DEBUG - 2016-11-19 23:34:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:07 --> Input Class Initialized
+INFO - 2016-11-19 23:34:07 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:34:07 --> Final output sent to browser
+INFO - 2016-11-19 23:34:07 --> Language Class Initialized
+DEBUG - 2016-11-19 23:34:07 --> Total execution time: 1.0463
+INFO - 2016-11-19 23:34:07 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:07 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:07 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:07 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:07 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> Model Class Initialized
+INFO - 2016-11-19 23:34:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:07 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:07 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:34:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 23:34:08 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+ERROR - 2016-11-19 23:34:08 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+INFO - 2016-11-19 23:34:08 --> Config Class Initialized
+INFO - 2016-11-19 23:34:08 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:08 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:08 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:08 --> URI Class Initialized
+DEBUG - 2016-11-19 23:34:08 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:34:08 --> Router Class Initialized
+INFO - 2016-11-19 23:34:08 --> Output Class Initialized
+INFO - 2016-11-19 23:34:08 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:08 --> Input Class Initialized
+INFO - 2016-11-19 23:34:08 --> Language Class Initialized
+INFO - 2016-11-19 23:34:08 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:08 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:08 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:08 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:08 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:08 --> Model Class Initialized
+INFO - 2016-11-19 23:34:08 --> Model Class Initialized
+INFO - 2016-11-19 23:34:08 --> Model Class Initialized
+INFO - 2016-11-19 23:34:08 --> Model Class Initialized
+INFO - 2016-11-19 23:34:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:08 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:08 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:34:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:34:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 23:34:08 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:34:08 --> Final output sent to browser
+DEBUG - 2016-11-19 23:34:08 --> Total execution time: 0.7970
+INFO - 2016-11-19 23:34:17 --> Config Class Initialized
+INFO - 2016-11-19 23:34:17 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:17 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:17 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:17 --> URI Class Initialized
+INFO - 2016-11-19 23:34:17 --> Router Class Initialized
+INFO - 2016-11-19 23:34:17 --> Output Class Initialized
+INFO - 2016-11-19 23:34:17 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:17 --> Input Class Initialized
+INFO - 2016-11-19 23:34:17 --> Language Class Initialized
+INFO - 2016-11-19 23:34:17 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:17 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:17 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:18 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:18 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:18 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:34:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Final output sent to browser
+DEBUG - 2016-11-19 23:34:18 --> Total execution time: 0.6615
+INFO - 2016-11-19 23:34:18 --> Config Class Initialized
+INFO - 2016-11-19 23:34:18 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:18 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:18 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:18 --> URI Class Initialized
+DEBUG - 2016-11-19 23:34:18 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:34:18 --> Router Class Initialized
+INFO - 2016-11-19 23:34:18 --> Output Class Initialized
+INFO - 2016-11-19 23:34:18 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:18 --> Input Class Initialized
+INFO - 2016-11-19 23:34:18 --> Language Class Initialized
+INFO - 2016-11-19 23:34:18 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:18 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:18 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:18 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:18 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Model Class Initialized
+INFO - 2016-11-19 23:34:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:19 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:19 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:34:19 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:34:19 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:34:19 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:34:19 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:34:19 --> Final output sent to browser
+DEBUG - 2016-11-19 23:34:19 --> Total execution time: 1.1480
+INFO - 2016-11-19 23:34:25 --> Config Class Initialized
+INFO - 2016-11-19 23:34:25 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:25 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:25 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:25 --> URI Class Initialized
+DEBUG - 2016-11-19 23:34:25 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:34:25 --> Router Class Initialized
+INFO - 2016-11-19 23:34:25 --> Output Class Initialized
+INFO - 2016-11-19 23:34:25 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:25 --> Input Class Initialized
+INFO - 2016-11-19 23:34:25 --> Language Class Initialized
+INFO - 2016-11-19 23:34:25 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:25 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:25 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:25 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:25 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:25 --> Model Class Initialized
+INFO - 2016-11-19 23:34:25 --> Model Class Initialized
+INFO - 2016-11-19 23:34:25 --> Model Class Initialized
+INFO - 2016-11-19 23:34:25 --> Model Class Initialized
+INFO - 2016-11-19 23:34:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:34:25 --> Pagination Class Initialized
+INFO - 2016-11-19 23:34:25 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:34:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:34:25 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:34:25 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:34:25 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:34:26 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:34:26 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:34:26 --> Final output sent to browser
+DEBUG - 2016-11-19 23:34:26 --> Total execution time: 1.2158
+INFO - 2016-11-19 23:34:32 --> Config Class Initialized
+INFO - 2016-11-19 23:34:32 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:34:32 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:34:32 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:34:32 --> URI Class Initialized
+INFO - 2016-11-19 23:34:32 --> Router Class Initialized
+INFO - 2016-11-19 23:34:32 --> Output Class Initialized
+INFO - 2016-11-19 23:34:32 --> Security Class Initialized
+DEBUG - 2016-11-19 23:34:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:34:32 --> Input Class Initialized
+INFO - 2016-11-19 23:34:32 --> Language Class Initialized
+INFO - 2016-11-19 23:34:32 --> Loader Class Initialized
+INFO - 2016-11-19 23:34:32 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:34:32 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:34:32 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:34:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:34:32 --> Controller Class Initialized
+INFO - 2016-11-19 23:34:32 --> Model Class Initialized
+INFO - 2016-11-19 23:34:32 --> Form Validation Class Initialized
+INFO - 2016-11-19 23:34:32 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2016-11-19 23:34:32 --> Final output sent to browser
+DEBUG - 2016-11-19 23:34:32 --> Total execution time: 0.5957
+INFO - 2016-11-19 23:37:35 --> Config Class Initialized
+INFO - 2016-11-19 23:37:35 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:37:35 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:37:35 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:37:35 --> URI Class Initialized
+DEBUG - 2016-11-19 23:37:35 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:37:35 --> Router Class Initialized
+INFO - 2016-11-19 23:37:35 --> Output Class Initialized
+INFO - 2016-11-19 23:37:35 --> Security Class Initialized
+DEBUG - 2016-11-19 23:37:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:37:35 --> Input Class Initialized
+INFO - 2016-11-19 23:37:35 --> Language Class Initialized
+INFO - 2016-11-19 23:37:35 --> Loader Class Initialized
+INFO - 2016-11-19 23:37:35 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:37:35 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:37:35 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:37:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:37:35 --> Controller Class Initialized
+INFO - 2016-11-19 23:37:35 --> Model Class Initialized
+INFO - 2016-11-19 23:37:35 --> Model Class Initialized
+INFO - 2016-11-19 23:37:35 --> Model Class Initialized
+INFO - 2016-11-19 23:37:35 --> Model Class Initialized
+INFO - 2016-11-19 23:37:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:37:35 --> Pagination Class Initialized
+INFO - 2016-11-19 23:37:35 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:37:35 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:37:36 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:37:36 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:37:36 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:37:36 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:37:36 --> Final output sent to browser
+DEBUG - 2016-11-19 23:37:36 --> Total execution time: 1.2414
+INFO - 2016-11-19 23:39:45 --> Config Class Initialized
+INFO - 2016-11-19 23:39:45 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:39:45 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:39:45 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:39:45 --> URI Class Initialized
+DEBUG - 2016-11-19 23:39:45 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:39:45 --> Router Class Initialized
+INFO - 2016-11-19 23:39:45 --> Output Class Initialized
+INFO - 2016-11-19 23:39:45 --> Security Class Initialized
+DEBUG - 2016-11-19 23:39:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:39:46 --> Input Class Initialized
+INFO - 2016-11-19 23:39:46 --> Language Class Initialized
+INFO - 2016-11-19 23:39:46 --> Loader Class Initialized
+INFO - 2016-11-19 23:39:46 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:39:46 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:39:46 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:39:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:39:46 --> Controller Class Initialized
+INFO - 2016-11-19 23:39:46 --> Model Class Initialized
+INFO - 2016-11-19 23:39:46 --> Model Class Initialized
+INFO - 2016-11-19 23:39:46 --> Model Class Initialized
+INFO - 2016-11-19 23:39:46 --> Model Class Initialized
+INFO - 2016-11-19 23:39:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:39:46 --> Pagination Class Initialized
+INFO - 2016-11-19 23:39:46 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:39:46 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:39:46 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:39:46 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:39:46 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:39:46 --> Final output sent to browser
+DEBUG - 2016-11-19 23:39:46 --> Total execution time: 1.2337
+INFO - 2016-11-19 23:41:27 --> Config Class Initialized
+INFO - 2016-11-19 23:41:27 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:41:27 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:41:27 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:41:27 --> URI Class Initialized
+DEBUG - 2016-11-19 23:41:27 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:41:27 --> Router Class Initialized
+INFO - 2016-11-19 23:41:27 --> Output Class Initialized
+INFO - 2016-11-19 23:41:27 --> Security Class Initialized
+DEBUG - 2016-11-19 23:41:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:41:27 --> Input Class Initialized
+INFO - 2016-11-19 23:41:27 --> Language Class Initialized
+INFO - 2016-11-19 23:41:27 --> Loader Class Initialized
+INFO - 2016-11-19 23:41:27 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:41:27 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:41:27 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:41:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:41:27 --> Controller Class Initialized
+INFO - 2016-11-19 23:41:27 --> Model Class Initialized
+INFO - 2016-11-19 23:41:27 --> Model Class Initialized
+INFO - 2016-11-19 23:41:27 --> Model Class Initialized
+INFO - 2016-11-19 23:41:28 --> Model Class Initialized
+INFO - 2016-11-19 23:41:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:41:28 --> Pagination Class Initialized
+INFO - 2016-11-19 23:41:28 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:41:28 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:41:28 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:41:28 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:41:28 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:41:28 --> Final output sent to browser
+DEBUG - 2016-11-19 23:41:28 --> Total execution time: 1.2652
+INFO - 2016-11-19 23:43:59 --> Config Class Initialized
+INFO - 2016-11-19 23:43:59 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:43:59 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:43:59 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:43:59 --> URI Class Initialized
+INFO - 2016-11-19 23:43:59 --> Router Class Initialized
+INFO - 2016-11-19 23:43:59 --> Output Class Initialized
+INFO - 2016-11-19 23:43:59 --> Security Class Initialized
+DEBUG - 2016-11-19 23:43:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:43:59 --> Input Class Initialized
+INFO - 2016-11-19 23:43:59 --> Language Class Initialized
+INFO - 2016-11-19 23:43:59 --> Loader Class Initialized
+INFO - 2016-11-19 23:43:59 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:43:59 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:43:59 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:43:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:43:59 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:00 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:00 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:44:00 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 23:44:00 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+ERROR - 2016-11-19 23:44:00 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+INFO - 2016-11-19 23:44:00 --> Config Class Initialized
+INFO - 2016-11-19 23:44:00 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:00 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:00 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:00 --> URI Class Initialized
+DEBUG - 2016-11-19 23:44:00 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:44:00 --> Router Class Initialized
+INFO - 2016-11-19 23:44:00 --> Output Class Initialized
+INFO - 2016-11-19 23:44:00 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:00 --> Input Class Initialized
+INFO - 2016-11-19 23:44:00 --> Language Class Initialized
+INFO - 2016-11-19 23:44:00 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:00 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:00 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:00 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:00 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Model Class Initialized
+INFO - 2016-11-19 23:44:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:00 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:00 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:44:00 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:44:01 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 23:44:01 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:44:01 --> Final output sent to browser
+DEBUG - 2016-11-19 23:44:01 --> Total execution time: 0.7764
+INFO - 2016-11-19 23:44:15 --> Config Class Initialized
+INFO - 2016-11-19 23:44:15 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:15 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:15 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:15 --> URI Class Initialized
+INFO - 2016-11-19 23:44:15 --> Router Class Initialized
+INFO - 2016-11-19 23:44:15 --> Output Class Initialized
+INFO - 2016-11-19 23:44:15 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:15 --> Input Class Initialized
+INFO - 2016-11-19 23:44:15 --> Language Class Initialized
+INFO - 2016-11-19 23:44:15 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:15 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:15 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:16 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:16 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:16 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:44:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Final output sent to browser
+DEBUG - 2016-11-19 23:44:16 --> Total execution time: 0.6744
+INFO - 2016-11-19 23:44:16 --> Config Class Initialized
+INFO - 2016-11-19 23:44:16 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:16 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:16 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:16 --> URI Class Initialized
+DEBUG - 2016-11-19 23:44:16 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:44:16 --> Router Class Initialized
+INFO - 2016-11-19 23:44:16 --> Output Class Initialized
+INFO - 2016-11-19 23:44:16 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:16 --> Input Class Initialized
+INFO - 2016-11-19 23:44:16 --> Language Class Initialized
+INFO - 2016-11-19 23:44:16 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:16 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:16 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:16 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:16 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:16 --> Model Class Initialized
+INFO - 2016-11-19 23:44:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:17 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:17 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:44:17 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:44:17 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:44:17 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_user_sidebar.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/add_leave_type.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/all_leave_type.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/leave_reports.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\admin/user_reports.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:44:17 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:44:17 --> Final output sent to browser
+DEBUG - 2016-11-19 23:44:17 --> Total execution time: 1.0899
+INFO - 2016-11-19 23:44:28 --> Config Class Initialized
+INFO - 2016-11-19 23:44:28 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:28 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:28 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:28 --> URI Class Initialized
+INFO - 2016-11-19 23:44:28 --> Router Class Initialized
+INFO - 2016-11-19 23:44:29 --> Output Class Initialized
+INFO - 2016-11-19 23:44:29 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:29 --> Input Class Initialized
+INFO - 2016-11-19 23:44:29 --> Language Class Initialized
+INFO - 2016-11-19 23:44:29 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:29 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:29 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:29 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:29 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:29 --> Model Class Initialized
+INFO - 2016-11-19 23:44:29 --> Model Class Initialized
+INFO - 2016-11-19 23:44:29 --> Model Class Initialized
+INFO - 2016-11-19 23:44:29 --> Model Class Initialized
+INFO - 2016-11-19 23:44:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:29 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:29 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:44:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-11-19 23:44:29 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+ERROR - 2016-11-19 23:44:29 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\LMS\app\controllers\Auth.php 161
+INFO - 2016-11-19 23:44:29 --> Config Class Initialized
+INFO - 2016-11-19 23:44:29 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:29 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:29 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:29 --> URI Class Initialized
+DEBUG - 2016-11-19 23:44:29 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:44:29 --> Router Class Initialized
+INFO - 2016-11-19 23:44:29 --> Output Class Initialized
+INFO - 2016-11-19 23:44:29 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:30 --> Input Class Initialized
+INFO - 2016-11-19 23:44:30 --> Language Class Initialized
+INFO - 2016-11-19 23:44:30 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:30 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:30 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:30 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:30 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:30 --> Model Class Initialized
+INFO - 2016-11-19 23:44:30 --> Model Class Initialized
+INFO - 2016-11-19 23:44:30 --> Model Class Initialized
+INFO - 2016-11-19 23:44:30 --> Model Class Initialized
+INFO - 2016-11-19 23:44:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:30 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:30 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:44:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:44:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\auth.php
+INFO - 2016-11-19 23:44:30 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:44:30 --> Final output sent to browser
+DEBUG - 2016-11-19 23:44:30 --> Total execution time: 0.7975
+INFO - 2016-11-19 23:44:43 --> Config Class Initialized
+INFO - 2016-11-19 23:44:43 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:43 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:43 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:43 --> URI Class Initialized
+INFO - 2016-11-19 23:44:43 --> Router Class Initialized
+INFO - 2016-11-19 23:44:43 --> Output Class Initialized
+INFO - 2016-11-19 23:44:43 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:43 --> Input Class Initialized
+INFO - 2016-11-19 23:44:43 --> Language Class Initialized
+INFO - 2016-11-19 23:44:43 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:43 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:43 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:43 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:43 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:43 --> Model Class Initialized
+INFO - 2016-11-19 23:44:43 --> Model Class Initialized
+INFO - 2016-11-19 23:44:43 --> Model Class Initialized
+INFO - 2016-11-19 23:44:43 --> Model Class Initialized
+INFO - 2016-11-19 23:44:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:44 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:44 --> Helper loaded: app_helper
+DEBUG - 2016-11-19 23:44:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:44:44 --> Model Class Initialized
+INFO - 2016-11-19 23:44:44 --> Final output sent to browser
+DEBUG - 2016-11-19 23:44:44 --> Total execution time: 0.6676
+INFO - 2016-11-19 23:44:44 --> Config Class Initialized
+INFO - 2016-11-19 23:44:44 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:44:44 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:44:44 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:44:44 --> URI Class Initialized
+DEBUG - 2016-11-19 23:44:44 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:44:44 --> Router Class Initialized
+INFO - 2016-11-19 23:44:44 --> Output Class Initialized
+INFO - 2016-11-19 23:44:44 --> Security Class Initialized
+DEBUG - 2016-11-19 23:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:44:44 --> Input Class Initialized
+INFO - 2016-11-19 23:44:44 --> Language Class Initialized
+INFO - 2016-11-19 23:44:44 --> Loader Class Initialized
+INFO - 2016-11-19 23:44:44 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:44:44 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:44:44 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:44:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:44:44 --> Controller Class Initialized
+INFO - 2016-11-19 23:44:44 --> Model Class Initialized
+INFO - 2016-11-19 23:44:44 --> Model Class Initialized
+INFO - 2016-11-19 23:44:44 --> Model Class Initialized
+INFO - 2016-11-19 23:44:44 --> Model Class Initialized
+INFO - 2016-11-19 23:44:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:44:44 --> Pagination Class Initialized
+INFO - 2016-11-19 23:44:44 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:44:44 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:44:45 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:44:45 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:44:45 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:44:45 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:44:45 --> Final output sent to browser
+DEBUG - 2016-11-19 23:44:45 --> Total execution time: 1.2619
+INFO - 2016-11-19 23:55:01 --> Config Class Initialized
+INFO - 2016-11-19 23:55:02 --> Hooks Class Initialized
+DEBUG - 2016-11-19 23:55:02 --> UTF-8 Support Enabled
+INFO - 2016-11-19 23:55:02 --> Utf8 Class Initialized
+INFO - 2016-11-19 23:55:02 --> URI Class Initialized
+DEBUG - 2016-11-19 23:55:02 --> No URI present. Default controller set.
+INFO - 2016-11-19 23:55:02 --> Router Class Initialized
+INFO - 2016-11-19 23:55:02 --> Output Class Initialized
+INFO - 2016-11-19 23:55:02 --> Security Class Initialized
+DEBUG - 2016-11-19 23:55:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 23:55:02 --> Input Class Initialized
+INFO - 2016-11-19 23:55:02 --> Language Class Initialized
+INFO - 2016-11-19 23:55:02 --> Loader Class Initialized
+INFO - 2016-11-19 23:55:02 --> Helper loaded: url_helper
+INFO - 2016-11-19 23:55:02 --> Helper loaded: form_helper
+INFO - 2016-11-19 23:55:02 --> Database Driver Class Initialized
+INFO - 2016-11-19 23:55:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-11-19 23:55:02 --> Controller Class Initialized
+INFO - 2016-11-19 23:55:02 --> Model Class Initialized
+INFO - 2016-11-19 23:55:02 --> Model Class Initialized
+INFO - 2016-11-19 23:55:02 --> Model Class Initialized
+INFO - 2016-11-19 23:55:02 --> Model Class Initialized
+INFO - 2016-11-19 23:55:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2016-11-19 23:55:02 --> Pagination Class Initialized
+INFO - 2016-11-19 23:55:02 --> Helper loaded: app_helper
+INFO - 2016-11-19 23:55:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\header.php
+INFO - 2016-11-19 23:55:02 --> File loaded: C:\xampp\htdocs\LMS\app\views\navbar.php
+DEBUG - 2016-11-19 23:55:02 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:55:03 --> Pagination class already loaded. Second attempt ignored.
+DEBUG - 2016-11-19 23:55:03 --> Pagination class already loaded. Second attempt ignored.
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\home.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/apply_leave_sidebar.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\employee/my_leave.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_applied.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_records.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/add_leave_record_sidebar.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\manager/leave_records_reports.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\dashboard.php
+INFO - 2016-11-19 23:55:03 --> File loaded: C:\xampp\htdocs\LMS\app\views\footer.php
+INFO - 2016-11-19 23:55:03 --> Final output sent to browser
+DEBUG - 2016-11-19 23:55:03 --> Total execution time: 1.5292

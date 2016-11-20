@@ -15,14 +15,14 @@ class Leave_type_m extends CI_Model {
 			}
 			else{
 				return false;
-			}
+			}	
     }
 
     public function all($limit = 0)
 	{
+		$this->db->where('bDeleted', 0);
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
-		$this->db->where('bDeleted', 0);
 		return $this->db->get($this->table);
 	}
 

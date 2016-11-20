@@ -18,6 +18,7 @@ class Leave_records_c extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+	private $limit = 10;
 	function __construct(){
 		parent:: __construct();
 		$this->load->model('Leave_record_m');
@@ -33,16 +34,16 @@ class Leave_records_c extends CI_Controller {
 	public function add_leaveRecords()
 	{
 		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') != '9')
-		{
-			$userRole			= $this->session->userdata('idrole');
+		{		
 			/*$this->db->select('r.id, r2.id AS subordinate, r3.id AS sub_subordinate')
 					 ->from("role r")
 					 ->join("role r2", "r2.id = r.idSubordinate", "left")
 					 ->join("role r3", "r3.id = r2.idSubordinate", "left")
 					 ->where("r.id", $userRole);*/
-
+			$userRole			= $this->session->userdata('idrole');
 			$subordinate 		= $userRole + 1;
 			$sub_subordinate 	= $userRole + 2;
+
 			$data = array('success' => false, 'messages' => array());
 			$this->load->library('form_validation');
 
@@ -59,7 +60,7 @@ class Leave_records_c extends CI_Controller {
 									'idLeaveType' 			=> $this->input->post('typeOfLeave'),
 									'numberOfLeaves' 		=> $this->input->post('numberOfDays'),
 									'description' 			=> $this->input->post('recordsDescription'),
-									//'bDeleted'				=> 0,
+									'bDeleted'				=> 0,
 									);
 
 				$results = $this->Leave_record_m->insert_leaveRecord($leave_record_data);
@@ -96,10 +97,30 @@ class Leave_records_c extends CI_Controller {
 	public function edit_leaveRecords()
 	{
 		
-	}
-	public function delete_leaveRecords()
-	{
 		
+	}
+	public function delete_leaveRecord($id)
+	{
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') != '9'){
+			
+			$userRole			= $this->session->userdata('idrole');
+			$subordinate 		= $userRole + 1;
+			$sub_subordinate 	= $userRole + 2;
+			
+			$this->Leave_record_m->remove_LeaveRecord($id);
+
+			$total_rows_records			= $this->Leave_record_m->count_leave_records($subordinate,$sub_subordinate);
+			$pagination_links			= ajax_pagination($total_rows_records, $this->limit);
+			$data['pagination_links']	= $pagination_links;
+
+			$query 		= $this->Leave_record_m->all_leave_record($subordinate,$sub_subordinate,$this->limit);
+			$data['query']		= $query;
+			
+			$this->load->view("manager/add_leave_record_sidebar", $data);
+
+		}else {
+			redirect('index.php/Auth');
+		}
 	}
 	public function search_leaveRecords()
 	{
