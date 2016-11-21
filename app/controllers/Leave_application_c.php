@@ -23,6 +23,9 @@ class Leave_application_c extends CI_Controller {
 		parent:: __construct();
 		$this->load->model('Leave_application_m');
 		$this->load->library('form_validation');
+		$this->load->library('pagination');
+		$this->load->library('ajax_pagination');
+		$this->load->helper('app');
 	}
 	public function index()
 	{
@@ -82,6 +85,7 @@ class Leave_application_c extends CI_Controller {
 
 					if ($results){
 						$data['success'] = true;
+						//$this->sendEmail($email,$userName);
 					}
 					else{
 						$data['success'] = false;
@@ -139,6 +143,23 @@ class Leave_application_c extends CI_Controller {
 			redirect('index.php/Auth');
 		}
 	}
+
+	function sendEmail($email,$userName)
+    {
+        $this->config->load('email', TRUE);
+        $this->email->from($this->config->item('from_email', 'email'), 'TEST');
+        $this->email->to($email);
+        $this->email->subject();
+
+        $data = array(
+                            
+                      );
+
+        $message = $this->load->view('/email_template', $data, true);
+
+        $this->email->message($message);
+        $this->email->send();
+    }
 	public function edit_leaveApplication()
 	{
 		
@@ -154,5 +175,17 @@ class Leave_application_c extends CI_Controller {
 	public function preview_leaveApplication()
 	{
 		
+	}
+	public function test($offset=0)
+	{
+		$userID 						= $this->session->userdata('id');
+		$total_rows_leaveapplied 		= $this->Leave_application_m->count_Leave_application($userID);
+		$data['pagination_links'] 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/test", 3, '.applied_leave_status');
+		$userRole						= $this->session->userdata('idrole');
+		$subordinate 					= $userRole + 1;
+		$sub_subordinate 				= $userRole + 2;
+		$query = $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate,$this->limit);
+		$data['query'] = $query;
+		echo $this->load->view("manager/leave_applied", $data, true);
 	}
 }

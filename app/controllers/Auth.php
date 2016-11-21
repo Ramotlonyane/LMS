@@ -84,7 +84,7 @@ class Auth extends CI_Controller {
 			$pagination_links_Mystatus 			= ajax_pagination($total_rows_Myleavestatus, $this->limit);
 			$pagination_links_status 			= ajax_pagination($total_rows_leavestatus, $this->limit);
 			$pagination_links_records 			= ajax_pagination($total_rows_records, $this->limit);
-			$pagination_links_leaveapplied 		= ajax_pagination($total_rows_leaveapplied, $this->limit);
+			$pagination_links_leaveapplied 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/test", 3, '.applied_leave_status');
 
 			$data['pagination_data_leaveapplied']	= $pagination_links_leaveapplied;
 			$data['pagination_data_leaves']			= $pagination_links_leavetype;

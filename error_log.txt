@@ -198,3 +198,8 @@
 [20-Nov-2016 01:57:35 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
 [20-Nov-2016 14:26:50 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
 [20-Nov-2016 15:15:37 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 113
+[21-Nov-2016 10:44:41 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 147
+[21-Nov-2016 10:59:45 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
+[21-Nov-2016 11:01:24 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
+[21-Nov-2016 11:04:37 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
+[21-Nov-2016 11:05:26 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 181

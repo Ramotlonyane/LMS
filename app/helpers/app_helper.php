@@ -43,7 +43,7 @@ if ( ! function_exists('pagination') )
 		return $ci->pagination->create_links();
 	}
 
-	function ajax_pagination($total_rows, $per_page, $url = null, $uri_segment = 3)
+	function ajax_pagination($total_rows, $per_page, $url = null, $uri_segment = 3, $target='.resultTable')
 	{
 		$ci =& get_instance();
 
@@ -53,7 +53,7 @@ if ( ! function_exists('pagination') )
 			$url = implode("/", $segment);
 		}
 
-		$config['target']      = '.resultTable';
+		$config['target']      = $target;
 		$config['base_url']    = site_url($url);
 		$config['total_rows']  = $total_rows;
 		$config['per_page']    = $per_page;
