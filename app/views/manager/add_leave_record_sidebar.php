@@ -39,15 +39,6 @@
 <script type="text/javascript">
 	$(document).ready(function(){
 		
-		 $(document).on('click', 'ul.pagination a', function(){
-		 	event.stopPropagation();
-        		event.preventDefault();  
-		        var url = $(this).attr('href');
-		        alert(url);
-		        $(".all_leave_record_container").load(url);
-		        return false;
-		    });
-
 		  $(document).on('click', '.btn_delete_record', function(){  
 	           var id=$(this).data("deleterecord");
 	           if(confirm("Are you sure you want to delete this record?"))  

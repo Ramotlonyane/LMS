@@ -5,11 +5,31 @@
     <title>Anil Labs - Codeigniter mail templates</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
-<body>
-<div>
-   <div style="font-size: 26px;font-weight: 700;letter-spacing: -0.02em;line-height: 32px;color: #41637e;font-family: sans-serif;text-align: center" align="center" id="emb-email-header"><img style="border: 0;-ms-interpolation-mode: bicubic;display: block;Margin-left: auto;Margin-right: auto;max-width: 152px" src="http://www.anil2u.info/wp-content/uploads/2013/09/anil-kumar-panigrahi-blog.png" alt="" width="152" height="108"></div>
-<p style="Margin-top: 0;color: #565656;font-family: Georgia,serif;font-size: 16px;line-height: 25px;Margin-bottom: 25px">Hey <?php echo $userName;?>,</p> 
-<p style="Margin-top: 0;color: #565656;font-family: Georgia,serif;font-size: 16px;line-height: 25px;Margin-bottom: 25px"> I am  Anil Kumar Panigrahi , Founder of Anil Labs. and This is mail demo of How to send email using HTML templates in Codeigniter </p>
-</div>
+<body style=" background: #E7E8EA; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; -webkit-font-smoothing: antialiased; height: 100%; -webkit-text-size-adjust: none; width: 100% !important; margin: 0; padding: 0; position: absolute;">
+	<table style="width: 100%;height: 100%;"">
+		<tr>
+			<td align="center" valign="middle" height="100" style="">
+				<table class="body-wrap" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0 auto;border-collapse: collapse;">
+					<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; padding: 0; ">
+						<td class="container" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;font-size: 100%;line-height: 1.6em;clear: both !important;display: block !important;margin: 0 auto; border-collapse: collapse;width: 600px;">
+							<table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; border-collapse: collapse;background: #ffffff;">
+								<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+									<td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding-top: 30px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px;">
+
+     <h2 style="font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; line-height: 1.2em; color: #111111; font-weight: 200; margin: 0px 0 10px; padding: 0;">APPLICATION FOR A LEAVE: YOUR RECOMMENDATION OR APPROVAL</h2>
+
+
+<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">Dear Mr./Mrs. <?php echo $recommender; ?>,</p>
+<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">The Details of the leave areas follow:</p>
+										
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
 </body>
 </html>

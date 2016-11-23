@@ -128,20 +128,6 @@ class Auth extends CI_Controller {
 		}
 	}
 
-	function ajaxPaginationData()
-    {
-
-        $page = $this->input->post('page');
-        if(!$page){
-            $offset = 0;
-        }else {
-            $offset = $page;
-        }
-        $total_rows_leaveType 		= $this->Leave_type_m->count();
-        $pagination_links_leaves 	= ajax_pagination($total_rows_leaveType, $this->limit);
-
-    }
-
 	function login()
 	{
 		$this->load->view('header');

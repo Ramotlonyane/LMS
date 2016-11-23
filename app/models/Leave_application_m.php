@@ -12,6 +12,27 @@ class Leave_application_m extends CI_Model {
 		$this->db->offset($this->uri->segment(3));
 		return $this->db->get($this->table);
 	}
+
+	public function get_emails($recommender,$approver){
+
+		$this->db->select('email, surname');
+		$this->db->from('employee');
+		$this->db->where_in('idRole',array($recommender,$approver));
+		$this->db->where('bDeleted', 0);
+
+		$query = $this->db->get();
+		return $query->result();
+	}
+	public function get_leaveTypename($idLeaveType){
+
+		$this->db->select('typeName');
+		$this->db->from('leavetype');
+		$this->db->where('id', $idLeaveType);
+		$this->db->where('bDeleted', 0);
+
+		$query = $this->db->get();
+		return $query->result();
+	}
 	public function count_Leave_application($userID){
 
 		$this->db->select('*');

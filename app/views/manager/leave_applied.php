@@ -47,3 +47,54 @@
 		<li><a href="">3</a></li>
 	</ul> -->
 </nav>
+
+<script type="text/javascript">
+
+		 	/*$('.pagination a').on('click', function () {
+		 	event.stopPropagation();
+        		event.preventDefault();  
+		        var url = $(this).attr('href');
+		        alert(url);
+		        $(".all_leave_record_container").load(url);
+		        return false;
+		    });*/
+
+		    $('.btn_leavestats').on('click', function () {
+  
+            var idrecord = $(this).data("idrecord");
+            var idstatus = $(this).closest("tr").find("#leavestatus").val();
+
+            if(idstatus)  
+           {  
+                 if(confirm("Are you sure you want to change this leave status?"))
+                 {
+                    $.ajax({  
+                       url:"index.php/Leave_application_c/all_user_leave_status/"+idrecord,
+                       method:"POST",  
+                       data:{idrecord:idrecord, idstatus:idstatus },  
+                       dataType:"text",  
+                       success:function(data){  
+
+                          $(".applied_leave_status").html(data);
+                          location.reload();
+
+                          $('.the-leave-status').append('<div class="alert alert-success">' +
+                          '<span class="glyphicon glyphicon-ok"></span>' +
+                          ' Leave Status Changed Successfully' +
+                          '</div>');
+
+                          setTimeout(function(){
+                             $('.alert-success').hide();
+                          }, 3000);
+                       }  
+                    });
+                  event.stopPropagation();
+                  event.preventDefault();
+                 }       
+                  
+           }else{
+            alert("Please select Leave Status!!!");
+           } 
+     });
+
+</script>

@@ -203,3 +203,49 @@
 [21-Nov-2016 11:01:24 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
 [21-Nov-2016 11:04:37 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
 [21-Nov-2016 11:05:26 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 181
+[21-Nov-2016 16:42:41 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:42:46 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:42:47 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:42:47 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:42:47 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:44:06 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:44:09 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:44:10 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:22 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:24 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:25 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:25 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:26 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:26 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:27 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:27 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:28 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:28 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:29 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:29 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:30 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:30 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:30 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:31 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:31 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:32 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:45:32 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 154
+[21-Nov-2016 16:48:07 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 155
+[21-Nov-2016 16:49:56 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 155
+[21-Nov-2016 16:54:40 Europe/Berlin] PHP Fatal error:  Call to a member function from() on null in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 155
+[21-Nov-2016 17:11:22 Europe/Berlin] PHP Fatal error:  Call to a member function initialize() on null in C:\xampp\htdocs\LMS\app\config\email.php on line 19
+[21-Nov-2016 20:06:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
+[21-Nov-2016 20:06:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
+[21-Nov-2016 20:10:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
+[21-Nov-2016 20:10:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
+[21-Nov-2016 20:12:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 180
+[21-Nov-2016 21:10:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 170
+[22-Nov-2016 21:47:29 GMT] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\LMS\app\views\email_template.php on line 19
+[22-Nov-2016 21:48:24 GMT] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\LMS\app\views\email_template.php on line 19
+[22-Nov-2016 21:48:54 GMT] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\LMS\app\views\email_template.php on line 19
+[22-Nov-2016 23:10:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 173
+[22-Nov-2016 23:12:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 173
+[22-Nov-2016 23:12:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 173
+[22-Nov-2016 22:14:23 GMT] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 34
+[22-Nov-2016 22:14:58 GMT] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 34
+[23-Nov-2016 09:23:45 GMT] PHP Fatal error:  Cannot use object of type stdClass as array in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 173
