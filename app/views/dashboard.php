@@ -26,22 +26,21 @@
             }
             elseif($user['idrole'] == '2' || $user['idrole'] == '2' || $user['idrole'] == '3' || $user['idrole'] == '4' || $user['idrole'] == '5' || $user['idrole'] == '6' || $user['idrole'] == '7' || $user['idrole'] == '8'){
                ?>  
-               <li class="dropdown">
-                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">LEAVE RECORDS <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                     <li><a data-toggle="tab" href="#addleaverecords">ADD LEAVE RECORD</a></li>
-                     <li><a data-toggle="tab" href="#leaverecordsreports">LEAVE RECORD REPORTS</a></li>
-                  </ul>
-               </li>  
                <li><a data-toggle="tab" href="#appliedleave">APPROVE LEAVE</a></li>
                <li><a data-toggle="tab" href="#apply">APPLY LEAVE</a></li>
                <li><a data-toggle="tab" href="#myleave">MY LEAVE STATUS</a></li>  
                <?php
             }
-            else{
+            elseif($user['idrole'] == '9'){
                 ?> 
                <li><a data-toggle="tab" href="#apply">APPLY LEAVE</a></li>
                <li><a data-toggle="tab" href="#myleave">MY LEAVE STATUS</a></li>
+               <?php
+            }
+            else{
+              ?> 
+                <li><a data-toggle="tab" href="#addleaverecords">ADD LEAVE RECORD</a></li>
+                <li><a data-toggle="tab" href="#leaverecordsreports">LEAVE RECORD REPORTS</a></li>
                <?php
             }
          ?> 
@@ -115,14 +114,24 @@
                   <div id="appliedleave" class="tab-pane fade applied_leave_status resultTable">
                      <?php $this->load->view($applied_leave, array("query" => $all_applied_status, 'pagination_links' => $pagination_data_status)); ?>
                   </div>
+               <?php
+            }
+         ?>
+   <!-- MANAGER PAGES ENDS-->
+<!-- ####################################################################################-->
+
+<!-- ####################################################################################-->
+      <!-- HR MANAGER PAGES STARTS-->
+         <?php 
+            if ($user['idrole'] == '10') {
+               ?>
                   <div id="addleaverecords" class="tab-pane fade">
                       <div class="col-md-3">
                         <?php $this->load->view($add_leave_record); ?>
                      </div>
                      <div class="col-md-9 all_leave_record_container resultTable">
                         <?php $this->load->view($add_leave_record_sidebar, array('query' => $all_leave_records_data,'pagination_links' => $pagination_data_records)); ?>
-                     </div>
-                     
+                     </div> 
                   </div>
                   <div id="leaverecordsreports" class="tab-pane fade">
                      <?php $this->load->view($leave_record_reports); ?>
@@ -130,7 +139,7 @@
                <?php
             }
          ?>
-   <!-- MANAGER PAGES ENDS-->
+   <!-- HR MANAGER PAGES ENDS-->
 <!-- ####################################################################################-->
          </div>
 </div>
@@ -246,6 +255,12 @@
                //location.reload();
             }
             else {
+              if (response.duplicated) {
+                $('.the-message-record').append('<div class="alert alert-success">' +
+                  '<span class="glyphicon glyphicon-ok"></span>' +
+                  ' Record already exists!' +
+                  '</div>');
+              }
                $.each(response.messages, function(key, value) {
                   var element = $('#' + key);
                   
@@ -300,8 +315,21 @@
                })
 
                $(".all_leave_application_data").html(response.html);
-            }
-            else {
+            }else {
+              if (response.insufficient) {
+                $('.apply-leave-message').append('<div class="alert alert-success">' +
+                  '<span class="glyphicon glyphicon-ok"></span>' +
+                  'You Have Insufficient Leave Days!!!' +
+                  '</div>');
+                 me[0].reset();
+
+               // close the message after seconds
+               $('.alert-success').delay(500).show(10, function() {
+                  $(this).delay(3000).hide(10, function() {
+                     $(this).remove();
+                  });
+               })
+              }
                $.each(response.messages, function(key, value) {
                   var element = $('#' + key);
                   
@@ -314,7 +342,7 @@
                   element.after(value);
                });
             }
-         }
+          }
       });
    });
 //********************************************************************************************//

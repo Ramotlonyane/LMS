@@ -123,10 +123,33 @@ class Leave_application_m extends CI_Model {
     public function update_all_user_leave_status($idrecord,$idstatus)
 	{
          $this->db->where('id', $idrecord);
-         $this->db->update('applicationData', array('idLeaveStatus'			=> $idstatus
+         $this->db->update('applicationData', array('idLeaveStatus'	=> $idstatus
                                            	 		));
          
          return true;
 	}
 
+	public function get_employee_leave_record($idEmployee, $idLeaveType) {
+		$this->db->select("lv.numberOfLeaves")
+				 ->from("leaverecord lv")
+				 ->where("lv.idEmployee", $idEmployee)
+				 ->where("lv.idLeaveType", $idLeaveType);
+
+		$result = $this->db->get();
+
+		if ($result->num_rows() > 0) {
+			return $result->row()->numberOfLeaves;
+		} else {
+			return false;
+		}
+	}
+
+	public function update_numberOfLeaves($idleaveType,$userID,$numberOfLeaves){
+		$this->db->where('idLeaveType', $idleaveType);
+		$this->db->where('idEmployee', $userID);
+		$this->db->update('leaverecord', array('numberOfLeaves'	=> $numberOfLeaves
+                                           	 		));
+         
+         return true;
+	}
 }

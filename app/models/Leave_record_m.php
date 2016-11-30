@@ -22,11 +22,10 @@ class Leave_record_m extends CI_Model {
 		$this->db->update('leaveRecord',array('bDeleted'=>1));
 	}
 
-	public function all_leave_record($subordinate,$sub_subordinate,$limit = 0)
+	public function all_leave_record($limit = 0)
 	{
 		$this->db->select('em.surname, lt.typeName, lv.numberOfLeaves, lv.description, lv.id');
 		$this->db->from('leaveRecord lv');
-		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
 		$this->db->where('lv.bDeleted', 0);
 		$this->db->join('employee as em','em.id = lv.idEmployee', 'left');
 		$this->db->join('leaveType as lt','lt.id = lv.idLeaveType','left');
@@ -35,20 +34,27 @@ class Leave_record_m extends CI_Model {
 		return $this->db->get();
 	}
 
-	public function count_leave_records($subordinate,$sub_subordinate)
+	public function count_leave_records($idEmployee=null, $idLeaveType=null)
 	{
 		$this->db->select('lv.*');
 		$this->db->from('leaveRecord lv');
-		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
 		$this->db->where('lv.bDeleted', 0);
-		$this->db->join('employee as em','em.id = lv.idEmployee', 'left');
-		return $this->db->count_all_results();		
+
+		if (!is_null($idEmployee)) {
+			$this->db->where('lv.idEmployee', $idEmployee);
+		}
+
+		if (!is_null($idLeaveType)) {
+			$this->db->where('lv.idLeaveType', $idLeaveType);
+		}
+
+		return $this->db->count_all_results();
 	}
-	public function get_Employee($subordinate,$sub_subordinate){
+
+	public function get_Employee(){
 		
 		$this->db->select('id, surname');
 		$this->db->from('Employee');
-		$this->db->where_in('idRole',array($subordinate,$sub_subordinate));
 		$result['all_employee'] = $this->db->get()->result();
 
 		return $result;

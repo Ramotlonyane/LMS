@@ -20,8 +20,32 @@
 
 
 <p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">Dear Mr./Mrs. <?php echo $recommender; ?>,</p>
-<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">The Details of the leave areas follow:</p>
+<p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 0;">The Details of the leave are as follows:</p>
 										
+									</td>
+								</tr>
+								<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; padding: 0; ">
+									<td style="text-align: center; background: #B2B2B2; color: #FFFFFF; font-size: 14px; margin: 0; padding: 0;">
+										<table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; border-collapse: collapse;background: #ffffff;">
+												<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+													<th>Applicant Name</th>
+													<th>Start Date</th>
+													<th>End Date</th>
+													<th>Application Date</th>
+													<th>Leave Type</th>
+													<th>Number Of Days</th>
+													<th>Leave Status</th>
+												</tr>
+												<tr>
+													<td><?php echo $applicantName; ?></td>
+													<td><?php echo $startDate; ?></td>
+													<td><?php echo $endDate; ?></td>
+													<td><?php echo $applicationDate; ?></td>   					
+													<td><?php echo $leaveTypename; ?></td>
+													<td><?php echo $numberOfDays; ?></td>   					
+													<td></td>
+												</tr>
+										</table>
 									</td>
 								</tr>
 							</table>

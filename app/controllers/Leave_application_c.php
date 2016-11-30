@@ -80,27 +80,36 @@ class Leave_application_c extends CI_Controller {
 				$startDate 			= $this->input->post('anualstartdate');
 				$endDate 			= $this->input->post('anualenddate');
 				$numberOfDays 		= $this->input->post('anualnwdays');
-				$leaveType 			= $this->input->post('leavetyppe');
+				$idleaveType 		= $this->input->post('leavetyppe');
 				$leavePurpose 		= $this->input->post('leavepurpose');
 
 				$application_data = array('startDate' 		=> $startDate,
 										'endDate' 			=> $endDate,
 										'numberOfDays' 		=> $numberOfDays,
-										'idLeaveType' 		=> $leaveType,
+										'idLeaveType' 		=> $idleaveType,
 										'applicationDate'	=> $application_date,
 										'idEmployee'		=> $userID,
 										'leavePurpose'		=> $leavePurpose,
 										);
 
-				$results = $this->Leave_application_m->insert_leave_application($application_data);
-				//$application_id = $this->db->insert_id();
+				$numberOfLeaves = $this->Leave_application_m->get_employee_leave_record($userID, $idleaveType);
 
+				if ($numberOfLeaves < $numberOfDays) {
+					$data['insufficient'] = true;
+				}else {
+					$results = $this->Leave_application_m->insert_leave_application($application_data);
+					//$application_id = $this->db->insert_id();
+					$numberOfLeaves-=$numberOfDays;
+
+					$res = $this->Leave_application_m->update_numberOfLeaves($idleaveType,$userID,$numberOfLeaves);
+					
 					if ($results){
 						$data['success'] = true;
 					}
 					else{
 						$data['success'] = false;
 					}
+				}
 		}
 		else {
 			foreach ($_POST as $key => $value) {
@@ -110,14 +119,18 @@ class Leave_application_c extends CI_Controller {
 
 		if (array_key_exists("success", $data) && $data['success'] === true) {
 
-				$query = $this->Leave_application_m->all_leave_application($userID);
+				$total_rows_leaveapplied		= $this->Leave_application_m->count_Leave_application($userID);
+				$data_view['pagination_links']  = ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/leaveappliedpagination", 3, '.all_leave_application_data');
+				$query  						= $this->Leave_application_m->all_leave_application($userID,$this->limit);
+				$data_view['query']				= $query;
+
 				$this->sendEmail($application_data);
 
 				$data_apply_leave['query'] = $query;
-				$data['html'] = $this->load->view("employee/apply_leave_sidebar", $data_apply_leave, true);
+				$data['html'] = $this->load->view("employee/apply_leave_sidebar", $data_view, true);
 				
 			}
-
+		ob_clean();
 		echo json_encode($data);
 
 		}else {
@@ -173,25 +186,31 @@ class Leave_application_c extends CI_Controller {
 
         foreach ($recommender_emails as $recommender_email) {
 
-        	$emailData = array('startDate' 		=> $data['startDate'],
-							'endDate' 			=> $data['endDate'],
-							'numberOfDays' 		=> $data['numberOfDays'],
-							'applicationDate'	=> $data['applicationDate'],
-							'leavePurpose'		=> $data['leavePurpose'],
-							'approver'			=> $recommender_email->surname,
-							'recommender'		=> $recommender_email->surname,
-					);
+        		foreach ($leaveTypename as $typename) {
+        			
+	        			$emailData = array('startDate' 		=> $data['startDate'],
+								'endDate' 			=> $data['endDate'],
+								'numberOfDays' 		=> $data['numberOfDays'],
+								'applicationDate'	=> $data['applicationDate'],
+								'leavePurpose'		=> $data['leavePurpose'],
+								'approver'			=> $recommender_email->surname,
+								'recommender'		=> $recommender_email->surname,
+								'applicantName'		=> $this->session->userdata('username'),
+								'leaveTypename'		=> $typename->typeName,
+						);
+	        		
 
-        	$message = $this->load->view('/email_template', $emailData, true);
+	        	$message = $this->load->view('/email_template', $emailData, true);
 
-        	$this->config->load('email', TRUE);
-	        //$this->email->initialize($config);
-	        $this->email->from($this->config->item('from_email', 'email'), $this->session->userdata('username'));
-	        $this->email->to($recommender_email->email);
-	        $this->email->cc($recommender_email->email);
-	        $this->email->subject('Leave Application for Recommendation/Approval');
-	        $this->email->message($message);
-	        $this->email->send();
+	        	$this->config->load('email', TRUE);
+		        //$this->email->initialize($config);
+		        $this->email->from($this->config->item('from_email', 'email'), $this->session->userdata('username'));
+		        $this->email->to($recommender_email->email);
+		        $this->email->cc($recommender_email->email);
+		        $this->email->subject('Leave Application for Recommendation/Approval');
+		        $this->email->message($message);
+		        $this->email->send();
+	        }
         }
 
     	}else {
@@ -200,7 +219,7 @@ class Leave_application_c extends CI_Controller {
     	
     }
 
-    public function test($offset=0)
+    public function leaveappliedstatuspagination($offset=0)
 	{
 		if($this->session->userdata('logged_in') == TRUE){
 			$userRole						= $this->session->userdata('idrole');
@@ -208,13 +227,31 @@ class Leave_application_c extends CI_Controller {
 			$sub_subordinate 				= $userRole + 2;
 
 			$total_rows_leaveapplied 		= $this->Leave_application_m->count_Leave_status($subordinate,$sub_subordinate);
-			$data['pagination_links'] 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/test", 3, '.applied_leave_status');
+			$data['pagination_links'] 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/leaveappliedpagination", 3, '.applied_leave_status');
 			
 			$leave_status_result 			= $this->Leave_application_m->get_leave_status();
 			$data['leavestatus'] 			= $leave_status_result['all_leave_status'];
 
 			$query = $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate,$this->limit);
 			$data['query'] = $query;
+			echo $this->load->view("manager/apply_leave_sidebar", $data, true);
+
+    	}else {
+			redirect('index.php/Auth');
+		}
+	}
+
+	public function leaveappliedpagination($offset=0)
+	{	
+
+		if($this->session->userdata('logged_in') == TRUE){
+			$userID 		= $this->session->userdata('id');
+
+			$total_rows_leaveapplied		= $this->Leave_application_m->count_Leave_application($userID);
+			$data['pagination_links']  	= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/leaveappliedpagination", 3, '.all_leave_application_data');
+			$query  						= $this->Leave_application_m->all_leave_application($userID,$this->limit);
+			$data['query']				= $query;
+
 			echo $this->load->view("manager/leave_applied", $data, true);
 
     	}else {

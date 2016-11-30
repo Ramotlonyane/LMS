@@ -56,17 +56,17 @@ class Auth extends CI_Controller {
 							'leave_report'				=> 'admin/leave_reports',
 							'user_report'				=> 'admin/user_reports',
 							'applied_leave'				=> 'manager/leave_applied',
-							'add_leave_record'			=> 'manager/add_leave_records',
-							'add_leave_record_sidebar'	=> 'manager/add_leave_record_sidebar',
-							'leave_record_reports'		=> 'manager/leave_records_reports',
+							'add_leave_record'			=> 'hrm/add_leave_records',
+							'add_leave_record_sidebar'	=> 'hrm/add_leave_record_sidebar',
+							'leave_record_reports'		=> 'hrm/leave_records_reports',
 							'home'						=> 'home'
 						 );
 
 			$queryEmployee 					= $this->Employee_m->all_Employee();
 			$total_rows 					= $this->Employee_m->count_Employee();
 
-			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($subordinate,$sub_subordinate,$this->limit);
-			$total_rows_records 			= $this->Leave_record_m->count_leave_records($subordinate,$sub_subordinate);
+			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($this->limit);
+			$total_rows_records 			= $this->Leave_record_m->count_leave_records();
 
 			$queryAppliedLeaveStatus		= $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate,$this->limit);
 			$total_rows_leavestatus 		= $this->Leave_application_m->count_Leave_status($subordinate,$sub_subordinate);
@@ -83,8 +83,8 @@ class Auth extends CI_Controller {
 			$pagination_links_leavetype 		= ajax_pagination($total_rows_leaveType, $this->limit);
 			$pagination_links_Mystatus 			= ajax_pagination($total_rows_Myleavestatus, $this->limit);
 			$pagination_links_status 			= ajax_pagination($total_rows_leavestatus, $this->limit);
-			$pagination_links_records 			= ajax_pagination($total_rows_records, $this->limit);
-			$pagination_links_leaveapplied 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/test", 3, '.applied_leave_status');
+			$pagination_links_records 			= ajax_pagination($total_rows_records, $this->limit, "/index.php/Leave_records_c/leaverecordspagination", 3, '.all_leave_record_container');
+			$pagination_links_leaveapplied 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/leaveappliedpagination", 3, '.applied_leave_status');
 
 			$data['pagination_data_leaveapplied']	= $pagination_links_leaveapplied;
 			$data['pagination_data_leaves']			= $pagination_links_leavetype;
@@ -104,7 +104,7 @@ class Auth extends CI_Controller {
 			$data['department'] 					= $department_result['all_department'];
 		
 		
-			$employee_result 		= $this->Leave_record_m->get_Employee($subordinate,$sub_subordinate);
+			$employee_result 		= $this->Leave_record_m->get_Employee();
 			$data['employee'] 		= $employee_result['all_employee'];
 
 

@@ -39,7 +39,7 @@
 <script type="text/javascript">
 	$(document).ready(function(){
 		
-		  $(document).on('click', '.btn_delete_record', function(){  
+		   $('.btn_delete_record').on('click', function () {  
 	           var id=$(this).data("deleterecord");
 	           if(confirm("Are you sure you want to delete this record?"))  
 		           {  
@@ -53,7 +53,9 @@
 		                        $(".all_leave_record_container").html(data);
 
 		                     }  
-		                });  
+		                }); 
+		                event.stopPropagation();
+        		event.preventDefault(); 
 		           }  
 		      });
 		});

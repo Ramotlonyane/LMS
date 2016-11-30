@@ -249,3 +249,18 @@
 [22-Nov-2016 22:14:23 GMT] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 34
 [22-Nov-2016 22:14:58 GMT] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 34
 [23-Nov-2016 09:23:45 GMT] PHP Fatal error:  Cannot use object of type stdClass as array in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 173
+[26-Nov-2016 00:04:18 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 106
+[26-Nov-2016 00:35:15 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 106
+[26-Nov-2016 00:36:54 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 106
+[26-Nov-2016 00:39:10 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 106
+[26-Nov-2016 10:44:00 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 108
+[26-Nov-2016 10:46:08 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 108
+[26-Nov-2016 10:49:30 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 108
+[26-Nov-2016 11:05:02 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 108
+[26-Nov-2016 11:06:23 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
+[26-Nov-2016 11:09:06 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
+[26-Nov-2016 11:09:09 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
+[26-Nov-2016 11:09:12 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 108
+[26-Nov-2016 11:18:33 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
+[26-Nov-2016 11:18:43 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
+[26-Nov-2016 11:31:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 89
