@@ -5,7 +5,8 @@
 			<th width="5%">No</th>
 			<th width="5%">Start Date</th>
 			<th width="15%">End Date</th>
-			<th width="5%">Application Date</th>    					
+			<th width="5%">Application Date</th>
+			<th width="15%">Leave Type</th>    					
 			<th width="15%">Number Of Days</th>
 		</tr>
 	</thead>
@@ -16,7 +17,8 @@
 				<td><?php echo $offset++ ?></td>
 				<td><?php echo $row->startDate; ?></td>
 				<td><?php echo $row->endDate; ?></td>
-				<td><?php echo $row->applicationDate; ?></td>   					
+				<td><?php echo $row->applicationDate; ?></td>
+				<td><?php echo $row->typeName; ?></td>   					
 				<td><?php echo $row->numberOfDays; ?></td>
 			</tr>
 		<?php endforeach; ?>

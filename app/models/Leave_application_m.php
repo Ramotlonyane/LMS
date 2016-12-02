@@ -4,13 +4,36 @@ class Leave_application_m extends CI_Model {
 
 	private $table = "applicationData";
 
-	public function all_leave_application($userID,$limit = 0){
-		$this->db->select('*');
-		$this->db->where('idEmployee',$userID);
-		$this->db->where('bDeleted', 0);
+	public function all_leave_application($userID,$limit = 0,$idLeaveType=null){
+
+		$this->db->select('ad.*, lt.typeName');
+		$this->db->from('applicationData ad');
+		$this->db->where('ad.idEmployee',$userID);
+		$this->db->where('ad.bDeleted', 0);
+		$this->db->join('leavetype lt','lt.id = ad.idLeaveType', 'left');
+		if (!is_null($idLeaveType)) {
+			$this->db->where('ad.idLeaveType', $idLeaveType);
+		}
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
-		return $this->db->get($this->table);
+		return $this->db->get();
+		
+	}
+	public function checkHash($hash){
+		
+		$this->db->select('ad.*, lt.typeName, ls.statusName, e.surname');
+		$this->db->from('applicationData ad');
+		$this->db->where('hash',$hash);
+		$this->db->join('leaveType lt', 'lt.id = ad.idLeaveType', 'left');
+		$this->db->join('leaveStatus ls', 'ls.id = ad.idLeaveType', 'left');
+		$this->db->join('employee e', 'e.id = ad.idEmployee', 'left');
+
+		$query = $this->db->get();
+		return $query->result();
+
+		//$query = $this->db->get_where('applicationData', array('hash'=>$hash));
+		//return $this->db->get();
+		//$result = $this->db->get()->result();
 	}
 
 	public function get_emails($recommender,$approver){

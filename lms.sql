@@ -54,7 +54,7 @@ INSERT INTO bar (description, foo_id) VALUES
 
 -- --------------------------------------------------------
 
-alter table employee add address varchar(100)
+alter table employee add address varchar(100) DEFAULT NULL
 alter table employee add bDeleted tinyint(1) DEFAULT 0
 ALTER TABLE `employee` CHANGE `bDeleted` `bDeleted` TINYINT(1) NULL DEFAULT '0';
 ALTER TABLE employee ADD UNIQUE (id)

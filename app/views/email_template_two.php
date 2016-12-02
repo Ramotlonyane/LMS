@@ -26,9 +26,9 @@
 								</tr>
 								<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; padding: 0; ">
 									<td style="text-align: center; background: #B2B2B2; color: #FFFFFF; font-size: 14px; margin: 0; padding: 0;">
-										<table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; border-collapse: collapse;background: #ffffff; color:#000000;">
+										<table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: 100%; margin: 0; border-collapse: collapse;background: #ffffff;">
 											<thead>
-												<tr valign="top" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+												<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
 													<th>Applicant Name</th>
 													<th>Start Date</th>
 													<th>End Date</th>
@@ -39,14 +39,15 @@
 												</tr>
 											</thead>
 											<tbody>
-												<tr valign="top" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
+												<tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0; padding: 0;">
 													<td><?php echo $applicantName; ?></td>
 													<td><?php echo $startDate; ?></td>
 													<td><?php echo $endDate; ?></td>
 													<td><?php echo $applicationDate; ?></td>   					
 													<td><?php echo $leaveTypename; ?></td>
-													<td><?php echo $numberOfDays; ?></td>
-													<td><a href="<?=site_url('index.php/Leave_application_c/validate_hash/'.$hash)?>">Approve Leave</a></td>
+													<td><?php echo $numberOfDays; ?></td>   			
+								<!--<td><?php echo "<a href='".base_url($hash)."'>URL</a>"; ?></td>-->
+													<td></td>
 												</tr>
 											</tbody>	
 										</table>

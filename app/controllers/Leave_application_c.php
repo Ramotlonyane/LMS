@@ -89,7 +89,9 @@ class Leave_application_c extends CI_Controller {
 										'idLeaveType' 		=> $idleaveType,
 										'applicationDate'	=> $application_date,
 										'idEmployee'		=> $userID,
+										'bDeleted'			=>	0,
 										'leavePurpose'		=> $leavePurpose,
+										'hash'				=> hash("sha256", $application_date.$userID),
 										);
 
 				$numberOfLeaves = $this->Leave_application_m->get_employee_leave_record($userID, $idleaveType);
@@ -99,11 +101,12 @@ class Leave_application_c extends CI_Controller {
 				}else {
 					$results = $this->Leave_application_m->insert_leave_application($application_data);
 					//$application_id = $this->db->insert_id();
-					$numberOfLeaves-=$numberOfDays;
+					//$numberOfLeaves-=$numberOfDays;
 
-					$res = $this->Leave_application_m->update_numberOfLeaves($idleaveType,$userID,$numberOfLeaves);
+					//$res = $this->Leave_application_m->update_numberOfLeaves($idleaveType,$userID,$numberOfLeaves);
 					
 					if ($results){
+						
 						$data['success'] = true;
 					}
 					else{
@@ -121,11 +124,10 @@ class Leave_application_c extends CI_Controller {
 
 				$total_rows_leaveapplied		= $this->Leave_application_m->count_Leave_application($userID);
 				$data_view['pagination_links']  = ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/leaveappliedpagination", 3, '.all_leave_application_data');
-				$query  						= $this->Leave_application_m->all_leave_application($userID,$this->limit);
+				$query  						= $this->Leave_application_m->all_leave_application($userID,$this->limit,$idleaveType);
 				$data_view['query']				= $query;
 
 				$this->sendEmail($application_data);
-
 				$data_apply_leave['query'] = $query;
 				$data['html'] = $this->load->view("employee/apply_leave_sidebar", $data_view, true);
 				
@@ -135,6 +137,25 @@ class Leave_application_c extends CI_Controller {
 
 		}else {
 			redirect('index.php/Auth');
+		}
+	}
+	public function validate_hash(){
+
+		$url_hash = $this->uri->segment(3);
+		$result = $this->Leave_application_m->checkHash($url_hash);
+
+		if ($result != null){
+
+			$leave_status_result 			= $this->Leave_application_m->get_leave_status();
+			$data['leavestatus'] 			= $leave_status_result['all_leave_status'];
+
+			$data['query']					= $result;
+			$this->load->view("header");
+			$this->load->view("manager/email_leave_applied", $data);
+			$this->load->view("footer");
+
+		}else{
+			echo "You are not allowed to perform this action, Please contact the system administrator!!!";
 		}
 	}
 	public function all_user_leave_status($idrecord)
@@ -187,7 +208,7 @@ class Leave_application_c extends CI_Controller {
         foreach ($recommender_emails as $recommender_email) {
 
         		foreach ($leaveTypename as $typename) {
-        			
+
 	        			$emailData = array('startDate' 		=> $data['startDate'],
 								'endDate' 			=> $data['endDate'],
 								'numberOfDays' 		=> $data['numberOfDays'],
@@ -197,19 +218,24 @@ class Leave_application_c extends CI_Controller {
 								'recommender'		=> $recommender_email->surname,
 								'applicantName'		=> $this->session->userdata('username'),
 								'leaveTypename'		=> $typename->typeName,
+								'hash'				=> $data['hash'],
+								'userID'			=> $data['idEmployee'],
+								//'hash'              => hash("sha256", $data['applicationDate'].$data['idEmployee'])
 						);
 	        		
 
 	        	$message = $this->load->view('/email_template', $emailData, true);
 
 	        	$this->config->load('email', TRUE);
-		        //$this->email->initialize($config);
+
 		        $this->email->from($this->config->item('from_email', 'email'), $this->session->userdata('username'));
+
 		        $this->email->to($recommender_email->email);
 		        $this->email->cc($recommender_email->email);
 		        $this->email->subject('Leave Application for Recommendation/Approval');
 		        $this->email->message($message);
 		        $this->email->send();
+		        echo $this->email->print_debugger();     		        
 	        }
         }
 

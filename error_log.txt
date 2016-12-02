@@ -264,3 +264,43 @@
 [26-Nov-2016 11:18:33 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
 [26-Nov-2016 11:18:43 Europe/Berlin] PHP Fatal error:  Call to undefined function ajax_pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 125
 [26-Nov-2016 11:31:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\LMS\app\controllers\Leave_records_c.php on line 89
+[30-Nov-2016 16:25:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 21
+[30-Nov-2016 16:26:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 21
+[30-Nov-2016 18:13:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 175
+[30-Nov-2016 18:16:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 213
+[01-Dec-2016 14:40:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 216
+[01-Dec-2016 18:20:19 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 2218
+[01-Dec-2016 18:49:22 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\core\Common.php on line 599
+[01-Dec-2016 18:54:15 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\core\Common.php on line 599
+[01-Dec-2016 18:59:59 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 2218
+[01-Dec-2016 19:03:00 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\core\Common.php on line 599
+[01-Dec-2016 20:41:55 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\core\Common.php on line 599
+[01-Dec-2016 20:44:01 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\core\Common.php on line 599
+[01-Dec-2016 20:45:02 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\core\Common.php on line 599
+[02-Dec-2016 20:03:25 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
+[02-Dec-2016 20:15:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 149
+[02-Dec-2016 20:28:41 Europe/Berlin] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 148
+[02-Dec-2016 20:33:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected ''startDate'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 151
+[02-Dec-2016 20:33:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected ''startDate'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 151
+[02-Dec-2016 20:41:26 Europe/Berlin] PHP Fatal error:  Call to undefined method stdClass::num_rows() in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 146
+[02-Dec-2016 20:47:38 Europe/Berlin] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
+[02-Dec-2016 20:48:39 Europe/Berlin] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
+[02-Dec-2016 20:54:01 Europe/Berlin] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 21:08:19 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 21:08:33 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 21:08:48 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 21:09:39 Europe/Berlin] PHP Fatal error:  Call to undefined method stdClass::result() in C:\xampp\htdocs\LMS\app\views\manager\leave_applied.php on line 17
+[02-Dec-2016 22:04:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 142
+[02-Dec-2016 22:05:37 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 22:07:17 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 22:16:21 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 22:49:54 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 22:50:16 Europe/Berlin] PHP Fatal error:  Call to a member function row() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 24
+[02-Dec-2016 23:00:09 Europe/Berlin] PHP Fatal error:  Call to undefined method stdClass::result() in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 23:00:54 Europe/Berlin] PHP Fatal error:  Call to undefined method stdClass::result() in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 23:05:21 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 23:05:42 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 23:06:04 Europe/Berlin] PHP Fatal error:  Call to undefined method stdClass::result() in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 23:08:59 Europe/Berlin] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
+[02-Dec-2016 23:30:20 Europe/Berlin] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 30
+[02-Dec-2016 23:31:23 Europe/Berlin] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 29
