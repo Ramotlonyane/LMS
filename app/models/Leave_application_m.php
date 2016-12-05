@@ -24,6 +24,7 @@ class Leave_application_m extends CI_Model {
 		$this->db->select('ad.*, lt.typeName, ls.statusName, e.surname');
 		$this->db->from('applicationData ad');
 		$this->db->where('hash',$hash);
+		$this->db->where('ad.idLeaveStatus', 1);
 		$this->db->join('leaveType lt', 'lt.id = ad.idLeaveType', 'left');
 		$this->db->join('leaveStatus ls', 'ls.id = ad.idLeaveType', 'left');
 		$this->db->join('employee e', 'e.id = ad.idEmployee', 'left');
@@ -87,7 +88,7 @@ class Leave_application_m extends CI_Model {
 	}
 
 	public function all_applied_leave_status($subordinate,$sub_subordinate,$limit = 0){
-		$this->db->select('ap.startDate, ap.endDate, ap.id, ap.applicationDate, ap.numberOfDays, lt.typeName, ls.statusName,em.surname');
+		$this->db->select('ap.startDate, ap.endDate, ap.id, ap.applicationDate, ap.numberOfDays, lt.typeName, ls.statusName,em.surname, em.id as idEmployee, lt.id as idLeaveType');
 		$this->db->from('applicationData ap');
 		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
 		$this->db->where('ap.bDeleted', 0);

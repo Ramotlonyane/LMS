@@ -33,7 +33,7 @@
                         }
                       ?>   
                    </select></td>
-                   <td><button type="button" name="leavestats" data-idrecord="<?=$row->id?>" class="btn btn-xs btn btn-warning btn_leavestats">submit</button></td>
+                   <td><button type="button" name="leavestats" data-idleavetype="<?=$row->idLeaveType?>" data-idrecord="<?=$row->id?>" data-numberofdays="<?=$row->numberOfDays?>" data-idemp="<?=$row->idEmployee?>" class="btn btn-xs btn btn-warning btn_leavestats">submit</button></td>
 			</tr>
 		<?php endforeach; ?>
 	</tbody>
@@ -61,8 +61,11 @@
 
 		    $('.btn_leavestats').on('click', function () {
   
-            var idrecord = $(this).data("idrecord");
-            var idstatus = $(this).closest("tr").find("#leavestatus").val();
+            var idrecord        = $(this).data("idrecord");
+            var idLeaveType     = $(this).data("idleavetype");
+            var idemp           = $(this).data("idemp");
+            var NumberOfDays    = $(this).data("numberofdays");
+            var idstatus        = $(this).closest("tr").find("#leavestatus").val();
 
             if(idstatus)  
            {  
@@ -71,7 +74,7 @@
                     $.ajax({  
                        url:"index.php/Leave_application_c/all_user_leave_status/"+idrecord,
                        method:"POST",  
-                       data:{idrecord:idrecord, idstatus:idstatus },  
+                       data:{idrecord:idrecord, idstatus:idstatus, idemp:idemp, idLeaveType:idLeaveType, NumberOfDays:NumberOfDays },  
                        dataType:"text",  
                        success:function(data){  
 

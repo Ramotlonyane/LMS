@@ -62,7 +62,7 @@ class Auth extends CI_Controller {
 							'home'						=> 'home'
 						 );
 
-			$queryEmployee 					= $this->Employee_m->all_Employee();
+			$queryEmployee 					= $this->Employee_m->all_Employee($this->limit);
 			$total_rows 					= $this->Employee_m->count_Employee();
 
 			$queryLeaveRecord 				= $this->Leave_record_m->all_leave_record($this->limit);
@@ -79,10 +79,12 @@ class Auth extends CI_Controller {
 
 			$queryLeaveType 				= $this->Leave_type_m->all($this->limit);
 			$total_rows_leaveType 			= $this->Leave_type_m->count();
-			
+
+					
 			$pagination_links_leavetype 		= ajax_pagination($total_rows_leaveType, $this->limit);
 			$pagination_links_Mystatus 			= ajax_pagination($total_rows_Myleavestatus, $this->limit);
 			$pagination_links_status 			= ajax_pagination($total_rows_leavestatus, $this->limit);
+			$pagination_links_employee 			= ajax_pagination($total_rows, $this->limit, "/index.php/Employee_c/employeepagination", 3, '.all_employee_container');	
 			$pagination_links_records 			= ajax_pagination($total_rows_records, $this->limit, "/index.php/Leave_records_c/leaverecordspagination", 3, '.all_leave_record_container');
 			$pagination_links_leaveapplied 		= ajax_pagination($total_rows_leaveapplied, $this->limit, "/index.php/Leave_application_c/leaveappliedpagination", 3, '.applied_leave_status');
 
@@ -91,6 +93,7 @@ class Auth extends CI_Controller {
 			$data['pagination_data_records']		= $pagination_links_records;
 			$data['pagination_data_status']			= $pagination_links_status;
 			$data['pagination_data_Mystatus']		= $pagination_links_Mystatus;
+			$data['pagination_data_employee']		= $pagination_links_employee;
 
 
 			$data['all_employee_data'] 				= $queryEmployee;

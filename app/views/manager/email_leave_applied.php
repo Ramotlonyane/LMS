@@ -33,7 +33,7 @@
                         }
                       ?>   
                    </select></td>
-                   <td><button type="button" name="leavestats" data-idrecord_email="<?=$row->id?>" class="btn btn-xs btn btn-warning btn_leavestats_email">submit</button></td>
+                   <td><button type="button" name="leavestats" data-idleavetype="<?=$row->idLeaveType?>" data-idrecord_email="<?=$row->id?>" data-numberofdays="<?=$row->numberOfDays?>" data-idemp="<?=$row->idEmployee?>" class="btn btn-xs btn btn-warning btn_leavestats_email">submit</button></td>
 			</tr>
 		<?php endforeach; ?>
 	</tbody>
@@ -61,17 +61,20 @@
 
 		    $('.btn_leavestats_email').on('click', function () {
   
-            var idrecord = $(this).data("idrecord_email");
-            var idstatus = $(this).closest("tr").find("#leavestatus_email").val();
+            var idrecord        = $(this).data("idrecord_email");
+            var idLeaveType     = $(this).data("idleavetype");
+            var idemp           = $(this).data("idemp");
+            var NumberOfDays    = $(this).data("numberofdays");
+            var idstatus        = $(this).closest("tr").find("#leavestatus_email").val();
 
             if(idstatus)  
            {  
                  if(confirm("Are you sure you want to change this leave status?"))
                  {
                     $.ajax({  
-                       url:"index.php/Leave_application_c/all_user_leave_status/"+idrecord,
+                       url:"<?=base_url();?>"+"index.php/Leave_application_c/email_approve_leave/"+idrecord+"/"+"<?=$this->uri->segment(3)?>",
                        method:"POST",  
-                       data:{idrecord:idrecord, idstatus:idstatus },  
+                       data:{idrecord:idrecord, idstatus:idstatus, idemp:idemp, idLeaveType:idLeaveType, NumberOfDays:NumberOfDays },  
                        dataType:"text",  
                        success:function(data){  
 

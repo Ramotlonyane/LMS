@@ -304,3 +304,4 @@
 [02-Dec-2016 23:08:59 Europe/Berlin] PHP Fatal error:  Call to a member function result() on array in C:\xampp\htdocs\LMS\app\views\manager\email_leave_applied.php on line 17
 [02-Dec-2016 23:30:20 Europe/Berlin] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 30
 [02-Dec-2016 23:31:23 Europe/Berlin] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 29
+[05-Dec-2016 10:20:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 164

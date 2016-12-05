@@ -100,10 +100,6 @@ class Leave_application_c extends CI_Controller {
 					$data['insufficient'] = true;
 				}else {
 					$results = $this->Leave_application_m->insert_leave_application($application_data);
-					//$application_id = $this->db->insert_id();
-					//$numberOfLeaves-=$numberOfDays;
-
-					//$res = $this->Leave_application_m->update_numberOfLeaves($idleaveType,$userID,$numberOfLeaves);
 					
 					if ($results){
 						
@@ -127,7 +123,7 @@ class Leave_application_c extends CI_Controller {
 				$query  						= $this->Leave_application_m->all_leave_application($userID,$this->limit,$idleaveType);
 				$data_view['query']				= $query;
 
-				$this->sendEmail($application_data);
+				$this->sendEmail_approve($application_data);
 				$data_apply_leave['query'] = $query;
 				$data['html'] = $this->load->view("employee/apply_leave_sidebar", $data_view, true);
 				
@@ -156,6 +152,35 @@ class Leave_application_c extends CI_Controller {
 
 		}else{
 			echo "You are not allowed to perform this action, Please contact the system administrator!!!";
+			die();
+		}
+	}
+	public function email_approve_leave($idrecord, $hash){
+		$result = $this->Leave_application_m->checkHash($hash);
+
+		if ($result != null){
+
+			if(!empty($_POST['idstatus'])){
+				$idstatus			= $this->input->post('idstatus');
+				$idemp				= $this->input->post('idemp');
+				$idLeaveType 		= $this->input->post('idLeaveType');
+				$numberOfDays 		= $this->input->post('NumberOfDays');	
+
+				if($this->Leave_application_m->update_all_user_leave_status($idrecord,$idstatus)){
+
+						$numberOfLeaves 	= $this->Leave_application_m->get_employee_leave_record($idemp, $idLeaveType);
+			    		$numberOfLeaves-=$numberOfDays;
+			    		$res = $this->Leave_application_m->update_numberOfLeaves($idLeaveType,$idemp,$numberOfLeaves);
+
+					echo "Leave Status Changed Successfully!!!";
+				}
+				else{
+					echo "Leave Status Already Changed!!!";
+				}
+			}else{
+				echo "Please select leave status";
+			}
+
 		}
 	}
 	public function all_user_leave_status($idrecord)
@@ -169,15 +194,29 @@ class Leave_application_c extends CI_Controller {
 			if(!empty($_POST['idstatus'])){
 
 			$idstatus			= $this->input->post('idstatus');
+			$idemp				= $this->input->post('idemp');
+			$idLeaveType 		= $this->input->post('idLeaveType');
+			$numberOfDays 		= $this->input->post('NumberOfDays');	
 
 
 				if($this->Leave_application_m->update_all_user_leave_status($idrecord,$idstatus))
 			    	{
+			    		$numberOfLeaves 	= $this->Leave_application_m->get_employee_leave_record($idemp, $idLeaveType);
+			    		$numberOfLeaves-=$numberOfDays;
+			    		$res = $this->Leave_application_m->update_numberOfLeaves($idLeaveType,$idemp,$numberOfLeaves);
+			    		//$this->sendEmail_notification();
 			    		
-			        	$query = $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate);
+			        	$total_rows_leavestatus 		= $this->Leave_application_m->count_Leave_status($subordinate,$sub_subordinate);
+			        	$data['pagination_links'] 			= ajax_pagination($total_rows_leavestatus, $this->limit, "/index.php/Leave_application_c/leaveappliedstatuspagination", 3, '.applied_leave_status');
 
+			        	$leave_status_result 			= $this->Leave_application_m->get_leave_status();
+						$data['leavestatus'] 			= $leave_status_result['all_leave_status'];
+
+			        	$query = $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate,$this->limit);
 						$data['query'] = $query;
-						$this->load->view("manager/leave_applied", $data);
+
+
+						echo $this->load->view("manager/leave_applied", $data, TRUE);
 			    	}
 			    	else{
 			        	echo "Leave not edited";
@@ -190,8 +229,11 @@ class Leave_application_c extends CI_Controller {
 			redirect('index.php/Auth');
 		}
 	}
+	function sendEmail_notification(){
 
-	function sendEmail($data)
+	}
+
+	function sendEmail_approve($data)
     {	
 
     	if($this->session->userdata('logged_in') == TRUE){
@@ -260,7 +302,7 @@ class Leave_application_c extends CI_Controller {
 
 			$query = $this->Leave_application_m->all_applied_leave_status($subordinate,$sub_subordinate,$this->limit);
 			$data['query'] = $query;
-			echo $this->load->view("manager/apply_leave_sidebar", $data, true);
+			echo $this->load->view("manager/leave_applied", $data, true);
 
     	}else {
 			redirect('index.php/Auth');

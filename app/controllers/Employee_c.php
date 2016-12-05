@@ -18,10 +18,13 @@ class Employee_c extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
-
+	private $limit = 10;
 	function __construct(){
 		parent:: __construct();
 		$this->load->model('Employee_m');
+		$this->load->library('pagination');
+		$this->load->library('ajax_pagination');
+		$this->load->helper('app');
 	}
 	public function index()
 	{
@@ -44,6 +47,7 @@ class Employee_c extends CI_Controller {
 		$this->form_validation->set_rules("address", "Address", "trim|required");
 		$this->form_validation->set_rules("telnum", "Tel No", "trim|required|regex_match[/^[0-9]{10}$/]'");
 		$this->form_validation->set_rules("initial", "Initial", "trim|required");
+		$this->form_validation->set_rules("email", "Email", "trim|required|valid_email");
 		$this->form_validation->set_rules("department", "Department", "trim|required");
 		$this->form_validation->set_rules("component", "Component", "trim|required");
 		$this->form_validation->set_rules("casual", "Casual Worker", "trim|required");
@@ -62,6 +66,7 @@ class Employee_c extends CI_Controller {
 				$password = sha1($this->input->post('password'));
 
 				$employee_data = array(	'surname' 			=> $this->input->post('surname'),
+										'email' 			=> $this->input->post('email'),
 										'initial' 			=> $this->input->post('initial'),
 										'telephone' 		=> $this->input->post('telnum'),
 										'address' 			=> $this->input->post('address'),
@@ -92,19 +97,39 @@ class Employee_c extends CI_Controller {
 
 		if (array_key_exists("success", $data) && $data['success'] === true) {
 
-				$query = $this->Employee_m->all_Employee();
+				$total_rows 					= $this->Employee_m->count_Employee();
+				$data_employee['pagination_links'] 		= ajax_pagination($total_rows, $this->limit, "/index.php/Employee_c/employeepagination", 3, '.all_employee_container');
+
+				$query = $this->Employee_m->all_Employee($this->limit);
 
 				$data_employee['query'] = $query;
 
 				$data['html'] = $this->load->view("admin/add_user_sidebar", $data_employee, true);
 			}
-
+			
+		ob_clean();
 		echo json_encode($data);
 
 		}else {
 			redirect('index.php/Auth');
 		}
 
+	}
+
+	public function employeepagination($offset=0){
+
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
+
+			$total_rows 					= $this->Employee_m->count_Employee();
+			$data['pagination_links'] 		= ajax_pagination($total_rows, $this->limit, "/index.php/Employee_c/employeepagination", 3, '.all_employee_container');
+
+			$data['query']			= $this->Employee_m->all_Employee($this->limit);
+
+			echo $this->load->view("admin/add_user_sidebar", $data, true);
+
+    	}else {
+			redirect('index.php/Auth');
+		}
 	}
 	public function delete_Employee()
 	{

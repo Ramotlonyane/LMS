@@ -19,9 +19,12 @@ class Employee_m extends CI_Model {
 
     public function all_Employee($limit = 0)
 	{
+		$this->db->select('*');
+		$this->db->from('employee');
+		$this->db->where('bDeleted',0);
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
-		return $this->db->get($this->table);
+		return $this->db->get();
 	}
 	public function get_Role(){
 		
@@ -42,7 +45,7 @@ class Employee_m extends CI_Model {
 	public function get_Component(){
 		
 		$this->db->select('id, componentName');
-		$this->db->from('Component');
+		$this->db->from('component');
 		$result['all_component'] = $this->db->get()->result();
 
 		return $result;
@@ -50,7 +53,10 @@ class Employee_m extends CI_Model {
 
 	public function count_Employee()
 	{
-		return $this->db->count_all_results($this->table);		
+		$this->db->select('*');
+		$this->db->from('employee');
+		$this->db->where('bDeleted',0);
+		return $this->db->count_all_results();		
 	}
 
 	public function remove_Employee()

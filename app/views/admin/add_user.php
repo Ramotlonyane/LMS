@@ -36,6 +36,13 @@
                 </div> 
              </div>
 
+             <div class="form-group data">
+                   <label class="control-label col-md-12 col-sm-12" for="email">Email:</label>
+                <div class="col-md-12 col-sm-12 input-container">
+                   <input type="email" name="email" id="email" class="form-control">                    
+                </div> 
+             </div>
+
               <div class="form-group data">
                    <label class="control-label col-md-12 col-sm-12" for="password">Password:</label>
                 <div class="col-md-12 col-sm-12 input-container">

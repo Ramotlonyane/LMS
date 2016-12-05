@@ -82,8 +82,8 @@
                      <div class="col-md-3">
                         <?php $this->load->view($add_user); ?>
                      </div>
-                     <div class="col-md-9 all_employee_container">
-                        <?php $this->load->view($add_user_sidebar, array("query" => $all_employee_data)); ?>
+                     <div class="col-md-9 all_employee_container resultTable">
+                        <?php $this->load->view($add_user_sidebar, array("query" => $all_employee_data, 'pagination_links' => $pagination_data_employee)); ?>
                      </div>
                   </div>
 
