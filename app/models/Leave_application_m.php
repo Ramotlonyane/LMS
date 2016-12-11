@@ -41,21 +41,86 @@ class Leave_application_m extends CI_Model {
 
 		$this->db->select('email, surname');
 		$this->db->from('employee');
-		$this->db->where_in('idRole',array($recommender,$approver));
 		$this->db->where('bDeleted', 0);
+		$this->db->where_in('idRole',array($recommender,$approver));
 
 		$query = $this->db->get();
 		return $query->result();
 	}
+	public function get_subemail($idemp){
+
+		$this->db->select('email')
+				 ->from('employee')
+				 ->where('id', $idemp)
+				 ->where('bDeleted', 0);
+
+		$result = $this->db->get();
+
+		if ($result->num_rows() > 0) {
+			return $result->row()->email;
+		} else {
+			return false;
+		}
+	}
+	public function get_name($idemp){
+
+		$this->db->select('surname')
+				 ->from('employee')
+				 ->where('id', $idemp)
+				 ->where('bDeleted', 0);
+
+		$result = $this->db->get();
+
+		if ($result->num_rows() > 0) {
+			return $result->row()->surname;
+		} else {
+			return false;
+		}
+	}
 	public function get_leaveTypename($idLeaveType){
 
-		$this->db->select('typeName');
-		$this->db->from('leavetype');
-		$this->db->where('id', $idLeaveType);
-		$this->db->where('bDeleted', 0);
+		$this->db->select('typeName')
+				 ->from('leavetype')
+				 ->where('id', $idLeaveType)
+				 ->where('bDeleted', 0);
 
-		$query = $this->db->get();
-		return $query->result();
+		$result = $this->db->get();
+
+		if ($result->num_rows() > 0) {
+			return $result->row()->typeName;
+		} else {
+			return false;
+		}
+	}
+	public function get_employee_leave_record($idEmployee, $idLeaveType) {
+		$this->db->select("lv.numberOfLeaves")
+				 ->from("leaverecord lv")
+				 ->where("lv.idEmployee", $idEmployee)
+				 ->where('bDeleted', 0)
+				 ->where("lv.idLeaveType", $idLeaveType);
+
+		$result = $this->db->get();
+
+		if ($result->num_rows() > 0) {
+			return $result->row()->numberOfLeaves;
+		} else {
+			return false;
+		}
+	}
+	public function	get_leaveStatusname($idLeaveStatus){
+
+		$this->db->select('statusName')
+				->from('leavestatus')
+				->where('id', $idLeaveStatus)
+				->where('bDeleted', 0);
+
+		$result = $this->db->get();
+
+		if ($result->num_rows() > 0) {
+			return $result->row()->statusName;
+		} else {
+			return false;
+		}
 	}
 	public function count_Leave_application($userID){
 
@@ -111,8 +176,6 @@ class Leave_application_m extends CI_Model {
 		$this->db->offset($this->uri->segment(3));
 		return $this->db->get();
 	}
-
-	
 	public function get_Leavetype(){
 		
 		$this->db->select('id, typeName');
@@ -151,21 +214,6 @@ class Leave_application_m extends CI_Model {
                                            	 		));
          
          return true;
-	}
-
-	public function get_employee_leave_record($idEmployee, $idLeaveType) {
-		$this->db->select("lv.numberOfLeaves")
-				 ->from("leaverecord lv")
-				 ->where("lv.idEmployee", $idEmployee)
-				 ->where("lv.idLeaveType", $idLeaveType);
-
-		$result = $this->db->get();
-
-		if ($result->num_rows() > 0) {
-			return $result->row()->numberOfLeaves;
-		} else {
-			return false;
-		}
 	}
 
 	public function update_numberOfLeaves($idleaveType,$userID,$numberOfLeaves){

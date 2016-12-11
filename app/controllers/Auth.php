@@ -35,8 +35,8 @@ class Auth extends CI_Controller {
 		{
 			$data_navbar["username"] = $this->session->userdata('username');
 
-			$this->load->view("header");
-			$this->load->view('navbar', $data_navbar);
+			$this->load->view("/backoffice/header");
+			$this->load->view('/backoffice/navbar', $data_navbar);
 
 			//Search by User Role
 			$userRole						= $this->session->userdata('idrole');
@@ -81,7 +81,7 @@ class Auth extends CI_Controller {
 			$total_rows_leaveType 			= $this->Leave_type_m->count();
 
 					
-			$pagination_links_leavetype 		= ajax_pagination($total_rows_leaveType, $this->limit);
+			$pagination_links_leavetype 		= ajax_pagination($total_rows_leaveType, $this->limit, "/index.php/Leave_type_c/leavetypespagination", 3, '.all_leave_type_container');
 			$pagination_links_Mystatus 			= ajax_pagination($total_rows_Myleavestatus, $this->limit);
 			$pagination_links_status 			= ajax_pagination($total_rows_leavestatus, $this->limit);
 			$pagination_links_employee 			= ajax_pagination($total_rows, $this->limit, "/index.php/Employee_c/employeepagination", 3, '.all_employee_container');	
@@ -123,8 +123,8 @@ class Auth extends CI_Controller {
 			$leave_status_result 			= $this->Leave_application_m->get_leave_status();
 			$data['leavestatus'] 			= $leave_status_result['all_leave_status'];
 			
-			$this->load->view("dashboard", $data);
-			$this->load->view("footer");
+			$this->load->view("/backoffice/dashboard", $data);
+			$this->load->view("/backoffice/footer");
 		}
 		else{ 
 			$this->login();
@@ -133,9 +133,9 @@ class Auth extends CI_Controller {
 
 	function login()
 	{
-		$this->load->view('header');
+		//$this->load->view('auth_header');
 		$this->load->view('auth');
-		$this->load->view('footer');
+		//$this->load->view('auth_footer');
 	}
 
 	public function logged_in_check()

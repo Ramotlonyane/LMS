@@ -1,5 +1,5 @@
 <div class="the-leave-status"></div>
-<table class="table table-stiped table-bordered">
+<table class="table table-stiped table-bordered Status_Table">
 	<thead>
 		<tr>
 			<th width="5%">No</th>
@@ -89,6 +89,7 @@
                           setTimeout(function(){
                              $('.alert-success').hide();
                           }, 3000);
+                          $('table.Status_Table').hide();
                        }  
                     });
                   event.stopPropagation();

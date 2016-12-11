@@ -28,13 +28,18 @@ class Leave_type_m extends CI_Model {
 
 	public function count()
 	{
+		$this->db->where('bDeleted', 0);
 		return $this->db->count_all_results($this->table);		
 	}
 
 	public function remove_LeaveType($id)
 	{
 		$this->db->where('id', $id);
-		$this->db->update('leaveType',array('bDeleted'=>1));
+		if ($this->db->update('leaveType',array('bDeleted'=>1))) {
+			return true;
+		}else{
+			return false;
+		}
         //$this->db->delete('leaveType');
 	}
 	public function update_LeaveType($data)

@@ -23,6 +23,9 @@ class Leave_type_c extends CI_Controller {
 		parent:: __construct();
 		$this->load->model('Leave_type_m');
 		$this->load->library('form_validation');
+		$this->load->library('pagination');
+		$this->load->library('ajax_pagination');
+		$this->load->helper('app');
 	}
 	public function index()
 	{
@@ -72,16 +75,14 @@ class Leave_type_c extends CI_Controller {
 
 			if (array_key_exists("success", $data) && $data['success'] === true) {
 
-				$query 						= $this->Leave_type_m->all($this->limit);
-				$total_rows_leaveType 		= $this->Leave_type_m->count();
-				$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
+				$total_rows_leaveType			= $this->Leave_type_m->count();
+				$data['pagination_links'] 		= ajax_pagination($total_rows_leaveType, $this->limit, "/index.php/Leave_type_c/leavetypespagination", 3, '.all_leave_type_container');
 
-				$data['pagination_links']	= $pagination_links_records;
-				$data_leave['query'] = $query;
+				$data['query']					= $this->Leave_type_m->all($this->limit);
 
-				$data['html'] = $this->load->view("admin/all_leave_type", $data_leave, true);
+				$data['html'] = $this->load->view("admin/all_leave_type", $data, true);
 			}
-			
+			ob_clean();
 			echo json_encode($data);
 		}
 		else {
@@ -98,17 +99,17 @@ class Leave_type_c extends CI_Controller {
 	public function delete_LeaveType($id)
 	{
 		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
+				
+			if ($this->Leave_type_m->remove_LeaveType($id)) {
+
+				$total_rows_leaveType			= $this->Leave_type_m->count();
+				$data['pagination_links'] 		= ajax_pagination($total_rows_leaveType, $this->limit, "/index.php/Leave_type_c/leavetypespagination", 3, '.all_leave_type_container');
+
+				$data['query']					= $this->Leave_type_m->all($this->limit);
+
+				$this->load->view("admin/all_leave_type", $data);
+			}
 			
-			$this->Leave_type_m->remove_LeaveType($id);
-
-			$query 						= $this->Leave_type_m->all($this->limit);
-			$total_rows_leaveType 		= $this->Leave_type_m->count();
-			$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
-
-			$data['pagination_links']	= $pagination_links_records;
-			$data['query'] 				= $query;
-			$this->load->view("admin/all_leave_type", $data);
-
 		}else {
 			redirect('index.php/Auth');
 		}
@@ -132,12 +133,11 @@ class Leave_type_c extends CI_Controller {
 
 				if($this->Leave_type_m->update_LeaveType($data))
 			    	{
-			        	$query 						= $this->Leave_type_m->all($this->limit);
-						$total_rows_leaveType 		= $this->Leave_type_m->count();
-						$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
+			        	$total_rows_leaveType			= $this->Leave_type_m->count();
+						$data['pagination_links'] 		= ajax_pagination($total_rows_leaveType, $this->limit, "/index.php/Leave_type_c/leavetypespagination", 3, '.all_leave_type_container');
 
-						$data['pagination_links']	= $pagination_links_records;
-						$data['query'] = $query;
+						$data['query']					= $this->Leave_type_m->all($this->limit);
+
 						$this->load->view("admin/all_leave_type", $data);
 			    	}
 			    	else{
@@ -166,9 +166,7 @@ class Leave_type_c extends CI_Controller {
 	                      );
 			$query 						= $this->Leave_type_m->all($this->limit);
 			$total_rows_leaveType 		= $this->Leave_type_m->count();
-			$pagination_links_records 	= pagination($total_rows_leaveType, $this->limit);
-
-			$data['pagination_links']	= $pagination_links_records;
+			$data['pagination_links'] 	= ajax_pagination($total_rows_leaveType, $this->limit, "/index.php/Leave_type_c/leavetypespagination", 3, '.all_leave_type_container');
 
 			$data['query'] = $this->Leave_type_m->find_LeaveType($data);
 			$this->load->view("admin/all_leave_type", $data);
@@ -178,6 +176,21 @@ class Leave_type_c extends CI_Controller {
 
 
 		}else {
+			redirect('index.php/Auth');
+		}
+	}
+	public function leavetypespagination($offset=0)
+	{
+		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '1'){
+
+			$total_rows_leaveType			= $this->Leave_type_m->count();
+			$data['pagination_links'] 		= ajax_pagination($total_rows_leaveType, $this->limit, "/index.php/Leave_type_c/leavetypespagination", 3, '.all_leave_type_container');
+
+			$data['query']					= $this->Leave_type_m->all($this->limit);
+
+			echo $this->load->view("admin/all_leave_type", $data, true);
+
+    	}else {
 			redirect('index.php/Auth');
 		}
 	}

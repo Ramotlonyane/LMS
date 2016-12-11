@@ -1,19 +1,10 @@
+
 .main {
 	padding-top: 70px;
 }
 
 .login-wrapper {
     margin-top: 100px;
-}
-#box  {  
-    width:100%;  
-    max-width:500px;  
-    border:1px solid #ccc;  
-    border-radius:5px;  
-    margin:0 auto;  
-    padding:0 20px;  
-    box-sizing:border-box;  
-    height:250px;  
 }
 .error {
     color: #FF0000;
@@ -32,6 +23,7 @@ div.radio{
 .form-group .control-label {
    text-align: left;
 }
+
 
 /* 
 Change the input shadow collor on focus

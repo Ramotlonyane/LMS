@@ -114,17 +114,18 @@ class Leave_records_c extends CI_Controller {
 	{
 		if($this->session->userdata('logged_in') == TRUE && $this->session->userdata('idrole') == '10'){
 			
-			$this->Leave_record_m->remove_LeaveRecord($id);
+			if ($this->Leave_record_m->remove_LeaveRecord($id)) {
+
+				$total_rows_records					= $this->Leave_record_m->count_leave_records();
+				$data['pagination_links']			= ajax_pagination($total_rows_records, $this->limit,"/index.php/Leave_records_c/leaverecordspagination", 3, '.all_leave_record_container');
+
+				$query 				= $this->Leave_record_m->all_leave_record($this->limit);
+				$data['query']		= $query;
+				
+				$this->load->view("hrm/add_leave_record_sidebar", $data);
+			}
 
 			//$this->leaverecordspagination($offset=0);
-
-			$total_rows_records			= $this->Leave_record_m->count_leave_records();
-			$data['pagination_links']			= ajax_pagination($total_rows_records, $this->limit,"/index.php/Leave_records_c/leaverecordspagination", 3, '.all_leave_record_container');
-
-			$query 				= $this->Leave_record_m->all_leave_record($this->limit);
-			$data['query']		= $query;
-			
-			$this->load->view("hrm/add_leave_record_sidebar", $data);
 
 		}else {
 			redirect('index.php/Auth');

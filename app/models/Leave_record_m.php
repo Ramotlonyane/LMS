@@ -8,8 +8,7 @@ class Leave_record_m extends CI_Model {
 
 		$this->db->insert('leaveRecord', $data);
 
-		if($this->db->affected_rows() > 0)
-			{
+		if($this->db->affected_rows() > 0){
     			return true;
 			}
 			else{
@@ -19,7 +18,11 @@ class Leave_record_m extends CI_Model {
 
 	public function remove_LeaveRecord($id){
 		$this->db->where('id', $id);
-		$this->db->update('leaveRecord',array('bDeleted'=>1));
+		if ($this->db->update('leaveRecord',array('bDeleted'=>1))) {
+			return true;
+		}else{
+			return false;
+		}
 	}
 
 	public function all_leave_record($limit = 0)

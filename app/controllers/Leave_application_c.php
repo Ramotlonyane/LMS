@@ -146,9 +146,9 @@ class Leave_application_c extends CI_Controller {
 			$data['leavestatus'] 			= $leave_status_result['all_leave_status'];
 
 			$data['query']					= $result;
-			$this->load->view("header");
+			$this->load->view("backoffice/header");
 			$this->load->view("manager/email_leave_applied", $data);
-			$this->load->view("footer");
+			$this->load->view("backoffice/footer");
 
 		}else{
 			echo "You are not allowed to perform this action, Please contact the system administrator!!!";
@@ -169,8 +169,22 @@ class Leave_application_c extends CI_Controller {
 				if($this->Leave_application_m->update_all_user_leave_status($idrecord,$idstatus)){
 
 						$numberOfLeaves 	= $this->Leave_application_m->get_employee_leave_record($idemp, $idLeaveType);
-			    		$numberOfLeaves-=$numberOfDays;
-			    		$res = $this->Leave_application_m->update_numberOfLeaves($idLeaveType,$idemp,$numberOfLeaves);
+			    			if ($idstatus == 2) {
+				    		$numberOfLeaves-=$numberOfDays;
+
+				    		if ($numberOfLeaves < 0) {
+				    			$numberOfLeaves = 0;	
+				    		}
+				    		$res = $this->Leave_application_m->update_numberOfLeaves($idLeaveType,$idemp,$numberOfLeaves);
+			    		}
+
+			    		$emp_status = array('idemp'				=> $idemp,
+			    							'leave_remaining'	=> $numberOfLeaves,
+			    							'idstatus'			=> $idstatus,
+			    							'idLeaveType'		=> $idLeaveType,
+			    							);
+
+			    		$this->sendEmail_notification($emp_status);
 
 					echo "Leave Status Changed Successfully!!!";
 				}
@@ -194,7 +208,7 @@ class Leave_application_c extends CI_Controller {
 			if(!empty($_POST['idstatus'])){
 
 			$idstatus			= $this->input->post('idstatus');
-			$idemp				= $this->input->post('idemp');
+			$idemp			    = $this->input->post('idemp');
 			$idLeaveType 		= $this->input->post('idLeaveType');
 			$numberOfDays 		= $this->input->post('NumberOfDays');	
 
@@ -202,10 +216,23 @@ class Leave_application_c extends CI_Controller {
 				if($this->Leave_application_m->update_all_user_leave_status($idrecord,$idstatus))
 			    	{
 			    		$numberOfLeaves 	= $this->Leave_application_m->get_employee_leave_record($idemp, $idLeaveType);
-			    		$numberOfLeaves-=$numberOfDays;
-			    		$res = $this->Leave_application_m->update_numberOfLeaves($idLeaveType,$idemp,$numberOfLeaves);
-			    		//$this->sendEmail_notification();
+			    		if ($idstatus == 2) {
+				    		$numberOfLeaves-=$numberOfDays;
+
+				    		if ($numberOfLeaves < 0) {
+				    			$numberOfLeaves = 0;	
+				    		}
+				    		$res = $this->Leave_application_m->update_numberOfLeaves($idLeaveType,$idemp,$numberOfLeaves);
+			    		}
 			    		
+			    		$emp_status = array('idemp'				=> $idemp,
+			    							'leave_remaining'	=> $numberOfLeaves,
+			    							'idstatus'			=> $idstatus,
+			    							'idLeaveType'		=> $idLeaveType,
+			    							);
+
+			    		$this->sendEmail_notification($emp_status);
+
 			        	$total_rows_leavestatus 		= $this->Leave_application_m->count_Leave_status($subordinate,$sub_subordinate);
 			        	$data['pagination_links'] 			= ajax_pagination($total_rows_leavestatus, $this->limit, "/index.php/Leave_application_c/leaveappliedstatuspagination", 3, '.applied_leave_status');
 
@@ -229,8 +256,34 @@ class Leave_application_c extends CI_Controller {
 			redirect('index.php/Auth');
 		}
 	}
-	function sendEmail_notification(){
+	function sendEmail_notification($data){
 
+			date_default_timezone_set('GMT');
+
+			$email 				= $this->Leave_application_m->get_subemail($data['idemp']);
+
+			$name				= $this->Leave_application_m->get_name($data['idemp']);
+
+			$leaveTypename 		= $this->Leave_application_m->get_leaveTypename($data['idLeaveType']);
+
+			$leaveStatusname 	= $this->Leave_application_m->get_leaveStatusname($data['idstatus']);
+
+					$emailData = array('leaveTypename' 		=> $leaveTypename,
+									   'leaveStatusname'	=> $leaveStatusname,
+									   'name'				=> $name,
+									   'leave_remaining'	=> $data['leave_remaining'],
+									  );
+
+					$message = $this->load->view('employee/email_notification', $emailData, true);
+
+					$this->config->load('email', TRUE);
+
+					$this->email->from($this->config->item('from_email', 'email'), 'Supervisor');
+
+			        $this->email->to($email);
+			        $this->email->subject('Your Leave Status');
+			        $this->email->message($message);
+			        $this->email->send();
 	}
 
 	function sendEmail_approve($data)
@@ -244,12 +297,10 @@ class Leave_application_c extends CI_Controller {
 		$approver 						= $userRole - 1;
 		$recommender 					= $userRole - 2;
 
-		$recommender_emails 		= $this->Leave_application_m->get_emails($approver,$recommender,$data['idLeaveType']);
+		$recommender_emails 		= $this->Leave_application_m->get_emails($approver,$recommender);
 		$leaveTypename 				= $this->Leave_application_m->get_leaveTypename($data['idLeaveType']);
 
         foreach ($recommender_emails as $recommender_email) {
-
-        		foreach ($leaveTypename as $typename) {
 
 	        			$emailData = array('startDate' 		=> $data['startDate'],
 								'endDate' 			=> $data['endDate'],
@@ -259,7 +310,7 @@ class Leave_application_c extends CI_Controller {
 								'approver'			=> $recommender_email->surname,
 								'recommender'		=> $recommender_email->surname,
 								'applicantName'		=> $this->session->userdata('username'),
-								'leaveTypename'		=> $typename->typeName,
+								'leaveTypename'		=> $leaveTypename,
 								'hash'				=> $data['hash'],
 								'userID'			=> $data['idEmployee'],
 								//'hash'              => hash("sha256", $data['applicationDate'].$data['idEmployee'])
@@ -278,7 +329,6 @@ class Leave_application_c extends CI_Controller {
 		        $this->email->message($message);
 		        $this->email->send();
 		        echo $this->email->print_debugger();     		        
-	        }
         }
 
     	}else {

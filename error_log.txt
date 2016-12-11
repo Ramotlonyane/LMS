@@ -305,3 +305,18 @@
 [02-Dec-2016 23:30:20 Europe/Berlin] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 30
 [02-Dec-2016 23:31:23 Europe/Berlin] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 29
 [05-Dec-2016 10:20:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\LMS\app\controllers\Leave_application_c.php on line 164
+[10-Dec-2016 13:42:20 Europe/Berlin] PHP Fatal error:  Call to undefined function pagination() in C:\xampp\htdocs\LMS\app\controllers\Leave_type_c.php on line 77
+[10-Dec-2016 13:45:54 Europe/Berlin] PHP Fatal error:  Call to a member function result() on null in C:\xampp\htdocs\LMS\app\views\admin\all_leave_type.php on line 34
+[10-Dec-2016 16:23:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 50
+[10-Dec-2016 19:13:32 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 1986
+[10-Dec-2016 19:14:43 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 2218
+[10-Dec-2016 21:08:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 170
+[10-Dec-2016 21:09:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 170
+[10-Dec-2016 20:12:46 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 1986
+[10-Dec-2016 20:13:46 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 2218
+[10-Dec-2016 20:14:48 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 2218
+[10-Dec-2016 20:16:26 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 1986
+[10-Dec-2016 20:21:37 GMT] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\LMS\sys\libraries\Email.php on line 2218
+[10-Dec-2016 21:50:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 57
+[10-Dec-2016 21:56:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 87
+[10-Dec-2016 21:01:01 GMT] PHP Fatal error:  Call to a member function num_rows() on null in C:\xampp\htdocs\LMS\app\models\Leave_application_m.php on line 63
