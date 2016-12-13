@@ -2,12 +2,12 @@
 
 class Leave_application_m extends CI_Model {
 
-	private $table = "applicationData";
+	private $table = "applicationdata";
 
 	public function all_leave_application($userID,$limit = 0,$idLeaveType=null){
 
 		$this->db->select('ad.*, lt.typeName');
-		$this->db->from('applicationData ad');
+		$this->db->from('applicationdata ad');
 		$this->db->where('ad.idEmployee',$userID);
 		$this->db->where('ad.bDeleted', 0);
 		$this->db->join('leavetype lt','lt.id = ad.idLeaveType', 'left');
@@ -22,11 +22,11 @@ class Leave_application_m extends CI_Model {
 	public function checkHash($hash){
 		
 		$this->db->select('ad.*, lt.typeName, ls.statusName, e.surname');
-		$this->db->from('applicationData ad');
+		$this->db->from('applicationdata ad');
 		$this->db->where('hash',$hash);
 		$this->db->where('ad.idLeaveStatus', 1);
-		$this->db->join('leaveType lt', 'lt.id = ad.idLeaveType', 'left');
-		$this->db->join('leaveStatus ls', 'ls.id = ad.idLeaveType', 'left');
+		$this->db->join('leavetype lt', 'lt.id = ad.idLeaveType', 'left');
+		$this->db->join('leavestatus ls', 'ls.id = ad.idLeaveType', 'left');
 		$this->db->join('employee e', 'e.id = ad.idEmployee', 'left');
 
 		$query = $this->db->get();
@@ -147,31 +147,31 @@ class Leave_application_m extends CI_Model {
 		$this->db->where('ad.idEmployee',$userID);
 		$this->db->where('ad.bDeleted', 0);
 		$this->db->join('employee as em','em.id = ad.idEmployee', 'left');
-		$this->db->join('leaveStatus as ls','ls.id = ad.idLeaveStatus', 'left');
-		$this->db->join('leaveType as lt','lt.id = ad.idLeaveType', 'left');
+		$this->db->join('leavestatus as ls','ls.id = ad.idLeaveStatus', 'left');
+		$this->db->join('leavetype as lt','lt.id = ad.idLeaveType', 'left');
 		return $this->db->count_all_results();		
 	}
 
 	public function all_applied_leave_status($subordinate,$sub_subordinate,$limit = 0){
 		$this->db->select('ap.startDate, ap.endDate, ap.id, ap.applicationDate, ap.numberOfDays, lt.typeName, ls.statusName,em.surname, em.id as idEmployee, lt.id as idLeaveType');
-		$this->db->from('applicationData ap');
+		$this->db->from('applicationdata ap');
 		$this->db->where_in('em.idRole',array($subordinate,$sub_subordinate));
 		$this->db->where('ap.bDeleted', 0);
 		$this->db->join('employee as em','em.id = ap.idEmployee', 'left');
-		$this->db->join('leaveType as lt','lt.id = ap.idLeaveType','left');
-		$this->db->join('leaveStatus as ls','ls.id = ap.idLeaveStatus','left');
+		$this->db->join('leavetype as lt','lt.id = ap.idLeaveType','left');
+		$this->db->join('leavestatus as ls','ls.id = ap.idLeaveStatus','left');
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
 		return $this->db->get();
 	}
 	public function all_Myapplied_leave_status($userID,$limit = 0){
 		$this->db->select('ap.startDate, ap.endDate, ap.id, ap.applicationDate, ap.numberOfDays, lt.typeName, ls.statusName');
-		$this->db->from('applicationData ap');
+		$this->db->from('applicationdata ap');
 		$this->db->where('ap.idEmployee',$userID);
 		$this->db->where('ap.bDeleted', 0);
 		$this->db->join('employee as em','em.id = ap.idEmployee', 'left');
-		$this->db->join('leaveType as lt','lt.id = ap.idLeaveType','left');
-		$this->db->join('leaveStatus as ls','ls.id = ap.idLeaveStatus','left');
+		$this->db->join('leavetype as lt','lt.id = ap.idLeaveType','left');
+		$this->db->join('leavestatus as ls','ls.id = ap.idLeaveStatus','left');
 		$this->db->limit($limit);
 		$this->db->offset($this->uri->segment(3));
 		return $this->db->get();
@@ -188,7 +188,7 @@ class Leave_application_m extends CI_Model {
 	public function get_leave_status(){
 		
 		$this->db->select('id, statusName');
-		$this->db->from('leaveStatus');
+		$this->db->from('leavestatus');
 		$result['all_leave_status'] = $this->db->get()->result();
 
 		return $result;
@@ -196,7 +196,7 @@ class Leave_application_m extends CI_Model {
 
 	public function insert_leave_application($application_data){
 		
-		$this->db->insert('applicationData', $application_data);
+		$this->db->insert('applicationdata', $application_data);
 
 		if($this->db->affected_rows() > 0)
 			{
@@ -210,7 +210,7 @@ class Leave_application_m extends CI_Model {
     public function update_all_user_leave_status($idrecord,$idstatus)
 	{
          $this->db->where('id', $idrecord);
-         $this->db->update('applicationData', array('idLeaveStatus'	=> $idstatus
+         $this->db->update('applicationdata', array('idLeaveStatus'	=> $idstatus
                                            	 		));
          
          return true;
@@ -223,5 +223,15 @@ class Leave_application_m extends CI_Model {
                                            	 		));
          
          return true;
+	}
+
+	public function check_pending_applications($userID) {
+		$this->db->select("ad.*")
+				 ->from("applicationdata ad")
+				 ->where("ad.idEmployee", $userID)
+				 ->where("bDeleted", 0)
+				 ->where("ad.idLeaveStatus", 1);
+
+		return $this->db->get()->num_rows() > 0 ? true : false;
 	}
 }

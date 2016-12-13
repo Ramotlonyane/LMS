@@ -1,6 +1,4 @@
 <div class="container-fluid main">
-   <h1>Dashboard</h1>
-   <?php print_r($user); ?>
    <div class="page-header">
       <ul id="nav" class="nav nav-pills">
          <li class="active"><a data-toggle="tab" href="#home">HOME</a></li>
@@ -260,6 +258,14 @@
                   '<span class="glyphicon glyphicon-remove"></span>' +
                   ' Record already exists!' +
                   '</div>');
+                  me[0].reset();
+
+                 // close the message after seconds
+                 $('.alert-danger').delay(500).show(10, function() {
+                    $(this).delay(3000).hide(10, function() {
+                       $(this).remove();
+                    });
+                 })
               }
                $.each(response.messages, function(key, value) {
                   var element = $('#' + key);
@@ -316,15 +322,15 @@
 
                $(".all_leave_application_data").html(response.html);
             }else {
-              if (response.insufficient) {
+              if (response.insufficient == true || response.leavepending == true) {
                 $('.apply-leave-message').append('<div class="alert alert-danger">' +
                   '<span class="glyphicon glyphicon-remove"></span>' +
-                  'You Have Insufficient Leave Days!!!' +
+                  'You Have Insufficient Leave Days or Your Leave is Pending !!!' +
                   '</div>');
                  me[0].reset();
 
                // close the message after seconds
-               $('.alert-success').delay(500).show(10, function() {
+               $('.alert-danger').delay(500).show(10, function() {
                   $(this).delay(3000).hide(10, function() {
                      $(this).remove();
                   });

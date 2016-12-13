@@ -94,7 +94,11 @@ class Leave_application_c extends CI_Controller {
 										'hash'				=> hash("sha256", $application_date.$userID),
 										);
 
-				$numberOfLeaves = $this->Leave_application_m->get_employee_leave_record($userID, $idleaveType);
+				if ($this->Leave_application_m->check_pending_applications($userID)) {
+					$data['leavepending'] = true;
+				}
+				else{
+					$numberOfLeaves = $this->Leave_application_m->get_employee_leave_record($userID, $idleaveType);
 
 				if ($numberOfLeaves < $numberOfDays) {
 					$data['insufficient'] = true;
@@ -109,6 +113,8 @@ class Leave_application_c extends CI_Controller {
 						$data['success'] = false;
 					}
 				}
+			}
+				
 		}
 		else {
 			foreach ($_POST as $key => $value) {
